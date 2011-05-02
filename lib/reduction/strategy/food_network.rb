@@ -2,6 +2,10 @@ module Reduction
   class Strategy
 
     class FoodNetwork < Strategy
+      
+      def self.for_url?(url)
+        url =~ /www\.foodnetwork\.com/
+      end
 
       def title
         doc.at('.rcp-head h1.fn').text

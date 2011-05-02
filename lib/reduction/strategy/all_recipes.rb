@@ -3,6 +3,10 @@ module Reduction
 
     class AllRecipes < Strategy
 
+      def self.for_url?(url)
+        url =~ /allrecipes\.com/
+      end
+
       def title
         doc.at('title').text.split('-').first.strip
       end

@@ -19,7 +19,7 @@ module Reduction
 
     end
 
-    %w[title ingredients steps yields prep_time cook_time].each do |method|
+    %w[title ingredients steps yields prep_time cook_time for_url?].each do |method|
       describe "##{method}" do
         it 'raises a runtime exception' do
           expect {

@@ -9,6 +9,18 @@ module Reduction
 
       it_should_behave_like "a strategy"
 
+      describe 'for_url?' do
+
+        it 'returns true for any allrecipes.com URL' do
+          described_class.for_url?('http://allrecipes.com').should be_true
+        end
+
+        it 'returns false for any other URL' do
+          described_class.for_url?('http://www.example.com').should be_false
+        end
+
+      end
+
       it_should_find 'title', 'Sopapilla Cheesecake Pie Recipe'
 
       it_should_find 'ingredients', [

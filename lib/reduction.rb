@@ -8,4 +8,5 @@ require 'core_ext/string'
 
 require 'reduction/strategy'
 require 'reduction/strategy/all_recipes'
+require 'reduction/strategy/food_network'
 require 'reduction/version'

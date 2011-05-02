@@ -1,15 +1,35 @@
 shared_examples_for "a strategy" do
 
-  %w[title ingredients steps yields prep_time cook_time].each do |method|
+  string_methods = %w[title yields prep_time cook_time]
+  array_methods = %w[ingredients steps]
+  all_methods = string_methods + array_methods
+
+  all_methods.each do |method|
 
     it "should not raise an exeption when calling ##{method}" do
-
       expect {
         subject.send(method)
       }.to_not raise_exception
-
     end
 
+  end
+
+  string_methods.each do |method|
+    it "should return a string for ##{method}" do
+      subject.send(method).should be_a(String)
+    end
+  end
+
+  array_methods.each do |method|
+    it "should return an array for ##{method}" do
+      subject.send(method).should be_a(Array)
+    end
+  end
+
+  it 'should not raise an exception when calling for_url?' do
+    expect {
+      described_class.for_url?('foo')
+    }.to_not raise_exception
   end
 
 end
