@@ -1,0 +1,3 @@
+module Reduction
+  # Your code goes here...
+end
