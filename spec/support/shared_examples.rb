@@ -1,6 +1,6 @@
 shared_examples_for "a strategy" do
 
-  string_methods = %w[title yields prep_time cook_time]
+  string_methods = %w[title yields]
   array_methods = %w[ingredients steps]
   all_methods = string_methods + array_methods
 
