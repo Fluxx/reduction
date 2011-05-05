@@ -29,6 +29,10 @@ module Reduction
       def cook_time
       end
 
+      def total_time
+        doc.at('#servings p[2]').children[1].text.strip
+      end
+
     end
 
   end

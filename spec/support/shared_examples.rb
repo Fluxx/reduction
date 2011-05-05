@@ -35,7 +35,7 @@ shared_examples_for "a strategy" do
 end
 
 
-%w[title ingredients steps yields prep_time cook_time].each do |method|
+%w[title ingredients steps yields prep_time cook_time total_time].each do |method|
   shared_examples_for "#{method}" do |property|
     it "should return the correct #{method}" do
       subject.send(method).should == property
