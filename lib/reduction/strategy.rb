@@ -13,5 +13,9 @@ module Reduction
       end
     end
 
+    def total_time
+      "Prep Time: #{prep_time}. Cook Time: #{cook_time}"
+    end
+
   end
 end
