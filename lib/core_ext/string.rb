@@ -5,6 +5,10 @@ module Reduction
       lines.collect(&:strip).reject(&:empty?)
     end
 
+    def collapse_whitespace
+      strip.gsub(/\s+/, ' ')
+    end
+
   end
 
   String.send(:include, StringExtensions)
