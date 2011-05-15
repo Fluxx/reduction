@@ -26,7 +26,7 @@ module Reduction
       end
 
       def yields
-        recipe('.summary_data .yield').text.strip
+        recipe('.summary_data .yield').text.collapse_whitespace
       end
 
       private

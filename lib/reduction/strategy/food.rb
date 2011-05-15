@@ -8,13 +8,12 @@ module Reduction
       end
 
       def title
-        doc.at('.recipe-info-page span.item h2.fn').text.gsub(/\W+/, ' ').strip
+        doc.at('.recipe-info-page span.item h2.fn').text.collapse_whitespace
       end
 
       def ingredients
-        doc.at('.ingredients ul.clr').search('li').collect(&:text).collect do |item|
-          item.gsub(/\W+/, ' ').strip
-        end
+        doc.at('.ingredients ul.clr').search('li').collect(&:text).
+          collect(&:collapse_whitespace)
       end
 
       def steps
@@ -23,7 +22,7 @@ module Reduction
 
       def yields
         raw = doc.at('.ingredients input#original_value')[:value]
-        raw.gsub(/\W+/, ' ').strip + ' servings'
+        raw.collapse_whitespace + ' servings'
       end
 
       def prep_time

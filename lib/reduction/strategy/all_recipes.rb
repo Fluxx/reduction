@@ -8,7 +8,7 @@ module Reduction
       end
 
       def title
-        doc.at('title').text.split('-').first.strip
+        doc.at('title').text.split('-').first.collapse_whitespace
       end
 
       def ingredients

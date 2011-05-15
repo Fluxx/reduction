@@ -30,7 +30,7 @@ module Reduction
       end
 
       def total_time
-        doc.at('#servings p[2]').children[1].text.strip
+        doc.at('#servings p[2]').children[1].text.collapse_whitespace
       end
 
     end

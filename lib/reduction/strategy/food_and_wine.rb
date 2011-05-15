@@ -10,23 +10,24 @@ module Reduction
       end
 
       def title
-        doc.at('.recipe-info h2[itemprop=name]').text.strip
+        doc.at('.recipe-info h2[itemprop=name]').text.collapse_whitespace
       end
 
       def ingredients
-        doc.at('#ingredients').search('li').map(&:text).map(&:strip)
+        doc.at('#ingredients').search('li').map(&:text).map(&:collapse_whitespace)
       end
 
       def steps
-        doc.search('#directions ol[itemprop=instructions] li').map(&:text).map(&:strip)
+        doc.search('#directions ol[itemprop=instructions] li').map(&:text).
+          map(&:collapse_whitespace)
       end
 
       def yields
-        doc.at('#time-servings strong').text.strip + ' servings'
+        doc.at('#time-servings strong').text.collapse_whitespace + ' servings'
       end
 
       def total_time
-        doc.at('#time-total strong').text.strip.downcase
+        doc.at('#time-total strong').text.collapse_whitespace.downcase
       end
 
     end
