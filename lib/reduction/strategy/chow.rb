@@ -20,7 +20,11 @@ module Reduction
       end
 
       def steps
-        doc.at('#instructions ol').search('li').collect(&:text)
+        if steps_elements.search('strong').any?
+          multi_part_steps_section
+        else
+          single_steps_section
+        end
       end
 
       def yields
@@ -63,6 +67,32 @@ module Reduction
 
       def single_ingredients_section
         ingredient_elements.search('li').map(&:text).map(&:collapse_whitespace)
+      end
+
+      def steps_elements
+        @steps_elements ||= doc.at('#instructions').children
+      end
+
+      def multi_part_steps_section
+        stack = Array.new
+
+        steps_elements.each do |elem|
+          case elem.name.to_sym
+          when :strong
+            stack.push(NamedList.new.tap { |l| l.name = elem.text })
+          when :ol
+            list = stack.pop
+            ingredient_list = elem.search('li').map(&:text)
+            ingredient_list.clean!
+            stack.push(list.replace(ingredient_list))
+          end
+        end
+
+        stack
+      end
+
+      def single_steps_section
+        steps_elements.search('li').collect(&:text)
       end
 
     end

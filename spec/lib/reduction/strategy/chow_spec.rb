@@ -103,6 +103,35 @@ module Reduction
 
       end
 
+      context 'recipe with multiple sets of instuctions' do
+
+        subject { described_class.new(get_page('http://www.chow.com/recipes/28966-apple-honey-upside-down-cakes')) }
+
+        it_should_behave_like "a strategy"
+
+        it_should_find 'steps', [
+          [
+            "Heat the oven to 325°F and arrange a rack in the middle. Coat 6 (6-ounce) ramekins with butter and evenly space them on a baking sheet. Divide almonds among the ramekins.",
+            "Peel, core, and cut the apple into medium dice. Place in a medium, nonreactive bowl, add 1 tablespoon of the lemon juice, and toss to combine; set aside.",
+            "Melt butter in a medium frying pan over medium-high heat until foaming. Add sugar, honey, and salt and stir to combine. Cook, swirling the pan occasionally, until mixture just starts to turn a light caramel color, about 5 minutes. Add the remaining 1 teaspoon lemon juice and stir to combine.",
+            "Remove the pan from heat and carefully place about 2 tablespoons of the caramel in each ramekin. (Work quickly—the caramel will start to set after a few minutes.) Divide the apple pieces among the ramekins, leaving any juice in the bowl; set the ramekins aside."
+          ],
+          [
+            "Place flour, orange zest, baking powder, cinnamon, and salt in a medium bowl and whisk to aerate and break up any lumps; set aside.",
+            "Place butter in the bowl of a stand mixer fitted with a paddle attachment and beat on medium high until light in color and fluffy, about 2 minutes. Add sugar and vanilla and continue to beat until incorporated and fluffy, about 3 minutes more. Add eggs one at a time, letting the first incorporate before adding the second. Stop the mixer and scrape down the sides of the bowl and the paddle with a rubber spatula.",
+            "Return the mixer to low speed, add the milk, and mix until just incorporated. Add the reserved flour mixture and mix until just incorporated, about 30 seconds; do not overmix. Evenly spoon the batter over the apples and smooth the tops. Bake until a cake tester comes out clean, about 35 minutes. Immediately run a knife around the perimeter of each cake. Using a dry kitchen towel to grasp the ramekins, invert the hot cakes onto serving plates. Serve with ice cream, if desired."
+          ]
+        ]
+
+        it 'should extract out the steps names correctly' do
+          subject.steps.map(&:name).should == [
+            'For the caramel:',
+            'For the cake:'
+          ]
+        end
+
+      end
+
     end
 
   end
