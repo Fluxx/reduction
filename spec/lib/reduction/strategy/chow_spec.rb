@@ -6,8 +6,9 @@ module Reduction
   class Strategy
 
     describe Chow do
+      use_vcr_cassette 'chow'
 
-      subject { described_class.new(fixture(:chow)) }
+      subject { described_class.new(get_page('http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars')) }
 
       it_should_behave_like "a strategy"
 

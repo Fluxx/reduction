@@ -7,7 +7,9 @@ module Reduction
 
     describe Food do
 
-      subject { described_class.new(fixture(:food)) }
+      use_vcr_cassette 'food'
+
+      subject { described_class.new(get_page('http://www.food.com/recipe/yummy-frozen-margaritas-292214')) }
 
       it_should_behave_like "a strategy"
 

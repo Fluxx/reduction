@@ -20,21 +20,21 @@ module Reduction
       end
 
       def yields
-        recipe('.rcp-info li[3] p').text
+        recipe('#recipe-meta dt.yield').parent.search('dd').text.collapse_whitespace
       end
 
       def prep_time
-        recipe('.preptime').text
+        recipe('#recipe-meta dd.prepTime').text.collapse_whitespace
       end
 
       def cook_time
-        recipe('.rcp-info li[1] p').text
+        recipe('#recipe-meta dd.cookTime').text.collapse_whitespace
       end
 
       private
 
       def recipe(further)
-        doc.at('.fn-we').at(further)
+        doc.at('.hrecipe').at(further)
       end
 
     end

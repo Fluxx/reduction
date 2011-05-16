@@ -1,7 +1,7 @@
 module FixtureSpecHelpers
 
-  def fixture(type)
-    File.read(File.join(Reduction::ROOT, 'spec', 'fixtures', "#{type}.html"))
+  def get_page(url)
+    open(url).read
   end
 
 end

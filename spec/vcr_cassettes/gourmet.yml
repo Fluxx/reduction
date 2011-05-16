@@ -1,0 +1,1028 @@
+---
+- !ruby/struct:VCR::HTTPInteraction
+  request: !ruby/struct:VCR::Request
+    method: :get
+    uri: http://www.gourmet.com:80/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce
+    body: !!null 
+    headers: !!null 
+  response: !ruby/struct:VCR::Response
+    status: !ruby/struct:VCR::ResponseStatus
+      code: 200
+      message: OK
+    headers:
+      server:
+      - Resin/3.1.6
+      content-language:
+      - en-US
+      content-type:
+      - text/html; charset=ISO-8859-1
+      cache-control:
+      - private, max-age=591
+      expires:
+      - Mon, 16 May 2011 00:21:21 GMT
+      date:
+      - Mon, 16 May 2011 00:11:30 GMT
+      transfer-encoding:
+      - chunked
+      connection:
+      - keep-alive
+      - Transfer-Encoding
+    body: ! "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!DOCTYPE
+      html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\n<html
+      xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n
+      \   \n    \n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n<title>Peppercorn-Roasted
+      Pork with Vermouth Pan Sauce: 2000s Recipes + Menus :   gourmet.com</title>\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<meta name=\"Copyright\" content=\"Copyright
+      (c) Cond&#233;Net 2011\" />\n\n\n        <meta name=\"ROBOTS\" content=\"NOARCHIVE\"
+      />\n    \n\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\"
+      />\n<meta http-equiv=\"Content-Language\" content=\"en-us\" />\n<meta http-equiv=\"imagetoolbar\"
+      content=\"false\" />\n\n<meta name=\"distribution\" content=\"Global\" />\n<meta
+      name=\"ROBOTS\" content=\"ALL\" />\n<meta name=\"MSSmartTagsPreventParsing\"
+      content=\"true\" />\n\n<meta name=\"description\" content=\"Infusing pork butt
+      with pink peppercorns and garlic enhances its superb flavor. \" />\n\n<meta
+      name=\"keywords\" content=\"pork, garlic, vermouth, andrea albin\" />\n\n<meta
+      name=\"Author\" content=\"Gourmet Magazine\" />\n\n    \n    \n\n\n\n\n\n\n\n\n
+      \   <link rel=\"canonical\" href=\"http://www.gourmet.com/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce\"
+      />\n\n<link rel=\"Shortcut Icon\" href=\"/favicon.ico\" type=\"image/x-icon\"
+      />\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n            <script type=\"text/javascript\" src=\"/js/gourmet_global.js\"></script>\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       var platformEnvironment = \"production\";\n        var sitehost = \"http://www.gourmet.com\";\n
+      \       var forumshost = \"/forums\";\n\n        CN.site.init({\n            env:
+      'PROD',\n            code: 'GMT',\n            title: 'Gourmet',\n            name:
+      'gourmet',\n            alias: 'Gourmet.com',\n            tld: 'gourmet.com',\n
+      \           eventTrackingUrl: 'http://result.gourmet.com',\n            eventTrackingEnv:
+      'PROD'\n        });\n\n        \n    //-->\n    </script>\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n            <script type=\"text/javascript\" src=\"/js/ecomfw.min.js\"></script>\n
+      \       \n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n        \n    \n\n\n        \n\n<script type=\"text/javascript\">\n//
+      <!--\n    CNP.ecom.start({host: \"magazine.gourmet.com\", cnd: true });\n//
+      -->\n</script>\n                \n                \n            \n    \n\n\n\n\n\n\n\n\n\n
+      \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n
+      \           <script type=\"text/javascript\" src=\"/js/gourmet_top.js\"></script>\n
+      \       \n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <script type=\"text/javascript\" src=\"/dwr/interface/feedparser.js\"></script>\n
+      \   <script type=\"text/javascript\" src=\"/dwr/engine.js\"></script>\n    <script
+      type=\"text/javascript\" src=\"/dwr/util.js\"></script>\n\n    \n            <script
+      type=\"text/javascript\" src=\"/js/dwr.min.js\"></script>\n        \n\n\n\n\n\n\n
+      \   \n        <script type=\"text/javascript\" src=\"/js/user/userAccount.js\"></script>\n
+      \   \n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n
+      \           <link rel=\"stylesheet\" type=\"text/css\" media=\"Screen\" href=\"/css/global.min.css\"
+      />\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    <link rel=\"stylesheet\" type=\"text/css\"
+      media=\"Screen, print\" href=\"/css/recipe.css\" />\n    <script type=\"text/javascript\"
+      src=\"/js/util.js\"></script>\n\n    <link rel=\"stylesheet\" type=\"text/css\"
+      href=\"/css/print.css\" media=\"print\" />\n    <!--[if lte IE 6]>\n    <link
+      rel=\"stylesheet\" type=\"text/css\" href=\"/css/IE6.css\" media=\"screen\"
+      />\n    <![endif]-->\n    <!--[if gte IE 7]>\n    <link rel=\"stylesheet\" type=\"text/css\"
+      href=\"/css/IE7.css\" media=\"screen\" />\n    <![endif]-->\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n
+      \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'gourmet.dart',
+      zone: 'recipes;', kws:[ \"pork\",\"recipev2\",\"recipes\",\"andreaalbin\",\"peppercorn-roasted-pork-with-vermouth-pan-sauce\",\"09\",\"2009\",\"vermouth\",\"garlic\",\"2000s\"],
+      charmap : {' ' : '+', '-' : '_'}});\n    //-->\n    </script>\n        \n\n\n</head>\n\n<body
+      class=\"recipeB s_recipes ss_2000s c_2009\">\n\n\n    \n\n\n<!-- Floating Ad
+      Template -->\n<div id=\"floatingAd\" style=\"display:none;\">\n    <div id=\"floatingAd_header\">\n
+      \       <a href=\"#\">Close</a>\n    </div>\n    <div id=\"floatingAd_content\">\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"popUp_floatingAd\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      target=\"_blank\"><img border=\"0\" src=\"/images/ecom/failsafe/GMT_floating_ad.jpg\"
+      alt=\"Subscribe to Gourmet\" title=\"Subscribe to Gourmet\" /></a></div>\n    \n\n\n
+      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
+      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'popUp_floatingAd',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_popUp_floatingAd',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
+      \   </div>\n</div>\n\n    \n\n\n\n\n\n<!-- Rollover Ad Template for instance
+      rolloverAd-->\n<div id=\"rolloverAd\" class=\"rolloverAd\" style=\"display:none;\">\n
+      \   <div id=\"rolloverAd_header\" class=\"rolloverAd_header\">\n        <a href=\"#\">Close</a>\n
+      \   </div>\n    <div id=\"rolloverAd_content\" class=\"rolloverAd_content\">\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_navBar_rollover\">\n            <div id=\"layer_offer_link\"><a
+      href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_floating_ad.jpg\"
+      alt=\"Subscribe to Gourmet\" border=\"0\" /></a></div>\n        </div>\n    \n\n\n
+      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
+      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_navBar_rollover',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_navBar_rollover',\n
+      \       params:{},callafter:{func: MAGNET.ecom.rolloverAd.init,params: ['rolloverAd']}});\n\n
+      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    <div id=\"rolloverAd_footer\"
+      class=\"rolloverAd_footer\"></div>\n</div>\n\n\n\n<div id=\"wrapper\">\n    <div
+      id=\"topBannerAd\">\n        \n\n\n\n\n\n\n\n\n\n\n        <div id=\"header728x90_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('header', {sz:'728x90', kws:[\"top\"]});\n    //-->\n
+      \   </script>\n    \n\n    </div>\n\n    <div id=\"header\">\n        <div id=\"logo\">\n
+      \   <a href=\"/\" title=\"Go to the gourmet.com homepage\"><img src=\"/css/i/print/printvisual-logo.gif\"
+      alt=\"Gourmet\" /></a>\n</div>\n<div id=\"subs-link\">\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_navBar\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      target=\"_blank\" title=\"Subscribe to Gourmet magazine\">Subscribe</a></div>\n
+      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
+      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_navBar',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_navBar',\n        params:{}});\n\n
+      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n</div>\n\n        <div
+      id=\"global-nav\" title=\"Site Navigation\">\n<ul>\n    <li id=\"gnav1\"><a
+      href=\"/food\" title=\"The latest dish about everything food\">FOOD + COOKING</a></li>\n
+      \   <li id=\"gnav2\"><a href=\"/restaurants\" title=\"News + notes about restaurants
+      + chefs\">CHEFS + RESTAURANTS</a></li>\n    <li id=\"gnav3\"><a href=\"/foodpolitics\"
+      title=\"News + opinion about food politics\">FOOD POLITICS</a></li>\n    <li
+      id=\"gnav4\"><a href=\"/winespiritsbeer\" title=\"News + opinion from the world
+      of drink\">WINE + SPIRITS + BEER</a></li>\n    <li id=\"gnav5\"><a href=\"/recipes\"
+      title=\"Gourmet recipes past + present\">RECIPES + MENUS</a></li>\n    <li id=\"gnav6\"><a
+      href=\"/magazine\" title=\"Gourmet magazine from 1941-present\">FROM THE MAGAZINE</a></li>\n
+      \   <li id=\"gnav7\"><a href=\"http://live.gourmet.com/\" title=\"Gourmet Live
+      \">GOURMET LIVE</a></li>\n    <li id=\"gnav8\"><a href=\"/ontv\" title=\" Clips
+      + recipes from Gourmet's TV shows\">GOURMET ON TV</a></li>\n   <li id=\"gnav9\"><a
+      href=\"/travel\" title=\"Travel news, trends + city guides\">TRAVEL + CULTURE</a></li>\n
+      \   <li id=\"gnav10\"><a href=\"/video\" title=\"Tips from our Test Kitchen
+      + much more\">VIDEO</a></li>\n</ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"subs-teaser\">\n        <div id=\"global_headerCallout\">\n
+      \           <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img
+      border=\"0\" src=\"/images/ecom/failsafe/GMT_header_callout.gif\" alt=\"Subscribe
+      to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n        </div>\n        </div>\n
+      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
+      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_headerCallout',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_headerCallout',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n        <div id=\"global_header\">\n            <h3 id=\"subs-cover\"><a
+      href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\" title=\"Subscribe
+      to Gourmet\">Subscribe to Gourmet</a></h3>\n            <div id=\"subs-nav\">\n
+      \           <ul>\n                <li id=\"snav1\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      target=\"_blank\" title=\"Subscribe to Gourmet magazine\">Subscribe</a></li>\n
+      \               <li id=\"snav2\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafeGift\"
+      target=\"_blank\" title=\"Give a Subscription to Gourmet magazine as a Gift\">Give
+      a gift</a></li>\n                <li id=\"snav3\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\"
+      target=\"_blank\" title=\"Renew your Subscription to Gourmet magazine\">Renew</a></li>\n
+      \               <li id=\"snav4\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\"
+      target=\"_blank\" title=\"Subscription Questions and Answers for Gourmet magazine\">Questions</a></li>\n
+      \           </ul>\n            </div>\n        </div>\n        \n    \n\n\n
+      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
+      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_header',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_header',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n\n
+      \   </div>\n\n    \n\n    \n\n\n\n\n<div id=\"loginbx\">\n    <script type=\"text/javascript\">\n
+      \   //<!--\n    function isLoggedIn() {\n        var cookie_name=\"amg_user\";\n
+      \       var nameEQ = cookie_name + \"=\";\n        var ca = document.cookie.split(';');\n
+      \       for (var i=0; i<ca.length; i++) {\n            var c = ca[i];\n            while
+      (c.charAt(0)==' ') c = c.substring(1,c.length);\n            if (c.indexOf(nameEQ)
+      == 0) return true;\n        }\n        return false;\n    }\n\n    function
+      getCookie(cname){\n        var C = document.cookie.split(';'), c;\n        while(c
+      = C.pop()) {\n            c = c.replace(/^\\s*/, '');\n            if (c.indexOf(cname+'=')
+      == 0){\n                return c.substring(cname.length + 1, c.length);\n            }\n
+      \       }\n        return false;\n    }\n\n    function username(){\n        var
+      aur = getCookie('amg_user_record');\n        var username = aur ? aur.replace(/.*username=([^|]+).*/,\"$1\")
+      : false;\n\n        // check length.\n        /*var nameLen = username.length;\n
+      \       if (nameLen > 25) {\n          return username.substring(0, length+22)
+      + \"...\";\n        } */\n\n        return username;\n    }\n\n    //-->\n    </script>\n
+      \   <div id=\"login\">\n       \n            \n\n\n\n    \n    \n\n\n\n    \n
+      \       <ul id='bc' title='Navigation Trail'>\n        <li class='first'>\n
+      \       \n            <a href=\"/\">Gourmet</a>\n        \n        \n    \n\n
+      \   \n        <ul>\n        <li>\n        \n            <a href=\"/recipes/\">Recipes
+      + Menus</a>\n        \n        \n    \n\n    \n\n</li>\n            </ul>\n
+      \           </li>\n            </ul>\n\n       \n        <script type=\"text/javascript\">\n
+      \               //<!--\n                var splitreg = \"\";\n                if
+      (window.location.pathname.match(/\\/makeover/) != null){\n                    splitreg=\"/makeover\";\n
+      \               }\n                if (isLoggedIn()) {\n                    document.write('<span
+      id=\"ui\">Welcome, '+username() + ' <span id=\"opts\"><a href=\"/user'+ splitreg
+      +'/logout\" class=\"first\">Logout<\\/a> &#124; <a href=\"/user'+ splitreg +'/update\">Profile<\\/a><\\/span><\\/span>');\n
+      \               } else {\n                    document.write('<span id=\"ui\"
+      class=\"welcome\">Welcome to Gourmet <span id=\"opts\"><a href=\"/user'+ splitreg
+      +'/login\" class=\"first\">Log in<\\/a> | <a href=\"/user'+ splitreg +'/registration\">Register<\\/a><\\/span><\\/span>');\n
+      \               }\n                //-->\n         </script>\n    </div>\n</div>\n\n\n
+      \   <div id=\"page\">\n\n        <div id=\"content\">\n\n            \n\n                \n
+      \                   \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <ul class=\"utilities utilities-top\">\n\n        \n            \n                    \n
+      \                   \n                    \n                    <li class=\"utility-print\"><a
+      href=\"/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce?printable=true\"
+      title=\"Print this page\">Print</a></li>\n                \n        \n            \n
+      \                   <li class=\"utility-email\"><a title=\"E-mail this page
+      to a friend\" onclick=\"if (typeof CN !== 'undefined' && CN.stats && CN.stats.omniture)
+      { CN.stats.omniture.trackAction('emailAFriend',this); }\" href=\"/contact/emailFriend?referringPage=http://www.gourmet.com%2Frecipes%2F2000s%2F2009%2F09%2Fpeppercorn-roasted-pork-with-vermouth-pan-sauce&amp;title=\"
+      rel=\"nofollow\">E-Mail</a></li>\n                \n        \n            \n
+      \                   <li class=\"utility-feeds\"><a href=\"/services/rss/summary\"
+      title=\"Sign up for our RSS feeds\">Feeds</a></li>\n                \n        \n
+      \           \n                    \n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--
+      AddThis Bookmark Button BEGIN -->\n\n<li class=\"utility-share\">\n    <a href=\"http://www.addthis.com/bookmark.php?pub=gourmet&amp;url=http%3a%2f%2fwww.gourmet.com%252Frecipes%252F2000s%252F2009%252F09%252Fpeppercorn-roasted-pork-with-vermouth-pan-sauce&amp;title=+2000s+Recipes+%2b+Menus%3a+Gourmet.com\"
+      target=\"addthis\" class=\"shareico\" rel=\"nofollow\" onclick=\"window.open(this.href,
+      this.target, 'scrollbars=yes,menubar=no,width=620,height=420,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');\"
+      \ title=\"Bookmark using any bookmark manager!\" >Share This</a>\n</li>\n\n<!--
+      AddThis Bookmark Button END -->\n\n                \n        \n\n    </ul>\n\n\n
+      \               \n\n                \n\n                \n                    \n
+      \                           \n\n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"index_headers\">\n\n<!--
+      Start Headers -->\n\n\n        \n            \n                \n                \n
+      \           \n\n            \n            \n\n            \n                \n
+      \                   <h2 id=\"autohed\">2000s Recipes + Menus</h2>\n                \n
+      \           \n    \n\n\n\n    \n    \n        \n    \n    \n    <!-- End Headers
+      -->\n</div>\n\n                        \n                \n\n            \n\n
+      \           \n\n            <div id=\"main\">\n                <div class=\"recipe\">\n\n
+      \       \n        <div class=\"intro\">\n\n            \n            \n                \n
+      \                   \n                        <div class=\"captioned-photo\">\n
+      \                           \n\n                            \n                            \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><img src=\"/images/recipes/2009/09/re-peppercorn-roasted-pork-w-vermouth-pan-sauce-608.jpg\"
+      alt=\"\"  /></div>\n\n\n\n\n                            \n                        </div>\n
+      \                   \n                \n            \n            \n\n            \n
+      \           \n                <div class=\"headers\">\n                    \n
+      \                       \n                        \n\n    \n\n                        \n
+      \                   \n                    \n                        \n                        \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        <h1 class=\"header\">Peppercorn Roasted Pork with Vermouth Pan
+      Sauce</h1>\n    \n\n\n                        \n                    \n                    \n
+      \               </div>\n            \n            \n\n        </div>\n        \n\n
+      \       \n        <div class=\"body\">\n\n            \n            <div class=\"time-and-yield\">\n
+      \               \n                    <div class=\"yield\">\n                        <span
+      class=\"label\">Serves</span>8\n                    </div>\n                \n\n
+      \               \n                    <ul class=\"time\">\n                        \n
+      \                           <li><span class=\"label\">Active time:</span>25
+      min</li>\n                        \n                            <li><span class=\"label\">Start
+      to finish:</span>1 day (includes marinating)</li>\n                        \n
+      \                   </ul>\n                \n            </div>\n\n            \n\n
+      \           \n                \n                \n                \n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n      <div class=\"display-date\">\n          \n\n          \n\n          \n
+      \             \n              \n              \n          \n\n          \n          \n\n<!--
+      MMMM yyyy -->\n          \n          \n              \n              \n              September
+      2009\n            \n\n          \n\n          \n      </div>\n  \n\n                \n
+      \               \n            \n\n            \n            \n                <div
+      class=\"text\"><em>Infusing pork butt with pink peppercorns and garlic enhances
+      its superb flavor. The vermouth in the pan sauce has a masterful synchronicity
+      with the juniper-like aroma of pink peppercorns and gives you enormous complexity
+      from just one ingredient. View more of our <a href=\"/recipes/2000s/2009/09/favorite-september-recipes\">favorite
+      recipes</a> from this issue.</em></div>\n            \n\n            \n            \n\n
+      \           \n            \n                <div class=\"ingredient-sets\">\n
+      \                   \n                    \n\n                    \n                        <div
+      class=\"ingredient-set\">\n                            \n                            \n
+      \                           \n                                <ul class=\"ingredients\">\n
+      \                                   \n                                        <li>\n
+      \                                           <span class=\"quantity\">6</span>\n
+      \                                           <span class=\"unit\">tablespoons</span>\n
+      \                                           <span class=\"name\">pink peppercorns,
+      divided</span>\n                                            \n                                        </li>\n
+      \                                   \n                                        <li>\n
+      \                                           <span class=\"quantity\">2</span>\n
+      \                                           <span class=\"unit\">tablespoons</span>\n
+      \                                           <span class=\"name\">black peppercorns</span>\n
+      \                                           \n                                        </li>\n
+      \                                   \n                                        <li>\n
+      \                                           <span class=\"quantity\">1 1/2</span>\n
+      \                                           <span class=\"unit\">tablespoons</span>\n
+      \                                           <span class=\"name\">fennel seeds</span>\n
+      \                                           \n                                        </li>\n
+      \                                   \n                                        <li>\n
+      \                                           <span class=\"quantity\">7</span>\n
+      \                                           \n                                            <span
+      class=\"name\">garlic cloves, minced</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">3</span>\n                                            <span
+      class=\"unit\">tablespoons</span>\n                                            <span
+      class=\"name\">vegetable oil</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">1</span>\n                                            \n
+      \                                           <span class=\"name\">(5-lb) boneless
+      pork shoulder roast (butt end)</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">1/2</span>\n                                            <span
+      class=\"unit\">cup</span>\n                                            <span
+      class=\"name\">dry vermouth</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">2</span>\n                                            <span
+      class=\"unit\">cups</span>\n                                            <span
+      class=\"name\">reduced-sodium chicken broth</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">1</span>\n                                            <span
+      class=\"unit\">tablespoon</span>\n                                            <span
+      class=\"name\">unsalted butter, softened</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                                       <li>\n                                            <span
+      class=\"quantity\">1</span>\n                                            <span
+      class=\"unit\">tablespoon</span>\n                                            <span
+      class=\"name\">all-purpose flour</span>\n                                            \n
+      \                                       </li>\n                                    \n
+      \                               </ul>\n                            \n                        </div>\n
+      \                   \n                </div>\n            \n\n            \n
+      \           \n\n            \n            \n                <ul class=\"appurtenances\">\n
+      \                   \n                        <li class=\"appurtenance\">\n
+      \                           \n                                <h3>Equipment:</h3>\n
+      \                           \n                            <div class=\"text\">an
+      electric coffee/spice grinder</div>\n                        </li>\n                    \n
+      \               </ul>\n            \n\n            \n            \n\n            \n
+      \               <div class=\"preparation\">\n                    \n                    \n
+      \                   \n                        \n                            <div
+      class=\"prep-steps\">\n                                \n                                \n
+      \                               <ul>\n                                    \n
+      \                                       <li class=\"step\">\n                                            \n
+      \                                           <div class=\"text\">Grind 1/4 cup
+      pink peppercorns with black peppercorns  and fennel seeds in grinder, then stir
+      together with garlic, oil, and 1 Tbsp salt.</div>\n                                        </li>\n
+      \                                   \n                                        <li
+      class=\"step\">\n                                            \n                                            <div
+      class=\"text\">Pat pork dry and use a paring knife to make about 16 (1-inch-deep)
+      slits all over roast. Stuff slits with all but 1 Tbsp garlic-peppercorn paste,
+      then rub remaining Tbsp all over roast. Put in a small (13- by 9-inch) flameproof
+      roasting pan and marinate, chilled, 8 to 24 hours.</div>\n                                        </li>\n
+      \                                   \n                                        <li
+      class=\"step\">\n                                            \n                                            <div
+      class=\"text\">Let pork stand at room temperature 1 hour. Preheat oven to 350&#176;F
+      with rack in middle.</div>\n                                        </li>\n
+      \                                   \n                                        <li
+      class=\"step\">\n                                            \n                                            <div
+      class=\"text\">Roast pork, fat side up, until an instant-read thermometer inserted
+      into center of meat registers 150&#176;F, 1 1/2 to 2 hours. Transfer pork to
+      a cutting board and let rest 30 minutes.</div>\n                                        </li>\n
+      \                                   \n                                        <li
+      class=\"step\">\n                                            \n                                            <div
+      class=\"text\">Meanwhile, pour off all but about 1 Tbsp fat from roasting pan.
+      Add vermouth to pan and boil, scraping up brown bits, 2 minutes. Stir in broth,
+      any meat juices from cutting board, and remaining 2 Tbsp pink peppercorns and
+      boil until reduced to about 11/2 cups, about 5 minutes.</div>\n                                        </li>\n
+      \                                   \n                                        <li
+      class=\"step\">\n                                            \n                                            <div
+      class=\"text\">Knead together butter and flour, then whisk into sauce and boil,
+      whisking constantly, until just slightly thickened, about 2 minutes.</div>\n
+      \                                       </li>\n                                    \n
+      \                                       <li class=\"step\">\n                                            \n
+      \                                           <div class=\"text\">Serve pork with
+      sauce.</div>\n                                        </li>\n                                    \n
+      \                               </ul>\n                            </div>\n
+      \                       \n                    \n                    \n                </div>\n
+      \           \n\n        </div>\n        \n            \n            \n            \n\n\n\n\n\n\n\n\n\n
+      \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n    \n    \n\n    \n        \n          \n          \n              \n
+      \           \n\n          \n\n        \n\n\n        \n                 \n            \n
+      \        \n\n        \n    \n        \n          \n          \n              \n
+      \           \n\n          \n\n        \n\n\n        \n                 \n            \n
+      \        \n\n        \n    \n\n    \n\n    \n\n    \n\n    \n\n    \n      \n
+      \     \n      \n        \n            \n          \n      \n      \n    \n\n
+      \   \n      \n      \n      \n        \n            \n          \n      \n      \n
+      \   \n\n    \n\n    \n\n    \n\n    \n\n    \n\n    \n\n    \n      <div class=\"byline\">\n
+      \      <div class=\"contributors\">\n         <p> <span class=\"contributor\">\n
+      \               \n                \n                    \n                    <span
+      class=\"label\">Recipe by </span>\n                \n                \n                \n
+      \                   <span class=\"name\">\n                        \n                                Andrea
+      Albin\n                            \n                    </span>\n                \n
+      \               \n            </span></p><p> <span class=\"contributor\">\n
+      \               \n                \n                    \n                    <span
+      class=\"label\">Photograph by </span>\n                \n                \n
+      \               \n                    <span class=\"name\">\n                        \n
+      \                               Roland Bello\n                            \n
+      \                   </span>\n                \n                \n            </span></p>\n
+      \      </div>\n      </div>\n    \n \n\n    \n\n            \n            \n
+      \       \n        \n        \n\n\n\n\n\n\n\n\n\n\n<div class=\"footer\">\n\n\n\n\n\n\n</div>\n\n
+      \       \n\n        \n        \n\n        \n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \n \n \n    \n        <div class=\"keywords\"><dl><dt>Keywords</dt>\n    \n\n
+      \   \n    \n    \n\n    \n        <dd><a href=\"/search/query?keyword=pork\">pork</a>,</dd>\n
+      \   \n\n    \n \n    \n\n    \n    \n    \n\n    \n        <dd><a href=\"/search/query?keyword=garlic\">garlic</a>,</dd>\n
+      \   \n\n    \n \n    \n\n    \n    \n    \n\n    \n        <dd><a href=\"/search/query?keyword=vermouth\">vermouth</a>,</dd>\n
+      \   \n\n    \n \n    \n\n    \n    \n    \n\n    \n        <dd><a href=\"/search/query?keyword=andrea
+      albin\">andrea albin</a></dd>\n    \n\n    \n        </dl>\n        </div>\n
+      \   \n \n\n\n\n        \n\n        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <ul class=\"utilities utilities-bottom\">\n\n        \n            \n                    \n
+      \                   \n                    \n                    <li class=\"utility-print\"><a
+      href=\"/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce?printable=true\"
+      title=\"Print this page\">Print</a></li>\n                \n        \n            \n
+      \                   <li class=\"utility-email\"><a title=\"E-mail this page
+      to a friend\" onclick=\"if (typeof CN !== 'undefined' && CN.stats && CN.stats.omniture)
+      { CN.stats.omniture.trackAction('emailAFriend',this); }\" href=\"/contact/emailFriend?referringPage=http://www.gourmet.com%2Frecipes%2F2000s%2F2009%2F09%2Fpeppercorn-roasted-pork-with-vermouth-pan-sauce&amp;title=\"
+      rel=\"nofollow\">E-Mail</a></li>\n                \n        \n            \n
+      \                   <li class=\"utility-feeds\"><a href=\"/services/rss/summary\"
+      title=\"Sign up for our RSS feeds\">Feeds</a></li>\n                \n        \n
+      \           \n                    \n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--
+      AddThis Bookmark Button BEGIN -->\n\n<li class=\"utility-share\">\n    <a href=\"http://www.addthis.com/bookmark.php?pub=gourmet&amp;url=http%3a%2f%2fwww.gourmet.com%252Frecipes%252F2000s%252F2009%252F09%252Fpeppercorn-roasted-pork-with-vermouth-pan-sauce&amp;title=+2000s+Recipes+%2b+Menus%3a+Gourmet.com\"
+      target=\"addthis\" class=\"shareico\" rel=\"nofollow\" onclick=\"window.open(this.href,
+      this.target, 'scrollbars=yes,menubar=no,width=620,height=420,resizable=yes,toolbar=no,location=no,status=no,screenX=200,screenY=100,left=200,top=100');\"
+      \ title=\"Bookmark using any bookmark manager!\" >Share This</a>\n</li>\n\n<!--
+      AddThis Bookmark Button END -->\n\n                \n        \n\n    </ul>\n\n\n\n
+      \   </div>\n    \n\n    \n\n\n\n\n\n\n\n    <script type=\"text/javascript\">\n
+      \       var stringPluckArticleIds = \"\";\n        pluckArticleIds = stringPluckArticleIds.slice(0,stringPluckArticleIds.length-1).split(\",\");\n
+      \   </script>\n\n\n\n\n\n\n    \n    \n        \n        \n    \n\n    \n    \n
+      \   \n\n    \n        <div class=\"bottom-links\">\n\n            \n                <div
+      class=\"links\">\n                    \n\n                    \n                        \n\n\n\n\n\n\n\n
+      \ <div class=\"archive\">\n\n        \n        \n            \n            \n
+      \       \n\n        \n        \n        \n                <h4>More 2000s Recipes
+      + Menus</h4>\n            \n\n        <ul class=\"archive-links\">\n        \n
+      \           \n            \n\n            \n            \n            \n\n            \n\n
+      \           \n                \n                \n                    <li><a
+      href=\"/recipes/2000s/2009/10/kemp-cinderella-carrots\">Kemp&#8217;s Cinderella
+      Carrots</a></li>\n                \n            \n        \n            \n            \n\n
+      \           \n            \n            \n\n            \n\n            \n                \n
+      \               \n                    <li><a href=\"/recipes/2000s/2009/10/spiced-applesauce-cake-with-cinnamon-cream-cheese-frosting\">Spiced
+      Applesauce Cake with Cinnamon Cream Cheese Frosting</a></li>\n                \n
+      \           \n        \n            \n            \n\n            \n            \n
+      \           \n\n            \n\n            \n                \n                \n
+      \                   <li><a href=\"/recipes/2000s/2009/09/favorite-pumpkin-recipes\">Our
+      Pumpkin Picks</a></li>\n                \n            \n        \n            \n
+      \           \n\n            \n            \n            \n\n            \n\n
+      \           \n                \n                \n                    <li><a
+      href=\"/recipes/2000s/2009/09/cocktail-of-the-week-palmyra\">Cocktail of the
+      Week: Palmyra</a></li>\n                \n            \n        \n            \n
+      \           \n\n            \n            \n            \n\n            \n\n
+      \           \n                \n                \n                    <li><a
+      href=\"/recipes/2000s/2009/09/frozen-peanut-butter-pie-with-candied-bacon\">Frozen
+      Peanut Butter Pie with Candied Bacon</a></li>\n                \n            \n
+      \       \n            \n            \n\n            \n            \n            \n\n
+      \           \n\n            \n                \n                \n                    <li><a
+      href=\"/recipes/2000s/2009/09/applesauce-pecan-cake\">Applesauce Pecan Cake</a></li>\n
+      \               \n            \n        \n            \n            \n\n            \n
+      \           \n            \n\n            \n\n            \n                \n
+      \               \n\n                \n                \n                    \n
+      \                       \n                    \n                    \n                    <li
+      class=\"va\"><a href=\"/recipes/2000s/search\">View All 2000s Recipes + Menus</a></li>\n
+      \               \n            \n        \n        </ul>\n  </div>\n  <!-- end
+      archive -->\n\n\n                    \n                </div>\n            \n\n
+      \           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n    \n    \n    \n
+      \   \n    \n\n\n            \n        </div>\n            </div>\n\n        </div>
+      <!-- End of content -->\n\n        \n                \n\n\n\n\n\n\n\n\n\n\n
+      \       \n        <div id=\"yrail\" class=\"py\">\n            <div class=\"yrcomponent\">\n
+      \            <div class=\"search-gourmet\">\n                      <form class=\"search-gourmet\"
+      method=\"get\" action=\"/search/query\">\n                          <label for=\"search-gourmet-input\">Search
+      Gourmet</label>\n                          <input id=\"search-gourmet-input\"
+      type=\"text\" name=\"query\" value=\"\" />\n                          <input
+      type=\"hidden\" value=\"nonparsed\" name=\"queryType\" />\n                          <input
+      type=\"hidden\" value=\"score desc\" name=\"sort\" />\n                          <input
+      id=\"search-gourmet-submit\" type=\"image\" src=\"/images/elements/yrail/btn-search.gif\"
+      value=\"submit\" name=\"search-gourmet-submit\" onmouseover=\"this.src='/images/elements/yrail/btn-search-r.gif'\"
+      onmouseout=\"this.src='/images/elements/yrail/btn-search.gif'\" />\n                      </form>\n
+      \                     <form class=\"search-recipes\" action=\"/search/query\"
+      method=\"get\">\n                          <label for=\"search-recipes-input\">Search
+      Recipes + Menues</label>\n                          <input id=\"search-recipes-input\"
+      type=\"text\" name=\"query\" value=\"\" />\n                          <input
+      type=\"hidden\" value=\"nonparsed\" name=\"queryType\" />\n                          <input
+      type=\"hidden\" value=\"score desc\" name=\"sort\" />\n                          <input
+      type=\"hidden\" name=\"section\" value=\"recipes\"/>\n                          <input
+      type=\"hidden\" name=\"sisterSite\" value=\"gourmet.com\"/>\n                          <input
+      id=\"search-recipes-submit\" type=\"image\" src=\"/images/elements/yrail/btn-search.gif\"
+      value=\"submit\" name=\"search-recipes-submit\" onmouseover=\"this.src='/images/elements/yrail/btn-search-r.gif'\"
+      onmouseout=\"this.src='/images/elements/yrail/btn-search.gif'\"/>\n                      </form>\n
+      \               </div>\n\n            </div>\n\n            \n                \n
+      \               \n                    \n                        \n                        \n
+      \                           <div class=\"yrcomponent\">\n                                \n\n\n\n\n\n\n\n\n
+      \   \n    \n\n    \n    \n    \n    \n\n        <div id=\"features_yrail_1_1_1\"
+      class=\"features\">\n            \n            \n\n            \n            \n
+      \           \n            \n        </div>\n    \n    \n    \n    \n\n        <div
+      id=\"features_yrail_1_1_2\" class=\"features\">\n            \n            \n\n
+      \           \n            \n            \n            \n        </div>\n    \n
+      \   \n    \n    \n\n        <div id=\"features_yrail_1_1_3\" class=\"features
+      \ set1\">\n            \n            \n\n            \n            \n            \n
+      \           \n                \n                \n                \n                \n
+      \               \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \               \n\n                \n                    <!-- start feature
+      -->\n                    <div class=\"feature imageTop first\">\n                \n\n
+      \               \n                    \n                            \n                            \n\n
+      \   \n\n                            \n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
+      \   \n    \n  \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \           \n                GOURMET LIVE IN REAL TIME \n            \n        \n
+      \   \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            <div
+      class=\"text\">\n                \n                    <iframe width=\"300\"
+      height=\"240\" src=\"http://player.gourmet.com/api/public_activities\" frameborder=\"0\"\nscrolling=\"no\"
+      /></iframe>\n\n\n\n<br /><br />\n                \n            </div>\n            \n
+      \           \n\n            \n                \n            \n            \n\n
+      \           \n            <ul class=\"links\">\n                \n                    \n
+      \               \n            </ul>\n            \n\n    </div>\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                            </div>\n                        \n\n
+      \                       \n                        \n                        \n
+      \                   \n                \n                \n                    <div
+      class=\"yrcomponent\">\n                        <div class=\"yrpromos\">\n                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_rightRail_A\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_rr_subscribe.gif\" border=\"0\"
+      alt=\"Subscribe to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n        </div>\n
+      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
+      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_rightRail_A',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_A',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
+      \                       </div>\n                        <br />\n                    </div>\n
+      \                   <div class=\"yrcomponent\">\n                        <div
+      id=\"yrail_ads\">\n\n                        \n\n\n\n\n\n\n\n\n\n\n        <div
+      id=\"yrailText4x1_frame\" class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n
+      \   //<!--\n        \n        CN.dart.call('yrailText', {sz:'4x1', kws:[], collapse:
+      true});\n    //-->\n    </script>\n    \n\n\n                        \n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"yrailTop300x250_frame\" class=\"displayAd\"></div>\n    <script
+      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailTop',
+      {sz:'300x250', kws:[]});\n    //-->\n    </script>\n    \n\n\n                        </div>\n
+      \                   </div>\n                    <div class=\"yrcomponent\">\n
+      \                       <div class=\"yrpromos\">\n                            \r\n<div
+      class=\"yrpromos\">\r\n\r\n</div>\r\n\r\n\r\n\r\n\n                        \n
+      \                           <div class=\"yrail_ad_wrap\">\n                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_rightRail_B\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafeGift\"
+      target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_rr_gift.gif\" border=\"0\"
+      alt=\"Give the Gift of Gourmet\" title=\"Give the Gift of Gourmet\" /></a>\n
+      \       </div>\n    \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n//
+      <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_rightRail_B',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_B',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
+      \                           </div>\n                        \n                            \r\n\n
+      \                       </div>\n                    </div>\n                \n
+      \           \n                \n                \n                    \n                        \n
+      \                       \n                            <div class=\"yrcomponent\">\n
+      \                               \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n
+      \   \n    \n\n        <div id=\"features_yrail_2_1_1\" class=\"features\">\n
+      \           \n            \n\n            \n            \n            \n            \n
+      \       </div>\n    \n    \n    \n    \n\n        <div id=\"features_yrail_2_1_2\"
+      class=\"features  set2\">\n            \n            \n\n            \n            \n
+      \           \n            \n                \n                \n                \n
+      \               \n                \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \               \n\n                \n                    <!-- start feature
+      -->\n                    <div class=\"feature imageTop first\">\n                \n\n
+      \               \n                    \n                            \n                            \n\n
+      \   \n\n                            \n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n  \n\n       \n
+      \         \n               \n             \n       \n\n    \n    \n    \n\n
+      \   \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/app\" title=\"\"><img
+      src=\"/images/homepage/2010/gourmetlivead300x75.gif\" alt=\"\" class=\"featureimg\"
+      \ /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n    \n\n    \n    \n
+      \ \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \   \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n                \n                \n                \n
+      \               \n                \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                    \n                \n\n                \n
+      \                   <!-- start feature -->\n                    <div class=\"feature
+      imageTop\">\n                \n\n                \n                    \n                            \n
+      \                           \n\n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
+      \   \n        \n            \n                Explore Gourmet Online\n            \n
+      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            <div
+      class=\"text\">\n                \n                    <a href=\"/food/favorite-food-sites\">Favorite
+      Food and Travel Sites</a><br />\n<a href=\"/search/query?keyword=web-exclusive+recipes&\">Web-Exclusive
+      Recipes</a><br />\n<a href=\"/search/query?keyword=my+day+on+a+plate&\">My Day
+      on a Plate</a><br />\n<a href=\"http://www.epicurious.com/recipesmenus/gourmet/recipes?browseByAtt=\">Gourmet
+      on Epicurious</a><br />\n<a href=\"http://live.gourmet.com/category/image-of-the-day/\">Gourmet
+      Live Image of the Day</a><br />\n<a href=\"http://live.gourmet.com/category/weekly-roundups/\">Gourmet
+      Live Food Blog Roundup</a><br />\n<a href=\"/search/query?keyword=travel%20smart\">Travel
+      Smart</a><br />\n                \n            </div>\n            \n            \n\n
+      \           \n                \n            \n            \n\n            \n
+      \           <ul class=\"links\">\n                \n                    \n                \n
+      \           </ul>\n            \n\n    </div>\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n                \n                \n                \n
+      \               \n                \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                    \n                \n\n                \n
+      \                   <!-- start feature -->\n                    <div class=\"feature
+      imageTop\">\n                \n\n                \n                    \n                            \n
+      \                           \n\n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
+      \   \n        \n    \n</h3>\n\n\n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n    \n\n    <div
+      class=\"blurb\">\n            \n                \n            \n            \n
+      \           \n\n            \n                \n            \n            \n\n
+      \   </div>\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n\n                        \n                \n
+      \               \n                    </div>\n                    <!-- end feature
+      -->\n                \n                \n                \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                    \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature\">\n                \n\n
+      \               \n                    \n                            \n                            \n\n
+      \   \n\n                            \n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
+      \   \n    \n  \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \   \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            <div
+      class=\"text\">\n                \n                    <div class=\"community\">\n<h3>Gourmet
+      Community</h3>\n<ul>\n<li class=\"facebook\"><a href=\"http://www.facebook.com/pages/Gourmet/32672188791\">Become
+      our fan on Facebook</a></li>\n<li class=\"youtube\"><a href=\"http://www.youtube.com/gourmetmagazine\">Visit
+      our YouTube channel</a></li>\n<li class=\"twitter\"><a href=\"http://twitter.com/GourmetLive\">Follow
+      <strong>Gourmet.com</strong> on Twitter</a></li>\n<li class=\"foursquare\"><a
+      href=\"https://foursquare.com/gourmetlive\">FOLLOW GOURMET LIVE ON FOURSQUARE</a></li>\n<li
+      class=\"foodspotting\"><a href=\"http://www.foodspotting.com/gourmetlive\">FOLLOW
+      GOURMET LIVE ON FOODSPOTTING</a></li>\n<li class=\"livegourmet\"><a href=\"http://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8
+      \">Download Gourmet Live<br/><br/></a></li>\n<li class=\"epiapp\"><a href=\"http://www.epicurious.com/services/mobile
+      \">Download Epicurious App<br/><br/></a></li>\n</ul>\n</div>\n                \n
+      \           </div>\n            \n            \n\n            \n                \n
+      \           \n            \n\n    </div>\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n\n                        \n
+      \               \n                \n                    </div>\n                    <!--
+      end feature -->\n                \n                \n                \n            \n
+      \               \n                \n                \n                \n                \n\n
+      \               \n                \n                \n\n                \n                \n
+      \               \n                    \n                    \n                        \n
+      \                   \n                    \n                    \n                    \n
+      \               \n\n                \n                    <!-- start feature
+      -->\n                    <div class=\"feature imageTop\">\n                \n\n
+      \               \n                    \n                            \n                            \n\n
+      \   \n\n                            \n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
+      \   \n    \n  \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \           \n                Gourmet Products\n            \n        \n    \n</h3>\n\n\n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \   \n\n    <div class=\"blurb\">\n            \n                \n            \n
+      \           \n            <div class=\"text\">\n                \n                    <a
+      href=\"http://www.condenaststore.com/invt/135622/\">Gourmet Quick Kitchen</a><br
+      />\n<a href=\"http://www.amazon.com/Gourmet-Cookie-Book-Single-1941-2009/dp/0547328168\">The
+      Gourmet Cookie Book</a><br />\n<a href=\"http://gourmettodaycookbook.com/\">Gourmet
+      Today</a><br />\n<a href=\"http://www.condenaststore.com/shop-by-magazine/gourmet/icat/38/\">Gourmet
+      Art + Gifts</a><br />\n<a href=\"http://www.condenaststore.com/gourmet/past-issues/icat/680/\">Gourmet
+      past issues</a><br />\n\n                \n            </div>\n            \n
+      \           \n\n            \n                \n            \n            \n\n
+      \   </div>\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n\n                        \n                \n
+      \               \n                    </div>\n                    <!-- end feature
+      -->\n                \n                \n                \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                    \n                    \n
+      \                       \n                    \n                    \n                \n\n
+      \               \n                    <!-- start feature -->\n                    <div
+      class=\"feature last\">\n                \n\n                \n                    \n
+      \                           \n                            \n\n    \n\n                            \n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
+      \   \n        \n    \n</h3>\n\n\n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n    \n\n    <div
+      class=\"blurb\">\n            \n                \n            \n            \n
+      \           <div class=\"text\">\n                \n                    <!--
+      Facebook -->\n<script type=\"text/javascript\" src=\"http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US\"></script><script
+      type=\"text/javascript\">FB.init(\"3a6ce27c308bb1ed38a97357fbea1393\");</script><fb:fan
+      profile_id=\"32672188791\" stream=\"\" connections=\"10\" width=\"300\"></fb:fan><div
+      style=\"font-size:8px; padding-left:10px\"><a href=\"http://www.facebook.com/gourmet.magazine\"
+      target=\"_blank\">Gourmet Magazine on Facebook</a> </div>\n<!-- end facebook
+      -->\n                \n            </div>\n            \n            \n\n            \n
+      \               \n            \n            \n\n    </div>\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                            </div>\n                        \n\n
+      \                       \n                        \n                        \n
+      \                   \n                \n                \n            \n                \n
+      \               \n                    \n                        \n                        \n\n
+      \                       \n                        \n                        \n
+      \                   \n                \n                \n            \n            <div
+      class=\"yrcomponent\">\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_rightRail_C\"></div>\n    \n\n\n        \n\n\n\n\n<script
+      type=\"text/javascript\">\n// <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n
+      \       pid:'global_rightRail_C',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_C',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
+      \           </div>\n        </div>\n    \n\n                \n\n\n\n\n\n    <div
+      id=\"zrail\">\n    <!-- start zrail -->\n    <div class=\"zrcomponent first\">\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div class=\"subsinclude\">\n            <h3>Subscribe</h3>\n        </div>\n
+      \       <div id=\"global_zRail\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_zrail.gif\" alt=\"Subscribe
+      to Gourmet\" title=\"Subscribe to Gourmet\" border=\"0\" /></a>\n        </div>\n
+      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
+      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_zRail',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_zRail',\n        params:{}});\n\n
+      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    \n        \n
+      \       <div class=\"zrcomponent \">\n            \n            \n                \n
+      \                   \n                    \n                        <!-- start
+      featureSet -->\n                            \n                            \n\n\n\n\n\n\n\n\n
+      \   \n    \n\n    \n    \n    \n    \n\n        <div id=\"features_zrail_1_1_1\"
+      class=\"features\">\n            \n            \n\n            \n            \n
+      \           \n            \n                \n                \n                \n
+      \               \n                \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \               \n\n                \n                    <!-- start feature
+      -->\n                    <div class=\"feature imageTop first\">\n                \n\n
+      \               \n                    \n                            \n                            \n\n
+      \   \n        \n            <h5 class=\"rubric\"><a href=\"/diaryofafoodie\"
+      title=\"Diary of a Foodie\">Diary of a Foodie</a></h5>\n        \n    \n\n                            \n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
+      \   \n        \n    \n</h3>\n\n\n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n    \n\n    <div
+      class=\"blurb\">\n            \n                \n            \n            \n
+      \           <div class=\"text\">\n                \n                    From
+      Vermont to Vietnam, take a global culinary tour with season three of the award-winning
+      public television show, <a href=\"/diaryofafoodie\"/><em>Gourmet's Diary of
+      a Foodie</em></a>.\n                \n            </div>\n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
+      \">\n            \n            \n                \n                    \n                    \n
+      \                       <!-- start featureSet -->\n                            \n
+      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
+      \   \n\n        <div id=\"features_zrail_2_1_1\" class=\"features\">\n            \n
+      \           \n\n            \n            \n            \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature imageTop first\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
+      href=\"/search/query?keyword=politics+of+the+plate&\" title=\"Food Politics\">Food
+      Politics</a></h5>\n        \n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=politics
+      of the plate\" title=\"food politics issues\"><img src=\"/images/homepage/food-politics-137.jpg\"
+      alt=\"food politics issues\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n
+      \       \n\n    \n        </div>\n    \n\n    \n    \n  \n\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n<h3
+      class=\"header\">\n    \n        \n            \n                <a href=\"/search/query?keyword=politics+of+the+plate&\">Get
+      schooled on the issues of getting the food onto your plate</a>\n            \n
+      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
+      \">\n            \n            \n                \n                    \n                    \n
+      \                       <!-- start featureSet -->\n                            \n
+      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
+      \   \n\n        <div id=\"features_zrail_3_1_1\" class=\"features\">\n            \n
+      \           \n\n            \n            \n            \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature imageTop first\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
+      href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\" title=\"Classic
+      Cocktails\">Classic Cocktails</a></h5>\n        \n    \n\n                            \n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\"
+      title=\"favorite cocktails\"><img src=\"/images/zrail/2009/09/wi-COTW-May-12-137.jpg\"
+      alt=\"favorite cocktails\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n
+      \   \n        </div>\n    \n\n    \n    \n  \n\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n<h3
+      class=\"header\">\n    \n        \n            \n                <a href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\">Cheers!
+      Our favorite cocktails from <em>Gourmet</em>'s drinks archives</a>\n            \n
+      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
+      \">\n            \n            \n                \n                    \n                    \n
+      \                       <!-- start featureSet -->\n                            \n
+      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
+      \   \n\n        <div id=\"features_zrail_4_1_1\" class=\"features\">\n            \n
+      \           \n\n            \n            \n            \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature imageTop first\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n        \n            <h5 class=\"rubric\">Explore</h5>\n
+      \       \n    \n\n                            \n                        \n                \n
+      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
+      \   \n    \n  \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \   \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            <div
+      class=\"text\">\n                \n                    More on gourmet.com:<br
+      /><a href=\"/search/query?keyword=video&\">Video</a> | <a href=\"/search/query?keyword=first+taste&\">First
+      Taste</a><br /><a href=\"/search/query?keyword=cooking+tips&\">Cooking Tips</a><br
+      />\n<a href=\"/search/query?keyword=cookbooks&\">Cookbooks</a><br />\n<a href
+      =\"/search/query?keyword=culinary+culture&\">Culinary Culture</a><br />\n<a
+      href=\"/search/query?keyword=chefs&\">Chefs</a> | <a href=\"/search/query?keyword=q
+      + a\">Q + A</a><br/>\n<a href=\"/search/query?keyword=eight%20great\">Eight
+      Great...</a>\n                \n            </div>\n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
+      \">\n            \n            \n                \n                    \n                    \n
+      \                       <!-- start featureSet -->\n                            \n
+      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
+      \   \n\n        <div id=\"features_zrail_5_1_1\" class=\"features\">\n            \n
+      \           \n\n            \n            \n            \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature imageTop first\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
+      href=\"/search/query?keyword=ten-minute+mains&\" title=\"Ten-Minute Mains\">Ten-Minute
+      Mains</a></h5>\n        \n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=ten-minute
+      mains\" title=\"quick \"><img src=\"/images/homepage/quick-and-easy-137.jpg\"
+      alt=\"quick \" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n    \n
+      \       </div>\n    \n\n    \n    \n  \n\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
+      \   \n        \n            \n                <a href=\"/search/query?keyword=ten-minute+mains&\">Quick
+      and easy main course recipes to make any night of the week</a>\n            \n
+      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
+      \ last\">\n            \n            \n                \n                    \n
+      \                   \n                        <!-- start featureSet -->\n                            \n
+      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
+      \   \n\n        <div id=\"features_zrail_6_1_1\" class=\"features\">\n            \n
+      \           \n\n            \n            \n            \n            \n                \n
+      \               \n                \n                \n                \n\n                \n
+      \               \n                \n\n                \n                \n                \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                \n\n                \n                    <!--
+      start feature -->\n                    <div class=\"feature imageTop first\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
+      href=\"/search/query?keyword=my day on a plate\" title=\"My Day On a Plate\">My
+      Day On a Plate</a></h5>\n        \n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=my
+      day on a plate\" title=\"\"><img src=\"/images/zrail/2009/09/fo-wolfgang-puck-137.jpg\"
+      alt=\"\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n
+      \   \n\n    \n    \n  \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \           \n                <a href=\"/search/query?keyword=my day on a plate\">Everything
+      your favorite chefs and celebrities ate over the last 24 hours</a>\n            \n
+      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
+      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
+      \                   \n                \n            \n        </div><!-- End
+      zrcomponent -->\n        \n    \n    <!-- end zrail -->\n </div>\n\n\n            \n\n
+      \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n       \n       \n
+      \  \n\n<div id=\"footer\">\n    <ul id=\"ft_1\"><li class=\"first\"><a href=\"/services/sitemap/\"
+      title=\"gourmet.com site map\">Site Map</a></li>    <li><a href=\"/magazine\"
+      title=\"Archive\">Archive</a></li><li><a href=\"/contact/contactus\" title=\"Contact\">Contact
+      Gourmet</a></li><li><a href=\"/services/presscenter/pressreleases/search/\"
+      title=\"Gourmet press releases, bios, and public relations contact information\">Press
+      Center</a></li><li class=\"rss\"><a href=\"/services/rss/summary\" title=\"Sign
+      up for our RSS feeds to get instant site updates\">RSS Feeds</a></li></ul>\n
+      \   <div id=\"global-footer\">\n        <div class=\"global-footer-nav\">\n
+      \           \n            \n            \n            \n            \n            <ul>\n
+      \               \n                        <li class=\"first\" id=\"global-footer-nav-subservices\"><a
+      href=\"http://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\">Subscription
+      Services</a></li>\n                    \n                <li id=\"global-footer-nav-careers\"><a
+      href=\"http://www.condenastcareers.com\">Careers</a></li>\n                <li
+      id=\"global-footer-nav-store\"><a href=\"http://www.condenaststore.com/\">Cond&eacute;
+      Nast Store</a></li>\n                <li id=\"global-footer-nav-reprints\"><a
+      href=\"mailto:permissions@condenast.com\">Reprints/Permissions</a></li>\n                <li
+      class=\"last\" id=\"global-footer-nav-mediakit\"><a href=\"http://www.condenastmediakit.com/gou/\">Gourmet
+      Media Kit</a></li>\n                \n            </ul>\n        </div>\n        <div
+      class=\"global-footer-columns-container\">\n            <div class=\"global-footer-logo\">\n
+      \               <h3>Cond&eacute; Nast Digital</h3>\n            </div>\n            <div
+      class=\"global-footer-more-about-links\">\n                <p>More about food
+      &amp; recipes:</p><ul><li><a href=\"http://www.bonappetit.com\">Bon App&eacute;tit</a></li>
+      \   <li><a href=\"http://www.epicurious.com\">Epicurious.com</a></li><li><a
+      href=\"http://www.cookiemag.com\">Cookie</a></li></ul>\n            </div>\n
+      \           <div class=\"global-footer-subscriptions\">\n                <form
+      action=\"\" name=\"sub_dropmenus\" id=\"sub_dropmenus\">\n                    <h3>Subscribe
+      to a magazine:</h3>\n                    <select onchange=\"(this.options[this.selectedIndex].value)
+      ? window.open(this.options[this.selectedIndex].value) : null\" name=\"sub_list\"
+      id=\"sub_list\" size=\"1\">\n                        <option selected=\"selected\"
+      value=\"\">Subscribe to a magazine</option>\n                        <option
+      value=\"\"/>\n                        <option value=\"http://www.magazinestoresubscriptions.com?source=univdropdown\">View
+      All Titles</option>\n\n                        <option value=\"\">- - - - -
+      - - - - - - - - -</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Allure?source=SITEFOOTER\">Allure</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_ArchitecturalDigest?source=SITEFOOTER\">Architectural
+      Digest</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_BonAppetite?source=SITEFOOTER\">Bon
+      App&eacute;tit</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Brides?source=SITEFOOTER\">Brides</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_CondeNastTraveler?source=SITEFOOTER\">Cond&eacute;
+      Nast Traveler</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Details?source=SITEFOOTER\">Details</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Glamour?source=SITEFOOTER\">Glamour</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfDigest?source=SITEFOOTER\">Golf
+      Digest</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GolfWorld?source=SITEFOOTER\">Golf
+      World</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_GQ?source=SITEFOOTER\">GQ</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Lucky?source=SITEFOOTER\">Lucky</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Self?source=SITEFOOTER\">Self</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_TeenVogue?source=SITEFOOTER\">Teen
+      Vogue</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=SITEFOOTER\">The
+      New Yorker</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_VanityFair?source=SITEFOOTER\">Vanity
+      Fair</option>\n                        <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Vogue?source=SITEFOOTER\">Vogue</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_W?source=SITEFOOTER\">W</option>\n
+      \                       <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_Wired?source=SITEFOOTER\">Wired</option>\n
+      \                   </select>\n                </form>\n            </div>\n
+      \           <div class=\"global-footer-sister-sites\">\n                <form
+      action=\"\" name=\"mag_dropmenus\" id=\"mag_dropmenus\">\n                    <h3>Visit
+      our sister sites:</h3>\n                    <select onchange=\"(this.options[this.selectedIndex].value)
+      ? window.open(this.options[this.selectedIndex].value) : null\" name=\"mag_list\"
+      id=\"mag_list\">\n                        <option selected=\"selected\" value=\"\">Visit
+      our sister sites</option>\n                        <option value=\"\">- - -
+      - - - - - - - - - - -</option>\n                        <option value=\"http://www.allure.com\">Allure</option>\n
+      \                       <option value=\"http://www.architecturaldigest.com\">Architectural
+      Digest</option>\n                        <option value=\"http://www.arstechnica.com\">Ars
+      Technica</option>\n                        <option value=\"http://www.bonappetit.com\">Bon
+      App&eacute;tit</option>\n                        <option value=\"http://www.brides.com\">Brides.com</option>\n
+      \                       <option value=\"http://www.concierge.com/cntraveler\">Cond&eacute;
+      Nast Traveler</option>\n                        <option value=\"http://www.concierge.com\">Concierge</option>\n
+      \                       <option value=\"http://www.details.com\">Details</option>\n
+      \                       <option value=\"http://www.epicurious.com\">Epicurious</option>\n
+      \                       <option value=\"http://www.glamour.com\">Glamour</option>\n
+      \                       <option value=\"http://www.golfdigest.com\">Golf Digest</option>\n
+      \                       <option value=\"http://www.golfworld.com\">Golf World</option>\n
+      \                       <option value=\"http://www.gq.com\">GQ</option>\n                        <option
+      value=\"http://www.hotelchatter.com\">Hotel Chatter</option>\n                        <option
+      value=\"http://www.jaunted.com\">Jaunted</option>\n                        <option
+      value=\"http://www.luckymag.com\">Lucky</option>\n                        <option
+      value=\"http://www.nutritiondata.com\">NutritionData</option>\n                        <option
+      value=\"http://www.reddit.com\">Reddit</option>\n                        <option
+      value=\"http://www.self.com\">Self</option>\n                        <option
+      value=\"http://www.style.com\">Style</option>\n                        <option
+      value=\"http://www.teenvogue.com\">Teen Vogue</option>\n                        <option
+      value=\"http://www.newyorker.com\">The New Yorker</option>\n                        <option
+      value=\"http://www.vanityfair.com\">Vanity Fair</option>\n                        <option
+      value=\"http://www.vegaschatter.com\">Vegas Chatter</option>\n                        <option
+      value=\"http://www.vogue.com\">Vogue</option>\n                        <option
+      value=\"http://www.wmagazine.com\">W</option>\n                        <option
+      value=\"http://www.wired.com\">Wired</option>\n                    </select>\n
+      \               </form>\n            </div>\n        </div>\n        <div class=\"global-footer-copyright\">\n
+      \           <p>\n                Registration on or use of this site constitutes
+      acceptance of our <a href=\"/services/useragreement\" onclick=\"window.open(this.href);return
+      false;\">User Agreement</a> <span class=\"revision-date\"> (Revised January
+      7, 2009)</span> and <a href=\"/services/privacypolicy\" onclick=\"window.open(this.href);return
+      false;\">Privacy Policy</a> <span class=\"revision-date\">(Revised January 6,
+      2009)</span>.  Gourmet &copy; 2011\n Cond&eacute; Nast Digital. All rights reserved.
+      \  The material on this site may not be reproduced, distributed, transmitted,
+      cached or otherwise used, except with the prior written permission of Cond&eacute;
+      Nast Digital.\n            </p>\n\n            \n            \n            <img
+      src=\"http://view.atdmt.com/action/MSFT_CondeNet_AE_ExtData/v3/atc1.gourmet/\"
+      width=\"1\" height=\"1\" border=\"0\" alt=\"msext\" />\n            \n            \n
+      \       </div>\n    </div>\n</div>\n\n\n\n\n\n<script type=\"text/javascript\"
+      src=\"/appjs/stats/omniture.js\"></script>\n\n\n\n\n\n\n\n<div id=\"statsHolder\">\n
+      \   <script type=\"text/javascript\">\n        \n        CN.stats.omniture.setStatus(200);\n
+      \       \n                CN.stats.omniture.doPageTracking(); // does init and
+      also tracks\n            \n    </script>\n    <script language=\"JavaScript\"
+      type=\"text/javascript\"><!--\n    if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\\!-'+'-')\n
+      \   //--></script><noscript><a href=\"http://www.omniture.com\" title=\"Web
+      Analytics\"><img\n    src=\"http://condenast.112.2o7.net/b/ss/condenet-dev/1/H.15.1--NS/0\"\n
+      \   height=\"1\" width=\"1\" border=\"0\" alt=\"\" /></a></noscript><!--/DO
+      NOT REMOVE/-->\n</div>\n<script type=\"text/javascript\">\n    var gaJsHost
+      = ((\"https:\" == document.location.protocol) ? \"https://ssl.\" : \"http://www.\");\n
+      \   document.write(unescape(\"%3Cscript src='\" + gaJsHost + \"google-analytics.com/ga.js'
+      type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<script type=\"text/javascript\">\n
+      \   try {\n        var pageTracker = _gat._getTracker(\"UA-8293713-10\");\n
+      \       pageTracker._trackPageview();\n    } catch(err) {}\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n            <script type=\"text/javascript\" src=\"/js/gourmet_bottom.js\"></script>\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</body>\n</html>\n"
+    http_version: '1.1'

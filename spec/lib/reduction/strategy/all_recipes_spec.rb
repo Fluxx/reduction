@@ -4,8 +4,9 @@ module Reduction
   class Strategy
 
     describe AllRecipes do
+      use_vcr_cassette 'all_recipes'
 
-      subject { described_class.new(fixture(:all_recipes)) }
+      subject { described_class.new(get_page('http://allrecipes.com/Recipe/sopapilla-cheesecake-pie/Detail.aspx')) }
 
       it_should_behave_like "a strategy"
 

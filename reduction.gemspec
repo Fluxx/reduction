@@ -26,4 +26,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rb-fsevent')
   s.add_development_dependency('growl')
   s.add_development_dependency('vcr')
+  s.add_development_dependency('fakeweb')
 end

@@ -6,8 +6,9 @@ module Reduction
   class Strategy
 
     describe FoodAndWine do
+      use_vcr_cassette 'food_and_wine'
 
-      subject { described_class.new(fixture(:food_and_wine)) }
+      subject { described_class.new(get_page('http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast')) }
 
       it_should_behave_like "a strategy"
 

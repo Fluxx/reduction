@@ -5,7 +5,10 @@ module Reduction
 
     describe FoodNetwork do
 
-      subject { described_class.new(fixture(:food_network)) }
+      use_vcr_cassette 'food_network'
+
+      # subject { described_class.new(fixture(:food_network)) }
+      subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/george-stella/mock-garlic-mashed-potatoes-recipe/index.html')) }
 
       it_should_behave_like "a strategy"
 

@@ -4,8 +4,9 @@ module Reduction
   class Strategy
 
     describe Epicurious do
+      use_vcr_cassette 'epicurious'
 
-      subject { described_class.new(fixture(:epicurious)) }
+      subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872')) }
 
       it_should_behave_like "a strategy"
 
