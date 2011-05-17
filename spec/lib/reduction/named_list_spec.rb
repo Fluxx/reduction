@@ -29,7 +29,8 @@ module Reduction
         EOF
       end
 
-      let(:nodeset) { Nokogiri::XML(doc).at('div').children }
+      let(:container) { Nokogiri::XML(doc).at('div') }
+      let(:nodeset) { container.children }
 
       subject { described_class.from_node_set(nodeset, :h4) }
 
@@ -54,6 +55,13 @@ module Reduction
 
         list = described_class.from_node_set(nodeset, :h5)
         list.map(&:name).should == ['Title 1', 'Title 2']
+      end
+
+      it 'does not use lists which have no title' do
+        container.add_child('<ul><li>bogus</li></ul>')
+        nodeset.search('ul').should have(3).elements
+        subject[0].should == ['Item 1', 'Item 2']
+        subject[1].should == ['Item 3', 'Item 4']
       end
     end
 

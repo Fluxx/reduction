@@ -47,19 +47,41 @@ module Reduction
 
         it_should_find 'cook_time', nil
       end
-      
+
       context 'a recipe with multiple ingredient lists' do
         subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')) }
         it_should_behave_like "a strategy"
-        # TODO: specific checks
+
+        it_should_find 'ingredients', [
+          [
+            "1 1/4 cups all-purpose flour",
+            "3 tablespoons granulated sugar",
+            "Rounded 1/4 teaspoon salt",
+            "7 tablespoons unsalted butter, cut into 1/2-inch pieces",
+            "1 large egg yolk",
+            "1/2 teaspoon pure vanilla extract",
+            "1/2 teaspoon fresh lemon juice",
+            "3 tablespoons cold water"
+          ],
+          [
+            "1 1/2 pounds strawberries (about 1 1/2 quarts), trimmed and halved lengthwise",
+            "1/3 cup granulated sugar",
+            "3/4 cup ruby Port",
+            "1 pound mascarpone (about 2 cups)",
+            "1/4 cup confectioners sugar",
+            "1 teaspoon fresh lemon juice",
+            "1/2 teaspoon grated lemon zest",
+            "3/4 teaspoon pure vanilla extract"
+          ]
+        ]
       end
-        
+
       context 'a recipe with multiple step lists' do
         subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')) }
         it_should_behave_like "a strategy"
         # TODO: specific checks
       end
-        
+
     end
 
   end

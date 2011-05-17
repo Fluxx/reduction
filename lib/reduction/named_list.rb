@@ -9,12 +9,12 @@ module Reduction
       nodeset.each do |elem|
         case elem.name.to_sym
         when title_elem.to_sym
-          stack.push(NamedList.new.tap { |l| l.name = elem.text })
+          stack.push(new.tap { |l| l.name = elem.text })
         when :ul, :ol
-          if list = stack.pop
+          if (stack.last).is_a?(self) && stack.last.empty?
             ingredient_list = elem.search('li').map(&:text)
             ingredient_list.clean!
-            stack.push(list.replace(ingredient_list))
+            stack.last.replace(ingredient_list)
           end
         end
       end
