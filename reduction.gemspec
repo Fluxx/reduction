@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   
   s.add_dependency('nokogiri', '> 1.0')
+  s.add_dependency('sinatra')
   
   s.add_development_dependency('rspec', '> 2.0')
   s.add_development_dependency('guard')
