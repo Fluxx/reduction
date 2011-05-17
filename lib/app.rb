@@ -22,6 +22,10 @@ def reduction(url)
   ''
 end
 
+def convert_result(result)
+  result.is_a?(Array) ? '<ol>' + result.map { |e| "<li>#{convert_result(e)}</li>" }.join + '</ol>': result.to_s
+end
+
 def reduce(url)
   reduc = reduction(url)
   
@@ -29,7 +33,7 @@ def reduce(url)
     %w[title ingredients steps yields prep_time cook_time].each do |meth|
       buffer << "<tr><td><strong>#{meth}</strong></td><td>"
       result = reduc.send(meth)
-      buffer << (result.is_a?(Array) ? '<ol>' + result.map { |e| "<li>#{e}</li>" }.join + '</ol>': result.to_s)
+      buffer << convert_result(result)
       buffer << "</td></tr>"
     end
     
