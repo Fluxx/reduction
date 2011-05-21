@@ -44,6 +44,11 @@ module Reduction
         subject.map(&:name).should == ['Title 1', 'Title 2']
       end
 
+      it 'collapses the whitespace for title elements' do
+        container.at('h4').replace("<h4>\nMessed\n\rUp    \r</h4>")
+        subject.map(&:name).first.should == 'Messed Up'
+      end
+
       it 'takes every other item, starting with the 2nd, as the list' do
         subject[0].should == ['Item 1', 'Item 2']
         subject[1].should == ['Item 3', 'Item 4']

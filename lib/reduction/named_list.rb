@@ -9,7 +9,7 @@ module Reduction
       nodeset.each do |elem|
         case elem.name.to_sym
         when title_elem.to_sym
-          stack.push(new.tap { |l| l.name = elem.text })
+          stack.push(new.tap { |l| l.name = elem.text.collapse_whitespace })
         when :ul, :ol
           if (stack.last).is_a?(self) && stack.last.empty?
             ingredient_list = elem.search('li').map(&:text)
