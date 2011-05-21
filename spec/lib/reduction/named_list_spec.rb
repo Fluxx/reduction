@@ -51,7 +51,9 @@ module Reduction
 
       it 'allows you to use a different title element name' do
         nodeset.search('h4').each { |e| e.name = 'h5' }
-        described_class.from_node_set(nodeset, :h4).should be_empty
+        set = described_class.from_node_set(nodeset, :h4)
+        set[0].should == ['Item 1', 'Item 2']
+        set[1].should == ['Item 3', 'Item 4']
 
         list = described_class.from_node_set(nodeset, :h5)
         list.map(&:name).should == ['Title 1', 'Title 2']
