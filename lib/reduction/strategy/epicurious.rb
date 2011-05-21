@@ -20,12 +20,17 @@ module Reduction
       end
 
       def steps
-        recipe('#preparation').search('p[class!=chefNotes]').text.stripped_lines.map do |l|
+        if steps_elements.search('strong').any?
+          multiple_steps_lists
+        else
+          steps = steps_elements.search('p[class!=chefNotes]').search('p.instruction').
+            collect(&:text)
+          steps.clean!
           # Epicurious somtimes puts numbers in front of their steps.  This strips them
           # out
           #
           # TODO: Move this to a method
-          l.gsub(/^\d\. /, '')
+          steps.map { |l| l.gsub(/^\d\. /, '') }
         end
       end
 
@@ -47,8 +52,32 @@ module Reduction
 
       private
 
+      def multiple_steps_lists
+        stack = Array.new
+
+        steps_elements.search('p').each do |element|
+          if element.search('strong').any?
+            title = element.at('strong').remove
+            list = NamedList.new
+            list << element.text.collapse_whitespace
+            list.name = title.text.collapse_whitespace
+            stack.push(list)
+          else
+            if stack.last.is_a?(NamedList)
+              stack.last << element.text.collapse_whitespace
+            end
+          end
+        end
+
+        stack
+      end
+
       def ingredient_elements
         doc.at('#ingredients').children
+      end
+
+      def steps_elements
+        recipe('#preparation').children
       end
 
     end
