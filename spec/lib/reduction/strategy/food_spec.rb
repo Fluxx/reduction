@@ -34,14 +34,18 @@ module Reduction
         end
 
         it_should_find 'ingredients', [
-          "6 ounces frozen limeade concentrate",
-          "6 ounces tequila",
-          "2 ounces triple sec"
+          [
+            "6 ounces frozen limeade concentrate",
+            "6 ounces tequila",
+            "2 ounces triple sec"
+          ]
         ]
 
         it_should_find 'steps', [
-          "Fill blender with crushed ice.",
-          "Add three ingredients and blend till thick."
+          [
+            "Fill blender with crushed ice.",
+            "Add three ingredients and blend till thick."
+          ]
         ]
 
         it_should_find 'yields', '4 servings'

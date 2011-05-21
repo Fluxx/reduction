@@ -14,12 +14,12 @@ module Reduction
       end
 
       def ingredients
-        doc.at('#ingredients').search('li').map(&:text).map(&:collapse_whitespace)
+        [ doc.at('#ingredients').search('li').map(&:text).map(&:collapse_whitespace) ]
       end
 
       def steps
-        doc.search('#directions ol[itemprop=instructions] li').map(&:text).
-          map(&:collapse_whitespace)
+        [ doc.search('#directions ol[itemprop=instructions] li').map(&:text).
+          map(&:collapse_whitespace) ]
       end
 
       def yields

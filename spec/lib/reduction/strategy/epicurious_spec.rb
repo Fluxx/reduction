@@ -40,8 +40,10 @@ module Reduction
         ]
 
         it_should_find 'steps', [
-          "In a large, dry skillet, brown the bacon over moderate heat until crisp and golden, about 5 minutes. With a slotted spoon, transfer the bacon to several layers of paper towels to absorb the fat. Blot the top of the bacon with several layers of paper towels to absorb any additional fat. Set aside.",
-          "In a large, shallow bowl, combine the bacon, lettuce, tomatoes, avocado, cheese, and spring onions. Toss with just enough dressing to lightly and evenly coat the ingredients. Season generously with pepper, and serve."
+          [
+            "In a large, dry skillet, brown the bacon over moderate heat until crisp and golden, about 5 minutes. With a slotted spoon, transfer the bacon to several layers of paper towels to absorb the fat. Blot the top of the bacon with several layers of paper towels to absorb any additional fat. Set aside.",
+            "In a large, shallow bowl, combine the bacon, lettuce, tomatoes, avocado, cheese, and spring onions. Toss with just enough dressing to lightly and evenly coat the ingredients. Season generously with pepper, and serve."
+          ]
         ]
 
         it_should_find 'yields', '4 servings'
@@ -116,7 +118,9 @@ module Reduction
         it_should_behave_like "a strategy"
 
         it_should_find 'steps',  [
-          "Combine citrus zest, lime leaves, lemongrass, and 2 cups water in a small saucepan. Bring to a boil, reduce heat, and simmer for 5 minutes. Strain lemongrass mixture into a jar and chill. Fill a 12 ounce glass with ice cubes. Add 2 tablespoons lemongrass mixture and 1 tablespoon simple syrup. Top with soda water (about 1/2 cup) and stir to combine. Repeat to make 11 more sodas."
+          [
+            "Combine citrus zest, lime leaves, lemongrass, and 2 cups water in a small saucepan. Bring to a boil, reduce heat, and simmer for 5 minutes. Strain lemongrass mixture into a jar and chill. Fill a 12 ounce glass with ice cubes. Add 2 tablespoons lemongrass mixture and 1 tablespoon simple syrup. Top with soda water (about 1/2 cup) and stir to combine. Repeat to make 11 more sodas."
+          ]
         ]
       end
 

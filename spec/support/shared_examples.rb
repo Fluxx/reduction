@@ -21,8 +21,11 @@ shared_examples_for "a strategy" do
   end
 
   array_methods.each do |method|
-    it "should return an array for ##{method}" do
+    it "should return an array of arrays for ##{method}" do
       subject.send(method).should be_a(Array)
+      subject.send(method).each do |element|
+        element.should be_a(Array)
+      end
     end
   end
 

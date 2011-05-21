@@ -12,15 +12,15 @@ module Reduction
       end
 
       def ingredients
-        doc.at('.ingredient-set ul').search('li').collect(&:text).collect do |item|
+        [ doc.at('.ingredient-set ul').search('li').collect(&:text).collect do |item|
           item.gsub(/\s+/, ' ').strip
-        end
+        end ]
       end
 
       def steps
-        doc.at('.preparation').search('li').collect(&:text).collect do |item|
+        [ doc.at('.preparation').search('li').collect(&:text).collect do |item|
           item.gsub(/\s+/, ' ').strip
-        end
+        end ]
       end
 
       def yields

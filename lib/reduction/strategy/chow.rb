@@ -12,19 +12,11 @@ module Reduction
       end
 
       def ingredients
-        if ingredient_elements.search('h4').any?
-          NamedList.from_node_set(ingredient_elements, :h4)
-        else
-          ingredient_elements.search('li').map(&:text).map(&:collapse_whitespace)
-        end
+        NamedList.from_node_set(ingredient_elements, :h4)
       end
 
       def steps
-        if steps_elements.search('strong').any?
-          NamedList.from_node_set(steps_elements, :strong)
-        else
-          steps_elements.search('li').collect(&:text)
-        end
+        NamedList.from_node_set(steps_elements, :strong)
       end
 
       def yields

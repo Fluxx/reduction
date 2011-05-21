@@ -12,12 +12,12 @@ module Reduction
       end
 
       def ingredients
-        doc.at('.ingredients ul.clr').search('li').collect(&:text).
-          collect(&:collapse_whitespace)
+        [ doc.at('.ingredients ul.clr').search('li').collect(&:text).
+          collect(&:collapse_whitespace) ]
       end
 
       def steps
-        doc.search('.directions ol li span').map(&:text)
+        [ doc.search('.directions ol li span').map(&:text) ]
       end
 
       def yields

@@ -12,11 +12,11 @@ module Reduction
       end
 
       def ingredients
-        recipe('.ingredients ul').text.stripped_lines
+        [recipe('.ingredients ul').text.stripped_lines]
       end
 
       def steps
-        recipe('.directions ol').text.stripped_lines
+        [recipe('.directions ol').text.stripped_lines]
       end
 
       def yields
