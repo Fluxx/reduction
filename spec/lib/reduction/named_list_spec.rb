@@ -57,11 +57,12 @@ module Reduction
         list.map(&:name).should == ['Title 1', 'Title 2']
       end
 
-      it 'does not use lists which have no title' do
+      it 'finds lists that have no title' do
         container.add_child('<ul><li>bogus</li></ul>')
         nodeset.search('ul').should have(3).elements
         subject[0].should == ['Item 1', 'Item 2']
         subject[1].should == ['Item 3', 'Item 4']
+        subject[2].should == ['bogus']
       end
     end
 

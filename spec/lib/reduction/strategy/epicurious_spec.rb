@@ -74,6 +74,9 @@ module Reduction
             "1 teaspoon fresh lemon juice",
             "1/2 teaspoon grated lemon zest",
             "3/4 teaspoon pure vanilla extract"
+          ],
+          [
+            "Equipment:  a 10-inch fluted tart pan with removable bottom; pie weights or dried beans"
           ]
         ]
       end

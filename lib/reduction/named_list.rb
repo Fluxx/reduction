@@ -15,12 +15,13 @@ module Reduction
             ingredient_list = elem.search('li').map(&:text)
             ingredient_list.clean!
             stack.last.replace(ingredient_list)
+          elsif (stack.last).is_a?(self) && !stack.last.empty?
+            stack.push(new(elem.search('li').map(&:text)))
           end
         end
       end
 
       stack
     end
-  end
 
 end
