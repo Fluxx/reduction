@@ -3363,3 +3363,1100 @@
       0,\n                    toolbar: 0\n                }\n            });\n       MAGNET.popups.init();\n
       \   </script>\n\n\n<script type=\"text/javascript\" src=\"/rd_scripts/cobranding/render_cobrand_header.js\"></script>\n\n\n</body>\n</html>"
     http_version: '1.1'
+- !ruby/struct:VCR::HTTPInteraction
+  request: !ruby/struct:VCR::Request
+    method: :get
+    uri: http://www.epicurious.com:80/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109
+    body: !!null 
+    headers: !!null 
+  response: !ruby/struct:VCR::Response
+    status: !ruby/struct:VCR::ResponseStatus
+      code: 200
+      message: OK
+    headers:
+      server:
+      - Apache
+      content-language:
+      - en-US
+      content-type:
+      - text/html; charset=iso-8859-1
+      date:
+      - Sat, 21 May 2011 17:21:20 GMT
+      transfer-encoding:
+      - chunked
+      connection:
+      - keep-alive
+      - Transfer-Encoding
+      cache-control:
+      - private, max-age=600
+      expires:
+      - Sat, 21 May 2011 17:01:39 GMT
+    body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
+      \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
+      xml:lang=\"en-US\" lang=\"en-US\">\n\n\n<head>\n    \n    \n    \n\n    \n    \n
+      \       \n        \n        \n        \n        \n        \n            <title>\n\n\n\n\n\n\n\n\n\nBaked
+      Peaches with Amaretti and Cocoa  Recipe\n at Epicurious.com</title>\n        \n
+      \       \n        \n    \n    \n    <link rel=\"stylesheet\" type=\"text/css\"
+      media=\"screen\" href=\"/styles/main.css\" />\n    \n\n    <link rel=\"stylesheet\"
+      href=\"/styles/recipes/recipe_detail2.css\" type=\"text/css\" media=\"screen\">\n\n\n<link
+      rel=\"stylesheet\" type=\"text/css\" media=\"print\" href=\"/styles/print.css\"
+      />\n<link rel=\"Shortcut Icon\" href=\"/favicon.ico\" type=\"image/x-icon\"
+      />\n\n\n\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\"
+      />\n<meta http-equiv=\"PRAGMA\" content=\"NO-CACHE\" />\n<meta http-equiv=\"Content-Language\"
+      content=\"en-us\" />\n<meta name=\"MSSmartTagsPreventParsing\" content=\"true\"
+      />\n<meta name=\"author\" content=\"CondeNet\" />\n<meta name=\"Copyright\"
+      content=\"Copyright (c) 2010 CondeNet\" />\n\n\n<meta property=\"fb:admins\"
+      content=\"648235154,789168297,688620285\"/>\n<meta property=\"fb:page_id\" content=\"12770210203\"/>\n<meta
+      property=\"og:site_name\" content=\"Epicurious\"/>\n\n\n\n\n\n\n<script type=\"text/javascript\">var
+      documentQueryString=window.location.search.replace(/\\?/,\"\"); </script>\n<script
+      type=\"text/javascript\" src=\"/scripts/jquery-1.3.2.min.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/js/cn-fe-common/cn.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/js/cn-fe-ads/cn.dart.js\"></script>\n<script type=\"text/javascript\">\n
+      \   CN.site.init({\n        code: 'EPI',\n        title: 'Epicurious',\n        name:
+      'epicurious.com'\n    });\n</script>\n<script type=\"text/javascript\" src=\"/js/cn-fe-ads/cn.ad.modifiers.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/js/cn-fe-ads/cn.ad.lotame.js\"></script>\n\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/main.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/scripts/recipeAdUtils.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/css_overrides.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/ecom/ecomfw.min.js\"></script>\n\n\n\n<script type=\"text/javascript\">\n
+      \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
+      \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'epi.dart',
+      zone: 'recipedetail;', kws:[ \"Baked-Peaches-with-Amaretti-and-Cocoa-365109\",\"Peach\",\"Non-Traditional\",\"views\",\"rid=365109&Chocolate&Peach&Non-Traditional&Dessert&Bake&Summer&Quick+&+Easy&ad=N&recipes&food&views&Baked-Peaches-with-Amaretti-and-Cocoa-365109\",\"Summer\",\"food\",\"rid=365109\",\"recipes\",\"Chocolate\",\"Bake\",\"Dessert\",\"Quick+&+Easy\",\"ad=N\"],
+      charmap : {}, embed: true});\n    //-->\n    </script>\n        \n    \n\n\n\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/popMaster.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/subscription.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/scripts/registration.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/rounder2.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/dwr/engine.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/json2.js\"></script>\n\n\n\n<script type=\"text/javascript\"
+      src=\"/scripts/prototype-1.4.0.js\"></script>\n\n    <script type=\"text/javascript\"
+      src=\"/dynjs/recipedetailhome.javascript.js\" language=\"javascript1.2\"></script>\n\n\n
+      \   <script type=\"text/javascript\" src=\"/rd_scripts/recipe_detail/detailPageFunctions2.js\"></script>\n\n\n<link
+      rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"/styles/rounder2.css\"
+      />\n<link rel=\"stylesheet\" href=\"/styles/modules/Slider.css\" type=\"text/css\"
+      media=\"screen\">\n<script type=\"text/javascript\" src=\"/rd_scripts/modules/Slider.js\"></script>\n<link
+      rel=\"alternate\" type=\"application/rss+xml\" title=\"Epicurious.com: New Recipes\"
+      href=\"/services/rss/feeds/newrecipes.xml\"/>\n<link rel=\"alternate\" type=\"application/rss+xml\"
+      title=\"Epicurious.com: Latest Features\" href=\"/services/rss/feeds/LatestFeatures.xml\"/>\n\n\n\n\n
+      \n\n <!-- supp: dartAd -->\n\n\n\n \n\n\n\n   \n   \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \ \n    \n      \n      \n        \n          \n          \n            <meta
+      name=\"description\" content=\"Find the recipe for Baked Peaches with Amaretti
+      and Cocoa  and other peach recipes at Epicurious.com\">\n          \n        \n
+      \     \n    \n  \n  \n  \n  \n\n\n\n</head>\n<body class=\"recipesmenus\" id=\"epicuriousBody\">\n\n<div
+      id=\"dash-header\" style=\"display: none;\">\n    <div id=\"dash-cobrand-container\">\n
+      \       <a href=\"http://www.dashmagazine.com\"><img src=\"/rd_images/cobranding/dash.gif\"/></a>\n
+      \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n<!-- begin stats call -->\n<script>\n
+      \   var epi_stats = \"\";\n </script>\n<!-- end stats call -->\n\n    <div id=\"pageWrapper\">\n
+      \   \n\n\n\n<div id=\"breadcrumb_session\">\n    <div id=\"bc_left\">\n    \n
+      \       \n        \n            \n                <a href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n
+      \               \n                \n            \n            &#8250;\n        \n
+      \           \n                \n                <a href=\"/recipesmenus\" class=\"bc_links\">recipes
+      & menus</a>\n                \n            \n            &#8250;\n        \n
+      \           \n                \n                \n                baked peaches
+      with amaretti and cocoa\n            \n            \n        \n        \n\n
+      \       \n    \n    </div>\n    <div id=\"bc_right\">\n        <ul class=\"user-session\"
+      id=\"loggedin\">\r\n        <li>welcome <a href=\"/community/myepi/myprofile\"
+      id=\"sessionUserName\">epicurious user</a> &#183;</li>\r\n        <li id=\"para-recipe-box-counter\"><a
+      href=\"/community/myepi/myrecipebox\">my recipe box</a> <a href=\"/members/recipe_box/results\"
+      id=\"recipeBoxCount\"></a> &#183;</li>\r\n        <li id=\"para-recipe-box-counter\"><a
+      href=\"/community/myepi/myprofile\">my profile</a> &#183;</li>\r\n\t\t<li><a
+      href=\"/user/preferences\">preferences</a>  &#183;</li>\r\n        <li id=\"para-recipe-box-counter\"><a
+      href=\"javascript:logout();\">sign out</a></li>\r\n    </ul>\r\n\r\n    <ul
+      class=\"user-session\" id=\"notlogged\">\r\n        <li>Not a member?  To save,
+      rate, and share recipes, <a href=\"/user/registration\">join now</a>!  Already
+      a member?  <a href=\"/user/login\">sign in</a></li>\r\n    </ul>     \r\n    <script
+      type=\"text/javascript\" src=\"/rd_scripts/session.js\" language=\"JavaScript1.2\"></script>\r\n\n
+      \   </div>\n    \n\n\n\n\n\n<div class=\"separator\" id=\"365109\">\n    <hr/>\n</div>\n\n</div>\n\n
+      \   \n    <div id=\"headerSpace\"></div>\n     \n     \n     <style>\ndiv#promotion_heading
+      {\nbackground:transparent url(/images/header/promotion/mothersday-2011-banner.png)
+      no-repeat scroll 0 0;\ndisplay:none;}\n</style>\n<div id=\"promotion_heading\">\n<div
+      class=\"promotion_head_sponsorlink\"><a href=\"/articlesguides/holidays/mothersday/mothers_day?intcid=epi_promobar\"
+      id=\"sponsorlink\"><span>show mom you love her</span></a></div>\n<a href=\"/articlesguides/holidays/mothersday/mothers_day?intcid=epi_promobar\"
+      \ntitle=\"show mom you love her\" id=\"sponsorlink2\"></a>\n<a href=\"/articlesguides/holidays/mothersday/mothers_day?intcid=epi_promobar\"
+      \ntitle=\"here's how\" class=\"see_it_all\"></a>\n</div>\n     \n     \n     <span
+      id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n        \n\n\n\n\n\n\n
+      \   \n\n\n    </div>\n    <a id=\"epiAppStorePromo\" class=\"appStorePromoHidden\"
+      href=\"itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&mt=8&s=143441\">get
+      the epicurious iPhone app</a>\n    <script type=\"text/javascript\" language=\"JavaScript\">detectPushdownAd();displayEpiAppStorePromo();</script>\n\n
+      \       <div class=\"contentContainer\" id=\"primary\">\n            <img id=\"printer_friendly_global\"\n
+      \           src=\"/rd_images/printer_friendly/printer_friendly_epi_logo.gif\"/>\n
+      \            \n\n\n\n\n\n\n\n\n<script type=\"text/javascript\" language=\"JavaScript
+      1.5\">\n    isDuplicateRecipe = false;\n    \n        \n        var recipeReferrer
+      = document.referrer;\n    \n    var recipeHost = \"www.epicurious.com\";\n    var
+      subscriptionSource = \"ot\";\n\n    if(recipeReferrer.toLowerCase().indexOf(recipeHost)
+      != -1){\n        isEpiReferrer = true;\n    }else{\n        isEpiReferrer =
+      false;\n    }\n</script>\n<script type=\"text/javascript\" language=\"JavaScript
+      1.5\" src=\"/rd_scripts/components/searchPromoUnit.js\"></script>\n<script type=\"text/javascript\"
+      language=\"JavaScript 1.5\" src=\"/rd_scripts/ecom/ecom_forms.js\"></script>\n\n<div
+      id=\"BNA_recipeDetails_form_wrapper\" style=\"display:none;\">\n    <div id=\"BNA_recipeDetails_form_header\">\n
+      \       <a href=\"#\">Close</a>\n    </div>\n    <div id=\"ecom_form_wrapper_content\">\n
+      \       <div id=\"BNA_recipeDetails_form\"></div>\n        <script type=\"text/javascript\">\n
+      \       //<!--\n            CNP.ecom.request({\n                pid:'BNA_recipeDetails_form',\n
+      \               tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_form',\n
+      \               params:{},callafter:{func: initEcomRecipeDetailsForm}\n            });\n
+      \       //-->\n        </script>\n    </div>\n    <div id=\"ecom_form_wrapper_footer\"></div>\n</div>\n\n\n<div
+      id=\"searchPromoUnit\" style=\"display: none;\">\n    <a class=\"close_promo\"
+      onclick=\"closePromo();\"></a>\n    <style>\nul#sp_moreonepi_links {font-size:11px;
+      left:400px; position:absolute; top:10px; width:267px;}\n#searchPromoUnit {border:
+      1px solid #e6e5da; padding: 1px; background-color: #fff;}\ndiv#promoimg {background-image:url(/rd_images/promo_unit/searchPromo/promounit.jpg);height:71px;
+      margin-top: 0px;}\nul#sp_moreonepi_links {left:357px; width:332px;}\n</style>\n\n<div
+      id=\"promoimg\">\n<div id=\"promolink\" style=\"display: relative\"><a href=\"/articlesguides/holidays/weddings/weddings?intcid=epi_searchpromo\"
+      style=\"color: #ffffff;\" id=\"glink1\"><span>it's wedding season</span></a></div>\n
+      \   <ul id=\"sp_moreonepi_links\">\n\t\t<li><span style=\"color: #000000; font-family:
+      \"Lucida Grande\",Arial,Verdana,sans-serif; size: 11px;\">more stories on epicurious...</span></li>\n
+      \       <li><a href=\"/articlesguides/holidays/weddings/diy?intcid=epi_searchpromo\"
+      style=\"color: #000000;\">8 unique and affordable d.i.y. wedding ideas</a> <strong
+      style=\"color: #000000;\">&#8250;</strong></li>\n\t\t<li><a href=\"/articlesguides/holidays/weddings/international?intcid=epi_searchpromo\"
+      style=\"color: #000000;\">From fruitcake to goat: Global wedding traditions</a>
+      <strong style=\"color: #000000;\">&#8250;</strong></li>\n\t\t<li><a href=\"/articlesguides/holidays/weddings/registry?intcid=epi_searchpromo\"
+      style=\"color: #000000;\">The only gift registry foodies will ever need</a>
+      <strong style=\"color: #000000;\">&#8250;</strong></li>\n    </ul>\n</div>\n\n</div>\n\n<div
+      id=\"BNA_recipeDetails_banner\">\n</div>\n\n\n\n<div id=\"randomhouseCom\" style=\"display:
+      none;\">\n    \n</div>\n\n\n\n\n            \n        <div id=\"common_tools\">\n
+      \               <p id=\"parent_link\">\n                <a href=\"/recipesmenus\">Recipes
+      & Menus</a> &#8250;\n                </p>\n            <ul id=\"control_menu\">\n
+      \               <li id=\"ct_print\">\n                            <a href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"print\" target=\"new\">print</a> \n                            <!-- <div
+      id=\"hpPrintAd\"></div> --> \n                            <div id=\"pf_dropdown\">\n\t\t\t\t\t\t\t\t<div
+      id=\"printlink\"><a href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      target=\"new\">print</a></div>\n                                <ul id=\"printmenu\">\n\t\t\t\t\t\t\t\t\t
+      <li><a href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      target=\"new\">full page</a></li>\n                                        <li><a
+      href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109?printFormat=photo\"
+      target=\"new\">full page w/ photo</a></li>\n                                    <li><a
+      href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109?printFormat=3x5\"
+      target=\"new\">3x5 card</a></li>\n                                    <li id=\"fourbysix\"
+      ><a href=\"/recipes/food/printerfriendly/Baked-Peaches-with-Amaretti-and-Cocoa-365109?printFormat=4x6\"
+      target=\"new\">4x6 card</a></li>\n\t\t\t\t\t\t\t\t\t<li id=\"shoppinglist\"><a
+      href=\"/recipes/shoppinglist/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      target=\"new\">shopping list</a></li>\n \t\t\t\t\t\t\t\t</ul>\n                                <div
+      class=\"dinadiv\">&nbsp;</div>\n                            </div>\n                </li>\n
+      \                   <li id=\"ct_email\">\n                       <a href=\"/recipes/food/email/Baked-Peaches-with-Amaretti-and-Cocoa-365109?title=\nBaked
+      Peaches with Amaretti and Cocoa  Recipe\n\" id=\"email\">e-mail</a>\n\t\t\t\t\t
+      \  <div id=\"email_dropdown\">\n\t\t\t\t\t        <ul id=\"emailmenu\">\n\t\t\t\t\t\t\t\t<li
+      id=\"email_text\">e-mail</li>\n\t\t\t\t\t\t\t\t<li id=\"email_recipe\">\n\t\t\t\t\t\t\t\t\t<a
+      href=\"/recipes/food/email/Baked-Peaches-with-Amaretti-and-Cocoa-365109?title=\nBaked
+      Peaches with Amaretti and Cocoa  Recipe\n\">recipe</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li
+      id=\"email_shoppinglist\">\n\t\t\t\t\t\t\t\t\t<a href=\"/recipes/shoppinglist/email/Baked-Peaches-with-Amaretti-and-Cocoa-365109?title=\nBaked
+      Peaches with Amaretti and Cocoa  Recipe\n\">shopping list</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n
+      \   \t\t\t\t   </div>\n\t\t\t\t\t   <script language=\"javascript\">\n\t\t\t\t\t
+      \    runOnLoad(emailDropdownMenuInit);\n        \t\t\t   </script>\n\t\t\t\t\t</li>\n
+      \               <li id=\"ct_font_switcher\">\n                    font size:
+      <a id=\"fso_1\">A</a> <a class=\"active\" id=\"fso_2\">A</a> <a id=\"fso_3\">A</a>\n
+      \               </li>\n            </ul>\n            <div class=\"clear\"></div>\n
+      \       </div>\n        <script type=\"text/javascript\" language=\"JavaScript
+      1.5\" src=\"/rd_scripts/common_tools.js\"></script>\n\n\n            \n            \n
+      \               \n                <div id=\"primary_content\" class=\"hrecipe\">\n
+      \                   <div id=\"pc_extra_info\"></div>\n                    <div
+      id=\"pc_top\">\n                        <div id=\"pc_top1\"><!-- back to links
+      -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n</div>\n                        <div
+      id=\"pc_top2\">\n                            \n\n\n\n\n\n\n\n<div id=\"headline\">\n
+      \   \n    \n    <a href=\"\" class=\"clipping\"></a>\n    \n        \n        \n\n
+      \       \n        \n\n        \n        \n        \n        \n        \n        \n
+      \       \n        \n        \n        \n        \n        \n        \n        \n
+      \       \n        \n        \n\n        \n        \n\n        \n\n        \n
+      \           \n            \n\n\n\n\n\n\n\n\n\n            \n\n            \n
+      \           \n\n            \n            \n            \n                \n
+      \                   <h1 class=\"fn\">Baked Peaches with Amaretti and Cocoa </h1>\n
+      \               \n                \n            \n        \n        \n        \n\n
+      \       \n        \n\n        \n        \n\n        \n\n        \n        \n\n
+      \   \n\n    \n    \n    \n\n   \n    \n    \n\n    \n    \n\n    \n\n    \n
+      \   \n    \n        \n    \n    \n        \n    \n\n    <p class=\"source\"
+      \ id=\"mag_info\">\n\n    \n        \n            \n\n            \n\n                \n
+      \           \n                \n            \n            \n            \n                \n
+      \           \n                Epicurious\n            \n            \n            \n
+      \       \n    \n\n    \n    \n        \n            \n                \n            \n
+      \       \n        \n    \n\n    &nbsp;&#124;&nbsp;May 2011\n    </p>\n\n    \n
+      \       \n        <p class=\"author source\" id=\"recipe_author\">by Anna Boiardi
+      and Stephanie Lyness</p>\n    \n\n    \n        <p class=\"source\" id=\"source_other\">\n
+      \           \n                \n                    \n                        <a
+      href=\" http://astore.amazon.com/epistore-20/detail/1584799064\" target=\"_new\">\n
+      \                       \n                    \n                \n            \n
+      \           <em><em>Delicious Memories</em></em>\n            \n                </a>\n
+      \           \n        </p>\n    \n\n    \n\n\n\n\n    \n\n\n    \n\n    \n        \n
+      \       \n\n        \n        \n            \n        \n    \n    \n\n</div>\n\n
+      \                           \n                            <div class=\"sponsorAd\">\n
+      \                               \n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"sponsorAd120x60_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('sponsorAd',
+      {sz:'120x60', kws:[]});\n    //-->\n    </script>\n    \n\n\n\n\n                                \n
+      \                           </div>\n                        </div>\n                    </div>\n
+      \                   <script type=\"text/javascript\" language=\"JavaScript\">headlineAligner();</script>\n
+      \                   \n\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n
+      \       <div id=\"recipe_detail_module\" class=\"content_unit detail_page\">\n
+      \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n        \n    \n\n\n\n\n    \n    \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        \n    \n\n    \n    \n    \n    \n    \n    \n    \n\n    \n
+      \       \n    \n    \n        \n    \n\n    \n        \n    \n    \n    \n        \n
+      \   \n    \n    \n        \n        \n        \n            \n            \n
+      \       \n    \n    \n       \n          \n       \n          \n             \n
+      \         \n       \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        \n
+      \       \n        \n        <div id=\"recipe_nav\" class=\"empty\">\n              \n
+      \               \n              \n\n\n\n\n\t\t\t\t\n\n\n\n<ul>\n        <li>\n
+      \           <a href=\"/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"recipe_tab\" class=\"current\">recipe</a>\n        </li>\n        \n        <li>\n
+      \           <a href=\"/recipes/food/reviews/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"reviews_tab\" >reviews (<span id=\"reviews_tab.numReviews\"><span itemprop=\"count\">0</span></span>)</a>\n
+      \       </li>\n        \n        \n        <li>\n            <a href=\"/recipes/food/photo/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"photo_tab\" >photo</a>\n        </li>\n        \n        \n        \n        <li>\n
+      \           <a href=\"javascript:void(0);\" id=\"notes_tab\" >my notes</a>\n
+      \           <script type=\"text/javascript\">\n                new LoginRequiredLink('365109','notes_tab','/recipes/food/notes/Baked-Peaches-with-Amaretti-and-Cocoa-365109','recipeBox');\n
+      \           </script>\n        </li>\n        \n        \n        <li>\n            <a
+      href=\"/recipes/food/more/Baked-Peaches-with-Amaretti-and-Cocoa-365109\" id=\"more_tab\"
+      >find out more</a>\n        </li>\n        \n</ul>\n<script type=\"text/javascript\"
+      language=\"javascript\" src=\"/rd_scripts/recipe_detail/recipe_tabs.js\"></script>\n\n\n\n\n
+      \       </div>\n        \n    \n        \n        \n        \n        <div id=\"unit_col1\"
+      class=\"empty\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div
+      class=\"rounded\">\n    \n\n    \n    \n    <div id=\"user_interactions\">\n
+      \       <h3>user rating</h3>\n        \n            \n                <p>be
+      the first to rate and review this recipe</p>\n            \n            \n        \n
+      \       <span id=\"rate\"><button id=\"rateReviewLink\" class=\"rate_review_btn
+      \">rate this recipe</button></span>\n        <span id=\"review\"><button id=\"reviewRecipeLink\"
+      class=\"rate_review_btn \">review this recipe</button></span>\n\n        <script
+      type=\"text/javascript\">\n            EventBroker.rateRecipeBox = new RateRecipeBox('365109',
+      '/images/recipes/recipe_search/rate_forks', 'fork', 'fork', 'forks');\n            function
+      createReviewBox(){\n                if (EventBroker.reviewRecipeBox == undefined)
+      {\n                    EventBroker.reviewRecipeBox = new ReviewRecipeBox('reviewRecipeLink',\n
+      \                   '365109','/recipes/food/reviews/Baked-Peaches-with-Amaretti-and-Cocoa-365109?cached=F',\n
+      \                   '/recipes/food/review/preview/Baked-Peaches-with-Amaretti-and-Cocoa-365109',
+      '/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109',\n                    '/images/recipes/recipe_search/rate_forks',
+      'fork', 'fork', 'forks');\n                } else {\n                    EventBroker.reviewRecipeBox.addOpenLink('reviewRecipeLink');\n
+      \               }\n            }\n            runOnLoad(createReviewBox);\n
+      \       </script>\n    </div>\n    \n    \n        <div id=\"at_a_glance\">\n
+      \           <h3>at a glance</h3>\n            \n                <p><span>main
+      ingredients</span>\n                    \n                        <a href=\"/tools/searchresults?att=473&type=advanced\">Peach</a>,&nbsp;\n
+      \                   \n                        <a href=\"/tools/searchresults?att=86&type=advanced\">Chocolate</a>\n
+      \                   \n                </p>\n            \n            \n            \n
+      \               <p><span>type</span>\n                    \n                    \n
+      \                       \n                    \n                        \n                            <a
+      href=\"/tools/searchresults?att=165&type=advanced\">Quick & Easy</a>\n                        \n
+      \                   \n                    \n\n                    \n                    \n
+      \               </p>\n            \n            \n\n            \n\n            \n
+      \           \n            \n\n            \n        </div>\n    \n\n\n    \n
+      \   \n        <div id=\"food_groups_saa\">\n            <img src=\"/rd_images/community/new2.gif\"
+      alt=\"new\"/><h3>see all about:</h3>\n            <ul>\n            \n                <li><a
+      href=\"/community/groups/chocolate/\">Chocolate</a>,</li>\n            \n                <li><a
+      href=\"/community/groups/quick/\">Quick &amp; Easy Cooking</a></li>\n            \n
+      \           </ul>\n        </div>\n    \n    \n\n\n\n    \n    <div id=\"in_resources\"
+      class=\"rounded\">\n    <h3>more resources</h3>\n    <a href=\"/tools/fooddictionary\"
+      id=\"food_dictionary\">Food Dictionary</a>\n    <a href=\"/video\" id=\"cooking_videos\">cooking
+      videos</a>\n</div>\n\n \n       \n        <script language=\"javascript\" type=\"text/javascript\">\n
+      \           EventBroker.registerLoginBox = new RegisterLoginBox({recipeId: '365109',
+      returnToUrl: '/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109',
+      shoppingListUrl: '/recipes/shoppinglist/Baked-Peaches-with-Amaretti-and-Cocoa-365109'});\n
+      \           Event.observe(window, 'load', recipeDetailsInit);\n            function
+      recipeDetailsInit() {\n                EventBroker.userIsOwnerListener = new
+      UserIsOwnerListener('365109');\n                ClientLoginManager.initialize('365109');\n
+      \               DWREngine.beginBatch();\n                \n                \n
+      \               \n                    EventBroker.searchLayer = new SearchLayer(document.referrer,
+      365109);\n                \n                \n                CacheableDWR.makeBatchCacheable();\n
+      \               DWREngine.endBatch();\n            }\n\n            \n        </script>\n</div>\n\n\n\n\n\n
+      \       </div>\n        \n    \n        \n        \n        \n        <div id=\"unit_col2\"
+      class=\"empty\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
+      language=\"javascript\">\n        \n        addLoadEvent(function() { setBackToRecipe(encodeURIComponent('Baked
+      Peaches with Amaretti and Cocoa '), document.URL) });\n        var textPref
+      = getCookie(\"style\");\n        var title = textPref ? textPref : getPreferredStyleSheet();\n
+      \       setActiveStyleSheet(title);\n</script>\n\n\n<div id=\"introBlock\">\n
+      \   \n    \n    <div id=\"recipe_thumb\">\n        <a href=\"/recipes/food/photo/Baked-Peaches-with-Amaretti-and-Cocoa-365109\">\n
+      \           \n            <img src=\"/images/recipesmenus/2011/2011_may/\n365109_116.jpg\"
+      class=\"photo scale_down\" alt=\"Baked Peaches with Amaretti and Cocoa \" />\n
+      \       </a>\n        <a href=\"/recipes/food/photo/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"enlarge_image\">enlarge image</a>\n    </div>\n    \n    \n    <div id=\"recipe_summary\">\n
+      \       \n        \n        \n            <p class=\"summary_data\"><strong>yield:</strong><span
+      class=\"yield\"> Serves 4</span></p>\n        \n        \n        \n        \n
+      \           \n            \n        \n        \n            <div class='padTop14'
+      id=\"recipeIntroText\">\n                \n                <span id=\"truncatedText\"
+      class=\"summary\">Peaches are abundant in the area around Piacenza. My mom's
+      mother,\r\nNonna Stella, used to use them in this traditional dish during the...</span>\n
+      \               <span class=\"greenLnk\"><a class=\"greenLnk\" onclick=\"swapIntroText(event);\">more</a>
+      &#8250;</span>\n                <script>\n                        var recipeIntroText
+      = \"Peaches are abundant in the area around Piacenza. My mom's mother,\\r\\nNonna
+      Stella, used to use them in this traditional dish during the months\\r\\nwhen
+      the peaches were at their best. In fact, my mom likes to tell me how, when she
+      was pregnant, she ate them nonstop.<br/><br/>\\r\\nThe peaches should be very
+      ripe and juicy. If they're not so juicy, you\\r\\nmay need to chop an extra
+      peach half for the filling, to add a little moisture. Make amaretti crumbs by
+      pulsing the cookies in a food processor, or putting them in a resealable plastic
+      bag, and crushing them with a rolling pin or a meat mallet.\";\n                </script>\n
+      \           \n\n            </div>\n        \n    </div>\n    <div class=\"clrLeft\"></div>\n</div>\n\n
+      \   <div class=\"detail_division\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_buckets_divider.gif\"
+      border=\"0\"/> </div>\n \n\n\n\n\n    <div id=\"ingredients\">\n        <div
+      id=\"ingredients_headline_wrapper\">\n            \n\n\n\n    \n    \n\n    \n
+      \   \n    \n        <a href='http://www.condenastdirect.com/group/bna_070507_split'
+      target='_blank' class='subLnk'>subscribe to Bon App&eacute;tit</a>\r\n\n    \n\n\n
+      \           <h2>Ingredients</h2>\n        </div>\n        \n            \n            \n
+      \           <ul class=\"ingredientsList\">\n                \n                   \n
+      \                     \n                      <li class=\"ingredient\">Unsalted
+      butter, for the baking dish</li>\n                   \n                \n                   \n
+      \                     \n                      <li class=\"ingredient\">4 ripe
+      peaches, washed and patted dry</li>\n                   \n                \n
+      \                  \n                      \n                      <li class=\"ingredient\">5
+      tablespoons crushed amaretti cookies (about 2 ounces)</li>\n                   \n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\">1 large egg yolk</li>\n                   \n                \n
+      \                  \n                      \n                      <li class=\"ingredient\">1/2
+      teaspoon cocoa powder</li>\n                   \n                \n                   \n
+      \                     \n                      <li class=\"ingredient\">1/4 cup
+      dry white wine, such as Pinot Grigio</li>\n                   \n                \n
+      \                  \n                      \n                      <li class=\"ingredient\">Whipped
+      cream, for serving (optional)</li>\n                   \n                \n
+      \           </ul>\n        \n            <br />\n            \n                <strong>Shopping
+      with anna:</strong>\n            \n            <ul class=\"ingredientsList\">\n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\"><em>To hurry along not-very-ripe peaches, put them in a
+      paper bag, close the top, and let them sit at room temperature until they ripen.
+      I wish I could give you a specific length of time, but you just need to keep
+      checking until they're ready. </em></li>\n                   \n                \n
+      \           </ul>\n        \n\n    \n    <a href=\"/recipes/shoppinglist/custom/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      target=\"_blank\" id=\"printShoppingList\">print a shopping list for this recipe</a>\n
+      \   \n\n    </div>\n    \n    \n        <div class=\"detail_division\"><img
+      src=\"/rd_images/primaryContent/recipe_detail/rd_buckets_divider.gif\" border=\"0\"/></div>\n
+      \   \n\n\n\n<div id=\"preparation\" class=\"instructions\">\n    <h2>Preparation</h2>\n
+      \   \n        \n            \n            <p class=\"instruction\">\n                \n
+      \               Butter a baking dish large enough to hold 8 peach halves in
+      a single\r\nlayer. \r\n\n            </p>\n        \n            \n            <p
+      class=\"instruction\">\n                \n                Cut the peaches in
+      half with a small knife and remove the pits. Cut off the peel in strips. Place
+      the peach halves in the baking dish as you finish peeling them.\n            </p>\n
+      \       \n            \n            <p class=\"instruction\">\n                \n
+      \               \r\nUse a melon baller to scoop out some of the center pulp
+      from each peach,\r\nbeing careful not to perforate the edges, to make little
+      containers for the filling.\r\n\n            </p>\n        \n            \n
+      \           <p class=\"instruction\">\n                \n                Put
+      the peach pulp on a cutting board and finely chop it; transfer it to a small
+      bowl. Add the cookie crumbs, the egg yolk, and the cocoa powder, and stir to
+      combine.\r\n\n            </p>\n        \n            \n            <p class=\"instruction\">\n
+      \               \n                Preheat the oven to 350&deg;F and center a
+      rack in the oven.\r\nDivide the filling among the peach halves. Pour the wine
+      into the dish around the peaches. Bake 30 to 35 minutes or until a thin crust
+      forms on the filling. Let cool to room temperature or refrigerate until chilled.
+      Serve with whipped cream, if you like.\r\n\r\n\n            </p>\n        \n
+      \   \n    \n    <a href=\"/recipes/food/notes/Baked-Peaches-with-Amaretti-and-Cocoa-365109\"
+      id=\"addnoteLnk\">add your own note</a>\n</div>\n<div class=\"detail_division
+      bottomDivider\"><img border=\"0\" src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <div class=\"topDivider\"><img border=\"0\" alt=\"\" src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"></div>\n
+      \   <div id=\"wine_pairings\">\n        <h2>wine pairings for this recipe</h2><a
+      id=\"wine_pairings_info\" href=\"/services/winepairings\">What is this?</a>\n
+      \       <a href=\"http://www.snooth.com\" target=\"_blank\"><img src=\"/rd_images/primaryContent/recipe_detail/snooth_logo.gif\"
+      id=\"snooth_logo\" alt=\"powered by snooth\"/></a>\n\n        <script type=\"text/javascript\"
+      language=\"javascript\">\n        var __sn_rid = '365109';  //recipe id.\n        var
+      __sn_iurl = 'http://www.epicurious.com'; // wines will link to this site, adding
+      /wine/(wine code)\n        var __sn_pid = 2;  // website identifier, do not
+      change\n        var __sn_turl = 'http://tyrant.snooth.com';\n        \n        var
+      __sn_live = 1;\n        document.write(unescape(\"%3Cdiv id='__sn_content' style='width:617px;margin:0px;padding:0px;display:block;'%3E%3C/div%3E\"));\n
+      \       document.write(unescape(\"%3Cscript src='\"+__sn_turl+\"/r\"+escape(escape(__sn_pid+'-'+__sn_rid))+\"'
+      type='text/javascript'%3E%3C/script%3E\"));\n        document.write(unescape(\"%3Cscript
+      src='http://edge-media2.snooth.com/js-compressed/epi-recipe-pairing.js' type='text/javascript'%3E%3C/script%3E\"));\n
+      \       </script>\n\n        <div id=\"sponsorAdWinePairings\">\n            \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad286717016_300x60_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('ad286717016_', {sz:'300x60', kws:[]});\n    //-->\n
+      \   </script>\n    \n\n\n        </div>\n    </div>\n    <script type=\"text/javascript\"
+      language=\"javascript\">\n        function resizeWinePairingsModule() {\n            if
+      (contains1pxImage('sponsorAdWinePairings')) {\n                var e = document.getElementById('wine_pairings');\n
+      \               if (e) {\n                    e.style.height = \"220px\";\n
+      \               }\n            }\n        }\n\n        addLoadEvent(resizeWinePairingsModule)\n
+      \   </script>\n    <div class=\"detail_division bottomDivider\"><img border=\"0\"
+      src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n
+      \   \n    \n        <div class=\"tallTopDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"
+      border=\"0\" alt=\"\"></div>\n    \n\n    <div id=\"social-toolbar\">\n        <ul>\n
+      \           \n                \n                \n                  \n                  \n
+      \                 \n                \n            \n            <script type=\"text/javascript\">\n
+      \               jQuery(window).load(function()\n                {\n                    jQuery(\"#fblike\").attr(\"src\",\"http://www.facebook.com/plugins/like.php?href=\"+encodeURIComponent(location.href)+\"&amp;layout=standard&amp;show_faces=false&amp;width=456&amp;action=like&amp;colorscheme=light&amp;height=26\");\n
+      \                   jQuery(\"#social-toolbar a.reddit\").attr(\"href\",\"http://reddit.com/submit?url=\"+encodeURIComponent(location.href)+\"&title=\"+document.title);\n
+      \                   jQuery(\"#social-toolbar a.digg\").attr(\"href\",\"http://digg.com/submit?phase=2&url=\"+encodeURIComponent(location.href)+\"&title=\"+document.title);\n
+      \               });\n            </script>\n                    <li class=\"first\">\n
+      \                        <iframe id=\"fblike\" src=\"\" scrolling=\"no\" frameborder=\"0\"
+      style=\"border:none; overflow:hidden;  height:26px;\" width=\"424\" allowTransparency=\"true\"></iframe>\n
+      \                   </li>\n                    <li id=\"retweet\">\n                         <script
+      type=\"text/javascript\">\n                               tweetmeme_style =
+      'compact';\n                               tweetmeme_width = 99;\n                         </script>\n
+      \                        <script type=\"text/javascript\" src=\"http://tweetmeme.com/i/scripts/button.js\"></script>\n
+      \                  </li>\n                   <li><a href=\"\" target=\"_blank\"
+      class=\"reddit\" title=\"reddit\">reddit</a></li>\n                   <li><a
+      href=\"\" target=\"_blank\" class=\"digg\" title=\"digg\">digg</a></li>\n\n
+      \      </ul>\n    </div>\n\n    \n    \n        <div class=\"detail_division
+      bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
+      border=\"0\" alt=\"\" width=\"648\" height=\"3\"></div>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        <div class=\"tallTopDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"
+      alt=\"\" border=\"0\"></div>\n        <div id=\"review_teaser\">\n            <div><ul>\n
+      \           \n                \n                \n                   <li><a
+      href=\"/recipes/food/reviews/Baked-Peaches-with-Amaretti-and-Cocoa-365109\">be
+      the first to review this recipe</a>&nbsp;&#8250;</li>\n                \n            \n
+      \           </ul>\n            \n            <ul id=\"more_teaser\">\n               <li>find
+      out more...</li>\n                \n                \n                   <li><a
+      href=\"/recipes/food/more/Baked-Peaches-with-Amaretti-and-Cocoa-365109\">see
+      source information</a></li>\n                \n            </ul>\n            \n
+      \           <div class=\"clrLeft\"></div>\n        </div>\n\n\n        </div>\n
+      \       <div class=\"detail_division bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
+      border=\"0\"/></div>\n        <script type=\"text/javascript\">\n            function
+      createReviewBox2(){\n                if (EventBroker.reviewRecipeBox == undefined)
+      {\n                    EventBroker.reviewRecipeBox = new ReviewRecipeBox('writeCommentBtn',\n
+      \                           '365109', '/recipes/food/reviews/Baked-Peaches-with-Amaretti-and-Cocoa-365109?cached=F',\n
+      \                           '/recipes/food/review/preview/Baked-Peaches-with-Amaretti-and-Cocoa-365109',
+      '/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109',\n                            '/images/recipes/recipe_search/rate_forks',
+      'fork', 'fork', 'forks');\n                } else {\n                    EventBroker.reviewRecipeBox.addOpenLink('writeCommentBtn');\n
+      \               }\n            }\n            runOnLoad(createReviewBox2);\n
+      \       </script>\n    \n\n\n\n\n\n\n\n        </div>\n        \n    \n        \n
+      \       \n        \n        <div id=\"col4\" class=\"separator\">\n              \n
+      \               \n              \n\n\n\n\n\t\t\t\t\n\n<hr/>\n\n\n\n\n        </div>\n
+      \       \n    \n\n\n\n\n        </div>\n        \n    \n        \n        \n
+      \       \n        <div id=\"col2\" class=\"empty\">\n              \n                \n
+      \             \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        \n\n\n
+      \       \n            <div id=\"featuredin\" class=\"recipeDetailPageFeatured\">\n
+      \               \n                    \n                        <h3>more like
+      this&hellip;<span><a href=\"/recipes/food/more/Baked-Peaches-with-Amaretti-and-Cocoa-365109\">see
+      all</a> &#8250;</span></h3>\n                    \n                    \n                \n\n
+      \               <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n                <tr
+      valign=\"top\">\n                \n                \n                    <td
+      id=\"food_groups_mlt_body\">\n                        <h4>RELATED RECIPES</h4>\n
+      \                       <img src=\"/rd_images/community/new2.gif\" id=\"new2\"
+      alt=\"new\"/>\n                        \n                        \n                            <a
+      href=\"/community/groups/chocolate/\"><img src=\"/rd_images/community/groups/foodgroup_chocolate.jpg\"
+      alt=\"member groups\" id=\"groups_promo\"/></a>\n                        \n\n
+      \                       <p id=\"tagged\">\n                        \n                            This
+      recipe is tagged <span><a href=\"/community/groups/chocolate/\">Chocolate</a></span>,
+      \n                        \n                            <span><a href=\"/community/groups/quick/\">Quick
+      &amp; Easy Cooking</a></span>\n                        \n                        </p>\n\n
+      \                       \n                            <p class=\"all_about\"><a
+      href=\"/community/groups/chocolate/\">see all about Chocolate</a>&nbsp;&rsaquo;</p>\n
+      \                       \n                            <p class=\"all_about\"><a
+      href=\"/community/groups/quick/\">see all about Quick &amp; Easy Cooking</a>&nbsp;&rsaquo;</p>\n
+      \                       \n                     </td>\n                \n\n                \n
+      \               \n\n\n                \n                <td id=\"food_groups_mlt_videos\">\n
+      \                   <h4>COOKING VIDEOS</h4>\n\n                    <img src=\"/rd_images/global_images/video_icon_large.gif\"
+      alt=\"cooking videos\"/>\n                    <a href=\"/video\">Watch cooking
+      videos about everything from basic techniques to celebrity kitchen tours</a>\n\n
+      \               </td>\n            </tr>\n            </table>\n           </div>\n
+      \       \n\n    \n\n\n\n\n\n\n\n\n        </div>\n        \n    \n\n                    <div
+      class=\"clear\"></div>\n                    \n\n\n\n\n\n\n\n\n\n\n<div id=\"addToRbox\"
+      class=\"epiRecipe\">\n    \n        \n        \n            <a href=\"javascript:void(0);\"
+      id=\"addRecipeButton\">Save To Recipe Box</a>\n            <script type=\"text/javascript\">new
+      LoginRequiredLink('365109','addRecipeButton','/user/recipebox/save?id=365109&returnto=/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109','recipeBox',
+      'addToRbox');</script>\n        \n    \n    \n        \n        \n            \n
+      \               \n                \n                    <a href=\"javascript:void(0);\"
+      id=\"addRecipeToShoppingListButton\">save to shopping list</a>\n                    <script
+      type=\"text/javascript\">new LoginRequiredLink('365109','addRecipeToShoppingListButton','/user/shoppinglist/save?id=365109&returnto=/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109','recipeBox',
+      'addToRbox', {shoppingListPromo: true});</script>\n\n                    <a
+      href=\"/tools/shoppinglist/\" id=\"findOutMore\">find out more</a>\n                \n
+      \           \n        \n    \n</div>\n\n                    <div id=\"pc_bottom\">\n
+      \                       <!-- back to links -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n\n
+      \                   </div>\n                    \n                </div>\n            \n\n
+      \           \n\n\n\n\n\n\n\n\n\n    \n    \n    \n    \n    \n        \n    \n
+      \   \n    \n\n\n\n<div class=\"module\" id=\"section_search\">\n<form action=\"/tools/searchresults\"
+      name=\"section_search_form\">\n    <h2>search:</h2>\n   \n    <input type=\"text\"
+      id=\"section_search_box\" name=\"search\" maxlength=\"100\"  value=\"\" />\n
+      \   <select id=\"section_search_select\" name=\"section_search_select\" onchange=\"document.forms['section_search_form'].action
+      = this.options[this.selectedIndex].value; return false;\">\n        <option
+      value=\"/tools/searchresults\" selected=\"selected\" >food recipes</option>\n
+      \       <option value=\"/tools/searchresults/drinks\"  >drink recipes</option>\n
+      \       <option value=\"/tools/searchresults/members\"  >member recipes</option>\n
+      \       <option value=\"/tools/searchresults/all\"  >all recipes</option>\n
+      \       \n        <option value=\"/tools/searchresults/articles\"  >articles
+      &amp; guides</option>\n    </select>\n    <a id=\"section_search_button\" href=\"javascript:
+      document.forms['section_search_form'].submit();\">go</a>\n</form>\n<div class=\"clear\"></div>\n</div>\n\n
+      \       </div>\n        \n        <div id=\"headerContainer\" style=\"\">\n
+      \              <div id=\"site_heading\">\r\n        <a id=\"site_name\" href=\"/\"><span
+      class=\"seo\">Epicurious, for people who love to eat</span></a>\r\n        \r\n
+      \       <ul id=\"home_magazine_nav\">\r\n            \r\n\t\t\t\r\n\t\t\t<li>\r\n
+      \               <a id=\"hmn_part_recipes\"><span class=\"seo\">Parner Recipes</span></a>\r\n
+      \           </li>\r\n\t\t\t\r\n\t\t\t<li>\r\n                <a id=\"hmn_bonappetit2\"
+      href=\"http://www.bonappetit.com\" target=\"_blank\"><span class=\"seo\">Bon
+      Appetit</span></a>\r\n                <ul id=\"hmn_ba_lnks\" style=\"color:#eee;\">\r\n
+      \                   \r\n                    <li>\n                        <div
+      id=\"global_header_subscribeLink\"><a style=\"color: rgb(238, 238, 238); font-size:
+      10px;\" href=\"https://w1.buysub.com/loc/BNA/ATGFailsafeEpi\" target=\"_blank\"><span>subscribe</span></a></div>\n
+      \                       <script type=\"text/javascript\">\r\n                                CNP.ecom.request({\r
+      \                               pid:'global_header_subscribeLink',\r                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_header_subscribeLink',\r
+      \                               params:{}});\n                        </script>\n
+      \                   </li>\n                    <li>&nbsp;&middot;&nbsp;</li>\n
+      \                   <li><a href=\"/recipesmenus/bonappetit/recipes\" target=\"_blank\"
+      style=\"color:#eee;font-size:10px;\">view recipes</a></li>\r\n                </ul>\r\n
+      \           </li>\r\n\t\t\n            <li>\r\n                <a id=\"hmn_gourmet2\"
+      href=\"http://www.gourmet.com\" target=\"_blank\"><span class=\"seo\">Gourmet</span></a>\r\n
+      \               <ul id=\"hmn_gmt_lnks\" style=\"color:#eee;\">\r\n                    <li><a
+      href=\"/recipesmenus/gourmet/recipes?browseByAtt=&sort=1\" target=\"_blank\"
+      style=\"color:#eee;font-size:10px;\">view recipes</a></li>\r\n                </ul>\r\n
+      \           </li>\n\t\r\n        </ul>\r\n    </div>\r\n\n            <!-- /tiles/header/navigation_area.html
+      -->\n \n    <div id=\"navigation_area\">      \n        <div id=\"primary_navigation\">\n
+      \           <ul>\n                <li><a id=\"recipesandmenus\" href=\"/recipesmenus/\"><span
+      class=\"seo\">Recipes &amp; Menus</span></a></li>         \n                <li><a
+      id=\"articlesandguides\" href=\"/articlesguides/\"><span class=\"seo\">Articles</span></a></li>\n
+      \               <li><a id=\"community_rgn\" href=\"/community/\"><span class=\"seo\">Community
+      &amp; MyEpi</span></a></li>\n            </ul>\n        </div>\n\n        <div
+      id=\"primary_navigation_dropdowns\">\n            <div id=\"recipesandmenus_dropdown\">\n
+      \               <div class=\"dropdown-content\">\n                    <ul>\n
+      \                       <li><a href=\"/articlesguides/bestof/toprecipes/\">top-rated
+      recipes</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/holidays\">Holidays
+      &amp; Celebrations</a></li>\n                        <li><a href=\"/recipesmenus/quickeasy/recipes\">Quick
+      &amp; Easy</a></li>\n                        <li><a href=\"/recipesmenus/healthy/recipes\">Healthy</a></li>\n
+      \                       <li><a href=\"/recipesmenus/seasonal/recipes\">Seasonal
+      Cooking</a></li>\n                        <li><a href=\"/recipesmenus/desserts\">Desserts</a></li>\n
+      \                       <li><a href=\"/recipesmenus/global/recipes\">International
+      Cooking</a></li>\n                        <li><a href=\"/recipesmenus/photos\">recipe
+      slideshows</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/drinks\">Drinks</a></li>\n
+      \                       <!-- <li><a href=\"/recipesmenus/photos\">Recipe Slideshows</a></li>
+      -->\n                        <li><a href=\"/recipesmenus/randomhouse/recipes\"><span
+      style=\"text-transform: uppercase;\">R</span>andom<span style=\"text-transform:
+      uppercase;\"> H</span>ouse on epi</a></li>\n                        <li><a href=\"/recipesmenus/bonappetit/recipes\"><span
+      class=\"sub_link\">Bon App&eacute;tit</span> on Epi</a></li>\n                        <li><a
+      href=\"/recipesmenus/gourmet/recipes\"><span class=\"sub_link\">Gourmet</span>
+      on Epi</a></li>\n\t\t\t\t\t\t<!-- <li><a href=\"/recipesmenus/gourmetlive/recipes\"><span
+      class=\"sub_link\">Gourmet Live</span> on Epi</a></li> -->\n                        <li><a
+      href=\"/recipesmenus/self/recipes\"><span class=\"sub_link\">SELF</span> on
+      Epi</a></li>\n                        <li><a href=\"/recipesmenus/whatsnew/recipes\">What's
+      New</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/buzzbox/recipes\">buzz
+      box</a></li>\n                    </ul>\n                    <div class=\"menu-feature-content\">\n
+      \                       <a href=\"/recipesmenus/holidays/wedding/recipes?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/weddings/weddings-navpromo-RM.jpg\" alt=\"Isn't
+      It Romantic?\" border=\"0\" /></a>\n                        <a href=\"/recipesmenus/holidays/wedding/recipes?intcid=epi_navpromo\"><h4>Isn't
+      It Romantic?</h4></a>         \n                        <p class=\"menu-feature-copylinks\"><a
+      href=\"/recipesmenus/holidays/wedding/recipes?intcid=epi_navpromo\">Delicious
+      recipes for showers, engagement parties, and receptions, plus menu ideas for
+      bachelor suppers, wedding brunches, and everything in between</a></p>     \n
+      \                      <p class=\"menu-feature-links\"><a href=\"/articlesguides/holidays/weddings/weddings?intcid=epi_subpromo\">find
+      more wedding party inspiration </a><span style=\"text-decoration: none;\">&nbsp;&#8250;</span></p>\n\n
+      \                       <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
+      to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
+      alt=\"\" />\n                        </div>\n                        -->\t\t\t\t\t\t\t\t\t\t\t\t\t\n
+      \                   </div>                    \n                </div>\n                <div
+      class=\"dropdown-end-cap\"></div>\n            </div>\n\n            <div id=\"articlesandguides_dropdown\">\n
+      \               <div class=\"dropdown-content\">\n                    <ul>\n
+      \                       <li><a href=\"/articlesguides/bestof\">the best of epicurious</a></li>\n\t\t\t\t\t\t<li><a
+      href=\"/articlesguides/blogs/editor\">The Epi-Log</a></li>\n                        <li><a
+      href=\"/articlesguides/blogs/80dishes\">80 global dishes</a></li>\n                        <!--
+      <li><a href=\"/articlesguides/blogs/tgiving\">thanksgiving countdown</a></li>
+      -->\n                        <li><a href=\"/articlesguides/holidays\">Holidays
+      &amp; Parties</a></li>\n                        <li><a href=\"/articlesguides/everydaycooking\">Everyday
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/healthy\">Healthy
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/seasonalcooking\">Seasonal
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/howtocook\">How
+      To Cook</a></li>\n                        <li><a href=\"/articlesguides/cuisines\">Cuisines</a></li>\n
+      \                       <li><a href=\"/articlesguides/entertaining\">Entertaining</a></li>\t\t\t\t\n
+      \                       <li><a href=\"/articlesguides/diningtravel\">Dining
+      &amp; Travel</a></li>\n                        <li><a href=\"/articlesguides/kitchenequipment\">Kitchen
+      &amp; Equipment</a></li>\n                        <li><a href=\"/articlesguides/chefsexperts\">Chefs
+      &amp; Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
+      \                   </ul>\n\t\t\t\t\t\n                    <div class=\"menu-feature-content\">\n
+      \                       <a href=\"/articlesguides/holidays/weddings/weddings?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/weddings/weddings-navpromo-AG.jpg\" border=\"0\"
+      alt=\"A More Perfect Union\" /></a>\n                       <a href=\"/articlesguides/holidays/weddings/weddings?intcid=epi_navpromo\"><h4>A
+      More Perfect Union</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/weddings/weddings?intcid=epi_navpromo\">Clever
+      (and tasty) DIY wedding ideas, wedding food traditions from around the world,
+      and the ultimate food-lovers' gift registry guide</a>\n                        </p>\n
+      \                       <p class=\"menu-feature-links\">\n                            <a
+      href=\"/recipesmenus/holidays/wedding/recipes?intcid=epi_subpromo\">browse recipes
+      and menus for weddings and parties</a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\n
+      \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
+      to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
+      alt=\"\" />\n                        </div> -->\n                    </div>
+      \                   \n                </div>\n                <div class=\"dropdown-end-cap\"></div>\n
+      \           </div>\n\n            <ul id=\"community_dropdown\">\n\t\t\t<li><a
+      href=\"/community/myepi/myprofile\">my epi profile</a></li>\n\t\t\t<li><a href=\"/community/memberrecipes/submitarecipe\">add
+      your own recipes</a></li>\n\t\t\t<li><a href=\"/community/events/contest/\">contest</a></li>\n\t\t\t<li><a
+      href=\"/community/myepi/profile/findmembers\">find members</a></li>\n\t\t\t<li><a
+      href=\"/community/memberrecipes\">member recipes</a></li>\n\t\t\t<li><a href=\"/video/user-videos-our-picks\">user-submitted
+      video</a></li>\n\t\t\t<li> <a href=\"/community/forums\">forums</a></li>\n\t\t\t<li><a
+      href=\"/community/chat\">epi chat</a></li>\n\t\t\t<li><a href=\"/community\">member
+      groups</a></li>\n\t\t\t<li><a href=\"/community/events\">events</a></li>\n            <!--
+      \ <li><a href=\"/services/privacy\">Privacy Policy</a></li> -->\n            </ul>\n
+      \       </div>\n        \n        <div id=\"primary_navigation_supplement\">\n
+      \           <ul id=\"recipesandmenus_supplement\">\n                <li><a href=\"/recipesmenus/advancedsearch\">Advanced
+      Search</a>&nbsp;&#124;&nbsp;</li>\n                <li><a href=\"/recipesmenus/browse\">Browse</a></li>\n
+      \           </ul>\n\t\t\t\n            <ul id=\"articlesandguides_supplement\">\n
+      \               <li><a href=\"/articlesguides/healthy/news/eathealthyweightloss\">healthy
+      eating guide</a></li>\n            </ul>\n\n            <ul id=\"community_supplement\">\n
+      \               <li><a href=\"/community/myepi/myrecipebox\">My Recipe Box</a>&nbsp;&#124;&nbsp;</li>\n
+      \               <li><a href=\"/community/myepi/myprofile\">my profile</a></li>\n
+      \           </ul>\n        </div>  \n\t                      \n        <div
+      id=\"auxiliary_navigation\">       \n            <ul id=\"auxiliary_list\">\n
+      \               <li style=\"width:95px; height:19px; margin-left: -5px;\"><a
+      href=\"/video\" id=\"aux_cvideo\"><span class=\"seo\">cooking videos</span></a></li>\n
+      \               <li><a href=\"/tools/\" id=\"aux_tools\">cooks' tools</a></li>\n
+      \               <li><a href=\"/services/sitemap\" id=\"aux_sitemap\">site map</a></li>\n\n<!--
+      EPI-48 : Add this item back when we want the promo unit -->\n<!--                <li><a
+      href=\"/promo/index\" id=\"aux_promotions\"><span class=\"seo\">Promotions</span></a></li>
+      -->\n            </ul>\n      \n            <div id=\"global_search\">\n            <form
+      action=\"/tools/searchresults\" name=\"global_search\" onsubmit=\"return expireSearchLnksCookies();\">\n
+      \               <input id=\"selected_search_section\" type=\"hidden\" value=\"\"
+      />\n                <!-- input type=\"hidden\" name=\"type\" value=\"food\"
+      / -->\n                <span id=\"gs_dropdown\" onclick=\"toggleDisplayById('search_section_droplist');
+      return false;\"></span>\n                <input type=\"text\" name=\"search\"
+      id=\"global_search_box\" maxlength=\"100\" value=\"search all of epicurious\"
+      />\n                <ul id=\"search_section_droplist\">\n                    <li><img
+      src=\"/rd_images/global_images/nav/gs_dropdown_active.gif\" border=\"0\" alt=\"\"
+      onclick=\"toggleDisplayById('search_section_droplist')\" /></li>\n                    <li><a
+      id=\"food\">food recipes</a></li>\n                    <li><a id=\"drinks\">drink
+      recipes</a></li>\n                    <li><a id=\"members\">member recipes</a></li>\n
+      \                   <li><a id=\"all\">all recipes</a></li>\n                    <!--
+      li><a id=\"menus\">menus</a></li -->\n                    <li><a id=\"articles\">articles
+      &amp; guides</a></li>\n                </ul>\n                <input type=\"image\"
+      src=\"/rd_images/header/global/btn_go.gif\" id=\"submit\" value=\"search\" />\n
+      \           </form>\n            <script>initSearchDropDown()</script>\n            </div>\n
+      \       \n            <div id=\"magazine_nav\">            \n                <ul>\n
+      \                   <li><a id=\"bonappetit\" href=\"http://www.bonappetit.com/\"
+      target=\"_blank\"><span class=\"seo\">Bon App&eacute;tit Magazine</span></a></li>\n
+      \                   <li>\n                        <div id=\"global_navBar\"><a
+      class=\"subscribe\" href=\"https://w1.buysub.com/loc/BNA/ATGFailsafeEpi\" target=\"_blank\"></a></div>\n
+      \                       <script type=\"text/javascript\">\n                                CNP.ecom.request({\n
+      \                               pid:'global_navBar',\n                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_navBar',\n
+      \                               params:{}});\n                        </script>\n
+      \                   </li>\n                    <li><a class=\"viewbaRecipe\"
+      href=\"/recipesmenus/bonappetit/recipes\"><span class=\"seo\">view recipes</span></a></li>\n
+      \                   <li><a class=\"visit\" href=\"http://www.bonappetit.com/\"
+      target=\"_blank\"><span class=\"seo\">visit site</span></a></li>\n                </ul>
+      \       \n            </div>\n        </div>\n\n        <!--secondary_clickdown_navigation:
+      'supernav'-->\n        <!-- IFRAME name=\"supernav_iframe\" id=\"supernav_html\"
+      src='/nav/07redesign/supernav.html' scrolling=\"no\" frameborder=\"0\" width=\"990\"></IFRAME
+      -->\n        <!--end secondary_clickdown_navigation-->\n        \n    </div><!--
+      end navigation area -->  \n<script type=\"text/javascript\" language=\"JavaScript\"
+      src=\"/rd_scripts/header/epi_navigation.js\"></script>\n\n\n\n\n           <div
+      id=\"banner_container\">\n               \n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"topBannerAd728x90_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('topBannerAd',
+      {sz:'728x90', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n\n           </div>\n\n
+      \       </div>\n        \n\n        <script type=\"text/javascript\" language=\"JavaScript
+      1.5\">roundContainer(\"primary\");</script>\n\n        <div class=\"contentContainer\"
+      id=\"secondary\">\n            \n\n\n\n\n\t\t\t\t\n\n\n\n<script language=\"javascript\"
+      src=\"/dwr/interface/NewsletterController.js\"></script>\n\n<script type=\"text/javascript\">\n//
+      ----------------------------------------------------\n// Javascript functions
+      for signing up newsletters\n// ----------------------------------------------------\n
+      \   function trackData(evnt) {\n        s.linkTrackVars=\"events\";\n        s.linkTrackEvents=evnt;\n
+      \       s.events=evnt;\n        s.tl(this,'o','AjaxCall');\n    }\n\n    function
+      validateNewsletters() {\n        var isChecked = false;\n        var email =
+      document.newslettersForm.email.value;\n\n        for (var i = 0; i < document.newslettersForm.newsletter.length;
+      i++) {\n            if (document.newslettersForm.newsletter[i].checked) {\n
+      \               isChecked = true;\n            }\n        }\n        if (! isChecked
+      && document.newslettersForm.email.value == \"\") {\n            document.getElementById(\"letter_message3\").style.display=\"block\";\n
+      \           document.getElementById(\"letter_message2\").style.display=\"block\";\n
+      \       } else {\n            if (! isChecked && document.newslettersForm.email.value
+      != \"\") {\n                document.getElementById(\"letter_message2\").style.display=\"none\";\n
+      \               document.getElementById(\"letter_message3\").style.display=\"block\";\n
+      \           }\n        }\n        return isChecked;\n    }\n    function showNewsletterError(message)
+      {\n        document.getElementById(\"letter_message2\").style.display=\"block\";\n
+      \       document.getElementById(\"letter_message3\").style.display=\"none\";\n
+      \   }\n    function showNewsletterSuccess() {\n        document.getElementById(\"letter_message1\").style.display=\"block\";\n
+      \       document.getElementById(\"newsletter_content\").style.display=\"none\";\n
+      \       document.getElementById(\"learnMore\").style.display=\"none\";\n        document.getElementById(\"letter_message2\").style.display=\"none\";\n
+      \       document.getElementById(\"letter_message3\").style.display=\"none\";\n\t
+      \ if(document.newslettersForm.newsletter[0].checked){\n             trackData('event11')\n
+      \        }\n    }\n    function signUpNewsletters() {\n        if (validateNewsletters())
+      {\n            var user = getCookie('amg_user_info');\n            var email
+      = document.newslettersForm.email.value;\n            var ids = new Array();\n
+      \           var missedIds = new Array();\n\n            for (var i = 0; i <
+      document.newslettersForm.newsletter.length; i++) {\n                if (document.newslettersForm.newsletter[i].checked)
+      {\n                    ids[ids.length] = document.newslettersForm.newsletter[i].value;\n
+      \               } else{\n                    missedIds[missedIds.length] = document.newslettersForm.newsletter[i].value;\n
+      \               }\n            }\n\n            var form = {username: user,\n
+      \                       email: email,\n                        newsletterIds:
+      ids,\n                        missedNewsLetterIds: missedIds,\n                        application:
+      'newsletter',\n                        applicationId: 'NONE PROVIDED',\n                        formName:
+      'shortForm'};\n\n              NewsletterController.signUpNewsletters(form,
+      signUpNewslettersCallback);\n        }\n    }\n    function signUpNewslettersCallback(result)
+      {\n        if (result.indexOf('Error') != -1) {\n            showNewsletterError(result);\n
+      \       } else {\n            if (isUserLoggedIn() || (result.indexOf('EmailTaken')
+      != -1)) {\n                showNewsletterSuccess();\n            } else {\n
+      \               var email = document.newslettersForm.email.value;\n                var
+      newlettersChecked;\n                if(document.newslettersForm.newsletter[0].checked
+      && document.newslettersForm.newsletter[1].checked)\n                    newslettersChecked
+      = 3;\n                else if(document.newslettersForm.newsletter[1].checked)\n
+      \                   newslettersChecked = 2;\n                else if(document.newslettersForm.newsletter[0].checked)\n
+      \                   newslettersChecked = 1;\n\n                var returnto
+      = escape(window.location.pathname + window.location.search);\n                var
+      params = '?postSignup=newsletter&appAlias=newsletter&email=' + email + '&newsletter='
+      + newslettersChecked + '&returnto=' + returnto;\n                window.location
+      = '/user/registration' + params;\n            }\n        }\n    }\n\n    //
+      ----------------------------------------------------\n    // General functions
+      for the newsletter widget\n    // ----------------------------------------------------\n\n
+      \   function isUserLoggedIn() {\n        var userId = getCookie('amg_user_info');\n\n
+      \       if (userId != null && userId.length > 0) {\n            return true;\n
+      \       }\n        return false;\n    }\n</script>\n<link rel=\"stylesheet\"
+      type=\"text/css\" href=\"/stylesheets/newletter_widget/newsletter_widget.css\"
+      />\n<script type=\"text/javascript\" src=\"/js/newsletter_widget/newsletter_widget.js\"></script>\n<!--[if
+      IE 6]>\n<style type=\"text/css\">\n    div#newsletter_content, div#rss_content,
+      div#podcast_content { margin-top: -2px; }\n    div#newsletter_content { margin-bottom:
+      -14px; }\n    div#error_area, div#error_area2 { margin-top: -2px; }\n</style>\n<![endif]-->\n\n<div
+      style=\"padding-bottom:5px;\">\n    <div id=\"newsletter_section\" style=\"display:none;\">\n
+      \       <div class=\"newsletter_top\">\n            <div id=\"header\">\n                <a
+      href=\"javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();\"
+      id=\"newsletter_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('mobile_section');
+      hideMessages(); \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
+      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
+      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
+      \       <div id=\"error_area\">\n            <div id=\"letter_message1\">\n
+      \               <div align=\"right\"><img src=\"/images/newsletter_widget/xClose_icon.gif\"
+      border=\"0\" onclick=\"hideNewsletterMessage();\" /></div>\n                <span
+      class=\"thanksHead\">You've got great taste!</span><br />\n                <span
+      class=\"thanksCont\">Thank you for signing up to receive our<br />newsletters.</span>\n
+      \               <div style=\"height:10px;\"><!-- --></div>\n            </div>\n
+      \           <div id=\"letter_message2\">\n                <ul class=\"error_ul\"><li
+      class=\"error_icon\"><img src=\"/images/newsletter_widget/error_icon.gif\" height=\"0\"
+      width=\"0\" />ERROR:<br />- Please enter a valid e-mail address.</li></ul>\n
+      \           </div>\n            <div id=\"letter_message3\">\n                <ul
+      class=\"error_ul\"><li class=\"error_icon\"><img src=\"/images/newsletter_widget/error_icon.gif\"
+      height=\"0\" width=\"0\" />ERROR:<br />- Please select a newsletter preference.</li></ul>\n
+      \           </div>\n        </div>\n        <div id=\"newsletter_content\"><!--
+      action=\"/services/newsletters\" -->\n            <form id=\"newslettersForm\"
+      name=\"newslettersForm\" method=\"post\" style=\"padding: 5px 15px 0 15px;\">\n
+      \               <ul>\n                    <li style=\"padding-bottom: 2px; margin-left:
+      -4px;\"><input type=\"checkbox\" tabindex=\"30\" name=\"newsletter\" class=\"checkBox\"
+      value=\"5\" checked /><a href=\"/services/newsletters\" style=\"text-decoration:none;\"><span
+      class=\"section\">Recipe Flash:</span></a> get weekly recipes &#38; food features</li>\n
+      \                   <li style=\"padding-bottom: 2px; margin-left: -4px;\"><input
+      type=\"checkbox\" tabindex=\"31\" name=\"newsletter\" class=\"checkBox\" value=\"23\"
+      checked /><a href=\"/services/newsletters\" style=\"text-decoration:none;\"><span
+      class=\"section\">Tasting Notes:</span></a> receive monthly wine reviews &#38;
+      news<br /></li>\n                    <li>\n                        <input type=\"text\"
+      tabindex=\"32\" name=\"email\" maxlength=\"50\" value=\"enter e-mail address\"
+      onfocus=\"javascript:this.value=''\" class=\"inputBox\" /> <img src=\"/images/newsletter_widget/button_submit_newsWidget.gif\"
+      border=\"0\" onclick=\"signUpNewsletters();\" style=\"cursor:pointer; cursor:hand;
+      vertical-align: bottom; padding: 0 0 1px 2px;\" tabindex=\"33\"  onKeyDown=\"javascript:return
+      submitEnterNews(event);\" /><!-- <input name=\"submit\" value=\"\" type=\"button\"
+      class=\"submitButton\" onclick=\"\" /> -->\n                        <span id=\"learnMore\"><a
+      href=\"/services/newsletters\" class=\"learnMore\">learn more</a> &#8250;</span>\n
+      \                   </li>\n                </ul>\n            </form>\n            \n
+      \       </div>\n        <div class=\"newsletter_bottom\">\n             <p id=\"widgetLegalNote\">I
+      understand and agree that registration on or use of this site constitutes agreement
+      to its <a href=\"/services/legal/useragreement\" >User Agreement</a>, and <a
+      href=\"/services/legal/privacy\">Privacy Policy</a>.</p>\n        </div>\n    </div>\n\n
+      \   <div id=\"mobile_section\" style=\"display:block;\">\n        <div class=\"mobile_top\">\n
+      \           <div id=\"header\">\n                <a href=\"javascript:switchid('newsletter_section');
+      hideMessages(); hideNewsletterMessage();\" id=\"newsletter_Nav\"><!-- --></a>\n
+      \               <a href=\"javascript:switchid('mobile_section'); hideMessages();
+      \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
+      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
+      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
+      \       <div id=\"mobile_content\" class=\"mkt_widget_content\">\n            <a
+      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epiIconWidget.jpg\"
+      border=\"0\" height=\"120\" width=\"84\" alt=\"nook\" align=\"left\"/></a>\n
+      \           <p><a href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicuriousEverywhereApp.jpg\"
+      border=\"0\" height=\"42\" width=\"155\" alt=\"epicurious Everywhere\" style=\"margin:
+      0 0 5px 0;\"/></a><br />\n                Get our award-winning food<br />app
+      in the kitchen or on the go.<br />\n                <a class=\"learnMore\" href=\"/services/mobile\"
+      style=\"line-height: 16px;\">learn more</a>&nbsp;&#8250;\n            </p>\n
+      \       </div>\n        <div class=\"mkt_widget_bottom\">&nbsp;</div>\n    </div>\n\n
+      \   <div id=\"rss_section\" style=\"display:none;\">\n        <div class=\"rss_top\">\n
+      \           <div id=\"header\">\n                <a href=\"javascript:switchid('newsletter_section');
+      hideMessages(); hideNewsletterMessage();\" id=\"newsletter_Nav\"><!-- --></a>\n
+      \               <a href=\"javascript:switchid('mobile_section'); hideMessages();
+      \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
+      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
+      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
+      \       <div id=\"rss_content\">\n            <ul style=\"padding: 5px 15px
+      0 15px;\">\n                <li><a href=\"/services/rss\" style=\"text-decoration:none;\"><span
+      class=\"section\">Subscribe to our free RSS feeds:</span></a><br />Get the latest
+      recipes, features, and Epicurious blog posts automatically added to your newsreader
+      or your personal My Yahoo! or My AOL page.</li>\n            </ul>\n        </div>\n
+      \       <div class=\"rss_bottom\"><span style=\"float:right; padding: 0 20px
+      0 0;\"><a href=\"/services/rss\" class=\"learnMore\">learn more</a> &#8250;</span></div>\n
+      \   </div>\n\n    <div id=\"tastebook_section\" style=\"display:none;\">\n        <div
+      class=\"tastebook_top\">\n            <div id=\"header\">\n                <a
+      href=\"javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();\"
+      id=\"newsletter_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('mobile_section');
+      hideMessages(); \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
+      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');\"
+      id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n        <div
+      id=\"tastebook_content\">\n            <img src=\"/images/newsletter_widget/tastebook_book.jpg\"
+      height=\"109\" width=\"92\" alt=\"tastebook\" align=\"left\"/>\n            <p>\n
+      \               <a href=\"/services/tastebook\">A personalized Epi cookbook!</a><br
+      />\n                <!-- Create a personalized hardcover cookbook of your favorite
+      Epi recipes.  Or, buy one half-filled with our editors' picks and complete it
+      with your own!  -->\n                Transform your favorite recipes from Epicurious.com
+      into a beautiful, hardcover 'TasteBook'.\n                <a class=\"learnMore\"
+      href=\"/services/tastebook\">learn how</a>&nbsp;&#8250;\n            </p>\n
+      \       </div>\n        <div id=\"tastebook_bottom\">&nbsp;</div>\n    </div>\n\n</div>\n\n<script>\n
+      \   \n    /*\n    if(document.URL.match(/recipes/)||document.URL.match(/menus/)||document.URL.match(/myrecipebox/))
+      {\n        document.getElementById('newsletter_section').style.display=\"none\"
+      \n        document.getElementById('tastebook_section').style.display=\"block\"\n
+      \   }else{\n        document.getElementById('newsletter_section').style.display=\"block\"
+      \n    }\n    */\n\n</script>\n\n\n<!-- <iframe id=\"giftwidget\" height=\"160\"
+      frameborder=\"0\" scrolling=\"no\" src=\"http://holidaygift.condenastdigital.com/epicurious\"
+      style=\"height: 160px; width: 310px; margin: 0; padding-bottom: 10px;\"></iframe>
+      -->\n\n\n\n\n            <div class=\"module\">\n                <div class=\"widget\"
+      id=\"ad_widget\">\n                    <h2>Advertising</h2>\n                    <div
+      id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"ad1757489044_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1757489044_',
+      {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
+      \               </div>\n            </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\"
+      class=\"modular content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\"
+      src=\"/rd_images/poll/epi_poll_hed.jpg\" />\n\n        <iframe id=\"poll_booth\"
+      height=\"200\" frameborder=\"0\" scrolling=\"no\" src=\"/services/poll-cache/rightrailpoll\"></iframe>\n\n
+      \       <div class=\"poll_ad\">\n            \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"pollBooth165x31_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('pollBooth',
+      {sz:'165x31', kws:[]});\n    //-->\n    </script>\n    \n\n\n        </div>\n
+      \   </div>\n\n\n\n\n<div id=\"cooks_tools_module\" class=\"modular content_unit
+      dropshadowed hslider\">\n\n          \n\t<h2>cooks' tools</h2>\n\n\t<span id=\"see_tools\"><a
+      href=\"/tools/\">see all</a> &#8250;</span>\n\n\t<div class=\"content_wrapper\">\n\t\t<ul>\n\t\t\t<li
+      id=\"ct_fd\"><a href=\"/tools/fooddictionary/\">Food Dictionary</a></li>\n\t\t\t<li
+      id=\"ct_sl\"><a href=\"/tools/shoppinglist/\">Shopping List</a></li>\n\t\t\t<li
+      id=\"ct_ia\"><a href=\"/services/mobile/\">Mobile Apps</a></li>\n\t\t\t<li id=\"ct_tv\"><a
+      href=\"/video/\">Technique Videos</a></li>\n\t\t\t<li id=\"ct_wp\"><a href=\"/services/winepairings/\">Wine
+      Pairings</a></li>\n\t\t\t<li id=\"ct_cc\"><a href=\"/tools/conversions/\">Conversion
+      Chart</a></li>\n\t\t</ul>\n\t</div>\n\n        <div class=\"sponsorship_ad\">\n
+      \           \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"cooksTools120x61_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('cooksTools',
+      {sz:'120x61', kws:[\"top\",\"cookstool\"]});\n    //-->\n    </script>\n    \n\n\n
+      \       </div>\n\n</div>\n<script type=\"text/javascript\" language=\"JavaScript
+      1.5\">\nvar cookstoolsSlider = new Slider({\n    containerId: 'cooks_tools_module',\n
+      \   groupSize: 3,\n    speed: 8,\n    hasGroupNav: false,\n    effect: 1,\n
+      \   direction: 'horizontal'\n});\n</script>\n\n\n\n\n            <div class=\"module\">\n
+      \               <div class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
+      \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1628281670_300x250_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('ad1628281670_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
+      \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
+      class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
+      The Day</h2>\n\t\t\t\t\n\t\t\t\t<span id=\"rotd_share\">share</span>\n\n\t\t\t\t<a
+      href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
+      href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
+      id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/365157\"><img
+      src=\"/images/recipesmenus/2011/2011_may/\n365157_116.jpg\" alt=\"Roasted Asparagus\"
+      /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
+      href=\"/recipes/food/views/365157\">Roasted Asparagus</a></h3>\n                        <p>Bon
+      App&eacute;tit, May 2011</p>\n                    </div>\n                        <div
+      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n\n\n\n\n\n
+      \   <div class=\"scrolled module\" id=\"recent_searches_module\">\n    <h2>Recent
+      Searches</h2>\n        <div class=\"module_content\" id=\"recent_searches_content\">\n
+      \           <button class=\"scroll_up\" id=\"rs_scroll_up\" onfocus=\"blur(this)\"></button>\n
+      \           <ul id=\"recent_searches_list\">\n\n                \n                \n
+      \                   \n                        \n                        \n                        \n
+      \                       \n                            \n                                   <li
+      class=\"recent_search\">1.\n\n\n                                   <a href=\"/tools/searchresults?search=shrimp+%26polenta\">shrimp
+      &amp;polenta</a>\n                            </li>\n                        \n
+      \                   \n                \n                    \n                        \n
+      \                       \n                        \n                        \n
+      \                           \n                                   <li class=\"recent_search\">2.\n\n\n
+      \                                  <a href=\"/tools/searchresults?search=portuguese+sweet+bread\">portuguese
+      sweet bread</a>\n                            </li>\n                        \n
+      \                   \n                \n                    \n                        \n
+      \                       \n                        \n                        \n
+      \                           \n                                   <li class=\"recent_search\">3.\n\n\n
+      \                                  <a href=\"/tools/searchresults?search=mango+salsa\">mango
+      salsa</a>\n                            </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">4.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=roast+beef+baste\">roast beef baste</a>\n
+      \                           </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">5.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=vegetable+\">vegetable </a>\n                            </li>\n
+      \                       \n                    \n                \n                    \n
+      \                       \n                        \n                        \n
+      \                       \n                            \n                                   <li
+      class=\"recent_search\">6.\n\n\n                                   <a href=\"/tools/searchresults?search=andouille%2C+shrimp\">andouille,
+      shrimp</a>\n                            </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">7.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=hors+d%27oeuvre\">hors d&#039;oeuvre</a>\n
+      \                           </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">8.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=strawberry+tart\">strawberry tart</a>\n                            </li>\n
+      \                       \n                    \n                \n                    \n
+      \                       \n                        \n                        \n
+      \                       \n                            \n                                   <li
+      class=\"recent_search\">9.\n\n\n                                   <a href=\"/tools/searchresults?search=lemon+frosting\">lemon
+      frosting</a>\n                            </li>\n                        \n
+      \                   \n                \n                    \n                        \n
+      \                       \n                        \n                        \n
+      \                           \n                                   <li class=\"recent_search\">10.\n\n\n
+      \                                  <a href=\"/tools/searchresults?search=potatoes+au+gratin\">potatoes
+      au gratin</a>\n                            </li>\n                        \n
+      \                   \n                \n            </ul>\n            <button
+      class=\"scroll_down\" id=\"rs_scroll_down\" onfocus=\"blur(this)\"></button>\n
+      \       </div>\n    </div>\n    <script type=\"text/javascript\" language=\"JavaScript\"
+      src=\"/rd_scripts/modules/recent_searches.js\"></script>\n\n\n\n<!-- /htmlinclude/tiles/rightrailcommunityPromo_HP.html
+      -->\n<div id=\"outerbox\" class=\"rounded\">\n    <div id=\"communitypromo\">\n
+      \   \t<!-- <span class=\"hdr_round hdr_blue\"></span> -->\n        <h2>join
+      the epicurious community</h2>\n        <div class=\"innerboxContent dropshadowed\">\n
+      \           <a href=\"/community/myepi/myprofile\"><img src=\"/images/home/promo_mags/com_profile.gif\"
+      align=\"left\" alt=\"\" border=\"0\" /></a>\n            <p>\n                <strong>Have
+      you built a profile?</strong><br /> Create your own profile, share recipes,
+      and organize your recipes in your personal Recipe Box.<br />\n                <a
+      href=\"/community/myepi/myprofile\">get started now</a><span>&nbsp;&#8250;</span>\n
+      \           </p>\n            <div class=\"clear\"></div>\n            \n            <a
+      href=\"/community/myepi/profile/findmembers\"><img src=\"/images/home/promo_mags/com_find.gif\"
+      align=\"left\" alt=\"\" border=\"0\"/></a>\n            <p>\n                <strong>Find
+      other foodies</strong><br />View member profiles, Recipe Boxes, and even become
+      a fan of a fellow member.<br />\n                <a class=\"epilog_content\"
+      href=\"/community/myepi/profile/findmembers\">find members</a><span>&nbsp;&#8250;</span>\n
+      \           </p>\n            <div class=\"clear\"></div>            \n            \n
+      \           <a class=\"epilog_content\" href=\"/community\"><img src=\"/rd_images/community/explore/join_group_icon.gif\"
+      align=\"left\" alt=\"Join a Member Group\" border=\"0\"/></a>\n            <p>\n
+      \               <strong>Join a Member Group</strong><br />Whether you're a chocoholic,
+      love entertaining, or are looking for healthy eating ideas, we've got the perfect
+      foodie community for you.<br />\n                <a href=\"/community\">see
+      all Member Groups</a><span>&nbsp;&#8250;</span>\n            </p>\n            <div
+      class=\"clear\"></div>\n        </div>\n    </div>  \n</div>\n\n\n\n        </div>\n
+      \       <script type=\"text/javascript\" language=\"JavaScript 1.5\">roundContainer(\"secondary\");</script>\n\n
+      \       \n\n\n\n\n\n<div class=\"separator\" id=\"365109\">\n    <hr/>\n</div>\n\n\n
+      \       <!-- /htmlinclude/tiles/link_lists.html -->\n<div id=\"highlight_nav\">\n
+      \       <div>\n        <h2>Recipes &amp; Menus</h2>\n        <ul id=\"hn_recipesmenus\"
+      class=\"autoclassed\">\n            <li><a href=\"/recipesmenus/quickeasy/recipes\">Quick
+      &amp; Easy Ideas</a></li>\n            <li><a href=\"/recipesmenus/healthy/recipes\">Healthy
+      Options</a></li>\n            <li><a href=\"/recipesmenus/holidays\">cooking
+      for holidays &amp; parties</a></li>\n            <li><a href=\"/recipesmenus/seasonal/recipes\">Seasonal
+      Ingredients</a></li>\n            <li><a href=\"/recipesmenus/global\">International
+      Cooking</a></li>\n            <li><a href=\"/recipesmenus/desserts\">Thousands
+      of Desserts</a></li>\n            <li><a href=\"/recipesmenus\">See More Recipes
+      &amp; Menus</a> &#8250;</li>\n        </ul>\n    </div>\n\n    <div>\n        <h2>Articles
+      &amp; Guides</h2>\n        <ul id=\"hn_articlesguides\" class=\"autoclassed\">\n
+      \           <li><a href=\"/articlesguides/blogs/editor\">The Epi-log: the ultimate
+      food blog</a></li>\n            <li><a href=\"/articlesguides/holidays\">Complete
+      Holiday &amp; Celebration guides</a></li>\n            <li><a href=\"/articlesguides/entertaining\">Simple,
+      Sophisticated Party Planners</a></li>\n            <li><a href=\"/articlesguides/diningtravel\">Restaurants
+      &amp; Culinary Travel</a></li>\n            <li><a href=\"/articlesguides/healthy\">Healthy
+      Cooking</a></li>\n            <li><a href=\"/articlesguides\">See More Articles
+      &amp; Guides</a> &#8250;</li>\n        </ul>\n    </div>\n\n    <div>\n        <h2>Community</h2>\n
+      \       <ul id=\"hn_community\" class=\"autoclassed\">\n            <li><a href=\"/community/myepi/myprofile\">My
+      Epi: The Members Page</a></li>\n            <li><a href=\"/community/myepi/myrecipebox\">Your
+      Recipe Box</a></li>\n            <li><a href=\"http://boards.epicurious.com/forum.jspa?forumID=1\">The
+      Epicurious Recipe Swap Forum</a></li>\n            <li><a href=\"http://boards.epicurious.com/forum.jspa?forumID=2\">Family
+      Meal Solutions Forum</a></li>\n            <li><a href=\"http://boards.epicurious.com/forum.jspa?forumID=21\">Wine.Dine.Donate
+      Forum</a></li>\n            <li><a href=\"/community/chat\">Epi Chat Room</a></li>\n\t\t\t<li><a
+      href=\"/community\">Member Groups</a></li>\n            <li><a href=\"/community\">See
+      More In Community</a> &#8250;</li>\n        </ul>\n    </div>\n\n    <div>\n
+      \       <h2>Resources</h2>\n        <ul id=\"hn_references\" class=\"autoclassed\">\n
+      \           <li><a href=\"/tools/shoppinglist\">Shopping List</a></li>\n\t\t\t<li><a
+      href=\"/services/mobile\">Mobile Apps</a></li>\n            <li><a href=\"/tools/fooddictionary\">Food
+      Dictionary</a></li>\n            <li><a href=\"/tools/conversions/\">Conversions
+      &amp; Equivalents</a></li>\n            <li><a href=\"/video\">Technique Videos</a></li>\n\t\t\t<li><a
+      href=\"/services/tastebook\">Tastebook</a></li>\n            <li><a href=\"/tools\">See
+      More in Resources</a> &#8250;</li>\n        </ul>\n    </div>\n    </div>\n
+      \   <div class=\"clear\"></div>\n\t<br clear=\"all\" />\n\n        <div id=\"footerContainer\">\n
+      \           \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a rel=\"nofollow\"
+      href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/sitemap\">Site
+      Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact Us</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a rel=\"nofollow\"
+      target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/presscenter\">Press Center</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/subscriptions\">Subscription Services</a></li>\t\t\n\t<li><a
+      rel=\"nofollow\" href=\"/services/newsletters\">Newsletters</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/tastebook\">Tastebook</a></li>\t\t\n\t<li><a
+      rel=\"nofollow\" href=\"/services/podcasts\">Podcasts</a></li>\n\t<li><a rel=\"nofollow\"
+      href=\"/services/rss\" id=\"rss_img\"><img src=\"/images/global/rssFooterIcon.gif\"
+      style=\"padding-right:0px; vertical-align: middle; text-decoration:none;\"></a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/rss\" id=\"rss_lnk\">RSS feeds</a></li>\n</ul>\n<div
+      id=\"footerContent\">\t \n\t<ul class=\"condenastLinks\">\n\t\t<li><A href=\"/services/subscriptions\">SUBSCRIPTION
+      SERVICES</a></li>\n\t\t<li><A href=\"http://www.condenastcareers.com/\">CAREERS</a></li>\n\t\t<li><A
+      href=\"http://www.condenaststore.com/\">COND&Eacute; NAST STORE</a></li>  \n\t\t<li><A
+      href=\"mailto:permissions@condenast.com\">REPRINTS/PERMISSIONS</a></li>\n\t</ul>\n<div
+      class=\"clear\"> </div>\n\t<div id=\"topquad\">\n\t\t<div class=\"footerLogo\"><img
+      src=\"/images/global/condenastdigitalLogo.gif\" width=\"159\" height=\"37\"><h3>Cond&eacute;
+      Nast Digital</h3></div>\n\t\t<span class=\"vertRule\"> </span>\n\t\t<div class=\"recipesNews\">
+      \n\t\t\t For more great recipes &<br /> food news, visit:<br />\n\t\t     <ul
+      class=\"news\">\n\t\t\t\t <li><a href=\"http://www.facebook.com/epicurious\">Epicurious
+      on<br />Facebook</a></li>\n\t\t\t\t <li><a href=\"http://www.twitter.com/epicurious\">Epicurious
+      on<br />Twitter</a></li>\n\t\t\t\t <li><a href=\"http://youtube.com/epicurious\">Epicurious
+      on<br />YouTube</a></li>\n\t\t\t</ul> \n\t\t    <ul class=\"recipes\">\n\t\t\t\t
+      <li><a href=\"http://www.bonappetit.com/\">Bon App&eacute;tit</a></li>\n\t\t\t\t
+      <li><a href=\"http://www.self.com/\">Self</a></li>\n\t\t\t\t <li><a href=\"http://www.nutritiondata.com/\">Nutrition
+      Data</a></li> \n\t\t\t</ul>\n\t\t</div>  \n\t\t\n\t\t<span class=\"vertRule\">
+      </span>\n\t\t<div id=\"subscribe\">Subscribe to a magazine:\n\t\t        <form
+      name=\"footer_sub_links\" id=\"footer_sub_links\" action=\"\"> \n\t\t          <select
+      name=\"sub_link_selector\">\n\t\t            <option selected=\"selected\">Subscribe
+      to a magazine:</option>\n\t\t            <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&storeId=10001&catalogId=10001&activeLink=Home&source=oldstore\">View
+      Special Offers</option>\n\t\t            <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&storeId=10001&catalogId=10001&activeLink=Home&source=oldstore\">View
+      All Titles</option>\n\t\t            <option disabled=\"disabled\">------------</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/ALL/self.jsp?cds_page_id=1209&cds_mag_code=ALL&id=1214935921477&lsid=81831312014050755&vid=1&cds_response_key=ILDN51UD&cds_mag_code=ALL\">Allure</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/ARD/self.jsp?cds_page_id=405&cds_mag_code=ARD&id=1214935989714&lsid=81831312014050755&vid=2&cds_response_key=ILDN51UD&cds_mag_code=ARD\">Architectural
+      Digest</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/BNA/self_control_split.jsp?cds_page_id=100&cds_mag_code=BNA&id=1214936059635&lsid=81831312014050755&vid=5&cds_response_key=ILDN51UD&cds_mag_code=BNA\">Bon
+      App&#233;tit</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/BRI/self.jsp?cds_page_id=633&cds_mag_code=BRI&id=1214936029399&lsid=81831312014050755&vid=4&cds_response_key=ILDN51UD&cds_mag_code=BRI\">Brides</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/TVL/self.jsp?cds_page_id=811&cds_mag_code=TVL&id=1214937677509&lsid=81831341174053863&vid=1&cds_response_key=ILDN51UD&cds_mag_code=TVL\">Conde
+      Nast Traveler</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/DET/self.jsp?cds_page_id=1253&cds_mag_code=DET&id=1214939061052&lsid=81831404210056322&vid=1&cds_response_key=ILDN51UD&cds_mag_code=DET\">Details</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GQM/self.jsp?cds_page_id=976&cds_mag_code=GQM&id=1214941035871&lsid=81831436363038277&vid=4&cds_response_key=ILDN51UD&cds_mag_code=GQM\">GQ</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GLM/self.jsp?cds_page_id=956&cds_mag_code=GLM&id=1214941632523&lsid=81831436363038277&vid=5&cds_response_key=ILDN51UD&cds_mag_code=GLM\">Glamour</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GLF/renewself.jsp?cds_page_id=17303&cds_mag_code=GLF&id=1214941694516&lsid=81831436363038277&vid=6&cds_response_key=ILDN51UD&cds_mag_code=GLF\">Golf
+      Digest</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/GWD/self.jsp?cds_page_id=17323&cds_mag_code=GWD&id=1214941710048&lsid=81831436363038277&vid=7&cds_response_key=ILDN51UD&cds_mag_code=GWD\">Golf
+      World</option>\n\t\t           <option value=\"https://w1.buysub.com/pubs/N3/LKY/self_control_split.jsp?cds_page_id=799&cds_mag_code=LKY&id=1214941757850&lsid=81831436363038277&vid=10&cds_response_key=ILDN51UD&cds_mag_code=LKY\">Lucky</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/SLF/self.jsp?cds_page_id=1231&cds_mag_code=SLF&id=1214941810166&lsid=81831436363038277&vid=13&cds_response_key=ILDN51UD&cds_mag_code=SLF\">Self</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/TNV/self_makeUpPallete_060914.jsp?cds_page_id=26982&cds_mag_code=TNV&id=1214941824141&lsid=81831436363038277&vid=14&cds_response_key=IRDNMUDD&cds_mag_code=TNV\">Teen
+      Vogue</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/NYR/self_1for1.jsp?cds_page_id=12454&cds_mag_code=NYR&id=1214941836477&lsid=81831436363038277&vid=15&cds_response_key=ILDN51UD&cds_mag_code=NYR\">The
+      New Yorker</option>\n\t\t            <option value=\"https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VYF&cds_page_id=2367&cds_response_key=ILDN51UD\">Vanity
+      Fair</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/VOG/self_073007.jsp?cds_page_id=1242&cds_mag_code=VOG&id=1214941864708&lsid=81831436363038277&vid=17&cds_response_key=ILDN51UD&cds_mag_code=VOG\">Vogue</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/WMG/self_control_split.jsp?cds_page_id=3158&cds_mag_code=WMG&id=1214941723577&lsid=81831448435050861&vid=1&cds_response_key=ILDN51UD&cds_mag_code=WMG\">W</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/WIR/digital_self_wiredtest.jsp?cds_page_id=22463&cds_mag_code=WIR&id=1214941895098&lsid=81831436363038277&vid=18&cds_response_key=I2DNWTUD&cds_mag_code=WIR\">Wired</option>\n\t\t
+      \         </select>\n\t\t        </form>\n\t\t</div>\n\t\n\t\t<span class=\"vertRule\">
+      </span>\t\t\n\t\t<div id=\"sister\">View our sister sites:\t      \n\t\t\t\t<form
+      id=\"condenet_sites_dropdown\" name=\"condenet_sites_dropdown\">\n\t\t            <select
+      id=\"mag_list\" onchange=\"if(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value
+      != '') window.open(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value)\"
+      size=\"1\" name=\"mag_list\">\n\t\t                <option value=\"\" selected=\"selected\">Cond&#233;
+      Nast Web sites:</option>\n\t\t\t\t\t\t<option value=\"\"></option>\n\t\t                 <option
+      value=\"http://www.allure.com/\">Allure</option>\n\t\t                <option
+      value=\"http://www.architecturaldigest.com/\">Architectural Digest</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.ArsTechnica.com/\">Ars Technica</option>\t\t\n\t\t                <option
+      value=\"http://www.bonappetit.com/\">Bon App&eacute;tit</option>\t\t\t\t\n\t\t
+      \               <option value=\"http://www.brides.com/\">Brides.com</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.CNTraveler.com/\">Cond&eacute; Nast  Traveler</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.concierge.com/\">Concierge.com</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Details.com/\">Details</option>\n\t\t                <option
+      value=\"http://www.glamour.com/\">Glamour</option>\n\t\t\t\t\t\t<option value=\"http://www.GolfDigest.com/\">Golf
+      Digest</option>\n\t\t\t\t\t\t<option value=\"http://www.GolfWorld.com/\">Golf
+      World</option>\n\t\t\t\t\t\t<option value=\"http://www.GQ.com/\">GQ</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.HotelChatter.com/\">Hotel Chatter</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Jaunted.com/\">Jaunted</option>\n\t\t                <option
+      value=\"http://www.luckymag.com/\">Lucky</option>\n\t\t\t\t\t\t<option value=\"http://www.NutritionData.com/\">Nutrition
+      Data</option>\n\t\t\t\t\t\t<option value=\"http://www.Reddit.com/\">Reddit</option>\n\t\t
+      \               <option value=\"http://www.self.com/\">Self</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Style.com/\">Style.com</option>\n\t\t                <option
+      value=\"http://www.teenvogue.com/\">Teen Vogue</option>\n\t\t                <option
+      value=\"http://www.newyorker.com/\">The New Yorker</option>\n\t\t                <option
+      value=\"http://www.vanityfair.com/\">Vanity Fair</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Vogue.com/\">Vogue</option>\n\t\t\t\t\t\t<option value=\"http://www.Webmonkey.com/\">Webmonkey</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Wired.com/\">Wired.com</option>\n\t\t                <option
+      value=\"http://www.wmagazine.com/\">W</option>\n\t\t            </select>\n\t\t
+      \       </form>\n\t\t     <div class=\"clear\"></div>\n\t\t </div>\n\t</div>\t
+      \n\t\t <!-- End related-sites -->\n     <div id=\"legalquad\">      \n        <p>Registration
+      on or use of this site constitutes acceptance of our <a rel=\"nofollow\" href=\"/services/useragreement\">User
+      Agreement</a> (revised 08/21/08) and <a rel=\"nofollow\" href=\"/services/privacypolicy\">Privacy
+      Policy</a> (revised 08/21/08). Epicurious &#169; 2011 Cond&eacute; Nast Digital.
+      All rights reserved. The material on this site may not be reproduced, distributed,
+      transmitted, cached, or otherwise used, except with the prior written permission
+      of Cond&eacute; Nast Digital.</p>\n     </div>\n</div> \n\t \n\t <!-- End #disclaimers
+      -->\n  <script>dynamicWrapperByTagAndClass('div','typeAorB-child','dynamic-wrapper',3);</script>\n\n
+      \           <script src=\"http://www.google-analytics.com/urchin.js\" type=\"text/javascript\">\n</script>\n<script
+      type=\"text/javascript\">\n_uacct = \"UA-2624365-1\";\nurchinTracker();\n</script>\n\n
+      \       </div>\n\n    </div><!-- End pageWrapper -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--
+      omniture stats -->\n\n\n\n\n\n\n\n\n<!-- SiteCatalyst code version: H.15.1.\nCopyright
+      1997-2008 Omniture, Inc. More info available at\nhttp://www.omniture.com -->\n\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\nvar s_account=\"condenet-epicurious\";\nvar
+      s_linkInternalFilters=\"javascript:,epicurious.com\";\nvar s_trackingServer=\"stats.epicurious.com\";\n//-->\n</script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\" src=\"/rd_scripts/stats/s_code.js\"></script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\n/* You may give each
+      page an identifying name, server, and channel on\nthe next lines. */\ns.prop22=\"Chocolate,Peach,Non-Traditional,Dessert,Bake,Summer,Quick
+      & Easy\";\ns.prop3=\"Baked Peaches With Amaretti And Cocoa \";\ns.prop4=\"365109\";\ns.prop5=\"recipe\";\ns.prop6=\"recipes\";\ns.prop7=\"recipes:food\";\ns.prop8=\"recipes:food:views\";\ns.hier1=\"recipes,food,views\";\ns.prop9=\"\";\ns.pageName=\"http://www.epicurious.com/recipes/food/views\";\n\n/*************
+      DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/\nvar s_code=s.t();if(s_code)document.write(s_code)//--></script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\nif(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\\!-'+'-')\n//--></script><noscript><a
+      href=\"http://www.omniture.com\" title=\"Web Analytics\"><img\nsrc=\"http://condenast.112.2o7.net/b/ss/condenet-epicurious/1/H.15.1--NS/0\"\nheight=\"1\"
+      width=\"1\" border=\"0\" alt=\"\" /></a></noscript><!--/DO NOT REMOVE/-->\n<!--
+      End SiteCatalyst code version: H.15.1. -->\n\n<!-- end stats call -->\n\n\n<script>\ndeleteDartZoneCookie();\n</script>\n\n\n<script
+      type=\"text/javascript\" src=\"/scripts/ecom/magnet.popups.js\"></script>\n\n\n\n\n\n<script
+      type=\"text/javascript\">tyntVariables = {\"ap\":\"Read More\"};</script> <script
+      type=\"text/javascript\" src=\"http://tcr.tynt.com/javascripts/Tracer.js?user=cdozgy3G8r3R3Eab7jrHtB&s=112\"></script>\n\n\n\n\n
+      \   <script type=\"text/javascript\">\n        /* setting cookie that turns
+      off exitpop monitor on contest pages\n           to preserve cc upsell window
+      on top.\n        */\n        var contest = \"\";\n        if (contest != \"\")
+      {\n            document.cookie = \"exitpop=false;path=/user/\" + contest;\n
+      \       }\n\n        MAGNET.popups.excludeExitDomain(\"local\");\n        MAGNET.popups.excludeExitDomain(\"localhost\");\n
+      \       MAGNET.popups.excludeExitDomain(\"conde-dev.com\");\n        MAGNET.popups.excludeExitDomain(\"epicurious.com\");\n
+      \       MAGNET.popups.setArriving(false);\n        MAGNET.popups.setExiting(true,
+      {\n                name: 'exitingpop',\n                cookie: 'ExitingCookie',\n
+      \               path: '/scripts/exitpop.html',\n                width: 460,\n
+      \               height: 295,\n                top: (screen.height/2)-(295/2),\n
+      \               left:(screen.width/2)-(460/2),\n                args: {\n                    scrollbars:
+      0,\n                    toolbar: 0\n                }\n            });\n       MAGNET.popups.init();\n
+      \   </script>\n\n\n<script type=\"text/javascript\" src=\"/rd_scripts/cobranding/render_cobrand_header.js\"></script>\n\n\n</body>\n</html>"
+    http_version: '1.1'

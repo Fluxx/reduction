@@ -12,11 +12,7 @@ module Reduction
       end
 
       def ingredients
-        if ingredient_elements.search('strong').any?
-          NamedList.from_node_set(ingredient_elements, :strong)
-        else
-          recipe('ul.ingredientsList').text.stripped_lines
-        end
+        NamedList.from_node_set(ingredient_elements, :strong)
       end
 
       def steps
@@ -73,7 +69,7 @@ module Reduction
       end
 
       def ingredient_elements
-        doc.at('#ingredients').children
+        doc.at('#ingredients').children.search('strong', 'ul')
       end
 
       def steps_elements

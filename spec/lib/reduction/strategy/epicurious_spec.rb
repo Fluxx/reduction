@@ -27,15 +27,16 @@ module Reduction
 
         it_should_find 'title', 'Patricia Wells\'s Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese'
 
-        it_should_find 'ingredients', [
-          "2 1/2 ounces smoked bacon, rind removed, cut into matchsticks (3/4 cup)",
-          "1 head iceberg lettuce, chopped (4 cups)",
-          "2 ripe heirloom tomatoes, cored, peeled, seeded, and chopped",
-          "1 large ripe avocado, halved, pitted, peeled, and cubed",
-          "4 ounces chilled blue cheese (preferably Roquefort), crumbled (1 cup)",
-          "4 small spring onions or scallions, white part only, trimmed, peeled, and cut into thin rounds",
-          "Yogurt and Lemon Dressing",
-          "Coarse, freshly ground black pepper"
+        it_should_find 'ingredients',  [
+          [
+            "2 1/2 ounces smoked bacon, rind removed, cut into matchsticks (3/4 cup)",
+            "1 head iceberg lettuce, chopped (4 cups)",
+            "2 ripe heirloom tomatoes, cored, peeled, seeded, and chopped",
+            "1 large ripe avocado, halved, pitted, peeled, and cubed",
+            "4 ounces chilled blue cheese (preferably Roquefort), crumbled (1 cup)",
+            "4 small spring onions or scallions, white part only, trimmed, peeled, and cut into thin rounds",
+            "Yogurt and Lemon Dressing", "Coarse, freshly ground black pepper"
+          ]
         ]
 
         it_should_find 'steps', [
@@ -117,6 +118,30 @@ module Reduction
         it_should_find 'steps',  [
           "Combine citrus zest, lime leaves, lemongrass, and 2 cups water in a small saucepan. Bring to a boil, reduce heat, and simmer for 5 minutes. Strain lemongrass mixture into a jar and chill. Fill a 12 ounce glass with ice cubes. Add 2 tablespoons lemongrass mixture and 1 tablespoon simple syrup. Top with soda water (about 1/2 cup) and stir to combine. Repeat to make 11 more sodas."
         ]
+      end
+
+      context 'a recipe that has a shopping list' do
+        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109')) }
+        it_should_behave_like "a strategy"
+
+        it_should_find 'ingredients',  [
+          [
+            "Unsalted butter, for the baking dish",
+            "4 ripe peaches, washed and patted dry",
+            "5 tablespoons crushed amaretti cookies (about 2 ounces)",
+            "1 large egg yolk",
+            "1/2 teaspoon cocoa powder",
+            "1/4 cup dry white wine, such as Pinot Grigio",
+            "Whipped cream, for serving (optional)"
+          ],
+          [
+            "To hurry along not-very-ripe peaches, put them in a paper bag, close the top, and let them sit at room temperature until they ripen. I wish I could give you a specific length of time, but you just need to keep checking until they're ready."
+          ]
+        ]
+
+        it 'picks up the recipe header' do
+          subject.ingredients.last.name.should == 'Shopping with anna:'
+        end
       end
 
     end
