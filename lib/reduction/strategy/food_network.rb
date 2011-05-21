@@ -2,7 +2,7 @@ module Reduction
   class Strategy
 
     class FoodNetwork < Strategy
-      
+
       def self.for_url?(url)
         url =~ /www\.foodnetwork\.com/
       end
@@ -12,7 +12,7 @@ module Reduction
       end
 
       def ingredients
-        [ recipe('.body-text ul').text.stripped_lines ]
+        NamedList.from_node_set(ingredient_elements, :h3).each(&:clean!)
       end
 
       def steps
@@ -32,6 +32,10 @@ module Reduction
       end
 
       private
+
+      def ingredient_elements
+        recipe('.body-text').children
+      end
 
       def recipe(further)
         doc.at('.hrecipe').at(further)
