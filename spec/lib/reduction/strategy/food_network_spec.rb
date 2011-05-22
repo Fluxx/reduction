@@ -94,29 +94,38 @@ module Reduction
       end
 
       context 'a recipe with multiple step lists' do
-        subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')) }
+        subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/giada-de-laurentiis/hazelnut-crunch-cake-with-mascarpone-and-chocolate-recipe/index.html')) }
         it_should_behave_like "a strategy"
 
         it_should_find 'steps', [
           [
-            "Special equipment: 2 (8 by 2-inch) round cake pans and an instant-read thermometer",
-            "Cake:",
             "Preheat the oven to 350 degrees F.",
-            "Liberally butter the bottom and sides of 2 cake pans.  Put a round of parchment paper into the bottom of each pan and coat them with butter.  Put the pans on a baking sheet.",
-            "Melt the 10 tablespoons of butter in a small pot over low heat. Remove the pot from the stove and allow it to cool slightly. Reserve.",
-            "In a medium bowl, sift together the baking soda, salt, baking powder and flour.",
-            "In a large bowl, beat the eggs, sugar, vanilla, and sour cream together until smooth. Add the flour mixture in small batches to the wet ingredients, whisking as you go to avoid the formation of lumps. Make a well in the center of the batter and pour in the melted butter. Whisk until smooth. Fold in the chopped chocolate",
-            "Divide the batter between the cake pans and spread out to level the top. Gently tap the sides of the pan so the batter distributes evenly. Slide the baking sheet into the center of the oven and bake until a toothpick inserted in the center comes out clean, 40 to 45 minutes. Remove the pans from the oven and allow the cakes to cool briefly. Invert the cakes from the pans onto a baking sheet fitted with a wire rack and peel off the parchment paper. Allow them to cool for at least 45 minutes before frosting.",
-            "Frosting:",
-            "Pour some water, about 2 inches deep, into a saucepan to create a makeshift double boiler. Put the pan on the stove and bring the water to a gentle simmer. Dip the instant-read thermometer into the simmering water to clean any impurities off the end and to test that the thermometer works.",
-            "In a clean, large mixing bowl, combine the 5 tablespoons of cool water, cream of tartar, sugar, egg whites and corn syrup. Gently lower the bowl over the simmering water. Turn off the heat under the pot. Use an electric hand beater to whip the whites over the water. Do not leave the egg white mixture unattended or stop beating any time during this process.",
-            "After about 3 minutes, remove the bowl from the heat, set the beater down and quickly take the temperature of the egg whites. You want them to reach 140 degrees F. If you measure the temperature before they reach that point, immediately put the bowl of whites back over the water and resume beating until they are finished, an additional 2 to 3 minutes.",
-            "Remove the bowl from the water and fold in the vanilla extract. It should look like marshmallow fluffiness. Set the frosting aside to allow the mixture to cool. Frost the cake by, as my father used to say, \"glopping\" the frosting all over the top and the sides. Serve immediately."
-            ]
+            "Butter and flour 2 (8-inch) cake pans. Prepare the cake mix according to package instructions. Divide the batter between the 2 cake pans and bake according to package instructions. Remove from the oven and let cool on a wire rack."
+          ],
+          [
+            "Place the toasted nuts close together in a single layer on a parchment-lined baking sheet. Combine the sugar and water in a small saucepan over medium-high heat. Stir the sugar mixture until dissolved. Bring to a boil and let cook until the sugar is light brown, about 8 minutes. Let the bubbles subside then pour the caramelized sugar over the nuts. Place the baking sheet in the refrigerator and let the sugar nut mixture cool until hard, about 30 minutes. When the sugar nut mixture is hard and cool, top with another piece of parchment paper and pound into small pieces, or place the sugar nut mixture on a cutting board and cut into small pieces. Set aside."
+          ],
+          [
+            "Put the mascarpone cheese, cream, powdered sugar, and vanilla into a large mixing bowl. Using an electric mixer whip the cream mixture to soft peaks. Fold the Crunch mixture into the whipped cream."
+          ],
+          [
+            "Place the chocolate, sugar and zest in a food processor. Process the mixture until the chocolate is finely ground."
+          ],
+          [
+            "Put 1 cake on a serving plate. Top with 1-inch of the whipped cream crunch mixture. Top with the second layer of cake and continue frosting the entire cake with the remaining whipped cream crunch mixture. Sprinkle the top and sides of the cake with the ground chocolate. Serve."
           ]
+        ]
+        
+        it 'picks out the name of the lists' do
+          subject.steps.map(&:name).should ==  [
+            "Directions",
+            "For the Crunch:",
+            "For the filling:",
+            "For the topping:",
+            "To assemble the cake:"
+          ] 
+        end
       end
-
-
 
     end
 

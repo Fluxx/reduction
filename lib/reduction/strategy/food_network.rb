@@ -16,7 +16,7 @@ module Reduction
       end
 
       def steps
-        [ recipe('.body-text .instructions').text.stripped_lines ]
+        multiple_steps_elements
       end
 
       def yields
@@ -32,6 +32,30 @@ module Reduction
       end
 
       private
+
+      def multiple_steps_elements
+        stack = Array.new
+
+        steps_elements.each do |element|
+          case element.name.to_sym
+          when :h2
+            list = NamedList.new
+            list.name = element.text.collapse_whitespace
+            stack.push(list)
+          when :div
+            if element['class'] == 'instructions'
+              new_items = element.search('p').map(&:text).map(&:collapse_whitespace)
+              stack.last.concat(new_items.reject(&:empty?))
+            end
+          end
+        end
+
+        stack.reject(&:empty?)
+      end
+
+      def steps_elements
+        recipe('.body-text').children
+      end
 
       def ingredient_elements
         recipe('.body-text').children
