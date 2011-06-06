@@ -12,8 +12,7 @@ module Reduction
       end
 
       def ingredients
-        [ doc.at('.ingredients ul.clr').search('li').collect(&:text).
-          collect(&:collapse_whitespace) ]
+        NamedList.from_node_set(ingredient_elements, :h3)
       end
 
       def steps
@@ -34,6 +33,12 @@ module Reduction
 
       def total_time
         doc.at('.directions span.duration').text
+      end
+      
+      private
+      
+      def ingredient_elements
+        @ingredient_elements ||= doc.at('.ingredients').children
       end
 
     end

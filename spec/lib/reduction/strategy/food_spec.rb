@@ -10,7 +10,7 @@ module Reduction
       use_vcr_cassette 'food'
 
       context 'a normal recipe' do
-        
+
         subject { described_class.new(get_page('http://www.food.com/recipe/yummy-frozen-margaritas-292214')) }
 
         it_should_behave_like "a strategy"
@@ -55,19 +55,42 @@ module Reduction
         it_should_find 'cook_time', nil
 
         it_should_find 'total_time', '5 mins'
-        
+
       end
-      
+
       context 'a recipe with multiple ingredient lists' do
         subject { described_class.new(get_page('http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256')) }
+
         it_should_behave_like "a strategy"
-        # TODO: specific checks
-      end
-        
-      context 'a recipe with multiple step lists' do
-        subject { described_class.new(get_page('http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256')) }
-        it_should_behave_like "a strategy"
-        # TODO: specific checks
+
+        it_should_find 'ingredients', [
+          [
+            "1 1/2 cups bananas, mashed, ripe",
+            "2 teaspoons lemon juice",
+            "3 cups flour",
+            "1 1/2 teaspoons baking soda",
+            "1/4 teaspoon salt",
+            "3/4 cup butter, softened",
+            "2 1/8 cups sugar",
+            "3 large eggs",
+            "2 teaspoons vanilla",
+            "1 1/2 cups buttermilk"
+          ],
+          [
+            "1/2 cup butter, softened",
+            "1 (8 ounce) package cream cheese, softened",
+            "1 teaspoon vanilla",
+            "3 1/2 cups icing sugar"
+          ],
+          [
+            "chopped walnuts"
+          ]
+        ]
+
+        it 'matches the ingredient list names correctly' do
+          subject.ingredients.map(&:name).should == [nil, 'Frosting', 'Garnish']
+        end
+
       end
 
     end
