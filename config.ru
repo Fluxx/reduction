@@ -1,3 +1,3 @@
-require './lib/app'
+require './app'
 use Rack::ShowExceptions
 run Sinatra::Application
