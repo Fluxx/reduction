@@ -16,7 +16,9 @@ module Reduction
             ingredient_list.clean!
             stack.last.replace(ingredient_list)
           else
-            stack.push(new(elem.search('li').map(&:text)))
+            list = new(elem.search('li').map(&:text))
+            list.clean!
+            stack.push(list)
           end
         end
       end

@@ -79,7 +79,7 @@ module Reduction
             "3/4 teaspoon pure vanilla extract"
           ],
           [
-            "Equipment:  a 10-inch fluted tart pan with removable bottom; pie weights or dried beans"
+            "Equipment: a 10-inch fluted tart pan with removable bottom; pie weights or dried beans"
           ]
         ]
       end

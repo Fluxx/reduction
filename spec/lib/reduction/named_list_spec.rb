@@ -49,6 +49,11 @@ module Reduction
         subject.map(&:name).first.should == 'Messed Up'
       end
 
+      it 'collapses the whitespace for each list item' do
+        container.add_child("<ul><li>\n\nmessed\t\r  up   \t\t\t\r  \t</li></ul>")
+        subject[2].should == ['messed up']
+      end
+
       it 'takes every other item, starting with the 2nd, as the list' do
         subject[0].should == ['Item 1', 'Item 2']
         subject[1].should == ['Item 3', 'Item 4']
