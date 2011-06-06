@@ -30,7 +30,7 @@ end
 
 def reduce(url)
   reduc = reduction(url)
-  return "" if reduc.empty?
+  return "" if reduc.is_a?(String) && reduc.empty?
   
   "<table border=1>".tap do |buffer|
     %w[title ingredients steps yields prep_time cook_time].each do |meth|
