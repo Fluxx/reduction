@@ -6,7 +6,7 @@ require 'nokogiri'
 
 $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
-require 'reduction'
+require 'lib/reduction'
 
 def form
   %Q{<form method="post"><input type="text" name="url" size="100"  value="#{params['url']}"> \
