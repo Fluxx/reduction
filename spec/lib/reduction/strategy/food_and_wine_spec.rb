@@ -7,7 +7,7 @@ module Reduction
 
     describe FoodAndWine do
       use_vcr_cassette 'food_and_wine'
-      
+
       context 'for a normal recipe' do
         subject { described_class.new(get_page('http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast')) }
 
@@ -63,12 +63,6 @@ module Reduction
         it_should_find 'total_time', '35 min'
       end
 
-      context 'for a recipe with a "make ahead" section' do
-        subject { described_class.new(get_page('http://www.foodandwine.com/recipes/ahhh-joy-sundae')) }
-        it_should_behave_like "a strategy"
-        # TODO: Specifics
-      end
-      
     end
 
   end
