@@ -2,6 +2,7 @@ require 'rubygems'
 require 'sinatra'
 require 'open-uri'
 require 'distillery'
+require 'nokogiri'
 
 $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
