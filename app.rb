@@ -1,6 +1,7 @@
 require 'rubygems'
 require 'sinatra'
 require 'open-uri'
+require 'distillery'
 
 $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
@@ -28,6 +29,7 @@ end
 
 def reduce(url)
   reduc = reduction(url)
+  return "" if reduc.empty?
   
   "<table border=1>".tap do |buffer|
     %w[title ingredients steps yields prep_time cook_time].each do |meth|
@@ -41,6 +43,11 @@ def reduce(url)
   end
 end
 
+def distill(url)
+  doc = Distillery.distill(open(url).read)
+  "<pre style='width: 1000px; white-space: pre-line;'>#{Nokogiri::HTML(doc).text}</pre>"
+end
+
 def iframe(url)
   "<iframe src=\"#{url}\" width=\"100%\" height=\"500\"></iframe>"
 end
@@ -50,5 +57,7 @@ get '/' do
 end
 
 post '/' do
-  [Reduction::Strategy.constants.inspect, form, reduce(params['url']), iframe(params['url'])].join('<hr>')
+  body = reduce(params['url'])
+  body = distill(params['url']) if body.empty?
+  [Reduction::Strategy.constants.inspect, form, body, iframe(params['url'])].join('<hr>')
 end
