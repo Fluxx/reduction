@@ -8,6 +8,20 @@ $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
 require 'lib/reduction'
 
+def header
+  %Q{<!DOCTYPE html>\
+  <head>\
+    <title>Reduction</title>\
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\
+    <style>img { display: block}</style>\
+  </head>\
+  <body>}
+end
+
+def footer
+  %Q{</body>}
+end
+
 def form
   %Q{<form method="post"><input type="text" name="url" size="100"  value="#{params['url']}"> \
      </input><input type="submit" value="Submit"></form>}
@@ -45,20 +59,25 @@ def reduce(url)
 end
 
 def distill(url)
-  doc = Distillery.distill(open(url).read)
-  "<pre style='width: 1000px; white-space: pre-line;'>#{Nokogiri::HTML(doc).text}</pre>"
+  doc = Distillery.distill(open(url).read, :images => true)
+  Nokogiri::HTML(doc).to_s
 end
 
 def iframe(url)
   "<iframe src=\"#{url}\" width=\"100%\" height=\"500\"></iframe>"
 end
 
+def wrapped(*parts)
+  base = [Reduction::Strategy.constants.inspect, form] + parts
+  header + base.join('<hr>') + footer
+end
+
 get '/' do
-  form
+  wrapped(form)
 end
 
 post '/' do
   body = reduce(params['url'])
   body = distill(params['url']) if body.empty?
-  [Reduction::Strategy.constants.inspect, form, body, iframe(params['url'])].join('<hr>')
+  wrapped(body, iframe(params['url']))
 end
