@@ -1,0 +1,10 @@
+* Adding List of approved websites
+  - SimplyRecipes
+  - Martha Stewart
+  - Saveur Online
+* Fix extra info: Tags, date, extra links, etc
+* Work on actual formatting of recipes
+* Work on website
+  - User authentication
+  - User accounts with saved recipes
+  - Recipe edit page
