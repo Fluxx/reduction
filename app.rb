@@ -8,25 +8,6 @@ $LOAD_PATH.unshift(File.expand_path(File.dirname(__FILE__)))
 
 require 'lib/reduction'
 
-def header
-  %Q{<!DOCTYPE html>\
-  <head>\
-    <title>Reduction</title>\
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\
-    <style>img { display: block}</style>\
-  </head>\
-  <body>}
-end
-
-def footer
-  %Q{</body>}
-end
-
-def form
-  %Q{<form method="post"><input type="text" name="url" size="100"  value="#{params['url']}"> \
-     </input><input type="submit" value="Submit"></form>}
-end
-
 def reduction(url)
   Reduction::Strategy.constants.each do |klass|
     strategy = Reduction::Strategy.const_get(klass)
@@ -63,21 +44,13 @@ def distill(url)
   Nokogiri::HTML(doc).to_s
 end
 
-def iframe(url)
-  "<iframe src=\"#{url}\" width=\"100%\" height=\"500\"></iframe>"
-end
-
-def wrapped(*parts)
-  base = [Reduction::Strategy.constants.inspect, form] + parts
-  header + base.join('<hr>') + footer
-end
-
 get '/' do
-  wrapped(form)
+  erb :new
 end
 
 post '/' do
-  body = reduce(params['url'])
-  body = distill(params['url']) if body.empty?
-  wrapped(body, iframe(params['url']))
+  @url = params['url']
+  @result = reduce(params['url'])
+  @result = distill(params['url']) if body.empty?
+  erb :show
 end
