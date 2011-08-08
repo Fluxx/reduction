@@ -29,4 +29,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency('growl')
   s.add_development_dependency('vcr')
   s.add_development_dependency('fakeweb')
+  s.add_development_dependency('shotgun')
+  s.add_development_dependency('compass')
 end
