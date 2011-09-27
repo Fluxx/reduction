@@ -17,5 +17,9 @@ module Reduction
       "Prep Time: #{prep_time}. Cook Time: #{cook_time}"
     end
 
+    def self.subclasses
+      constants.map { |c| const_get(c) }.select { |klass| klass < self }
+    end
+
   end
 end
