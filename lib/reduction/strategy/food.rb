@@ -8,7 +8,7 @@ module Reduction
       end
 
       def title
-        doc.at('.recipe-info-page span.item h2.fn').text.collapse_whitespace
+        doc.at('#rz-lead h1.fn').text.collapse_whitespace
       end
 
       def ingredients
@@ -16,7 +16,7 @@ module Reduction
       end
 
       def steps
-        [ doc.search('.directions ol li span').map(&:text) ]
+        [ doc.search('.directions ol li div.txt').map(&:text) ]
       end
 
       def yields
@@ -25,14 +25,15 @@ module Reduction
       end
 
       def prep_time
-        doc.at('.directions span.prepTime').text
+        doc.at('.recipe-item p.prepTime').text
       end
 
       def cook_time
+        # TODO: Add this, it's on the page now
       end
 
       def total_time
-        doc.at('.directions span.duration').text
+        doc.at('.recipe-item h3.duration').text
       end
       
       private

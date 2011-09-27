@@ -19,15 +19,15 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Sun, 22 May 2011 01:36:12 GMT
+      - Tue, 27 Sep 2011 05:00:31 GMT
       date:
-      - Sun, 22 May 2011 01:26:12 GMT
+      - Tue, 27 Sep 2011 04:50:31 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
-    body: ! "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!DOCTYPE
+    body: ! "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!DOCTYPE
       html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\n<html
       xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n
       \   \n    \n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n<title>Peppercorn-Roasted
@@ -52,7 +52,8 @@
       'PROD',\n            code: 'GMT',\n            title: 'Gourmet',\n            name:
       'gourmet',\n            alias: 'Gourmet.com',\n            tld: 'gourmet.com',\n
       \           eventTrackingUrl: 'http://result.gourmet.com',\n            eventTrackingEnv:
-      'PROD'\n        });\n\n        \n    //-->\n    </script>\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      'PROD',\n            mobilecompatible: true\n        });\n\n        \n    //-->\n
+      \   </script>\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n            <script type=\"text/javascript\" src=\"/js/ecomfw.min.js\"></script>\n
       \       \n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \       \n        \n    \n\n\n        \n\n<script type=\"text/javascript\">\n//
@@ -117,20 +118,15 @@
       \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_navBar',\n        params:{}});\n\n
       \   }\n// -->\n</script>\n\n\n\n            \n    \n\n</div>\n\n        <div
       id=\"global-nav\" title=\"Site Navigation\">\n<ul>\n    <li id=\"gnav1\"><a
-      href=\"/food\" title=\"The latest dish about everything food\">FOOD + COOKING</a></li>\n
-      \   <li id=\"gnav2\"><a href=\"/restaurants\" title=\"News + notes about restaurants
-      + chefs\">CHEFS + RESTAURANTS</a></li>\n    <li id=\"gnav3\"><a href=\"/foodpolitics\"
-      title=\"News + opinion about food politics\">FOOD POLITICS</a></li>\n    <li
-      id=\"gnav4\"><a href=\"/winespiritsbeer\" title=\"News + opinion from the world
-      of drink\">WINE + SPIRITS + BEER</a></li>\n    <li id=\"gnav5\"><a href=\"/recipes\"
-      title=\"Gourmet recipes past + present\">RECIPES + MENUS</a></li>\n    <li id=\"gnav6\"><a
-      href=\"/magazine\" title=\"Gourmet magazine from 1941-present\">FROM THE MAGAZINE</a></li>\n
-      \   <li id=\"gnav7\"><a href=\"http://live.gourmet.com/\" title=\"Gourmet Live
-      \">GOURMET LIVE</a></li>\n    <li id=\"gnav8\"><a href=\"/ontv\" title=\" Clips
-      + recipes from Gourmet's TV shows\">GOURMET ON TV</a></li>\n   <li id=\"gnav9\"><a
-      href=\"/travel\" title=\"Travel news, trends + city guides\">TRAVEL + CULTURE</a></li>\n
-      \   <li id=\"gnav10\"><a href=\"/video\" title=\"Tips from our Test Kitchen
-      + much more\">VIDEO</a></li>\n</ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      href=\"/recipes\" title=\"Gourmet recipes past + present\">RECIPES + MENUS</a></li>\n
+      \   <li id=\"gnav2\"><a href=\"http://live.gourmet.com/about/\" title=\"Gourmet
+      Live\">GOURMET LIVE APP</a></li>\n    <li id=\"gnav3\"><a href=\"http://live.gourmet.com/\"
+      title=\"News + opinion about food politics\">GOURMET LIVE BLOG</a></li>\n    <li
+      id=\"gnav4\"><a href=\"/food/sip\" title=\"News + opinion from the world of
+      drink\">SPECIAL EDITIONS</a></li>\n    <li id=\"gnav5\"><a href=\"/food/products\"
+      title=\"Gourmet recipes past + present\">COOKBOOKS + PRODUCTS</a></li>\n    <li
+      id=\"gnav6\"><a href=\"/video\" title=\"Gourmet recipes past + present\">COOKING
+      VIDEOS</a></li>\n</ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \       <div id=\"subs-teaser\">\n        <div id=\"global_headerCallout\">\n
       \           <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img
       border=\"0\" src=\"/images/ecom/failsafe/GMT_header_callout.gif\" alt=\"Subscribe
@@ -140,20 +136,10 @@
       \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_headerCallout',\n
       \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \       \n        <div id=\"global_header\">\n            <h3 id=\"subs-cover\"><a
-      href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\" title=\"Subscribe
-      to Gourmet\">Subscribe to Gourmet</a></h3>\n            <div id=\"subs-nav\">\n
-      \           <ul>\n                <li id=\"snav1\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
-      target=\"_blank\" title=\"Subscribe to Gourmet magazine\">Subscribe</a></li>\n
-      \               <li id=\"snav2\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafeGift\"
-      target=\"_blank\" title=\"Give a Subscription to Gourmet magazine as a Gift\">Give
-      a gift</a></li>\n                <li id=\"snav3\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\"
-      target=\"_blank\" title=\"Renew your Subscription to Gourmet magazine\">Renew</a></li>\n
-      \               <li id=\"snav4\"><a href=\"https://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\"
-      target=\"_blank\" title=\"Subscription Questions and Answers for Gourmet magazine\">Questions</a></li>\n
-      \           </ul>\n            </div>\n        </div>\n        \n    \n\n\n
-      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
-      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_header',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_header',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n\n
+      href=\"/food/sip\" target=\"_blank\" title=\"Subscribe to Gourmet\">Subscribe
+      to Gourmet</a></h3>\n            <div id=\"subs-nav\"><a href=\"/food/sip\"
+      target=\"_blank\" title=\"Subscribe to Gourmet\">SEE OUR </br>SPECIAL EDITIONS</a></div>\n
+      \       </div>\n        \n    \n\n\n        \n\n\n\n\n\n\n            \n    \n\n\n
       \   </div>\n\n    \n\n    \n\n\n\n\n<div id=\"loginbx\">\n    <script type=\"text/javascript\">\n
       \   //<!--\n    function isLoggedIn() {\n        var cookie_name=\"amg_user\";\n
       \       var nameEQ = cookie_name + \"=\";\n        var ca = document.cookie.split(';');\n
@@ -449,39 +435,41 @@
       id=\"search-recipes-submit\" type=\"image\" src=\"/images/elements/yrail/btn-search.gif\"
       value=\"submit\" name=\"search-recipes-submit\" onmouseover=\"this.src='/images/elements/yrail/btn-search-r.gif'\"
       onmouseout=\"this.src='/images/elements/yrail/btn-search.gif'\"/>\n                      </form>\n
-      \               </div>\n\n            </div>\n\n            \n                \n
-      \               \n                    \n                        \n                        \n
-      \                           <div class=\"yrcomponent\">\n                                \n\n\n\n\n\n\n\n\n
-      \   \n    \n\n    \n    \n    \n    \n\n        <div id=\"features_yrail_1_1_1\"
-      class=\"features\">\n            \n            \n\n            \n            \n
-      \           \n            \n        </div>\n    \n    \n    \n    \n\n        <div
-      id=\"features_yrail_1_1_2\" class=\"features\">\n            \n            \n\n
-      \           \n            \n            \n            \n        </div>\n    \n
-      \   \n    \n    \n\n        <div id=\"features_yrail_1_1_3\" class=\"features
-      \ set1\">\n            \n            \n\n            \n            \n            \n
-      \           \n                \n                \n                \n                \n
-      \               \n\n                \n                \n                \n\n
-      \               \n                \n                \n                    \n
-      \                   \n                        \n                    \n                    \n
-      \                   \n                        \n                    \n                    \n
-      \               \n\n                \n                    <!-- start feature
-      -->\n                    <div class=\"feature imageTop first\">\n                \n\n
-      \               \n                    \n                            \n                            \n\n
-      \   \n\n                            \n                        \n                \n
-      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
-      \   \n    \n  \n\n\n\n                        \n                \n                    \n
+      \               </div>\n\n            </div>\n\n            <div class=\"yrcomponent\">\n
+      \               <div class=\"yrail_ads\">\n\n                \n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"yrailText4x1_frame\" class=\"displayAd\"></div>\n    <script
+      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailText',
+      {sz:'4x1', kws:[\"top\"], collapse: true});\n    //-->\n    </script>\n    \n\n\n
+      \               \n\n\n\n\n\n\n\n\n\n\n        <div id=\"yrailTop300x250_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('yrailTop', {sz:'300x250', kws:[\"top\"]});\n
+      \   //-->\n    </script>\n    \n\n\n                </div>\n            </div>\n\n
+      \           \n                \n                \n                    \n                        \n
+      \                       \n                            <div class=\"yrcomponent\">\n
+      \                               \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n
+      \   \n    \n\n        <div id=\"features_yrail_1_1_1\" class=\"features\">\n
+      \           \n            \n\n            \n            \n            \n            \n
+      \               \n                \n                \n                \n                \n\n
+      \               \n                \n                \n\n                \n                \n
+      \               \n                    \n                    \n                        \n
+      \                   \n                    \n                    \n                        \n
+      \                   \n                    \n                \n\n                \n
+      \                   <!-- start feature -->\n                    <div class=\"feature
+      imageTop first\">\n                \n\n                \n                    \n
+      \                           \n                            \n\n    \n\n                            \n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"http://live.gourmet.com/email_updates/\"
+      title=\"\"><img src=\"/images/gmtlive/gmt-nl-signup.jpg\" alt=\"\" class=\"featureimg\"
+      \ /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n    \n\n    \n    \n
+      \ \n\n\n\n                        \n                \n                    \n
       \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
-      \           \n                GOURMET LIVE IN REAL TIME \n            \n        \n
       \   \n</h3>\n\n\n                        \n                \n                    \n
       \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            <div
-      class=\"text\">\n                \n                    <iframe width=\"300\"
-      height=\"240\" src=\"http://player.gourmet.com/api/public_activities\" frameborder=\"0\"\nscrolling=\"no\"
-      /></iframe>\n\n\n\n<br /><br />\n                \n            </div>\n            \n
-      \           \n\n            \n                \n            \n            \n\n
-      \           \n            <ul class=\"links\">\n                \n                    \n
-      \               \n            </ul>\n            \n\n    </div>\n\n\n                        \n
-      \               \n                    \n                             \n\n\n\n\n\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
       \                       \n                \n                \n                    </div>\n
       \                   <!-- end feature -->\n                \n                \n
       \               \n            \n        </div>\n    \n    \n    \n    \n    \n
@@ -498,17 +486,9 @@
       \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
       \                       </div>\n                        <br />\n                    </div>\n
       \                   <div class=\"yrcomponent\">\n                        <div
-      id=\"yrail_ads\">\n\n                        \n\n\n\n\n\n\n\n\n\n\n        <div
-      id=\"yrailText4x1_frame\" class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n
-      \   //<!--\n        \n        CN.dart.call('yrailText', {sz:'4x1', kws:[], collapse:
-      true});\n    //-->\n    </script>\n    \n\n\n                        \n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"yrailTop300x250_frame\" class=\"displayAd\"></div>\n    <script
-      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailTop',
-      {sz:'300x250', kws:[]});\n    //-->\n    </script>\n    \n\n\n                        </div>\n
-      \                   </div>\n                    <div class=\"yrcomponent\">\n
-      \                       <div class=\"yrpromos\">\n                            \r\n<div
-      class=\"yrpromos\">\r\n\r\n</div>\r\n\r\n\r\n\r\n\n                        \n
-      \                           <div class=\"yrail_ad_wrap\">\n                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      class=\"yrpromos\">\n                            \r\n<div class=\"yrpromos\">\r\n\r\n</div>\r\n\r\n\r\n\r\n\n
+      \                       \n                            <div class=\"yrail_ad_wrap\">\n
+      \                           \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \       <div id=\"global_rightRail_B\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafeGift\"
       target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_rr_gift.gif\" border=\"0\"
       alt=\"Give the Gift of Gourmet\" title=\"Give the Gift of Gourmet\" /></a>\n
@@ -523,22 +503,69 @@
       \                               \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n
       \   \n    \n\n        <div id=\"features_yrail_2_1_1\" class=\"features\">\n
       \           \n            \n\n            \n            \n            \n            \n
-      \       </div>\n    \n    \n    \n    \n\n        <div id=\"features_yrail_2_1_2\"
-      class=\"features  set2\">\n            \n            \n\n            \n            \n
-      \           \n            \n                \n                \n                \n
-      \               \n                \n\n                \n                \n                \n\n
-      \               \n                \n                \n                    \n
-      \                   \n                        \n                    \n                    \n
-      \                   \n                        \n                    \n                    \n
+      \               \n                \n                \n                \n                \n\n
+      \               \n                \n                \n\n                \n                \n
+      \               \n                    \n                    \n                        \n
+      \                   \n                    \n                    \n                        \n
+      \                   \n                    \n                \n\n                \n
+      \                   <!-- start feature -->\n                    <div class=\"feature
+      imageTop first\">\n                \n\n                \n                    \n
+      \                           \n                            \n\n    \n\n                            \n
+      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n       \n\n    \n    \n  \n\n\n\n                        \n
+      \               \n                    \n                             \n\n\n\n\n<h3
+      class=\"header\">\n    \n        \n    \n</h3>\n\n\n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \   \n\n    <div class=\"blurb\">\n            \n                \n            \n
+      \           \n            <div class=\"text\">\n                \n                    <div
+      id=\"yrail_ads_bottom\">\n    <div id=\"yrailText4x1_framebottom\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailText',
+      {sz:'4x1', kws:[\"bottom\"], collapse: true});\n    //-->\n    </script>\n\n
+      \   <div id=\"yrailBottom300x250_frame\" class=\"displayAd\"></div>\n    <script
+      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailBottom',
+      {sz:'300x250', kws:[]});\n    //-->\n    </script>\n</div>\n<style type=\"text/css\">\n.yrcomponent
+      #yrail_ads_bottom {\n     margin-bottom: 20px;\n}\n</style>\n                \n
+      \           </div>\n            \n            \n\n            \n                \n
+      \           \n            \n\n    </div>\n\n\n                        \n                \n
+      \                   \n                             \n\n\n\n\n\n                        \n
+      \               \n                \n                    </div>\n                    <!--
+      end feature -->\n                \n                \n                \n            \n
+      \               \n                \n                \n                \n                \n\n
+      \               \n                \n                \n\n                \n                \n
+      \               \n                    \n                    \n                        \n
+      \                   \n                    \n                    \n                    \n
       \               \n\n                \n                    <!-- start feature
-      -->\n                    <div class=\"feature imageTop first\">\n                \n\n
+      -->\n                    <div class=\"feature imageTop\">\n                \n\n
       \               \n                    \n                            \n                            \n\n
       \   \n\n                            \n                        \n                \n
       \                   \n                            \n\n\n\n\n\n  \n\n       \n
       \         \n               \n             \n       \n\n    \n    \n    \n\n
       \   \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/app\" title=\"\"><img
-      src=\"/images/homepage/2010/gourmetlivead300x75.gif\" alt=\"\" class=\"featureimg\"
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"http://www.epicurious.com/recipesmenus/gourmetlive/recipes\"
+      title=\"\"><img src=\"/images/gmtlive/gmt-epi1.jpg\" alt=\"\" class=\"featureimg\"
+      \ /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n    \n\n    \n    \n
+      \ \n\n\n\n                        \n                \n                    \n
+      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \   \n</h3>\n\n\n                        \n                \n                    \n
+      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
+      \           \n                \n            \n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
+      \                       \n                \n                \n                    </div>\n
+      \                   <!-- end feature -->\n                \n                \n
+      \               \n            \n                \n                \n                \n
+      \               \n                \n\n                \n                \n                \n\n
+      \               \n                \n                \n                    \n
+      \                   \n                        \n                    \n                    \n
+      \                   \n                    \n                \n\n                \n
+      \                   <!-- start feature -->\n                    <div class=\"feature
+      imageTop\">\n                \n\n                \n                    \n                            \n
+      \                           \n\n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
+      \ \n\n       \n          \n               \n             \n       \n\n    \n
+      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"http://www.epicurious.com/recipesmenus/gourmet/recipes\"
+      title=\"\"><img src=\"/images/gmtlive/gmt-epi2.jpg\" alt=\"\" class=\"featureimg\"
       \ /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n    \n\n    \n    \n
       \ \n\n\n\n                        \n                \n                    \n
       \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
@@ -560,35 +587,6 @@
       \               \n                    \n                            \n\n\n\n\n\n
       \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
       \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
-      \   \n        \n            \n                Explore Gourmet Online\n            \n
-      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            <div
-      class=\"text\">\n                \n                    <a href=\"/food/favorite-food-sites\">Favorite
-      Food and Travel Sites</a><br />\n<a href=\"/search/query?keyword=web-exclusive+recipes&\">Web-Exclusive
-      Recipes</a><br />\n<a href=\"/search/query?keyword=my+day+on+a+plate&\">My Day
-      on a Plate</a><br />\n<a href=\"http://www.epicurious.com/recipesmenus/gourmet/recipes?browseByAtt=\">Gourmet
-      on Epicurious</a><br />\n<a href=\"http://live.gourmet.com/category/image-of-the-day/\">Gourmet
-      Live Image of the Day</a><br />\n<a href=\"http://live.gourmet.com/category/weekly-roundups/\">Gourmet
-      Live Food Blog Roundup</a><br />\n<a href=\"/search/query?keyword=travel%20smart\">Travel
-      Smart</a><br />\n                \n            </div>\n            \n            \n\n
-      \           \n                \n            \n            \n\n            \n
-      \           <ul class=\"links\">\n                \n                    \n                \n
-      \           </ul>\n            \n\n    </div>\n\n\n                        \n
-      \               \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n                \n                \n                \n
-      \               \n                \n\n                \n                \n                \n\n
-      \               \n                \n                \n                    \n
-      \                   \n                        \n                    \n                    \n
-      \                   \n                    \n                \n\n                \n
-      \                   <!-- start feature -->\n                    <div class=\"feature
-      imageTop\">\n                \n\n                \n                    \n                            \n
-      \                           \n\n    \n\n                            \n                        \n
-      \               \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
-      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
       \   \n        \n    \n</h3>\n\n\n                        \n                \n
       \                   \n                            \n\n\n\n\n\n    \n\n    <div
       class=\"blurb\">\n            \n                \n            \n            \n
@@ -599,66 +597,13 @@
       -->\n                \n                \n                \n            \n                \n
       \               \n                \n                \n                \n\n                \n
       \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                    \n                    \n
+      \                   \n                    \n                        \n                    \n
+      \                   \n                    \n                        \n                    \n
       \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature\">\n                \n\n
-      \               \n                    \n                            \n                            \n\n
-      \   \n\n                            \n                        \n                \n
-      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
-      \   \n    \n  \n\n\n\n                        \n                \n                    \n
-      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
-      \   \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            <div
-      class=\"text\">\n                \n                    <div class=\"community\">\n<h3>Gourmet
-      Community</h3>\n<ul>\n<li class=\"facebook\"><a href=\"http://www.facebook.com/pages/Gourmet/32672188791\">Become
-      our fan on Facebook</a></li>\n<li class=\"youtube\"><a href=\"http://www.youtube.com/gourmetmagazine\">Visit
-      our YouTube channel</a></li>\n<li class=\"twitter\"><a href=\"http://twitter.com/GourmetLive\">Follow
-      <strong>Gourmet.com</strong> on Twitter</a></li>\n<li class=\"foursquare\"><a
-      href=\"https://foursquare.com/gourmetlive\">FOLLOW GOURMET LIVE ON FOURSQUARE</a></li>\n<li
-      class=\"foodspotting\"><a href=\"http://www.foodspotting.com/gourmetlive\">FOLLOW
-      GOURMET LIVE ON FOODSPOTTING</a></li>\n<li class=\"livegourmet\"><a href=\"http://click.linksynergy.com/fs-bin/click?id=/1Vwg7V501c&subid=&offerid=146261.1&type=10&tmpid=3909&RD_PARM1=http://itunes.apple.com/us/app/id391597058?mt=8
-      \">Download Gourmet Live<br/><br/></a></li>\n<li class=\"epiapp\"><a href=\"http://www.epicurious.com/services/mobile
-      \">Download Epicurious App<br/><br/></a></li>\n</ul>\n</div>\n                \n
-      \           </div>\n            \n            \n\n            \n                \n
-      \           \n            \n\n    </div>\n\n\n                        \n                \n
-      \                   \n                             \n\n\n\n\n\n                        \n
-      \               \n                \n                    </div>\n                    <!--
-      end feature -->\n                \n                \n                \n            \n
-      \               \n                \n                \n                \n                \n\n
-      \               \n                \n                \n\n                \n                \n
-      \               \n                    \n                    \n                        \n
-      \                   \n                    \n                    \n                    \n
-      \               \n\n                \n                    <!-- start feature
-      -->\n                    <div class=\"feature imageTop\">\n                \n\n
-      \               \n                    \n                            \n                            \n\n
-      \   \n\n                            \n                        \n                \n
-      \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
-      \   \n    \n  \n\n\n\n                        \n                \n                    \n
-      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
-      \           \n                Gourmet Products\n            \n        \n    \n</h3>\n\n\n
-      \                       \n                \n                    \n                            \n\n\n\n\n\n
-      \   \n\n    <div class=\"blurb\">\n            \n                \n            \n
-      \           \n            <div class=\"text\">\n                \n                    <a
-      href=\"http://www.condenaststore.com/invt/135622/\">Gourmet Quick Kitchen</a><br
-      />\n<a href=\"http://www.amazon.com/Gourmet-Cookie-Book-Single-1941-2009/dp/0547328168\">The
-      Gourmet Cookie Book</a><br />\n<a href=\"http://gourmettodaycookbook.com/\">Gourmet
-      Today</a><br />\n<a href=\"http://www.condenaststore.com/shop-by-magazine/gourmet/icat/38/\">Gourmet
-      Art + Gifts</a><br />\n<a href=\"http://www.condenaststore.com/gourmet/past-issues/icat/680/\">Gourmet
-      past issues</a><br />\n\n                \n            </div>\n            \n
-      \           \n\n            \n                \n            \n            \n\n
-      \   </div>\n\n\n                        \n                \n                    \n
-      \                            \n\n\n\n\n\n                        \n                \n
-      \               \n                    </div>\n                    <!-- end feature
-      -->\n                \n                \n                \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                    \n                    \n
-      \                       \n                    \n                    \n                \n\n
-      \               \n                    <!-- start feature -->\n                    <div
-      class=\"feature last\">\n                \n\n                \n                    \n
-      \                           \n                            \n\n    \n\n                            \n
-      \                       \n                \n                    \n                            \n\n\n\n\n\n
+      start feature -->\n                    <div class=\"feature imageTop last\">\n
+      \               \n\n                \n                    \n                            \n
+      \                           \n\n    \n\n                            \n                        \n
+      \               \n                    \n                            \n\n\n\n\n\n
       \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
       \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
       \   \n        \n    \n</h3>\n\n\n                        \n                \n
@@ -669,39 +614,19 @@
       type=\"text/javascript\">FB.init(\"3a6ce27c308bb1ed38a97357fbea1393\");</script><fb:fan
       profile_id=\"32672188791\" stream=\"\" connections=\"10\" width=\"300\"></fb:fan><div
       style=\"font-size:8px; padding-left:10px\"><a href=\"http://www.facebook.com/gourmet.magazine\"
-      target=\"_blank\">Gourmet Magazine on Facebook</a> </div>\n<!-- end facebook
-      -->\n                \n            </div>\n            \n            \n\n            \n
-      \               \n            \n            \n\n    </div>\n\n\n                        \n
-      \               \n                    \n                             \n\n\n\n\n\n
+      target=\"_blank\">Gourmet Magazine on Facebook</a> <p></p><br /></div>\n<!--
+      end facebook -->\n                \n            </div>\n            \n            \n\n
+      \           \n                \n            \n            \n\n    </div>\n\n\n
+      \                       \n                \n                    \n                             \n\n\n\n\n\n
       \                       \n                \n                \n                    </div>\n
       \                   <!-- end feature -->\n                \n                \n
       \               \n            \n        </div>\n    \n    \n    \n    \n    \n
       \   \n    \n    \n\n\n                            </div>\n                        \n\n
       \                       \n                        \n                        \n
       \                   \n                \n                \n            \n                \n
-      \               \n                    \n                        \n                        \n\n
-      \                       \n                        \n                        \n
-      \                   \n                \n                \n            \n            <div
-      class=\"yrcomponent\">\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_rightRail_C\"></div>\n    \n\n\n        \n\n\n\n\n<script
-      type=\"text/javascript\">\n// <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n
-      \       pid:'global_rightRail_C',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_C',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
-      \           </div>\n        </div>\n    \n\n                \n\n\n\n\n\n    <div
-      id=\"zrail\">\n    <!-- start zrail -->\n    <div class=\"zrcomponent first\">\n
-      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div class=\"subsinclude\">\n            <h3>Subscribe</h3>\n        </div>\n
-      \       <div id=\"global_zRail\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
-      target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_zrail.gif\" alt=\"Subscribe
-      to Gourmet\" title=\"Subscribe to Gourmet\" border=\"0\" /></a>\n        </div>\n
-      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
-      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_zRail',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_zRail',\n        params:{}});\n\n
-      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    \n        \n
-      \       <div class=\"zrcomponent \">\n            \n            \n                \n
-      \                   \n                    \n                        <!-- start
-      featureSet -->\n                            \n                            \n\n\n\n\n\n\n\n\n
-      \   \n    \n\n    \n    \n    \n    \n\n        <div id=\"features_zrail_1_1_1\"
+      \               \n                    \n                        \n                        \n
+      \                           <div class=\"yrcomponent\">\n                                \n\n\n\n\n\n\n\n\n
+      \   \n    \n\n    \n    \n    \n    \n\n        <div id=\"features_yrail_3_1_1\"
       class=\"features\">\n            \n            \n\n            \n            \n
       \           \n            \n                \n                \n                \n
       \               \n                \n\n                \n                \n                \n\n
@@ -711,206 +636,44 @@
       \               \n\n                \n                    <!-- start feature
       -->\n                    <div class=\"feature imageTop first\">\n                \n\n
       \               \n                    \n                            \n                            \n\n
-      \   \n        \n            <h5 class=\"rubric\"><a href=\"/diaryofafoodie\"
-      title=\"Diary of a Foodie\">Diary of a Foodie</a></h5>\n        \n    \n\n                            \n
-      \                       \n                \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n\n    \n    \n  \n\n\n\n                        \n                \n
-      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
-      \   \n        \n    \n</h3>\n\n\n                        \n                \n
-      \                   \n                            \n\n\n\n\n\n    \n\n    <div
-      class=\"blurb\">\n            \n                \n            \n            \n
-      \           <div class=\"text\">\n                \n                    From
-      Vermont to Vietnam, take a global culinary tour with season three of the award-winning
-      public television show, <a href=\"/diaryofafoodie\"/><em>Gourmet's Diary of
-      a Foodie</em></a>.\n                \n            </div>\n            \n            \n\n
-      \           \n                \n            \n            \n\n    </div>\n\n\n
-      \                       \n                \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
-      \">\n            \n            \n                \n                    \n                    \n
-      \                       <!-- start featureSet -->\n                            \n
-      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
-      \   \n\n        <div id=\"features_zrail_2_1_1\" class=\"features\">\n            \n
-      \           \n\n            \n            \n            \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature imageTop first\">\n
-      \               \n\n                \n                    \n                            \n
-      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
-      href=\"/search/query?keyword=politics+of+the+plate&\" title=\"Food Politics\">Food
-      Politics</a></h5>\n        \n    \n\n                            \n                        \n
-      \               \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n          \n               \n             \n       \n\n    \n
-      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=politics
-      of the plate\" title=\"food politics issues\"><img src=\"/images/homepage/food-politics-137.jpg\"
-      alt=\"food politics issues\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n
-      \       \n\n    \n        </div>\n    \n\n    \n    \n  \n\n\n\n                        \n
-      \               \n                    \n                             \n\n\n\n\n<h3
-      class=\"header\">\n    \n        \n            \n                <a href=\"/search/query?keyword=politics+of+the+plate&\">Get
-      schooled on the issues of getting the food onto your plate</a>\n            \n
-      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            \n\n
-      \           \n                \n            \n            \n\n    </div>\n\n\n
-      \                       \n                \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
-      \">\n            \n            \n                \n                    \n                    \n
-      \                       <!-- start featureSet -->\n                            \n
-      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
-      \   \n\n        <div id=\"features_zrail_3_1_1\" class=\"features\">\n            \n
-      \           \n\n            \n            \n            \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature imageTop first\">\n
-      \               \n\n                \n                    \n                            \n
-      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
-      href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\" title=\"Classic
-      Cocktails\">Classic Cocktails</a></h5>\n        \n    \n\n                            \n
-      \                       \n                \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n          \n               \n             \n       \n\n    \n
-      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\"
-      title=\"favorite cocktails\"><img src=\"/images/zrail/2009/09/wi-COTW-May-12-137.jpg\"
-      alt=\"favorite cocktails\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n
-      \   \n        </div>\n    \n\n    \n    \n  \n\n\n\n                        \n
-      \               \n                    \n                             \n\n\n\n\n<h3
-      class=\"header\">\n    \n        \n            \n                <a href=\"/recipes/cocktails/1940s/index/classic_cocktail_recipes_1940s\">Cheers!
-      Our favorite cocktails from <em>Gourmet</em>'s drinks archives</a>\n            \n
-      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            \n\n
-      \           \n                \n            \n            \n\n    </div>\n\n\n
-      \                       \n                \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
-      \">\n            \n            \n                \n                    \n                    \n
-      \                       <!-- start featureSet -->\n                            \n
-      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
-      \   \n\n        <div id=\"features_zrail_4_1_1\" class=\"features\">\n            \n
-      \           \n\n            \n            \n            \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature imageTop first\">\n
-      \               \n\n                \n                    \n                            \n
-      \                           \n\n    \n        \n            <h5 class=\"rubric\">Explore</h5>\n
-      \       \n    \n\n                            \n                        \n                \n
+      \   \n\n                            \n                        \n                \n
       \                   \n                            \n\n\n\n\n\n  \n\n       \n\n
       \   \n    \n  \n\n\n\n                        \n                \n                    \n
       \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
+      \           \n                GOURMET LIVE TWEETS\n            \n        \n
       \   \n</h3>\n\n\n                        \n                \n                    \n
       \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
       \           \n                \n            \n            \n            <div
-      class=\"text\">\n                \n                    More on gourmet.com:<br
-      /><a href=\"/search/query?keyword=video&\">Video</a> | <a href=\"/search/query?keyword=first+taste&\">First
-      Taste</a><br /><a href=\"/search/query?keyword=cooking+tips&\">Cooking Tips</a><br
-      />\n<a href=\"/search/query?keyword=cookbooks&\">Cookbooks</a><br />\n<a href
-      =\"/search/query?keyword=culinary+culture&\">Culinary Culture</a><br />\n<a
-      href=\"/search/query?keyword=chefs&\">Chefs</a> | <a href=\"/search/query?keyword=q
-      + a\">Q + A</a><br/>\n<a href=\"/search/query?keyword=eight%20great\">Eight
-      Great...</a>\n                \n            </div>\n            \n            \n\n
+      class=\"text\">\n                \n                    <iframe width=\"300\"
+      height=\"220\" src=\"http://player.gourmet.com/api/public_activities\" frameborder=\"0\"\nscrolling=\"no\"
+      /></iframe>\n                \n            </div>\n            \n            \n\n
       \           \n                \n            \n            \n\n    </div>\n\n\n
       \                       \n                \n                    \n                             \n\n\n\n\n\n
       \                       \n                \n                \n                    </div>\n
       \                   <!-- end feature -->\n                \n                \n
       \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
-      \">\n            \n            \n                \n                    \n                    \n
-      \                       <!-- start featureSet -->\n                            \n
-      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
-      \   \n\n        <div id=\"features_zrail_5_1_1\" class=\"features\">\n            \n
-      \           \n\n            \n            \n            \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature imageTop first\">\n
-      \               \n\n                \n                    \n                            \n
-      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
-      href=\"/search/query?keyword=ten-minute+mains&\" title=\"Ten-Minute Mains\">Ten-Minute
-      Mains</a></h5>\n        \n    \n\n                            \n                        \n
-      \               \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n          \n               \n             \n       \n\n    \n
-      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=ten-minute
-      mains\" title=\"quick \"><img src=\"/images/homepage/quick-and-easy-137.jpg\"
-      alt=\"quick \" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n    \n
-      \       </div>\n    \n\n    \n    \n  \n\n\n\n                        \n                \n
-      \                   \n                             \n\n\n\n\n<h3 class=\"header\">\n
-      \   \n        \n            \n                <a href=\"/search/query?keyword=ten-minute+mains&\">Quick
-      and easy main course recipes to make any night of the week</a>\n            \n
-      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            \n\n
-      \           \n                \n            \n            \n\n    </div>\n\n\n
-      \                       \n                \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n        \n        <div class=\"zrcomponent
-      \ last\">\n            \n            \n                \n                    \n
-      \                   \n                        <!-- start featureSet -->\n                            \n
-      \                           \n\n\n\n\n\n\n\n\n    \n    \n\n    \n    \n    \n
-      \   \n\n        <div id=\"features_zrail_6_1_1\" class=\"features\">\n            \n
-      \           \n\n            \n            \n            \n            \n                \n
-      \               \n                \n                \n                \n\n                \n
-      \               \n                \n\n                \n                \n                \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                    \n                        \n                    \n
-      \                   \n                \n\n                \n                    <!--
-      start feature -->\n                    <div class=\"feature imageTop first\">\n
-      \               \n\n                \n                    \n                            \n
-      \                           \n\n    \n        \n            <h5 class=\"rubric\"><a
-      href=\"/search/query?keyword=my day on a plate\" title=\"My Day On a Plate\">My
-      Day On a Plate</a></h5>\n        \n    \n\n                            \n                        \n
-      \               \n                    \n                            \n\n\n\n\n\n
-      \ \n\n       \n          \n               \n             \n       \n\n    \n
-      \   \n    \n\n    \n        <div class=\"captioned-photo\">\n    \n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n  \n\n\n\n\n\n\n    <div class=\"w\"><a href=\"/search/query?keyword=my
-      day on a plate\" title=\"\"><img src=\"/images/zrail/2009/09/fo-wolfgang-puck-137.jpg\"
-      alt=\"\" class=\"featureimg\"  /></a></div>\n\n\n\n\n\n        \n\n    \n        </div>\n
-      \   \n\n    \n    \n  \n\n\n\n                        \n                \n                    \n
-      \                            \n\n\n\n\n<h3 class=\"header\">\n    \n        \n
-      \           \n                <a href=\"/search/query?keyword=my day on a plate\">Everything
-      your favorite chefs and celebrities ate over the last 24 hours</a>\n            \n
-      \       \n    \n</h3>\n\n\n                        \n                \n                    \n
-      \                           \n\n\n\n\n\n    \n\n    <div class=\"blurb\">\n
-      \           \n                \n            \n            \n            \n\n
-      \           \n                \n            \n            \n\n    </div>\n\n\n
-      \                       \n                \n                    \n                             \n\n\n\n\n\n
-      \                       \n                \n                \n                    </div>\n
-      \                   <!-- end feature -->\n                \n                \n
-      \               \n            \n        </div>\n    \n    \n    \n    \n    \n
-      \   \n    \n    \n\n\n                        <!-- end featureSet -->\n                     \n
-      \                   \n                \n            \n        </div><!-- End
-      zrcomponent -->\n        \n    \n    <!-- end zrail -->\n </div>\n\n\n            \n\n
+      \   \n    \n    \n\n\n                            </div>\n                        \n\n
+      \                       \n                        \n                        \n
+      \                   \n                \n                \n            \n\n            <div
+      class=\"yrcomponent\">\n                <div class=\"yrail_ads\">\n\n                \n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"yrailBottom300x250_frame\" class=\"displayAd\"></div>\n    <script
+      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailBottom',
+      {sz:'300x250', kws:[\"bottom\"]});\n    //-->\n    </script>\n    \n\n\n                </div>\n
+      \           </div>\n\n            <div class=\"yrcomponent\">\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"global_rightRail_C\"></div>\n    \n\n\n        \n\n\n\n\n<script
+      type=\"text/javascript\">\n// <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n
+      \       pid:'global_rightRail_C',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_C',\n
+      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
+      \           </div>\n        </div>\n    \n\n                \n\n\n\n\n\n    <div
+      id=\"zrail\">\n    <!-- start zrail -->\n    <div class=\"zrcomponent first\">\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n        \n            <div id=\"global_zRail\"></div>\n        \n
+      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
+      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_zRail',\n
+      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_zRail',\n        params:{}});\n\n
+      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    \n        \n
+      \       <div class=\"zrcomponent  last\">\n            \n            \n        </div><!--
+      End zrcomponent -->\n        \n    \n    <!-- end zrail -->\n </div>\n\n\n            \n\n
       \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n       \n       \n
       \  \n\n<div id=\"footer\">\n    <ul id=\"ft_1\"><li class=\"first\"><a href=\"/services/sitemap/\"
       title=\"gourmet.com site map\">Site Map</a></li>    <li><a href=\"/magazine\"
@@ -997,16 +760,20 @@
       value=\"http://www.wmagazine.com\">W</option>\n                        <option
       value=\"http://www.wired.com\">Wired</option>\n                    </select>\n
       \               </form>\n            </div>\n        </div>\n        <div class=\"global-footer-copyright\">\n
-      \           <p>\n                Registration on or use of this site constitutes
-      acceptance of our <a href=\"/services/useragreement\" onclick=\"window.open(this.href);return
-      false;\">User Agreement</a> <span class=\"revision-date\"> (Revised January
-      7, 2009)</span> and <a href=\"/services/privacypolicy\" onclick=\"window.open(this.href);return
-      false;\">Privacy Policy</a> <span class=\"revision-date\">(Revised January 6,
-      2009)</span>.  Gourmet &copy; 2011\n Cond&eacute; Nast Digital. All rights reserved.
-      \  The material on this site may not be reproduced, distributed, transmitted,
-      cached or otherwise used, except with the prior written permission of Cond&eacute;
-      Nast Digital.\n            </p>\n\n            \n            \n            <img
-      src=\"http://view.atdmt.com/action/MSFT_CondeNet_AE_ExtData/v3/atc1.gourmet/\"
+      \           <p>\n                 Registration on or use of this site constitutes
+      acceptance of our <a href=\"http://www.condenast.com/services/privacy/\" onclick=\"window.open(this.href);return
+      false;\">User Agreement</a> and <a href=\"http://www.condenast.com/services/privacy/\"
+      onclick=\"window.open(this.href);return false;\">Privacy Policy</a> <span class=\"revision-date\">
+      (Revised August 1, 2011)</span>.  Gourmet &copy; 2011\n Cond&eacute; Nast Digital.
+      All rights reserved.   The material on this site may not be reproduced, distributed,
+      transmitted, cached or otherwise used, except with the prior written permission
+      of Cond&eacute; Nast Digital.\n             </p>\n            <div class=\"add-choice\">\n
+      \               <div class=\"add-choice-text\">\n                    <a href=\"http://www.condenast.com/services/privacy/#optout\"
+      onclick=\"window.open(this.href);return false;\">Ad Choices</a>\n                </div>\n
+      \               <div class=\"add-choice-img\">\n                    <a href=\"http://www.condenast.com/services/privacy/#optout\"
+      onclick=\"window.open(this.href);return false;\"><img width=\"10\" height=\"10\"
+      border=\"0\" src=\"/css/i/global/ad_choices_arrow.png\"></a>\n                </div>\n
+      \           </div>\n            \n            \n            <img src=\"http://view.atdmt.com/action/MSFT_CondeNet_AE_ExtData/v3/atc1.gourmet/\"
       width=\"1\" height=\"1\" border=\"0\" alt=\"msext\" />\n            \n            \n
       \       </div>\n    </div>\n</div>\n\n\n\n\n\n<script type=\"text/javascript\"
       src=\"/appjs/stats/omniture.js\"></script>\n\n\n\n\n\n\n\n<div id=\"statsHolder\">\n

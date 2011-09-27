@@ -2243,76 +2243,81 @@
       server:
       - Apache
       x-powered-by:
-      - Phusion Passenger (mod_rails/mod_rack) 2.2.4
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.7
       x-runtime:
-      - '0.89436'
+      - '1665'
       etag:
-      - ! '"28ec2acf845536b816e3ea61150463a4"'
+      - ! '"1e0fa39aaab866e5fb5924e11f41b2e6"'
       status:
-      - 200 OK
-      cneonction:
+      - '200'
+      nncoection:
       - close
       content-type:
       - text/html; charset=utf-8
-      expires:
-      - Sun, 22 May 2011 01:26:02 GMT
       cache-control:
-      - max-age=0, no-cache, no-store
-      pragma:
-      - no-cache
+      - private, must-revalidate, max-age=0
+      expires:
+      - Tue, 27 Sep 2011 04:50:19 GMT
       date:
-      - Sun, 22 May 2011 01:26:02 GMT
+      - Tue, 27 Sep 2011 04:50:19 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Sun, 05 Jun
-        2011 01:26:02 GMT
-    body: ! "\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
-      \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
+      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Tue, 11-Oct-2011
+        04:50:18 GMT
+    body: ! "\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"
+      \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xmlns:v=\"urn:schemas-microsoft-com:vml\" xmlns:fb=\"http://www.facebook.com/2008/fbml\"
-      xmlns:og=\"http://opengraphprotocol.org/schema/\">\r\n<head profile=\"http://a9.com/-/spec/opensearch/1.1/\">\r\n
-      \ \r\n  \r\n  <title>Chocolate-Dipped Vanilla Ice Cream Bars Recipe - CHOW</title>\r\n
-      \ \r\n  \r\n  <meta name=\"verify-v1\" content=\"mvraDxxNdXUusnoBQ+q8Ty0e0c3cak3C7Pck1s+aQBI=\">\r\n
-      \ \r\n  <meta property='fb:app_id' content='177874162887' />\r\n\r\n    \r\n
-      \      \r\n    \r\n    <meta property=\"og:title\" content=\"Chocolate-Dipped
-      Vanilla Ice Cream Bars\" />\r\n      \r\n       <meta property=\"og:type\" content=\"recipe\"/>
-      \r\n      \r\n  \r\n  \r\n  <link rel=\"image_src\" href=\"http://www.chow.com/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_105.jpg\"
-      />  \r\n  <meta content=\"This chocolate-dipped vanilla ice cream bar recipe
-      gives Klondike Bars a run for their money.\" name=\"description\" />\r\n  <meta
-      http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\" />\r\n  \r\n
-      \r\n   \r\n    <link rel=\"canonical\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"/>\r\n
-      \ \r\n  \r\n\r\n  <link rel=\"shortcut icon\" href=\"http://www.chow.com/static/20110520000312/images/favicon.ico\"
-      type=\"image/x-icon\" />\r\n  <link rel=\"apple-touch-icon-precomposed\" href=\"http://www.chow.com/static/20110520000312/images/apple-touch-icon-precomposed.png\"
-      />\r\n  \r\n  <link href=\"http://www.chow.com//opensearch.xml\" rel=\"search\"
-      title=\"CHOW Search\" type=\"application/opensearchdescription+xml\" />\r\n
-      \ \r\n  \r\n   <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js\"></script>\r\n
-      \  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js\"></script>\r\n
-      \  <script src=\"http://www.chow.com/static/20110520000312/js/jquery-cookie.js\"
-      type=\"text/javascript\"></script>\r\n   <script src=\"http://www.chow.com/static/20110520000312/js/functions.js.php\"
-      type=\"text/javascript\"></script>\r\n  \r\n      \r\n        <script src=\"http://www.chow.com/static/20110520000312/javascripts/combined_min.js\"
-      type=\"text/javascript\"></script>\r\n       \r\n  \r\n    <script type=\"text/javascript\">\r\n
-      \       var cbsiAdGlobal = {\r\n            'SITE' : '103',\r\n            'BRAND'
-      : '26',\r\n            'NCAT' : '12711',\r\n            'PTYPE' : '9910',\r\n
-      \           'STAGING' : 0  // set to 1 if on a test environment\r\n        };\r\n
-      \   </script>\r\n\r\n  \r\n  \r\n  \r\n  \r\n <link href=\"http://www.chow.com/static/20110520000312/css/global.css\"
-      media=\"screen\" rel=\"Stylesheet\" type=\"text/css\" /> \r\n  \r\n  <link href=\"http://www.chow.com/static/20110520000312/css/recipes.css\"
-      media=\"screen\" rel=\"Stylesheet\" type=\"text/css\" />\r\n\r\n  <!--[if IE
-      6]><link href=\"http://www.chow.com/static/20110520000312/stylesheets/chow_ie6.css\"
-      media=\"screen\" rel=\"Stylesheet\" type=\"text/css\" /><![endif]--><!--[if
-      IE 7]><link href=\"http://www.chow.com/static/20110520000312/stylesheets/chow_ie7.css\"
-      media=\"screen\" rel=\"Stylesheet\" type=\"text/css\" /><![endif]--><!--[if
-      IE 8]><link href=\"http://www.chow.com/static/20110520000312/stylesheets/chow_ie8.css\"
-      media=\"screen\" rel=\"Stylesheet\" type=\"text/css\" /><![endif]-->\r\n  <link
-      href=\"http://www.chow.com/static/20110520000312/stylesheets/chow_print.css\"
-      media=\"print\" rel=\"Stylesheet\" title=\"CHOW Print\" type=\"text/css\" />\r\n
-      \ \r\n  \r\n  \r\n    <script type=\"text/javascript\">\r\n        var _gaq
-      = _gaq || [];\r\n        _gaq.push(['_setAccount', 'UA-8105127-1']);\r\n        _gaq.push(['_setDomainName',
-      '.chow.com']);\r\n        _gaq.push(['_setAllowHash', false]);\r\n        _gaq.push(['_trackPageview']);\r\n
-      \   </script>\r\n\r\n</head>\r\n\r\n<body class=\"recipes_show recipes\">\r\n
-      \ \r\n  \r\n\r\n\r\n  <div id=\"chow_header\" class=\"clearfix \">\n\t<div id=\"chow_header_wrapper\">\n
+      xmlns:og=\"http://opengraphprotocol.org/schema/\">\n<head profile=\"http://a9.com/-/spec/opensearch/1.1/\"><script
+      type=\"text/javascript\">var NREUMQ=[];NREUMQ.push([\"mark\",\"firstbyte\",new
+      Date().getTime()]);</script>\n  \n  \n  <title>Chocolate-Dipped Vanilla Ice
+      Cream Bars Recipe - CHOW</title>\n\n  \n  <meta name=\"verify-v1\" content=\"mvraDxxNdXUusnoBQ+q8Ty0e0c3cak3C7Pck1s+aQBI=\">\n\n
+      \ <meta property='fb:app_id' content='177874162887' />\n\n  \n  \n    \n    <meta
+      property=\"og:title\" content=\"Chocolate-Dipped Vanilla Ice Cream Bars\" />\n
+      \    \n       <meta property=\"og:type\" content=\"recipe\"/>\n     \n  \n  \n
+      \ <link rel=\"image_src\" href=\"http://www.chow.com/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_105.jpg\"
+      />\n  <meta content=\"This chocolate-dipped vanilla ice cream bar recipe gives
+      Klondike Bars a run for their money.\" name=\"description\" />\n  <meta http-equiv=\"content-type\"
+      content=\"text/html;charset=UTF-8\" />\n  \n\n  \n    <link rel=\"canonical\"
+      href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"/>\n
+      \ \n  \n\n  <link rel=\"shortcut icon\" href=\"http://www.chow.com/static/20110923041427/images/favicon.ico\"
+      type=\"image/x-icon\" />\n  <link rel=\"apple-touch-icon-precomposed\" href=\"http://www.chow.com/static/20110923041427/images/apple-touch-icon-precomposed.png\"
+      />\n\n  <link href=\"http://www.chow.com/%2Fopensearch.xml\" rel=\"search\"
+      title=\"CHOW Search\" type=\"application/opensearchdescription+xml\" />\n  \n\n
+      \  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js\"></script>\n
+      \  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js\"></script>\n
+      \  <script src=\"http://www.chow.com/static/20110923041427/js/jquery-cookie.js\"
+      type=\"text/javascript\"></script>\n   <script src=\"http://www.chow.com/static/20110923041427/js/functions.js.php\"
+      type=\"text/javascript\"></script>\n  \n      \n        <script src=\"http://www.chow.com/static/20110923041427/javascripts/combined_min.js\"
+      type=\"text/javascript\"></script>\n      \n  \n\n    <script type=\"text/javascript\">\n
+      \       var cbsiAdGlobal = {\n            'SITE' : '103',\n            'BRAND'
+      : '26',\n            'NCAT' : '12711',\n            'PTYPE' : '9910',\n            'STAGING'
+      : 0  // set to 1 if on a test environment\n        };\n\n        // intromercial\n
+      \       var CN_AD = new Object();\n        CN_AD.AD_HOST = \"mads.chow.com\";\n
+      \       CN_AD.SITE = '103';\n        CN_AD.BRAND = \"26\";\n        CN_AD.SP
+      = \"80\";\n        CN_AD.POS = \"100\";\n        CN_AD.PTYPE = \"9910\";\n        CN_AD.NCAT
+      = \"12711\";\n        cbsiGetAd(CN_AD);\n    </script>\n\n\n  \n\n\n  <link
+      href=\"http://www.chow.com/static/20110923041427/css/global.css\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n  \n  <link href=\"http://www.chow.com/static/20110923041427/css/recipes.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  \n\n  <!--[if IE
+      6]><link href=\"http://www.chow.com/static/20110923041427/stylesheets/chow_ie6.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]--><!--[if
+      IE 7]><link href=\"http://www.chow.com/static/20110923041427/stylesheets/chow_ie7.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]--><!--[if
+      IE 8]><link href=\"http://www.chow.com/static/20110923041427/stylesheets/chow_ie8.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]-->\n\n  <link
+      href=\"http://www.chow.com/static/20110923041427/stylesheets/chow_print.css\"
+      media=\"print\" rel=\"stylesheet\" title=\"CHOW Print\" type=\"text/css\" />\n\n\n
+      \ \n\n    <script type=\"text/javascript\">\n        var _gaq = _gaq || [];\n
+      \       _gaq.push(['_setAccount', 'UA-8105127-1']);\n        _gaq.push(['_setDomainName',
+      '.chow.com']);\n        _gaq.push(['_setAllowHash', false]);\n        var signedInStatus
+      = ((typeof jQuery.cookie('cs_sig')) == \"string\") ? 'Yes' : 'No';\n        _gaq.push(['_setCustomVar',
+      5, 'LoggedIn', signedInStatus, 3]);\n        _gaq.push(['_trackPageview']);\n
+      \   </script>\n\n</head>\n\n<body class=\"recipes_show recipes\">\n  \n  \r\n\r\n\r\n\r\n
+      \ <div id=\"chow_header\" class=\"clearfix }\">\n\t<div id=\"chow_header_wrapper\">\n
       \       <div id=\"chow_header_inner\" class=\"clearfix\">\n            <div
       class=\"fr\">\n                <div id=\"header_login\">\n                    <script
       type=\"text/javascript\">var loadLogin = false;</script>\n                            \r\n
@@ -2337,271 +2342,235 @@
       Zip\" disabled=\"disabled\" />\n                            \n                            <input
       type=\"hidden\" name=\"from_date\" id=\"from_date\" value=\"1 year ago\" disabled=\"disabled\"
       />\n                            \n                            <input type=\"submit\"
-      class=\"top_nav_submit\" class=\"fl\" value=\"\" />\n                            \n
-      \                           <input type=\"hidden\" name=\"search_board_id\"
-      id=\"search_board_id\" value=\"\" disabled=\"disabled\" />\n                            <input
-      type=\"hidden\" name=\"type\" id=\"input_type\" value=\"Recipe\"  />\n                        </form>\n
-      \                   </div>\n                </div>\n            \n            <div
-      id=\"header_logo\" >\n                <a href=\"http://www.chow.com\" class=\"chow\"
-      title=\"CHOW home page\">CHOW</a>\n                </div>\n            \n            </div>\n
-      \   </div>\n   \n    <div id=\"chow_top_nav\">        \n        \t<ul id=\"chow_top_nav_inner\"
+      class=\"top_nav_submit fl\" value=\"\" />\n                            \n                            <input
+      type=\"hidden\" name=\"search_board_id\" id=\"search_board_id\" value=\"\" disabled=\"disabled\"
+      />\n                            <input type=\"hidden\" name=\"type\" id=\"input_type\"
+      value=\"Recipe\"  />\n                        </form>\n                    </div>\n
+      \               </div>\n            \n            <div id=\"header_logo\" >\n
+      \               <a href=\"http://www.chow.com\" class=\"chow\" title=\"CHOW
+      home page\">CHOW</a>\n                </div>\n        </div>\n    </div>\n   \n
+      \   \t<div id=\"chow_top_nav\">        \n        \t<ul id=\"chow_top_nav_inner\"
       class=\"clearfix\">        \t\n                <li id=\"link_to_other_site\"
       class=\"top_nav_item first last\">\n                    <a href=\"http://chowhound.chow.com/boards\"><span>take
       me to chowhound</span></a>\n                    </li>\n                <li class=\"top_nav_item
       first\"><a href=\"http://www.chow.com/recipes\" class=\"selected\">recipes</a></li>\n
       \                   <li class=\"top_nav_item\"><a href=\"/food-news/\" >top
       stories</a></li>\n                    <li class=\"top_nav_item last\"><a href=\"/videos\"
-      class=\"\">video</a></li>\n                </ul> \n    \t</div>\n    </div>
-      <div id=\"holiday_eyebrow\">\n  <div id=\"holiday_eyebrow_content\">\n   <a
-      class=\"holiday_eyebrow_link\" href=\"http://www.chow.com/the-innovators-chefs-to-watch-in-2011\">»</span>
-      Innovative Chefs Round 3: Vote and Win!</a>\n   <a class=\"holiday_eyebrow_link\"
-      href=\"http://www.chow.com/holidays/grilling-recipes\"><span class=\"chevron\">»</span>
-      Fire Up the Grill!</a>\n   <a class=\"holiday_eyebrow_link\" href=\"http://www.chow.com/food-news/81429/vote-now-for-the-chow-recipe-challenge-best-muffin/\"><span
-      class=\"chevron\">»</span> Best Muffin? Vote!</a>\n   <a class=\"holiday_eyebrow_link\"
-      href=\"http://www.chow.com/may-updates\"><span class=\"chevron\">»</span> Feedback
-      Wanted on a New Feature</a>\n   </div>\n</div>\r\n\r\n\r\n\r\n\r\n\r\n  <div
-      id=\"mantle_skin\">\r\n  \r\n  \r\n<div id=\"leaderboard\">\r\n  \r\n  <div
-      id=\"leaderboard_border\">\r\n  \t<div class=\"madison_ad ad pos100 sp15\"><!--
-      MAC ad --><style type=\"text/css\"> @import \"http://i.i.com.com/cnwk.1d/Ads/common/css/adInfo/adInfo.css\";
-      </style> <!--[if lte IE 8]><style type=\"text/css\">@import \"http://i.i.com.com/cnwk.1d/Ads/common/css/adInfo/adInfo_ieHelp.css\";</style><![endif]--><div
-      class=\"mad_container_left\"><div class=\"mad_adInfo\"><a class=\"mad_adInfo_ieHelp\"
-      href=\"http://www.cbsinteractive.com/adfeedback/?REDIRECT=TRUE&RGROUP=11810&amp;SEGMENTID=484754&amp;LINEID=395372&amp;SP=15&amp;ADVERTISERID=12054\"
-      target=\"new\"><img width=\"10\" height=\"50\" border=\"0\" alt=\"advertisement\"
-      \ src=\"http://i.i.com.com/cnwk.1d/Ads/common/adinfo_left.gif\"></a></div><div
-      class=\"mad_adBody\"><div\nstyle=\"text-align:center;\"><center><script type=\"text/javascript\">\r\nadmeld_publisher
-      \ = 489;\r\nadmeld_site       = 'chow';\r\nadmeld_size       = '728x90';\r\nadmeld_placement
-      \  = 'chow_atf';\r\nadmeld_url = 'http://cbsinteractive.com'; \r\n</script>\r\n<script
-      type=\"text/javascript\" src=\"http://js.admeld.com/meld120.js\"></script></center></div><img
-      src=\"http://adlog.com.com/adlog/i/r=11810&amp;sg=484754&amp;o=12711%253a&amp;h=cn&amp;p=2&amp;b=26&amp;l=en_US&amp;site=103&amp;pt=9910&amp;nd=&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e6:4DD7E5F97EE22D&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=24%2e18%2e47%2e120&amp;dvar=&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.05.22.01.26.02/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif\"
-      HEIGHT=\"0\" WIDTH=\"0\" alt=\"\" style=\"position:absolute; top:0px; left:0px\"
-      /></div></div><!-- MAC [r20101202-0915-v1-13-13-JsonEncodeNewLine:1.13.13] c13-ad-xw1.cnet.com::2739919760
-      2011.05.22.01.26.02 --><!-- MAC T 9.9.f.f --><!-- ads fetched in one request
-      --></div>\r\n  </div>\r\n  \r\n</div>\r\n\r\n  <div id=\"custom-doc\" class=\"recipe\">\r\n
-      \     <!--RAILS_ENV = production<br />\r\n      TLD = com<br />\r\n      session_host
-      = .chow.com<br />\r\n      default_subdomain = www<br />-->\r\n    \r\n    \r\n\r\n
-      \   <div id=\"bd\" class=\"clearfix\">\r\n      \r\n      <div id=\"main_body\">\r\n
-      \       \r\n        \r\n          \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<div id=\"recipes\"
-      itemscope itemtype=\"http://www.data-vocabulary.org/Recipe\">\r\n\r\n  \r\n
-      \   \r\n  <div id=\"col1\">\r\n    <div id=\"category\">\r\n      <div class=\"topic_header_underline\">\r\n
-      \       <a href=\"/recipes\">RECIPES</a>: <a href=\"/recipes/54/category\"><span
-      itemprop='recipeType'>Sweet/Dessert</span></a>\r\n      </div>\r\n      \r\n
-      \     \r\n      \r\n      \r\n\r\n         \n<div id=\"fb_post_widget\" class=\"clearfix\">\n
-      \ <div class=\"gigya_email share_emaillink pt5 fr\"></div>\n  <div class='share_twitterlink
+      class=\"\">video</a></li>\n                </ul> \n    \t</div>\n\n</div> <div
+      id=\"holiday_eyebrow\">\n  <div id=\"holiday_eyebrow_content\">\n   <a class=\"holiday_eyebrow_link\"
+      href=\"http://www.chow.com/food-news/54913/the-basics-how-to-make-beef-stew/\"><span
+      class=\"chevron\">»</span> Basic Beef Stew</a>\n   <a class=\"holiday_eyebrow_link\"
+      href=\"http://www.chow.com/food-news/56973/superpower-energy-bars-for-school-days-and-work-days/\"><span
+      class=\"chevron\">»</span> MYO Superpower Energy Bars</a>\n   <a class=\"holiday_eyebrow_link\"
+      href=\"http://www.chow.com/contests/kcmasterpiece-recipe-contest\"><span class=\"chevron\">»</span>
+      Tailgating Recipe Winners!</a>\n   <a class=\"holiday_eyebrow_link\" href=\"http://www.chow.com/tablemanners\"><span
+      class=\"chevron\">»</span> The Complete Unabridged Table Manners Library</a>\n
+      \  </div>\n</div>\r\n\r\n\r\n\n\n\n  <div id=\"mantle_skin\">\n  \n\n  \n    <div
+      id=\"leaderboard_wrapper\">\n      <div id=\"leaderboard\"></div>\n    </div>\n
+      \ \n\n  <div id=\"custom-doc\" class=\"recipe\">\n      <!--RAILS_ENV = production<br
+      />\n      TLD = com<br />\n      session_host = .chow.com<br />\n      default_subdomain
+      = www<br />-->\n\n    \n\n    <div id=\"bd\" class=\"clearfix\">\n      \n      <div
+      id=\"main_body\">\n        \n        \n          \n\n\n\n\n\n<div id=\"recipes\"
+      itemscope itemtype=\"http://www.data-vocabulary.org/Recipe\">\n\n\n\n<div id=\"col1\">\n<div
+      id=\"category\">\n  <div class=\"topic_header_underline\">\n    <a href=\"/recipes\">RECIPES</a>:
+      <a href=\"/recipes/54/category\"><span itemprop='recipeType'>Sweet/Dessert</span></a>\n
+      \ </div>\n\n\n\n\n\n  \n<div id=\"fb_post_widget\" class=\"clearfix\">\n  <div
+      class=\"gigya_email share_emaillink pt5 fr\"></div>\n  <div class='share_twitterlink
       fl'>  \n    <a href=\"http://twitter.com/share\" class=\"twitter-share-button\"
       data-text=\"Chocolate-Dipped Vanilla Ice Cream Bars Recipe  Topic @CHOW\" data-url=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"
       style=\"color:#333\">Loading...</a>   \n  </div> \n  <div class='share_fblink
       fl'>\n    <fb:like show_faces=\"false\" width=\"400\" height=\"24\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"></fb:like>
-      \n  </div>\n   \n</div>\n\r\n\r\n        \r\n\r\n\r\n<div id=\"nav_action\">\r\n
-      \ <ul>\r\n    <li>\r\n      \r\n    </li>\r\n    \r\n      \r\n      <!-- recipe
-      bookmark -->\r\n        <li id=\"my_chow_btn\" class=\"action_items_btn clearfix\">\r\n
-      \         <span class=\"action_btn_tl button_graphic\"></span>\r\n          <span
-      class=\"action_btn_tr button_graphic\"></span>\r\n          <span class=\"action_btn_bl
-      button_graphic\"></span>\r\n          <span class=\"action_btn_br button_graphic\"></span>\r\n
-      \         <a href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
+      \n  </div>\n   \n</div>\n\n\n  \r\n\r\n\r\n<div id=\"nav_action\">\r\n  <ul>\r\n
+      \   \r\n      \r\n      <!-- recipe bookmark -->\r\n        <li id=\"my_chow_btn\"
+      class=\"action_items_btn clearfix\">\r\n          <span class=\"action_btn_tl
+      button_graphic\"></span>\r\n          <span class=\"action_btn_tr button_graphic\"></span>\r\n
+      \         <span class=\"action_btn_bl button_graphic\"></span>\r\n          <span
+      class=\"action_btn_br button_graphic\"></span>\r\n          <a href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
       class=\"show_login_box on_success_Recipe.save\" id=\"bookmark\" rel=\"nofollow\">SAVE
-      TO PROFILE</a>\r\n       </li>\r\n      \r\n    \r\n    \r\n\r\n    \r\n\r\n
-      \   <li id=\"print_btn\" class=\"action_items_btn clearfix\">\r\n      <span
-      class=\"action_btn_tl button_graphic\"></span>\r\n      <span class=\"action_btn_tr
-      button_graphic\"></span>\r\n      <span class=\"action_btn_bl button_graphic\"></span>\r\n
-      \     <span class=\"action_btn_br button_graphic\"></span>\r\n        \r\n      \r\n
-      \       <a id=\"printID\" rel=\"nofollow\" href=\"/print/recipe/29576\">PRINT</a>\r\n
-      \     \r\n    </li>\r\n\r\n\r\n\r\n\r\n  </ul>\r\n\r\n</div>\r\n\r\n \r\n        \r\n
-      \       <script type=\"text/javascript\">\r\n            \r\n            goRecipePrint.printNow();\r\n
-      \           \r\n            var permalink = \"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\";\r\n
-      \           var page_title = \"Chocolate-Dipped Vanilla Ice Cream Bars Recipe\";\r\n
-      \           var header_image = \"http://www.chow.com/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg\";\r\n
-      \           var gigyaApiKey = \"2_ArdWkFSGE-bMQ8DuY6gBXPOv_L-QOStcm3RTllRQrsRzesrY6bfFlj4-rRIYEa35\";\r\n
-      \       </script>\r\n\t   \r\n\t      <ul id=\"recipe_nav_action\">\r\n          <li
-      id=\"publish_recipe_btn\" class=\"action_items_btn clearfix\">\r\n            <span
-      class=\"action_btn_tl button_graphic\"></span>\r\n            <span class=\"action_btn_tr
-      button_graphic\"></span>\r\n            <span class=\"action_btn_bl button_graphic\"></span>\r\n
-      \           <span class=\"action_btn_br button_graphic\"></span>\r\n\t        <a
-      href=\"/recipes/publish\" class=\"show_login_box\" rel=\"nofollow\">PUBLISH
-      A RECIPE </a>\r\n          </li>\r\n\t      </ul>\r\n\t\r\n\t     \r\n      \r\n
-      \     <div class=\"clear\"></div>\r\n    </div><!--#header-->\r\n    \r\n    <div
-      id=\"col1a\">\r\n      <p class=\"action_header\">LIKE THIS RECIPE?</p>\r\n
-      \     <div id=\"action_items\">\r\n        \r\n        <span id=\"save_item_2\">\r\n
-      \         <a href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
+      TO PROFILE</a>\r\n       </li>\r\n      \r\n    \r\n\r\n\r\n\r\n\r\n    <li
+      id=\"print_btn\" class=\"action_items_btn clearfix\">\r\n      <span class=\"action_btn_tl
+      button_graphic\"></span>\r\n      <span class=\"action_btn_tr button_graphic\"></span>\r\n
+      \     <span class=\"action_btn_bl button_graphic\"></span>\r\n      <span class=\"action_btn_br
+      button_graphic\"></span>\r\n\r\n      \r\n        <a id=\"printID\" rel=\"nofollow\"
+      href=\"/print/recipe/29576\">PRINT</a>\r\n      \r\n    </li>\r\n\r\n\r\n\r\n\r\n
+      \ </ul>\r\n\r\n</div>\r\n\r\n\n\n  <script type=\"text/javascript\">\n    \n
+      \   goRecipePrint.printNow();\n    \n    var permalink = \"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\";\n
+      \   var page_title = \"Chocolate-Dipped Vanilla Ice Cream Bars Recipe\";\n    var
+      header_image = \"http://www.chow.com/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg\";\n
+      \   var gigyaApiKey = \"2_ArdWkFSGE-bMQ8DuY6gBXPOv_L-QOStcm3RTllRQrsRzesrY6bfFlj4-rRIYEa35\";\n
+      \ </script>\n\n  <ul id=\"recipe_nav_action\">\n    <li id=\"publish_recipe_btn\"
+      class=\"action_items_btn clearfix\">\n      <span class=\"action_btn_tl button_graphic\"></span>\n
+      \     <span class=\"action_btn_tr button_graphic\"></span>\n      <span class=\"action_btn_bl
+      button_graphic\"></span>\n      <span class=\"action_btn_br button_graphic\"></span>\n
+      \     <a href=\"/recipes/publish\" class=\"show_login_box\" rel=\"nofollow\">PUBLISH
+      A RECIPE </a>\n    </li>\n  </ul>\n\n\n\n  <div class=\"clear\"></div>\n</div>\n\n<div
+      id=\"col1a\">\n  <p class=\"action_header\">LIKE THIS RECIPE?</p>\n\n  <div
+      id=\"action_items\">\n    \n    <span id=\"save_item_2\">\n          <a href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
       class=\"show_login_box on_success_Recipe.save\" id=\"bookmark_btn\" rel=\"nofollow\"><img
-      alt=\"\" src=\"http://www.chow.com/static/20110520000312/images/recipes/btn_fav_add.gif\"
-      /></a>\r\n        </span>\r\n        \r\n        <div id=\"hidden_content_Recipe_email_user_29576\"
-      style=\"display: none;\"></div><a class=\"email\" href=\"#\" onclick=\"new Ajax.Updater('hidden_content_Recipe_email_user_29576',
+      alt=\"\" src=\"http://www.chow.com/static/20110923041427/images/recipes/btn_fav_add.gif\"
+      /></a>\n        </span>\n\n    <div id=\"hidden_content_user_email_Recipe_29576\"
+      style=\"display: none;\"></div><a class=\"email\" href=\"#\" onclick=\"new Ajax.Updater('hidden_content_user_email_Recipe_29576',
       '/user/email?item_id=29576&amp;item_type=Recipe', {asynchronous:true, evalScripts:true,
-      onComplete:function(request){RedBox.addHiddenContent('hidden_content_Recipe_email_user_29576');
-      }, onLoading:function(request){RedBox.loading(); }}); return false;\"></a>\r\n
-      \       \r\n        \r\n          <a href=\"/recipes/29576/hack\" class=\"show_login_box\"
-      rel=\"nofollow\"><img alt=\"Hack it\" src=\"http://www.chow.com/static/20110520000312/images/recipes/btn_hack.gif\"
-      title=\"Create your own version of this recipe\" /></a>\r\n        \r\n        <p
-      class=\"hack_msg\"><a href=\"/faq#hack\">What's a hack?</a></p>\r\n        \r\n
-      \     </div>\r\n      \r\n    \r\n      <p class=\"browse_header\">BROWSE</p>\r\n
-      \       <p class=\"browse_title\">BY DIFFICULTY</p>   \r\n        <ul>\r\n          \r\n
-      \           <li><a href=\"http://www.chow.com/recipes/category/easy\">Easy</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/medium\">Medium</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/hard\">Hard</a></li>\r\n
-      \         \r\n        </ul>\r\n\r\n      <p class=\"browse_title\">BY CUISINE</p>\r\n
-      \     <ul id=\"cuisine_list_short\">\r\n        \r\n          <li><a href=\"/recipes/category/american\">American</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/asian\">Asian</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/barbecue\">Barbecue</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/british\">British</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/cajun-creole\">Cajun/Creole</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/caribbean\">Caribbean</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/chinese\">Chinese</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/cuban\">Cuban</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/french\">French</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/german\">German</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/greek\">Greek</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/indian\">Indian</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/italian\">Italian</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/japanese\">Japanese</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/korean\">Korean</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/latin\">Latin</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/mexican\">Mexican</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/middle-eastern\">Middle
-      Eastern</a></li>\r\n        \r\n          <li><a href=\"/recipes/category/southwestern\">Southwestern</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/spanish\">Spanish</a></li>\r\n
-      \       \r\n          <li><a href=\"/recipes/category/thai\">Thai</a></li>\r\n
-      \       \r\n        <li><a class=\"cuisine_action_link\" onclick=\"$('cuisine_list_full').style.display='block';$('cuisine_list_short').style.display='none';\">MORE...</a></li>\r\n
-      \     </ul>\r\n      <ul id=\"cuisine_list_full\">\r\n        \r\n          <li><a
-      href=\"http://www.chow.com/recipes/category/afghan\">Afghan</a></li>\r\n        \r\n
-      \         <li><a href=\"http://www.chow.com/recipes/category/african\">African</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/american\">American</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/argentine\">Argentine</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/asian\">Asian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/barbecue\">Barbecue</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/belgian\">Belgian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/brazilian\">Brazilian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/british\">British</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/burmese\">Burmese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/cajun-creole\">Cajun/Creole</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/california-cuisine\">California
-      Cuisine</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/cal-med\">Cal-Med</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/cambodian\">Cambodian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/caribbean\">Caribbean</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/chinese\">Chinese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/cuban\">Cuban</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/czech\">Czech</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/eastern-european\">Eastern
-      European</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/eclectic\">Eclectic</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/egyptian\">Egyptian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/ethiopian\">Ethiopian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/filipino\">Filipino</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/french\">French</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/fusion\">Fusion</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/german\">German</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/greek\">Greek</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/indian\">Indian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/indonesian\">Indonesian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/international\">International</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/irish\">Irish</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/italian\">Italian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/jamaican\">Jamaican</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/japanese\">Japanese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/jewish\">Jewish</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/korean\">Korean</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/latin\">Latin</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/lebanese\">Lebanese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/mediterranean\">Mediterranean</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/mexican\">Mexican</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/middle-eastern\">Middle
-      Eastern</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/moroccan\">Moroccan</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/nepalese\">Nepalese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/other\">Other</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/pan-asian-pacific-rim\">Pan-Asian/Pacific
-      Rim</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/polish\">Polish</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/polynesian\">Polynesian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/portuguese\">Portuguese</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/puerto-rican\">Puerto
-      Rican</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/russian\">Russian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/scandinavian\">Scandinavian</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/south-american\">South
-      American</a></li>\r\n        \r\n          <li><a href=\"http://www.chow.com/recipes/category/southern-soul\">Southern/Soul</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/southwestern\">Southwestern</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/spanish\">Spanish</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/szechuan\">Szechuan</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/thai\">Thai</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/turkish\">Turkish</a></li>\r\n
-      \       \r\n          <li><a href=\"http://www.chow.com/recipes/category/vietnamese\">Vietnamese</a></li>\r\n
-      \       \r\n          <li><a class=\"cuisine_action_link\" onclick=\"$('cuisine_list_short').style.display='block';$('cuisine_list_full').style.display='none';\">LESS...</a></li>\r\n
-      \     </ul>     \r\n        \r\n        <p class=\"browse_title\">BY COURSE</p>
-      \  \r\n        <ul>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/bread\">Bread</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/breakfast-brunch\">Breakfast
-      / Brunch</a></li>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/condiment-sauce\">Condiment
-      / Sauce</a></li>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/drink\">Drink</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/main\">Main</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/pasta-noodles\">Pasta
-      / Noodles</a></li>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/project\">Project</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/side-dish\">Side
-      Dish</a></li>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/snack\">Snack</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/soup-salad-sandwich\">Soup
-      / Salad / Sandwich</a></li>\r\n          \r\n            <li><a href=\"http://www.chow.com/recipes/category/starter\">Starter</a></li>\r\n
-      \         \r\n            <li><a href=\"http://www.chow.com/recipes/category/sweet-dessert\">Sweet
-      / Dessert</a></li>\r\n          \r\n        </ul>\r\n          \r\n      <div
-      class=\"clear\"></div>\r\n    </div> <!--#col1a-->\r\n    \r\n    <div id=\"col1b\">\r\n
-      \     <div class=\"content\">\r\n        \r\n        \r\n      \r\n        <div
-      id=\"title\">\r\n          \r\n          \r\n          \r\n          <h1 itemprop=\"name\">Chocolate-Dipped
-      Vanilla Ice Cream Bars Recipe</h1>\r\n          \r\n          \r\n          \r\n
-      \         <div class=\"clear\"></div>\r\n        </div>\r\n            \r\n
-      \       <div id=\"recipe_flag\" style=\"display:none\">\r\n              \r\n
-      \       </div>\r\n \r\n        \r\n          <div id=\"photos\" >\r\n            \r\n
-      \             \r\n                <a href=\"/galleries/recipes/54/sweet-dessert/29576/chocolate-dipped-vanilla-ice-cream-bars\"
-      target=\"_blank\">\r\n                  <img src=\"/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg\"
-      alt=\"Chocolate-Dipped Vanilla Ice Cream Bars\" itemprop=\"photo\" />\r\n                </a>
-      \  \r\n              \r\n                     \r\n          </div>\r\n        \r\n
-      \         \r\n        <div id=\"time\" class=\"with_image\">\r\n          \r\n
-      \           <a href=\"/recipes/difficulty/Medium\"><img alt=\"Difficulty: Medium\"
-      src=\"http://www.chow.com/static/20110520000312/images/recipes/difficulty_medium.jpg\"
-      title=\"Difficulty: Medium\" /></a>\r\n          \r\n            \r\n          \r\n
-      \           <div id=\"servings\">\r\n              <p class=\"header\">TIME/SERVINGS</p>\n
-      \   \n\n  \n    <p><strong>Total:</strong>  <time itemprop=\"totalTime\" content=\"PT7H45M\">45
-      mins, plus at least 7 hrs freezing time</time></p> \n  \n\n    \n\n    \n\n
-      \   <p><strong>Makes:</strong> <span itemprop=\"yield\">9 (3-inch-square) bars</span></p>\n\r\n
-      \             \r\n              \r\n\t\t\t  \r\n\t\t\t  \r\n              \t<a
-      id=\"recipe_gallery_button\" href=\"/galleries/recipes/54/sweet-dessert/29576/chocolate-dipped-vanilla-ice-cream-bars\"
+      onComplete:function(request){RedBox.addHiddenContent('hidden_content_user_email_Recipe_29576');
+      }, onLoading:function(request){RedBox.loading(); }}); return false;\"></a>\n\n
+      \   \n      <a href=\"/recipes/29576/hack\" class=\"show_login_box\" rel=\"nofollow\"><img
+      alt=\"Hack it\" src=\"http://www.chow.com/static/20110923041427/images/recipes/btn_hack.gif\"
+      title=\"Create your own version of this recipe\" /></a>\n    \n    <p class=\"hack_msg\"><a
+      href=\"/faq#hack\">What's a hack?</a></p>\n    \n  </div>\n\n  \n    <p class=\"browse_header\">BROWSE</p>\n\n
+      \   <p class=\"browse_title\">BY DIFFICULTY</p>\n    <ul>\n      \n        <li><a
+      href=\"http://www.chow.com/recipes/category/easy\">Easy</a></li>\n      \n        <li><a
+      href=\"http://www.chow.com/recipes/category/medium\">Medium</a></li>\n      \n
+      \       <li><a href=\"http://www.chow.com/recipes/category/hard\">Hard</a></li>\n
+      \     \n    </ul>\n\n    <p class=\"browse_title\">BY CUISINE</p>\n    <ul id=\"cuisine_list_short\">\n
+      \     \n        <li><a href=\"/recipes/category/american\">American</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/asian\">Asian</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/barbecue\">Barbecue</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/british\">British</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/cajun-creole\">Cajun/Creole</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/caribbean\">Caribbean</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/chinese\">Chinese</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/cuban\">Cuban</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/french\">French</a></li>\n      \n        <li><a
+      href=\"/recipes/category/german\">German</a></li>\n      \n        <li><a href=\"/recipes/category/greek\">Greek</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/indian\">Indian</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/italian\">Italian</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/japanese\">Japanese</a></li>\n      \n
+      \       <li><a href=\"/recipes/category/korean\">Korean</a></li>\n      \n        <li><a
+      href=\"/recipes/category/latin\">Latin</a></li>\n      \n        <li><a href=\"/recipes/category/mexican\">Mexican</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/middle-eastern\">Middle Eastern</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/southwestern\">Southwestern</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/spanish\">Spanish</a></li>\n
+      \     \n        <li><a href=\"/recipes/category/thai\">Thai</a></li>\n      \n
+      \     <li>\n        <a class=\"cuisine_action_link\" onclick=\"$('cuisine_list_full').style.display='block';$('cuisine_list_short').style.display='none';\">MORE...</a>\n
+      \     </li>\n    </ul>\n    <ul id=\"cuisine_list_full\">\n      \n        <li><a
+      href=\"http://www.chow.com/recipes/category/afghan\">Afghan</a></li>\n      \n
+      \       <li><a href=\"http://www.chow.com/recipes/category/african\">African</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/american\">American</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/argentine\">Argentine</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/asian\">Asian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/barbecue\">Barbecue</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/belgian\">Belgian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/brazilian\">Brazilian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/british\">British</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/burmese\">Burmese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/cajun-creole\">Cajun/Creole</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/california-cuisine\">California
+      Cuisine</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/cal-med\">Cal-Med</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/cambodian\">Cambodian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/caribbean\">Caribbean</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/chinese\">Chinese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/cuban\">Cuban</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/czech\">Czech</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/eastern-european\">Eastern
+      European</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/eclectic\">Eclectic</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/egyptian\">Egyptian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/ethiopian\">Ethiopian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/filipino\">Filipino</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/french\">French</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/fusion\">Fusion</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/german\">German</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/greek\">Greek</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/indian\">Indian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/indonesian\">Indonesian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/international\">International</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/irish\">Irish</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/italian\">Italian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/jamaican\">Jamaican</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/japanese\">Japanese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/jewish\">Jewish</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/korean\">Korean</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/latin\">Latin</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/lebanese\">Lebanese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/mediterranean\">Mediterranean</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/mexican\">Mexican</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/middle-eastern\">Middle
+      Eastern</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/moroccan\">Moroccan</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/nepalese\">Nepalese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/other\">Other</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/pan-asian-pacific-rim\">Pan-Asian/Pacific
+      Rim</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/polish\">Polish</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/polynesian\">Polynesian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/portuguese\">Portuguese</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/puerto-rican\">Puerto
+      Rican</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/russian\">Russian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/scandinavian\">Scandinavian</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/south-american\">South
+      American</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/southern-soul\">Southern/Soul</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/southwestern\">Southwestern</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/spanish\">Spanish</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/szechuan\">Szechuan</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/thai\">Thai</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/turkish\">Turkish</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/vietnamese\">Vietnamese</a></li>\n
+      \     \n      <li>\n        <a class=\"cuisine_action_link\" onclick=\"$('cuisine_list_short').style.display='block';$('cuisine_list_full').style.display='none';\">LESS...</a>\n
+      \     </li>\n    </ul>\n  \n  \n    <p class=\"browse_title\">BY COURSE</p>\n
+      \   <ul>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/bread\">Bread</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/breakfast-brunch\">Breakfast
+      / Brunch</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/condiment-sauce\">Condiment
+      / Sauce</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/drink\">Drink</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/main\">Main</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/pasta-noodles\">Pasta
+      / Noodles</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/project\">Project</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/side-dish\">Side
+      Dish</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/snack\">Snack</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/soup-salad-sandwich\">Soup
+      / Salad / Sandwich</a></li>\n      \n        <li><a href=\"http://www.chow.com/recipes/category/starter\">Starter</a></li>\n
+      \     \n        <li><a href=\"http://www.chow.com/recipes/category/sweet-dessert\">Sweet
+      / Dessert</a></li>\n      \n    </ul>\n  \n\n  <div class=\"clear\"></div>\n</div>\n<!--col1a-->\n\n<div
+      id=\"col1b\">\n<div class=\"content\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"title\"
+      >\n  \n  \n\n  <h1 itemprop=\"name\">Chocolate-Dipped Vanilla Ice Cream Bars
+      Recipe</h1>\n\n  \n\n  <div class=\"clear\"></div>\n</div>\n\n<div id=\"recipe_flag\"
+      style=\"display:none\">\n  \n</div>\n\n\n  <div id=\"photos\" >\n    \n      \n
+      \       <a href=\"/galleries/recipes/54/sweet-dessert/29576/chocolate-dipped-vanilla-ice-cream-bars\"
+      target=\"_blank\">\n          <img src=\"/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg\"
+      alt=\"Chocolate-Dipped Vanilla Ice Cream Bars\" itemprop=\"photo\"/>\n        </a>\n
+      \     \n    \n  </div>\n\n\n<div id=\"time\" class=\"with_image\">\n  \n    <a
+      href=\"/recipes/difficulty/Medium\"><img alt=\"Difficulty: Medium\" src=\"http://www.chow.com/static/20110923041427/images/recipes/difficulty_medium.jpg\"
+      title=\"Difficulty: Medium\" /></a>\n  \n\n  \n    <div id=\"servings\">\n      <p
+      class=\"header\">TIME/SERVINGS</p>\n\n\n  \n    <p><strong>Total:</strong>  <time
+      itemprop=\"totalTime\" content=\"PT7H45M\">45 mins, plus at least 7 hrs freezing
+      time</time></p>\n  \n\n\n\n\n\n    <p><strong>Makes:</strong> <span itemprop=\"yield\">9
+      (3-inch-square) bars</span></p>\n\n\n\n\n\n      \n        <a id=\"recipe_gallery_button\"
+      href=\"/galleries/recipes/54/sweet-dessert/29576/chocolate-dipped-vanilla-ice-cream-bars\"
       target=\"_blank\"><span>Chocolate-Dipped Vanilla Ice Cream Bars</span><img src=\"/images/clear.gif\"
-      alt=\"See More in the Gallery\" width=\"1\" height=\"1\"/></a>\r\n              \r\n
-      \             \r\n              \r\n              \r\n            </div>\r\n
-      \         \r\n        </div>\r\n        <div class=\"clear\"></div>\r\n\r\n
-      \       \r\n        \r\n          \r\n        \r\n        \r\n        \r\n        \r\n
-      \       <p><strong>\r\n          \r\n        </strong></p>\r\n        \r\n        \r\n
-      \       \r\n          <div id=\"introduction\" class=\"clearfix \">\r\n            \r\n
-      \           \r\n            \r\n            <p id=\"recipe_info\">\r\n  \t\t\t\t\t
-      \ \r\n              \r\n              \r\n              \r\n              \r\n\t\t\t\t\r\n\t\t\t\tBy
-      <span itemprop=\"author\">Christine Gallary</span>\r\n\t\t\t\r\n              \r\n
-      \           </p>\r\n            \r\n            \r\n            \r\n              <div
-      id='intro_short'><p>This version of the Klondike ice cream bar starts with rich,
-      dense vanilla ice cream that is then slathered with a thick, snappy milk chocolate
-      coating. Once you try one of these homemade treats, you&#8217;ll never go back
-      to the artificially flavored commercial bars.</p>\n\n\n\t<p><strong>Special
-      equipment:</strong> For coating the bars in chocolate, you&#8217;ll need a <a
-      href=\"http://www.amazon.com/gp/product/B000PJ6VFO?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B000PJ6VFO\">kitchen
-      scale</a> and a chocolate thermometer such as <a href=\"http://www.amazon.com/gp/product/B00028CNCI?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00028CNCIp\">CDN&#8217;s</a>.</p>\n\n\n\t<p><strong>What
-      to buy:</strong> If you prefer to buy rather than make your own ice cream, be
-      sure to get a dense, rich variety. Because higher-quality ice creams contain
-      less air, they freeze into solid, slow-melting blocks that are easier to coat
-      with the melted chocolate. Lower-quality ice creams are fluffed up with air
-      and will melt before the chocolate coating sets. Look for brands labeled premium
-      or super-premium, such as Häagen-Dazs or Double Rainbow.</p>\n\n\n\t<p>Professional
-      pastry chefs use a type of chocolate known as couverture, which sets up nicely
-      because it contains more cocoa butter than regular chocolate. The only trick
-      is, you need to <a href=\"http://www.chow.com/food-news/54141/how-to-temper-chocolate/\">temper</a>
-      it. For this recipe, we used E. Guittard 38% Cacao Milk Chocolate Wafers; they
-      can be found a<a href='#' id='intro_more_link' onclick=\"$('intro_full').style.display='block';$('intro_short').style.display='none';return
+      alt=\"See More in the Gallery\" width=\"1\" height=\"1\"/></a>\n      \n\n\n
+      \   </div>\n  \n</div>\n<div class=\"clear\"></div>\n\n\n\n  <div id=\"introduction\"
+      class=\"clearfix\n    \">\n\n    \n\n    <p id=\"recipe_info\">\n      \n      \n\n\n
+      \     \n        \n        By\n        <span itemprop=\"author\">Christine Gallary</span>\n
+      \     \n\n    </p>\n\n    \n\n      <div id='intro_short'><p>This version of
+      the Klondike ice cream bar starts with rich, dense vanilla ice cream that is
+      then slathered with a thick, snappy milk chocolate coating. Once you try one
+      of these homemade treats, you&#8217;ll never go back to the artificially flavored
+      commercial bars.</p>\n\n\n\t<p><strong>Special equipment:</strong> For coating
+      the bars in chocolate, you&#8217;ll need a <a href=\"http://www.amazon.com/gp/product/B000PJ6VFO?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B000PJ6VFO\">kitchen
+      scale</a> and a chocolate thermometer such as <a href=\"http://www.amazon.com/gp/product/B00028CNCI?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00028CNCIp\"><span
+      class=\"caps\">CDN</span>&#8217;s</a>.</p>\n\n\n\t<p><strong>What to buy:</strong>
+      If you prefer to buy rather than make your own ice cream, be sure to get a dense,
+      rich variety. Because higher-quality ice creams contain less air, they freeze
+      into solid, slow-melting blocks that are easier to coat with the melted chocolate.
+      Lower-quality ice creams are fluffed up with air and will melt before the chocolate
+      coating sets. Look for brands labeled premium or super-premium, such as Häagen-Dazs
+      or Double Rainbow.</p>\n\n\n\t<p>Professional pastry chefs use a type of chocolate
+      known as couverture, which sets up nicely because it contains more cocoa butter
+      than regular chocolate. The only trick is, you need to <a href=\"http://www.chow.com/food-news/54141/how-to-temper-chocolate/\">temper</a>
+      it. For this recipe, we used E. Guittard 38% Cacao Milk Chocolate<a href='#'
+      id='intro_more_link' onclick=\"$('intro_full').style.display='block';$('intro_short').style.display='none';return
       false;\">... read more</a></div><div id='intro_full' style='display:none;'><p>This
       version of the Klondike ice cream bar starts with rich, dense vanilla ice cream
       that is then slathered with a thick, snappy milk chocolate coating. Once you
       try one of these homemade treats, you&#8217;ll never go back to the artificially
       flavored commercial bars.</p>\n\n\n\t<p><strong>Special equipment:</strong>
       For coating the bars in chocolate, you&#8217;ll need a <a href=\"http://www.amazon.com/gp/product/B000PJ6VFO?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B000PJ6VFO\">kitchen
-      scale</a> and a chocolate thermometer such as <a href=\"http://www.amazon.com/gp/product/B00028CNCI?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00028CNCIp\">CDN&#8217;s</a>.</p>\n\n\n\t<p><strong>What
-      to buy:</strong> If you prefer to buy rather than make your own ice cream, be
-      sure to get a dense, rich variety. Because higher-quality ice creams contain
-      less air, they freeze into solid, slow-melting blocks that are easier to coat
-      with the melted chocolate. Lower-quality ice creams are fluffed up with air
-      and will melt before the chocolate coating sets. Look for brands labeled premium
-      or super-premium, such as Häagen-Dazs or Double Rainbow.</p>\n\n\n\t<p>Professional
-      pastry chefs use a type of chocolate known as couverture, which sets up nicely
-      because it contains more cocoa butter than regular chocolate. The only trick
-      is, you need to <a href=\"http://www.chow.com/food-news/54141/how-to-temper-chocolate/\">temper</a>
+      scale</a> and a chocolate thermometer such as <a href=\"http://www.amazon.com/gp/product/B00028CNCI?ie=UTF8&#38;tag=c037-20&#38;linkCode=as2&#38;camp=1789&#38;creative=9325&#38;creativeASIN=B00028CNCIp\"><span
+      class=\"caps\">CDN</span>&#8217;s</a>.</p>\n\n\n\t<p><strong>What to buy:</strong>
+      If you prefer to buy rather than make your own ice cream, be sure to get a dense,
+      rich variety. Because higher-quality ice creams contain less air, they freeze
+      into solid, slow-melting blocks that are easier to coat with the melted chocolate.
+      Lower-quality ice creams are fluffed up with air and will melt before the chocolate
+      coating sets. Look for brands labeled premium or super-premium, such as Häagen-Dazs
+      or Double Rainbow.</p>\n\n\n\t<p>Professional pastry chefs use a type of chocolate
+      known as couverture, which sets up nicely because it contains more cocoa butter
+      than regular chocolate. The only trick is, you need to <a href=\"http://www.chow.com/food-news/54141/how-to-temper-chocolate/\">temper</a>
       it. For this recipe, we used E. Guittard 38% Cacao Milk Chocolate Wafers; they
       can be found at specialty grocery stores and <a href=\"http://www.surlatable.com/product/PRO-452748/E.-Guittard-Cacao-Milk-Chocolate\">online</a>.</p>\n\n\n\t<p><strong>Game
       plan:</strong> Tempering the chocolate ensures a snappy coating, but for a quicker
@@ -2614,33 +2583,31 @@
       Also, chocolate stays in temper for only a short time, so have everything ready
       to go and work quickly.</p>\n\n\n\t<p><a href=\"/food-news/79610\">See more
       recipes for homemade ice cream bars.</a></p><a href='#' onclick=\"$('intro_short').style.display='block';$('intro_full').style.display='none';new
-      Effect.ScrollTo('intro_short', {offset: -100});return false;\"> << Collapse</a></div>\r\n
-      \           \r\n          </div>\r\n          \r\n          \r\n            <div
-      class=\"header_section\"><span>INGREDIENTS</span></div>\r\n            <div
-      id=\"ingredients\">\r\n              <ul><li>2 pints (4 cups) premium or <a
-      href=\"/recipes/11117\">homemade</a> vanilla ice cream, softened until just
-      spreadable but not melted</li>\n<li><span itemprop=\"ingredient\" itemscope
-      itemtype=\"http://data-vocabulary.org/RecipeIngredient\"><span itemprop=\"amount\">2
-      pounds</span> <span itemprop=\"name\">milk chocolate</span> couverture or coarsely
-      chopped milk chocolate</span></li>\n</ul>\r\n            </div>\r\n          \r\n
-      \         \r\n          <div class=\"header_section\"><span>INSTRUCTIONS</span></div>\r\n
-      \         <div id=\"instructions\" itemprop=\"instructions\">\r\n            \r\n
-      \           <ol>    <li class=\"d1\">Line a 9-by-9-inch baking pan with plastic
-      wrap, overlapping as needed to completely cover the bottom and sides and leaving
-      at least a 5-inch overhang. (If possible, use a pan that does not have sloping
-      sides.)</li>        <li class=\"d2\">Drop the ice cream in large dollops into
-      the pan and spread to the edges with a rubber spatula. <img src=\"/assets/2011/04/vanilla_bar_1.jpg\"
-      alt=\"\" /> Cover with the overhanging plastic wrap and press on the surface
-      of the ice cream with the bottom of a measuring cup until it&#8217;s packed
-      into a smooth, even layer. <img src=\"/assets/2011/04/vanilla_bar_2.jpg\" alt=\"\"
-      /> Freeze until solid, at least 3 hours.</li>        <li class=\"d3\">Meanwhile,
-      line 2 baking sheets with parchment or waxed paper. Tape each corner of the
-      paper down and place the baking sheets in the freezer. </li>        <li class=\"d4\">When
-      the ice cream is solid, remove the pan and 1 baking sheet from the freezer.
-      Grasping the plastic wrap, pull the ice cream slab out of the pan and place
-      it on a cutting board. Remove and discard the plastic wrap. Slice the slab into
-      9 even squares.</li>        <li class=\"d5\">Using a flat spatula, transfer
-      and evenly space the squares on the baking sheet. <img src=\"/assets/2011/04/vanilla_bar_3.jpg\"
+      Effect.ScrollTo('intro_short', {offset: -100});return false;\"> << Collapse</a></div>\n
+      \   \n  </div>\n\n  \n    <div class=\"header_section\"><span>INGREDIENTS</span></div>\n
+      \   <div id=\"ingredients\">\n      <ul><li>2 pints (4 cups) premium or <a href=\"/recipes/11117\">homemade</a>
+      vanilla ice cream, softened until just spreadable but not melted</li>\n<li><span
+      itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\"><span
+      itemprop=\"amount\">2 pounds</span> <span itemprop=\"name\">milk chocolate</span>
+      couverture or coarsely chopped milk chocolate</span></li>\n</ul>\n    </div>\n
+      \ \n\n  <div class=\"header_section\"><span>INSTRUCTIONS</span></div>\n  <div
+      id=\"instructions\" itemprop=\"instructions\">\n    \n    <ol>    <li class=\"d1\">Line
+      a 9-by-9-inch baking pan with plastic wrap, overlapping as needed to completely
+      cover the bottom and sides and leaving at least a 5-inch overhang. (If possible,
+      use a pan that does not have sloping sides.)</li>        <li class=\"d2\">Drop
+      the ice cream in large dollops into the pan and spread to the edges with a rubber
+      spatula. <img src=\"/assets/2011/04/vanilla_bar_1.jpg\" alt=\"\" /> Cover with
+      the overhanging plastic wrap and press on the surface of the ice cream with
+      the bottom of a measuring cup until it&#8217;s packed into a smooth, even layer.
+      <img src=\"/assets/2011/04/vanilla_bar_2.jpg\" alt=\"\" /> Freeze until solid,
+      at least 3 hours.</li>        <li class=\"d3\">Meanwhile, line 2 baking sheets
+      with parchment or waxed paper. Tape each corner of the paper down and place
+      the baking sheets in the freezer. </li>        <li class=\"d4\">When the ice
+      cream is solid, remove the pan and 1 baking sheet from the freezer. Grasping
+      the plastic wrap, pull the ice cream slab out of the pan and place it on a cutting
+      board. Remove and discard the plastic wrap. Slice the slab into 9 even squares.</li>
+      \       <li class=\"d5\">Using a flat spatula, transfer and evenly space the
+      squares on the baking sheet. <img src=\"/assets/2011/04/vanilla_bar_3.jpg\"
       alt=\"\" /> Freeze until solid, at least 2 hours.</li>        <li class=\"d6\">Fill
       a large bowl with 2 inches of cold water, add 3 to 4 ice cubes, and set aside.</li>
       \       <li class=\"d7\">Bring a medium saucepan filled with 1 to 2 inches of
@@ -2681,31 +2648,55 @@
       before continuing.)</li>        <li class=\"d12\">Freeze the dipped ice cream
       bars until the chocolate coating has hardened and the ice cream is solid, at
       least 2 hours. Wrap them individually in plastic wrap, then foil, and store
-      in the freezer for up to 2 weeks.</li>    </ol><br />\r\n          </div>\r\n
-      \         \r\n  \t\t\t\t\r\n\r\n\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\r\n        \r\n
-      \             \r\n      </div>\r\n      <div class=\"clear\"></div>\r\n\t  \r\n\t
-      \   <div id=\"fb_like\" class=\"clearfix\"> \r\n\t\t\t\t<div class='share_twitterlink
-      fl'>\r\n\t\t\t\t\t<a href=\"http://twitter.com/share\" class=\"twitter-share-button\"
+      in the freezer for up to 2 weeks.</li>    </ol><br />\n  </div>\n\n  \n\n  \n\n\n</div>\n<div
+      class=\"clear\"></div>\n\n<div id=\"fb_like\" class=\"clearfix\">\n  <div class='share_twitterlink
+      fl'>\n    <a href=\"http://twitter.com/share\" class=\"twitter-share-button\"
       data-text=\"Chocolate-Dipped Vanilla Ice Cream Bars Recipe @CHOW\" data-url=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"
-      style=\"color:#333\">Loading...</a>\r\n\t\t\t\t</div> \r\n\t\t\t\t<div class='share_fblink
-      fl'>\r\n\t         <fb:like height=\"24\" width=\"360\" show_faces=\"false\"
-      href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"></fb:like>\r\n\t\t\t\t</div>\r\n
-      \     </div>\r\n\t  \r\n      \n        \n            <div id=\"comments_container\">\n\n
-      \   <div id=\"comment_heading_bar\" class=\"join_discussion\">\n    <div class=\"comment_box
-      yellow fr clearfix\">\n        <span class=\"comment_box_tl comment_graphic\"></span>\n
-      \       <span class=\"comment_box_tr comment_graphic\"></span>\n        <span
-      class=\"comment_box_bl comment_graphic\"></span>\n        <span class=\"comment_box_br
-      comment_graphic\"></span>\n        <span class=\"comment_box_tail_below comment_graphic\"></span>\n
-      \       <div class=\"discussion_header\"><span class=\"arial bold f14\">JOIN
-      THE DISCUSSION</span> <a href=\"/recipes/29576/comments\" class=\"f14 arial\"><span
-      class=\"c666 f16 ml5 mr5\">|</span>Read All <span class=\"bold c333\">2</span>
-      Comments</span></a></div>\n  </div>\n\n  </div>\n  \n  <ul id=\"comment-list\">\n
-      \        <li class=\"\">\n         \n           <p id=\"short69666\">\n              I
-      have made these in the past and they are second to none! Here's an optional
-      tip: If you are using real high quality chocolate and don't want such a thick
-      coating &amp; less 'cracking' when biting into your bar, try adding coconut
-      oil to your chocolate mixture during the first heating. A little goes a long
-      way, so add 1 tablespoon per pound and see how that does.</p>\n            \n
+      style=\"color:#333\">Loading...</a>\n  </div>\n  <div class='share_fblink fl'>\n
+      \   <fb:like height=\"24\" width=\"360\" show_faces=\"false\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"></fb:like>\n
+      \ </div>\n</div>\n\n\n        \n            <script type=\"text/javascript\">\n
+      \       function showMessage(message) {\n\t      if($j(\"#error\")) {\n\t\t
+      \   $j(\"#error\").remove();\n\t       };\n          //  document.getElementById('message')[0].innerHTML
+      = message;\n        $j(\"#comments_container\").prepend(\"<h4 id='error' class='red
+      mt20'>\" + message + \"</h4>\");\n        }\n        \n        function adminComment(action,
+      id) {\n\t\n            var actionUrl = '/xhr/comments/'+ action + '?cid=' +
+      id;\n\t\t\t        $j.ajax({\n\t\t\t\t      type: 'POST',\n\t\t\t\t      url:
+      actionUrl,\n\t\t\t\t      success: function(e){\n\t\t\t\t\t    window.location
+      = (location + ('?comment=new#comments_container'));\n\t\t\t            location.reload(true);\n\t\t\t\t
+      \     },\n\t\t\t\t      error: function(e){\n\t\t\t\t\t  \tif (e.status == 400)
+      {\n\t\t\t              showMessage( e.responseText );\n\t\t\t            }\n\t\t\t
+      \           else {\n\t\t\t              showMessage('We\\'re having some app
+      problems right now. Please try again in a bit.');\n\t\t\t             };\n\t\t\t
+      \         }\n\t\t\t      });\n\t\t\t      return false;\n        }\n</script>\n\n<div
+      id=\"comments_container\">\n\n    <div id=\"comment_heading_bar\" class=\"join_discussion\">\n
+      \   <div class=\"comment_box yellow fr clearfix\">\n        <span class=\"comment_box_tl
+      comment_graphic\"></span>\n        <span class=\"comment_box_tr comment_graphic\"></span>\n
+      \       <span class=\"comment_box_bl comment_graphic\"></span>\n        <span
+      class=\"comment_box_br comment_graphic\"></span>\n        <span class=\"comment_box_tail_below
+      comment_graphic\"></span>\n        <div class=\"discussion_header\"><span class=\"arial
+      bold f14\">POST A COMMENT</span> <span class=\"c666 f16 ml5 mr5\">|</span><span
+      class=\"f14 arial\"><span class=\"bold c333\">2</span>\n           Comments</span>\n
+      \       </div>\n  </div>\n\n  </div>\n  \n  <div id=\"comments_reply\">\n   \n
+      \   <form action=\"/xhr/comments\" method=\"get\" name=\"story_comment\" id=\"chow-addComment\"
+      class=\"clearfix\">\n        \n        <div class=\"comment_box clearfix\">\n
+      \           <span class=\"comment_box_tl comment_graphic\"></span>\n            <span
+      class=\"comment_box_tr comment_graphic\"></span>\n            <span class=\"comment_box_bl
+      comment_graphic\"></span>\n            <span class=\"comment_box_br comment_graphic\"></span>\n
+      \           <span class=\"comment_box_tail comment_graphic\"></span>\n                \n
+      \            <input type=\"hidden\" value=\"29576\" id=\"rid\" name=\"rid\">\n
+      \            <input type=\"hidden\" value=\"Recipe\" id=\"rtype\" name=\"rtype\">\n
+      \               \n             <p class=\"mt5 mb5\"><span class=\"bold f11\">COMMENT</span></p>\n
+      \            <textarea  class=\"text_input\" id=\"comments_text\" name=\"text\"
+      placeholder=\"Comment\"></textarea>\n        </div>\n        <div id=\"submit_btn_holder\">\n
+      \           <input type=\"submit\" class=\"submit_btn chow_btn show_login_box
+      on_success_chowcomments.submitComment\" id=\"submit_comment\" value=\"submit\">
+      \n        </div>      \n    </form>\n    \n  </div><!-- /comment_box --> \n\n<ul
+      id=\"comment-list\">\n         <li class=\"\">\n         \n           <p id=\"short69666\">\n
+      \             I have made these in the past and they are second to none! Here's
+      an optional tip: If you are using real high quality chocolate and don't want
+      such a thick coating &amp; less 'cracking' when biting into your bar, try adding
+      coconut oil to your chocolate mixture during the first heating. A little goes
+      a long way, so add 1 tablespoon per pound and see how that does.</p>\n            \n
       \   \n            <div class=\"user_info\"><a href=\"http://www.chow.com/profile/1231256\"><img
       src=\"http://www.chow.com/profile/1231256/pic\" class=\"avatar tiny\" alt=\"\"
       width=\"20\"height=\"20\" /></a>\n                By <a href=\"http://www.chow.com/profile/1231256\"
@@ -2717,71 +2708,49 @@
       class=\"avatar tiny\" alt=\"\" width=\"20\"height=\"20\" /></a>\n                By
       <a href=\"http://www.chow.com/profile/1243789\" class=\"user_name bold\" >budiman1977</a>\n
       \               on May 8, 2011 08:02 PM</div>\n        \n            </li>\n
-      \               \n          </ul>\n<div id=\"comments_reply\">\n   \n    <form
-      action=\"/xhr/comments\" method=\"get\" name=\"story_comment\" id=\"chow-addComment\"
-      class=\"clearfix\">\n        \n        <div class=\"comment_box clearfix\">\n
-      \           <span class=\"comment_box_tl comment_graphic\"></span>\n            <span
-      class=\"comment_box_tr comment_graphic\"></span>\n            <span class=\"comment_box_bl
-      comment_graphic\"></span>\n            <span class=\"comment_box_br comment_graphic\"></span>\n
-      \           <span class=\"comment_box_tail comment_graphic\"></span>\n                \n
-      \            <input type=\"hidden\" value=\"29576\" id=\"rid\" name=\"rid\">\n
-      \            <input type=\"hidden\" value=\"Recipe\" id=\"rtype\" name=\"rtype\">\n
-      \               \n             <p class=\"mt5 mb5\"><span class=\"bold f11\">COMMENT</span></p>\n
-      \            <textarea  class=\"text_input\" id=\"comments_text\" name=\"text\">Comment</textarea>\n
-      \       </div>\n        <div id=\"submit_btn_holder\">\n            <input type=\"image\"
-      class=\"submit_btn show_login_box on_success_chowcomments.submitComment\" src=\"/static/201105161631/images/clear.gif\"
-      id=\"submit_comment\" value=\"\"> \n        </div>      \n    </form>\n    \n</div><!--
-      /comment_box -->  \n</div><!-- comment container -->\n\n        \n     \r\n
-      \     <div id=\"action_items_footer\">\r\n        <p>LIKE THIS RECIPE?</p>\r\n
-      \         \r\n          <span id=\"save_item_3\">\r\n            \r\n              <a
-      href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
+      \               \n          </ul>\n</div><!-- comment container -->\n\n        \n
+      \   \n<div id=\"action_items_footer\">\n  <p>LIKE THIS RECIPE?</p>\n  \n  <span
+      id=\"save_item_3\">\n              <a href=\"http://www.chow.com/account/combined?return_to=http%3A%2F%2Fwww.chow.com%2Frecipes%2F29576-chocolate-dipped-vanilla-ice-cream-bars\"
       class=\"show_login_box on_success_Recipe.save\" id=\"bookmark_btn\" rel=\"nofollow\"><img
-      alt=\"\" src=\"http://www.chow.com/static/20110520000312/images/recipes/btn_fav_add.gif\"
-      /></a>\r\n            \r\n          </span>\r\n          <div id=\"hidden_content_Recipe_email_user_29576\"
-      style=\"display: none;\"></div><a class=\"email\" href=\"#\" onclick=\"new Ajax.Updater('hidden_content_Recipe_email_user_29576',
+      alt=\"\" src=\"http://www.chow.com/static/20110923041427/images/recipes/btn_fav_add.gif\"
+      /></a>\n          </span>\n  <div id=\"hidden_content_user_email_Recipe_29576\"
+      style=\"display: none;\"></div><a class=\"email\" href=\"#\" onclick=\"new Ajax.Updater('hidden_content_user_email_Recipe_29576',
       '/user/email?item_id=29576&amp;item_type=Recipe', {asynchronous:true, evalScripts:true,
-      onComplete:function(request){RedBox.addHiddenContent('hidden_content_Recipe_email_user_29576');
-      }, onLoading:function(request){RedBox.loading(); }}); return false;\"></a>\r\n
-      \         \r\n            <a href=\"/recipes/29576/hack\" class=\"show_login_box\"
-      rel=\"nofollow\"><img alt=\"Hack it\" src=\"http://www.chow.com/static/20110520000312/images/recipes/btn_hack.gif\"
-      title=\"Create your own version of this recipe\" /></a>\r\n           \r\n      </div>\r\n
-      \     \r\n    </div><!--#col1b-->\r\n    <div class=\"clear\"></div>\r\n  </div><!--#col1-->\r\n
-      \ \r\n  \r\n  <div class=\"clear\"></div>\r\n  \r\n  \r\n</div><!-- #recipes
-      -->\r\n\r\n\r\n\r\n  \r\n\t\r\n  \r\n  \r\n  \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n
-      \       \r\n        <div id=\"footer_recommendation\" class=\"sb-case\">\r\n
-      \         \r\n        </div>\r\n      </div>\r\n      \r\n\t  \r\n      <div
-      id=\"sidebar\" >\r\n\t\r\n\t  <div id=\"connect_w_chow\">\r\n\t\t<span class=\"f16
-      bold mb5 clearfix\">CONNECT WITH CHOW</span>\r\n\t\t<div id=\"fb_like_box\">\r\n\t
-      \     <fb:like href=\"www.facebook.com/CHOW\" show_faces=\"true\" width=\"280\"
-      font=\"\"></fb:like>\r\n\t    </div>\r\n\t\t  <ul id=\"connect_icons\" class=\"clearfix\">\r\n\t\t\t<li
-      id=\"youtube\"><a href=\"http://www.youtube.com/user/CHOW\" target=\"_blank\">youTube</a></li>\r\n\t\t\t<li
-      id=\"rss\"><a href=\"http://www.chow.com/rss\">RSS</a></li>\r\n\t\t\t<li id=\"twitter\"><a
-      href=\"http://twitter.com/#!/CHOW\" target=\"_blank\">Twitter</a></li>\r\n\t\t
-      \ <ul>\r\n\t  </div>\r\n        \r\n         \r\n\t  \t\t\r\n\t\t\t<div class=\"ad\"
-      id=\"banner_rok_ad\"><div class='rubics_netxp1_main' id='rbx_netxp1_parent'>\n<script
-      type='text/javascript'>\nfunction do_rbx_ctrk_netxp1 (aElem, iTrkId, cTrkPrefix)
-      {\n\tvar imgElem = document.getElementById(iTrkId);\n\tif (!imgElem) {\n\t\treturn
-      true;\n\t}\n\n\tif (!aElem.rbxCPrefixed) {\n\t\taElem.rbxCPrefixed = true;\n\t\tvar
-      destUri = encodeURIComponent(aElem.href);\n\t\tvar newUri = cTrkPrefix + destUri;\n\t\taElem.href
-      = newUri;\n\t}\n\treturn true;\n}\nfunction do_rbx_itrk_netxp1 (parentId, iTrkId,
-      iTrkUri) {\n\tif (!document.images) {\n\t\treturn false;\n\t}\n\n\tvar imgId
-      = iTrkId;\n\tvar imgElem = document.getElementById(imgId);\n\n\tif (!imgElem)
-      {\n\n\t\tvar parentElem = document.getElementById(parentId);\n\t\tif (!parentElem)
-      {\n\t\t\treturn false;\n\t\t}\n\n\t\tvar imgElem = document.createElement('img');\n\t\tif
-      (!imgElem) {\n\t\t\treturn false;\n\t\t}\n\n\t\timgElem.id = imgId;\n\t\timgElem.src
-      = iTrkUri;\n\t\timgElem.alt = '';\n\t\timgElem.width = '1';\n\t\timgElem.height
-      = '1';\n\n\t\tparentElem.appendChild(imgElem);\n\t}\n\treturn true;\n}\n</script>\n\tOn
-      GameFAQs: \n\t<a target='_top' onclick=\"return do_rbx_ctrk_netxp1(this, 'rbx_netxp1_1',
-      'http://dw.com.com/rubicsclk?ver=2&amp;ts=2011.05.21.18.26.02.PDT&amp;edId=&amp;onId=&amp;ptId=&amp;sId=103&amp;appId=19&amp;offId=11107&amp;unitId=45&amp;poolId=1&amp;f1=26&amp;f2=-0&amp;f3=-0&amp;alg=8&amp;&amp;opt=1&amp;linkPos=0&amp;destUrl=');\"
-      href='http://www.gamefaqs.com/features/top10/2188.html' class='xpromolink'>Top
-      10 What-the? Nintendo characters</a>\n<script type='text/javascript'>\n//<![CDATA[\ndo_rbx_itrk_netxp1('rbx_netxp1_parent',
-      'rbx_netxp1_1', 'http://dw.com.com/rubicsimp/c.gif?ver=2&ts=2011.05.21.18.26.02.PDT&edId=&onId=&ptId=&sId=103&appId=19&unitId=45&poolId=1&f1=26&f2=-0&f3=-0&alg=8&opt=1&off=11107,-1');\n//]]>\n</script>\n</div>\n<!--
-      pyrus t 0.1.1.1.4.4.4.5 --></div>\r\n        \r\n        \r\n    \n\t\t           <img
-      src=\"http://dw.com.com/redir?tag=rbxich.2.a.10&destUrl=http://www.cnet.com.com/b.gif\"
-      width=\"1\" height=\"1\" />\n\t\t       \r\n          <!--<a href=\"http://itunes.apple.com/us/app/chow-thanksgiving-dinner-coach/id399316208?mt=8&uo=4\">\r\n
-      \       <img class=\"holiday_chow_ad\" src=\"http://chow.com/assets/2010/10/iPHONE_APP_AD.jpg\"
-      />\r\n      </a>-->\r\n   \r\n    <h3 class=\"topic_header_underline medium\">related</h3>\r\n
-      \   \r\n    \n\t\t\t\t\t<div id=\"related_tags\" class=\"related_module\">\n\t\t\t\t\t
+      onComplete:function(request){RedBox.addHiddenContent('hidden_content_user_email_Recipe_29576');
+      }, onLoading:function(request){RedBox.loading(); }}); return false;\"></a>\n
+      \ \n    <a href=\"/recipes/29576/hack\" class=\"show_login_box\" rel=\"nofollow\"><img
+      alt=\"Hack it\" src=\"http://www.chow.com/static/20110923041427/images/recipes/btn_hack.gif\"
+      title=\"Create your own version of this recipe\" /></a>\n  \n</div>\n\n</div>\n<!--col1b-->\n<div
+      class=\"clear\"></div>\n</div>\n<!--#col1-->\n\n\n<div class=\"clear\"></div>\n\n\n</div><!--
+      recipes -->\n\n\n  \n    \n\n    \n\n    \n\n  \n\n\n\n\n\n\n\n\n\n\n<script
+      type=\"text/javascript\">\n  $j(document).ready(function() {\n\n\n    $j('#fb_share_btn').click(function(e)
+      {\n      e.preventDefault();\n      var attachment = {};\n      attachment.name
+      = page_title;\n      attachment.href = permalink;\n\n      attachment.media
+      = [\n        {'type': 'image', 'src': header_image, 'href': permalink}\n      ];\n\n
+      \     var actionLinks = [\n        { \"text\": \"Vote for my Recipe!\", \"href\":
+      permalink}\n      ];\n      FB.ui({\n        method: 'stream.publish',\n        message:
+      'Vote for my recipe!',\n        attachment: attachment,\n        action_links:
+      actionLinks\n      });\n    });\n  });\n</script>\n\n        \n        <div
+      id=\"footer_recommendation\" class=\"sb-case\">\n          \n        </div>\n
+      \     </div>\n\n\t  \n      <div id=\"sidebar\" >\n\n        <div id=\"connect_w_chow\">\n
+      \           <div id=\"getNewsletters\" class=\"clearfix\">\n                <div
+      class=\"f14 bold c999 mb5 clearfix\">SIGN UP FOR CHOW NEWSLETTERS</div>\n                <form
+      id=\"getNewsForm\" class=\"validate_form\" data-submit-handler=\"newsletterSignup.submit_sidebar_form()\"
+      data-submit-btn-id=\"getNewsForm_submit\" name=\"getNewsForm\">\n                    <input
+      id=\"newsEmail\" class=\"validate_email has_default_text\" data-insert-error-after=\"getNewsForm_submit\"
+      type=\"text\" data-default-text=\"Email address\" value=\"Email address\" />\n
+      \                   <input type=\"submit\" value=\"\" id=\"getNewsForm_submit\">\n
+      \               </form>\n            </div>\n            <div id=\"fb_like_box\">\n
+      \           \t<fb:like href=\"www.facebook.com/CHOW\" show_faces=\"true\" width=\"280\"></fb:like>\n
+      \           </div>\n            <ul id=\"connect_icons\" class=\"clearfix\">\n
+      \           \t<li id=\"youtube\"><a href=\"http://www.youtube.com/user/CHOW\"
+      target=\"_blank\">youTube</a></li>\n            \t<li id=\"rss\"><a href=\"http://www.chow.com/rss\">RSS</a></li>\n
+      \           \t<li id=\"twitter\"><a href=\"http://twitter.com/#!/CHOW\" target=\"_blank\">Twitter</a></li>\n
+      \           <ul>\n        </div>\n\n\n\n        \n\n        \n          <div
+      id=\"mpu_1\" class=\"mb20 mt5\"></div>\n        \n\n        \n          \n            \n
+      \         \n        \n      \n\t\t           <img src=\"http://dw.com.com/redir?tag=rbxich.2.a.10&destUrl=http://www.cnet.com.com/b.gif\"
+      width=\"1\" height=\"1\" />\n\t\t       \n\n      <h3 class=\"topic_header_underline
+      medium\">related</h3>\n      \n      \n\t\t\t\t\t<div id=\"related_tags\" class=\"related_module\">\n\t\t\t\t\t
       \   <h3 class=\"topic_header_sidebar\">tags</h3>\n\t\t\t\t\t    <p>\n\t\t\t\t\t
       \      <a href=\"http://www.chow.com/tags/shell\">shell</a>, <a href=\"http://www.chow.com/tags/several-times\">several
       times</a>, <a href=\"http://www.chow.com/tags/baking-sheet\">baking sheet</a>,
@@ -2801,177 +2770,60 @@
       <a href=\"http://www.chow.com/tags/homemade-ice-cream\">homemade ice cream</a>,
       <a href=\"http://www.chow.com/tags/4th-of-july\">4th of july</a>, <a href=\"http://www.chow.com/tags/tap\">tap</a>,
       <a href=\"http://www.chow.com/tags/pastry\">pastry</a>, <a href=\"http://www.chow.com/tags/homemade-ice\">homemade
-      ice</a></p>\n\t\t\t\t\t</div>\n\t\t        \r\n    \n\t\t\t\t\t<div id=\"related_stories_small\"
-      class=\"related_module\">\n\t\t\t\t\t    <a onclick=\"$j('#related_stories_full').show();$j('#related_stories_small').hide();\"
-      class=\"see_all\"><span class=\"arrow\">+</span>MORE</a>\n\t\t\t\t\t    <h3
-      class=\"topic_header_sidebar\">Stories/Blogs</h3>    \n\t\t\t\t\t    <p class=\"underline_dashed\">\n\t\t\t\t\t
-      \           <a href=\"http://www.chow.com/food-news/81847/battle-of-the-custom-chocolate-companies/\">\n\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                Battle
-      of the Custom Chocolate Companies</a>\n\t\t\t\t\t        </p>\n\t\t\t\t\t    <p
-      class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/79012/the-guys-behind-londons-massive-chocolate-waterfall/\">\n\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                The
-      Masterminds of London's Massive Chocolate Waterfall</a>\n\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \   <p class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/80657/dessert-building-blocks/\">\n\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                Dessert
-      Building Blocks</a>\n\t\t\t\t\t        </p>\n\t\t\t\t\t    </div>\n\t\t\t\t\t<div
-      id=\"related_stories_full\" class=\"related_module\" style=\"display:none;\">\n
-      \                           <a onclick=\"$j('#related_stories_small').show();$j('#related_stories_full').hide();\"
-      class=\"see_all\"><span class=\"arrow\">-</span>LESS</a>\n\t\t\t\t\t        <h3
-      class=\"topic_header_sidebar\">Stories/Blogs</h3>    \n\t\t\t\t\t        <p
-      class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/81847/battle-of-the-custom-chocolate-companies/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Battle
-      of the Custom Chocolate Companies</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/79012/the-guys-behind-londons-massive-chocolate-waterfall/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 The
-      Masterminds of London's Massive Chocolate Waterfall</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/80657/dessert-building-blocks/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Dessert
-      Building Blocks</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://www.chow.com/food-news/74098/italian-american-favorites/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Italian
-      American Favorites</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://www.chow.com/food-news/80597/none-of-the-dairy-none-of-the-whipped-fun/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 None
-      of the Dairy, None of the Whipped Fun</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/80098/is-jamie-oliver-right-or-wrong-about-sugary-milk-in-schools/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Is
-      Jamie Oliver Right or Wrong About Sugary Milk in Schools?</a>\n\t\t\t\t\t\t
-      \       </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://www.chow.com/food-news/80093/trader-joes-satisfies-the-macaron-fiends/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Trader
-      Joe's Satisfies the Macaron Fiends</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/79639/scientific-cadbury-creme-egg-snuff-films-for-easter/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Scientific
-      Cadbury Creme Egg Snuff Films for Easter</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/digest/77071/unbelievable-bargain-on-frozen-chocolate-croissants/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Unbelievable
-      Bargain on Frozen Chocolate Croissants</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://www.chow.com/food-news/78750/sweet-treats-for-your-easter-basket/\">\n\t\t\t\t\t\t
-      \               <span class=\"img_sliver right\"></span>\n\t\t\t\t\t                 Sweet
-      Treats for Your Easter Basket</a>\n\t\t\t\t\t\t        </p>\n\t\t\t\t\t        </div>\n\t\t\t\t\t\n\t\t
-      \       \r\n    \n\n\n<div id=\"related_videos_small\" class=\"related_module\">\n
-      \ <a id=\"more_arrow\" onclick=\"$j('#less_arrow').show();$j('#more_arrow').hide();$j('#related_videos_full').show();\"
-      class=\"see_all\"> <span class=\"arrow\">+</span>MORE</a>\n    <a id=\"less_arrow\"
-      style=\"display:none;\"  onclick=\"$j('#less_arrow').hide();$j('#more_arrow').show();$j('#related_videos_full').hide();$j('#related_videos_small').show();\"
-      class=\"see_all\"> <span class=\"arrow\">-</span>LESS</a>\n\n  <h3 class=\"topic_header_sidebar\">video</h3>\n
-      \ <script type=\"text/javascript\">\n\t\t\t function write_sidebar_video(){\n\t\t\t\t
-      document.getElementById('related_video_holder').innerHTML = '<object id=\"canPlayer\"
-      classid=\"clsid:D27CDB6E-AE6D-11cf-96B8-444553540000\" width=\"300\" height=\"180\"
-      ><param name=\"movie\" value=\"http://www.cbs.com/thunder/canplayer/canplayer.swf\"></param><param
-      name=\"flashvars\" value=\"pid=DWnCN1RZoebFPiXzxjFWV4duv8kzOWU1,PuMF6NX0ryd55KetnjZ1Rpb6zDYL2ioj,1_t2E6SzyJ9fShjfFIt6R0HcTAX2ZqJv,gtcwE105rXHgFXPEAIncXCbSEYM_ep6L,N_eBo0uIzGUPsSS2kC54g8wT0drrh3vt,kx5J490hlBdGuN1XKSiFXxW_0bj6O9D7,fopDPFVLp3mu0G3SRg8h2soaonuARtFV,gtcwE105rXHgFXPEAIncXCbSEYM_ep6L,s4wC8K4D2aj0RgqVcAo7oxM0KfJ_hFQ_,RqiO__WSxTewOV17WEKBRHBDuAeSFDwr&amp;partner=chow&amp;autoPlayVid=true&amp;config=http://www.chow.com/config/canPlayer.xml\"></param><param
-      name=\"allowscriptaccess\" value=\"always\"></param><param name=\"wmode\" value=\"transparent\"></param><param
-      name=\"allowfullscreen\" value=\"true\"></param><param name=\"allownetworking\"
-      value=\"all\"></param><embed type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\"
-      wmode=\"transparent\" width=\"300\" height=\"180\" allowfullscreen=\"true\"
-      allowscriptaccess=\"always\" allownetworking=\"all\" swliveconnect=\"true\"
-      src=\"http://www.cbs.com/thunder/canplayer/canplayer.swf\" flashvars=\"pid=DWnCN1RZoebFPiXzxjFWV4duv8kzOWU1,PuMF6NX0ryd55KetnjZ1Rpb6zDYL2ioj,1_t2E6SzyJ9fShjfFIt6R0HcTAX2ZqJv,gtcwE105rXHgFXPEAIncXCbSEYM_ep6L,N_eBo0uIzGUPsSS2kC54g8wT0drrh3vt,kx5J490hlBdGuN1XKSiFXxW_0bj6O9D7,fopDPFVLp3mu0G3SRg8h2soaonuARtFV,gtcwE105rXHgFXPEAIncXCbSEYM_ep6L,s4wC8K4D2aj0RgqVcAo7oxM0KfJ_hFQ_,RqiO__WSxTewOV17WEKBRHBDuAeSFDwr&amp;partner=chow&amp;autoPlayVid=true&amp;config=http://www.chow.com/config/canPlayer.xml\"
-      autoplay=\"true\"  ></embed></object>';\n\t\t\t }\n        </script> \n         <div
-      id=\"related_video_holder\">\n          \t<a href=\"#Play%20Video\" title=\"Play
-      Video\" onclick=\"write_sidebar_video(); return false\">\n                <img
-      src=\"http://search.chow.com/thumbnail/300/180/www.chow.com/blog-media/2011/05/CT_GOAT_TRUFFLES_300.jpg\"
-      width=\"300\" height=\"180\" alt=\"Play Video\" /><img class=\"global_video_play_btn\"
-      width=\"69\" height=\"69\" alt=\"Play Video\" src=\"/static/201105161631/i/video/play_btn_round.png\"/>\n
-      \               <div class=\"sidebar_video_overlay\"></div>\n                <div
-      class=\"sidebar_video_inner\">\n                    <span class=\"sidebar_video_overlay_inner\">\n
-      \                       CHOW Tip: How to Make Goat Cheese Truffles</span>\n
-      \               </div>\n            </a>\n         </div>\n         \n        <p
-      class=\"underline_dashed\">\n          <a href=\"http://www.chow.com/videos/show/chow-tips/81195/how-to-make-goat-cheese-truffles\">\n
-      \         <span class=\"img_sliver right\"></span>\n          How to Make Goat
-      Cheese Truffles</a>\n\n        <p class=\"underline_dashed\">\n        <a href=\"http://www.chow.com/videos/show/chow-tips/81189/how-to-make-goat-milk-caramel-aka-cajeta\">\n
-      \       How to Make Goat Milk Caramel (a.k.a. Cajeta)</a>\n    </p>\n  <p class=\"underline_dashed\">\n
-      \       <a href=\"http://www.chow.com/videos/show/chow-tour-handmade/76431/chow-tour-portland-a-chocolate-wonderland\">\n
-      \       CHOW Tour Portland: A Chocolate Wonderland</a>\n    </p>\n  </div>\n<div
-      class=\"related_module\" id=\"related_videos_full\" style=\"display:none; margin-top:0\">\n
-      \   <p class=\"underline_dashed\">\n            <a href=\"http://www.chow.com/videos/show/chow-tips/69537/how-to-get-the-seeds-out-of-a-vanilla-pod\">\n
-      \           How to Get the Seeds Out of a Vanilla Pod</a>\n        </p>\n      <p
-      class=\"underline_dashed\">\n            <a href=\"http://www.chow.com/videos/show/chow-tips/69275/how-to-bake-a-new-years-champagne-cake\">\n
-      \           How to Bake a New Year's Champagne Cake</a>\n        </p>\n      <p
-      class=\"underline_dashed\">\n            <a href=\"http://www.chow.com/videos/show/youre-doing-it-all-wrong/55335/how-to-make-pumpkin-pie-with-boris-portnoy\">\n
-      \           How to Make Pumpkin Pie with Boris Portnoy</a>\n        </p>\n      <p
-      class=\"underline_dashed\">\n            <a href=\"http://www.chow.com/videos/show/chow-tips/59366/how-to-shave-chocolate-and-cheese\">\n
-      \           How to Shave Chocolate and Cheese</a>\n        </p>\n      <p class=\"underline_dashed\">\n
-      \           <a href=\"http://www.chow.com/videos/show/chow-tips/64301/how-to-bake-brownies-in-an-orange\">\n
-      \           How to Bake Brownies in an Orange</a>\n        </p>\n      <p class=\"underline_dashed\">\n
-      \           <a href=\"http://www.chow.com/videos/show/chow-tips/60531/how-to-avoid-diluted-iced-coffee\">\n
-      \           How to Avoid Diluted Iced Coffee</a>\n        </p>\n      <p class=\"underline_dashed\">\n
-      \           <a href=\"http://www.chow.com/videos/show/chow-tips/55600/dont-ruin-your-cocktail-with-watery-ice-chips\">\n
-      \           Don't Ruin Your Cocktail with Watery Ice Chips</a>\n        </p>\n
-      \     </div>\n\n\n\t\t\t\t\r\n    \n\t\t\t\t\t<div id=\"related_boards_small\"
-      class=\"related_module\">\n\t\t\t\t\t    <a onclick=\"$j('#related_boards_full').show();$j('#related_boards_small').hide();\"
+      ice</a></p>\n\t\t\t\t\t</div>\n\t\t        \n      \n      \n      \n\t\t\t\t\t<div
+      id=\"related_boards_small\" class=\"related_module\">\n\t\t\t\t\t    <a onclick=\"$j('#related_boards_full').show();$j('#related_boards_small').hide();\"
       class=\"see_all\"><span class=\"arrow\">+</span>MORE</a>\n\t\t\t\t\t    <h3
       class=\"topic_header_sidebar\">Home Cooking Board discussions</h3>    \n\t\t\t\t\t
-      \   <p class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/779489\">\n\t\t\t\t\t
-      \               Foolproof flourless chocolate torte recipe...help?!</a> (8<span
-      class=\"small_caps\"> replies</span>)\n\t\t\t\t\t        </p>\n\t\t\t\t\t    <p
-      class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/773062\">\n\t\t\t\t\t
-      \               What are you baking these days? Part XVI/16 3/19/11 [old]</a>
-      (230<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t        </p>\n\t\t\t\t\t
-      \   <p class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/682040\">\n\t\t\t\t\t
-      \               Need a signature dessert! Can I steal yours?</a> (263<span class=\"small_caps\">
-      replies</span>)\n\t\t\t\t\t        </p>\n\t\t\t\t\t    </div>\n\t\t\t\t\t<div
-      id=\"related_boards_full\" class=\"related_module\" style=\"display:none;\">\n
-      \                           <a onclick=\"$j('#related_boards_small').show();$j('#related_boards_full').hide();\"
+      \   <p class=\"underline_dashed\">\n\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/357091\">\n\t\t\t\t\t
+      \               Need your very best chocolate frosting recipe</a> (39<span class=\"small_caps\">
+      replies</span>)\n\t\t\t\t\t        </p>\n\t\t\t\t\t    <p class=\"underline_dashed\">\n\t\t\t\t\t
+      \           <a href=\"http://chowhound.chow.com/topics/783759\">\n\t\t\t\t\t
+      \               \"cookie of the day\"</a> (187<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t
+      \       </p>\n\t\t\t\t\t    <p class=\"underline_dashed\">\n\t\t\t\t\t            <a
+      href=\"http://chowhound.chow.com/topics/804812\">\n\t\t\t\t\t                Chocolate
+      tempering help</a> (14<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t
+      \       </p>\n\t\t\t\t\t    </div>\n\t\t\t\t\t<div id=\"related_boards_full\"
+      class=\"related_module\" style=\"display:none;\">\n                            <a
+      onclick=\"$j('#related_boards_small').show();$j('#related_boards_full').hide();\"
       class=\"see_all\"><span class=\"arrow\">-</span>LESS</a>\n\t\t\t\t\t        <h3
       class=\"topic_header_sidebar\">Home Cooking Board discussions</h3>    \n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/779489\">\n\t\t\t\t\t
-      \                       Foolproof flourless chocolate torte recipe...help?!</a>
-      (8<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/773062\">\n\t\t\t\t\t
-      \                       What are you baking these days? Part XVI/16 3/19/11
-      [old]</a> (230<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/682040\">\n\t\t\t\t\t
-      \                       Need a signature dessert! Can I steal yours?</a> (263<span
+      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/357091\">\n\t\t\t\t\t
+      \                       Need your very best chocolate frosting recipe</a> (39<span
       class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
+      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/783759\">\n\t\t\t\t\t
+      \                       \"cookie of the day\"</a> (187<span class=\"small_caps\">
+      replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
+      \           <a href=\"http://chowhound.chow.com/topics/804812\">\n\t\t\t\t\t
+      \                       Chocolate tempering help</a> (14<span class=\"small_caps\">
+      replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
+      \           <a href=\"http://chowhound.chow.com/topics/347470\">\n\t\t\t\t\t
+      \                       Baking From My Home to Yours: Cookies</a> (125<span
+      class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
+      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/784998\">\n\t\t\t\t\t
+      \                       Sharing the Last Course</a> (103<span class=\"small_caps\">
+      replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
+      \           <a href=\"http://chowhound.chow.com/topics/808863\">\n\t\t\t\t\t
+      \                       Use for four pounds of chocolate chips</a> (27<span
+      class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
+      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/802221\">\n\t\t\t\t\t
+      \                       What are you baking these days?  August 2011, part 2
+      [Old]</a> (140<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
       \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/696116\">\n\t\t\t\t\t
-      \                       Your Best Ice Cream Recipes</a> (55<span class=\"small_caps\">
+      \                       Your Best Ice Cream Recipes</a> (59<span class=\"small_caps\">
       replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://chowhound.chow.com/topics/357091\">\n\t\t\t\t\t
-      \                       Need your very best chocolate frosting recipe</a> (36<span
-      class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/347470\">\n\t\t\t\t\t
-      \                       Baking From My Home to Yours: Cookies</a> (116<span
-      class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
-      \       <p class=\"underline_dashed\">\n\t\t\t\t\t\t            <a href=\"http://chowhound.chow.com/topics/781785\">\n\t\t\t\t\t
-      \                       Are Nestle chocolate chips good for anything besides
-      their chocolate chip cookie recipe?</a> (37<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t
-      \           </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://chowhound.chow.com/topics/377819\">\n\t\t\t\t\t
-      \                       Uber Rich Chocolate Cake</a> (19<span class=\"small_caps\">
+      \           <a href=\"http://chowhound.chow.com/topics/804922\">\n\t\t\t\t\t
+      \                       Chocolate Souffle - sauce?</a> (2<span class=\"small_caps\">
       replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://chowhound.chow.com/topics/772290\">\n\t\t\t\t\t
-      \                       Do you have a recipe that works so well that you have
-      no interest in trying another?</a> (311<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t
-      \           </p>\n\t\t\t\t\t        <p class=\"underline_dashed\">\n\t\t\t\t\t\t
-      \           <a href=\"http://chowhound.chow.com/topics/515664\">\n\t\t\t\t\t
-      \                       What is your favorite home baked cookie recipe?</a>
-      (55<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
-      \       </div>\n\t\t\t\t\t\n\t\t        \r\n  \r\n        <div class=\"ad_box
-      madison_ad ad pos100 sp16\"><!-- MAC ad --><div id=\"madison_ad_16_100\"><div
-      style=\"text-align:center;\"><a href=\"http://www.cbsinteractive.com/adfeedback/?REDIRECT=TRUE&RGROUP=10876&amp;SEGMENTID=484755&amp;LINEID=395373&amp;SP=16&amp;ADVERTISERID=12054\"
-      target=\"new\"><img src=\"http://i.i.com.com/cnwk.1d/Ads/common/adinfo_top.gif\"
-      width=\"50\" height=\"10\" border=\"0\" alt=\"advertisement\" /></a></div><div
-      style=\"text-align:center;\"><center><div\nstyle=\"text-align:center;\"><center><script
-      type=\"text/javascript\">\r\nadmeld_publisher  = 489;\r\nadmeld_site       =
-      'chow';\r\nadmeld_size       = '300x250';\r\nadmeld_placement   = 'chow_atf';\r\nadmeld_url
-      = 'http://cbsinteractive.com';  \r\n</script>\r\n<script type=\"text/javascript\"
-      src=\"http://js.admeld.com/meld120.js\"></script></center></div><img src=\"http://adlog.com.com/adlog/i/r=10876&amp;sg=484755&amp;o=12711%253a&amp;h=cn&amp;p=2&amp;b=26&amp;l=en_US&amp;site=103&amp;pt=9910&amp;nd=&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=01c13-ad-e6:4DD7E5F97EE22B&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=24%2e18%2e47%2e120&amp;dvar=&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.05.22.01.26.02/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif\"
-      HEIGHT=\"0\" WIDTH=\"0\" alt=\"\" style=\"position:absolute; top:0px; left:0px\"
-      /></center></div></div><!-- MAC [r20101202-0915-v1-13-13-JsonEncodeNewLine:1.13.13]
-      c13-ad-xw1.cnet.com::2739919760 2011.05.22.01.26.02 --><!-- MAC T 0.0.5.6 --><!--
-      ads fetched in one request --></div>\r\n        \t\t\r\n\t\t\r\n\t  \r\n  \r\n\r\n
-      \       \r\n        \r\n        \r\n        \r\n        \r\n\r\n    <div id=\"col2\">
-      \ \r\n      \r\n      \r\n  \r\n      \r\n  \r\n\r\n  \r\n  \r\n      \r\n  \r\n\r\n\r\n
-      \   </div><!--#col2-->\r\n\r\n        \r\n        \r\n        \r\n       \r\n
-      \       <div id=\"small_site_promo\">\r\n          <div class=\"ad_box madison_ad
-      ad pos100 sp162 empty\"><!-- MAC ad --><!-- NO AD TEXT: _QUERY_STRING=\"META&ADSEPARATOR=%2B%2B%2B%2B%2B%2B%2B%2B%2B%2B&GLOBAL&UA=Ruby&REMOTE_ADDR=24.18.47.120&BRAND=26&SITE=103&NCAT=12711&PTYPE=9910&&BYPASSKEY=&ADREQ&SP=16&POS=100&ADREQ&SP=162&POS=100&ADREQ&SP=15&POS=100&ADREQ&SP=63&POS=100\"
-      _REQ_NUM=\"1\"  --><!-- default ad --><img src=\"http://adlog.com.com/adlog/i/r=11937&amp;sg=1815&amp;o=12711%253a&amp;h=cn&amp;p=2&amp;b=26&amp;l=en_US&amp;site=103&amp;pt=9910&amp;nd=&amp;pid=&amp;cid=&amp;pp=100&amp;e=&amp;rqid=00c17-ad-e3:4DD7E50B7F386D&amp;orh=&amp;ort=&amp;oepartner=&amp;epartner=&amp;ppartner=&amp;pdom=&amp;cpnmodule=&amp;count=&amp;ra=24%2e18%2e47%2e120&amp;dvar=&amp;ucat_rsi=%2526&amp;pg=&amp;t=2011.05.22.01.26.02/http://i.i.com.com/cnwk.1d/Ads/common/dotclear.gif\"
-      HEIGHT=\"0\" WIDTH=\"0\" alt=\"\" style=\"position:absolute; top:0px; left:0px\"
-      /><!-- MAC [r20101202-0915-v1-13-13-JsonEncodeNewLine:1.13.13] c13-ad-xw1.cnet.com::2739919760
-      2011.05.22.01.26.02 --><!-- MAC T 6.7.9.9 --><!-- ads fetched in one request
-      --></div>\r\n        </div>\r\n\r\n        \r\n        \r\n        \r\n        \r\n
-      \       \r\n        \r\n      </div>\r\n    \r\n\r\n      \r\n<script src=\"http://www.chow.com/static/20110520000312/js/comments.js\"
-      type=\"text/javascript\"></script>\r\n\r\n\r\n    </div>\r\n\r\n    \r\n      \r\n
-      \   <p class=\"bold mt20 f12 caps\">Related Recipes</p>\r\n\t  \n\t                       \t<ul
+      \           <a href=\"http://chowhound.chow.com/topics/688001\">\n\t\t\t\t\t
+      \                       Please share your favorite chocolate cake recipe!</a>
+      (93<span class=\"small_caps\"> replies</span>)\n\t\t\t\t\t            </p>\n\t\t\t\t\t
+      \       </div>\n\t\t\t\t\t\n\t\t        \n    \n\n\n        \n          \n        \n\t\t\n
+      \     \n    \n\n        \n\n        \n\n        \n  \n    <div id=\"col2\">\n
+      \     \n      \n\n      \r\n\r\n\r\n\n\n    </div><!--#col2-->\n  \n\n\n        \n
+      \       \n\n        <div id=\"button\" class=\"mb20 mt20\"></div>\n\n        \n\n
+      \       \n\n        \n        \n      </div>\n    \n\n\n      \n  <script src=\"http://www.chow.com/static/20110923041427/js/comments.js\"
+      type=\"text/javascript\"></script>\n\n\n    </div>\n\n    \n      \n      <p
+      class=\"bold mt20 f12 caps\">Related Recipes</p>\n      \n\t                       \t<ul
       id=\"gumballs\" class=\"clearfix mb5\">\n\t                           <li class=\"gb_item
       \"><a href=\"/recipes/29577-chocolate-dipped-cookies-and-cream-ice-cream-bars\">\n\t
       \                                  <img src=\"http://search.chow.com/thumbnail/140/65/www.chow.com/assets/2011/04/29577_cookies_cream_chocolate_2_620.jpg\"
@@ -2998,200 +2850,202 @@
       \                                  <img src=\"http://search.chow.com/thumbnail/140/65/www.chow.com/assets/2011/02/29314_chocolate_dipped_strawberries_620.jpg\"
       width=\"140\" height=\"65\" alt=\"Chocolate-Dipped Strawberries\" class=\"gb_img\"
       />Chocolate-Dipped Strawberries</a>\n\t                                </li>\n\t
-      \                          </ul>\n\t                      \r\n   \t \r\n    \r\n\r\n
-      \   \n  <div id=\"ft\" class=\"clearfix\">\n    <div id=\"ft_box4\">\n        <div
-      id=\"ft_box3\">\n            <div id=\"ft_box2\">\n                <div id=\"ft_box1\">\n\n
-      \   <div id=\"ft_col1\">\n        <ul class=\"footer_column first\">\n      <li
-      class=\"col_heading rc-tl\"><a href=\"http://www.chow.com/recipes\"><span class=\"chevron\">&raquo;</span>
-      Recipes</a></li>\n      <li><a href=\"http://www.chow.com/recipes/29616-sardine-sun-dried-tomato-and-bacon-club-sandwich\"><span
-      class=\"chevron\">&raquo;</span> Sardine, Sun-Dried Tomato, and Bacon Club Sandwich</a></li>\n
-      \     <li><a href=\"http://www.chow.com/recipes/29617-roasted-sardines-with-smashed-potatoes\"><span
-      class=\"chevron\">&raquo;</span> Roasted Sardines with Smashed Potatoes</a></li>\n
-      \     <li><a href=\"http://www.chow.com/recipes/29618-grilled-calamari-with-braised-fennel-and-polenta\"><span
-      class=\"chevron\">&raquo;</span> Grilled Calamari with Braised Fennel and Polenta</a></li>\n
-      \     <li><a href=\"http://www.chow.com/recipes/29619-curried-calamari-ceviche-with-mango-and-avocado\"><span
-      class=\"chevron\">&raquo;</span> Curried Calamari Ceviche with Mango and Avocado</a></li>\n
-      \     <li><a href=\"http://www.chow.com/recipes/29654-cajeta\"><span class=\"chevron\">&raquo;</span>
-      Cajeta</a></li>\n      <li><a href=\"http://www.chow.com/recipes/29653-chevre-truffles\"><span
-      class=\"chevron\">&raquo;</span> Chèvre Truffles</a></li>\n      </ul>\n  </div>\n
+      \                          </ul>\n\t                      \n    \n    \n\n    \n\n<div
+      id=\"ft\" class=\"clearfix\">\n    <div id=\"ft_box4\">\n        <div id=\"ft_box3\">\n
+      \           <div id=\"ft_box2\">\n                <div id=\"ft_box1\">\n\n    <div
+      id=\"ft_col1\">\n        <ul class=\"footer_column first\">\n      <li class=\"col_heading
+      rc-tl\"><a href=\"http://www.chow.com/recipes\"><span class=\"chevron\">&raquo;</span>
+      Recipes</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30118-phyllo-cups\"><span
+      class=\"chevron\">&raquo;</span> Phyllo Cups</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30076-breakfast-pita-pizza\"><span
+      class=\"chevron\">&raquo;</span> Breakfast Pita-Pizza</a></li>\n      <li><a
+      href=\"http://www.chow.com/recipes/30077-fast-hammy-grits\"><span class=\"chevron\">&raquo;</span>
+      Fast Hammy Grits</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30078-english-muffin-with-bruleed-banana-and-peanut-butter\"><span
+      class=\"chevron\">&raquo;</span> English Muffin with Bruléed Banana and Peanut
+      Butter</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30079-grilled-jam-and-cheese-sandwich\"><span
+      class=\"chevron\">&raquo;</span> Grilled Jam and Cheese Sandwich</a></li>\n
+      \     <li><a href=\"http://www.chow.com/recipes/30080-breakfast-nachos\"><span
+      class=\"chevron\">&raquo;</span> Breakfast Nachos</a></li>\n      </ul>\n  </div>\n
       \   \n    <div id=\"ft_col2\">\n        <ul class=\"footer_column\">\n      <li
       class=\"col_heading\"><a href=\"http://chowhound.chow.com/boards\"><span class=\"chevron\">&raquo;</span>
-      Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/785823\"><span
-      class=\"chevron\">&raquo;</span> Bit(e)s and Pieces, May 2011 report</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/785649\"><span class=\"chevron\">&raquo;</span>
-      Looking for restaurant ideas near Eaton Centre, with a few restrictions...</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/785908\"><span class=\"chevron\">&raquo;</span>
-      Name your most tiresome current menu fads...</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/785906\"><span
-      class=\"chevron\">&raquo;</span> Don't Mention Other Sites??</a></li>\n      <li><a
-      href=\"http://chowhound.chow.com/topics/785152\"><span class=\"chevron\">&raquo;</span>
-      Chick Fil A Coming to Northridge!</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/785340\"><span
-      class=\"chevron\">&raquo;</span> Toque' or Better</a></li>\n      </ul>\n  </div>\n\n
-      \ <div id=\"ft_col3\">\n    <ul class=\"footer_column\">\n      <li class=\"col_heading\"><a
-      href=\"http://www.chow.com/food-news/\"><span class=\"chevron\">&raquo;</span>
-      Stories</a></li>\n      <li><a href=\"/food-news/81368/delicious-grilled-meats/\"><span
-      class=\"chevron\">&raquo;</span> Delicious Grilled Meats</a></li>\n      <li><a
-      href=\"/food-news/81847/battle-of-the-custom-chocolate-companies/\"><span class=\"chevron\">&raquo;</span>
-      Battle of the Custom Chocolate Companies</a></li>\n      <li><a href=\"/food-news/82018/ramen-not-just-for-broke-drunks/\"><span
-      class=\"chevron\">&raquo;</span> Ramen: Not Just for Broke Drunks</a></li>\n
-      \     <li><a href=\"/food-news/82094/what-the-food-editors-are-reading-3/\"><span
-      class=\"chevron\">&raquo;</span> What the Food Editors Are Reading</a></li>\n
-      \     <li><a href=\"/food-news/81190/eat-good-fish/\"><span class=\"chevron\">&raquo;</span>
-      Eat Good Fish</a></li>\n      <li><a href=\"/food-news/81982/top-chef-masters-recap-season-3-episode-7/\"><span
-      class=\"chevron\">&raquo;</span> Top Chef Masters Recap: Season 3, Episode 7</a></li>\n
-      \     </ul>\n  </div>\n\n  <div id=\"ft_col4\">\n    <ul class=\"footer_column
-      last\">\n      <li class=\"col_heading rc-tr\"><a href=\"http://www.chow.com/videos\"><span
-      class=\"chevron\">&raquo;</span> Videos</a></li>\n      <li><a href=\"/videos/show/chow-tips/81189/how-to-make-goat-milk-caramel-aka-cajeta\"><span
-      class=\"chevron\">&raquo;</span> How to Make Goat Milk Caramel (a.k.a. Cajeta)</a></li>\n
-      \     <li><a href=\"/videos/show/chow-tips/81195/how-to-make-goat-cheese-truffles\"><span
-      class=\"chevron\">&raquo;</span> How to Make Goat Cheese Truffles</a></li>\n
-      \     <li><a href=\"/videos/show/supertaster/81007/sonic-brings-hot-dog-variety-to-the-people\"><span
-      class=\"chevron\">&raquo;</span> Sonic Brings Hot Dog Variety to the People</a></li>\n
-      \     <li><a href=\"/videos/show/chow-tips/81197/how-to-make-a-brownie-in-a-mug-in-the-microwave\"><span
-      class=\"chevron\">&raquo;</span> How to Make a Brownie in a Mug (in the Microwave)</a></li>\n
-      \     <li><a href=\"/videos/show/chow-tips/80120/great-gadgets-for-shredding-scallions-and-julienning-carrots\"><span
-      class=\"chevron\">&raquo;</span> Great Gadgets for Shredding Scallions and Julienning
-      Carrots</a></li>\n      <li><a href=\"/videos/show/chow-tips/80118/how-to-give-your-wok-a-facial\"><span
-      class=\"chevron\">&raquo;</span> How to Give Your Wok a Facial</a></li>\n      </ul>\n
-      \   </div>\n    \n          </div>\n         </div>\n        </div>\n       </div>
-      <!-- ft_box4 --> \n</div> <!-- ft--> \n<div class=\"chow_slider wide_slider
-      clearfix mt20\">\n  <a href=\"\" rel=\"nofollow\" class=\"slider_btn left end\">Prev
-      Set</a>\n  <div class=\"slider_outer clearfix\">\n    <ul class=\"slider_inner\">
-      \      \n        <li class=\"slider_item\">\n\t                      <a href=\"/food-news/80894/graduation-gifts-by-college-major/\"
-      pos=\"0\" class=\"slider_link\" rel=\"Graduation Gifts by College Major\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/GRAD_GIFT_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Graduation Gifts by College Major\" class=\"slider_img\"
+      Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/809316\"><span
+      class=\"chevron\">&raquo;</span> Lasagna at Bay Cities in Santa Monica</a></li>\n
+      \     <li><a href=\"http://chowhound.chow.com/topics/809401\"><span class=\"chevron\">&raquo;</span>
+      The Absolute BEST Matzo Ball Recipe in the universe</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/809030\"><span
+      class=\"chevron\">&raquo;</span> HInotez--brief review</a></li>\n      <li><a
+      href=\"http://chowhound.chow.com/topics/809361\"><span class=\"chevron\">&raquo;</span>
+      Zafferano's, East Boston</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/809369\"><span
+      class=\"chevron\">&raquo;</span> Chicken and spice, and everything nice!</a></li>\n
+      \     <li><a href=\"http://chowhound.chow.com/topics/809044\"><span class=\"chevron\">&raquo;</span>
+      Sweet Chestnut Peeler</a></li>\n      </ul>\n  </div>\n\n  <div id=\"ft_col3\">\n
+      \   <ul class=\"footer_column\">\n      <li class=\"col_heading\"><a href=\"http://www.chow.com/food-news/\"><span
+      class=\"chevron\">&raquo;</span> Stories</a></li>\n      <li><a href=\"/food-news/91463/when-froot-loops-trump-free-speech/\"><span
+      class=\"chevron\">&raquo;</span> When Froot Loops Trump Free Speech</a></li>\n
+      \     <li><a href=\"/food-news/91465/global-warming-and-the-death-of-great-wine-regions/\"><span
+      class=\"chevron\">&raquo;</span> Global Warming and the Death of Great Wine
+      Regions</a></li>\n      <li><a href=\"/food-news/91434/can-kosher-be-cool/\"><span
+      class=\"chevron\">&raquo;</span> Can Kosher Be Cool?</a></li>\n      <li><a
+      href=\"/food-news/91714/but-muncie-still-sucks-readers-respond-to-10-worst-college-towns/\"><span
+      class=\"chevron\">&raquo;</span> But Muncie Still Sucks? Readers Respond to
+      \"10 Worst College Towns\"</a></li>\n      <li><a href=\"/food-news/91755/trader-joes-fruit-sauce-crushers-taste-too-funky/\"><span
+      class=\"chevron\">&raquo;</span> Trader Joe's Fruit Sauce Crushers Taste Too
+      Funky</a></li>\n      <li><a href=\"/food-news/91851/behind-the-scenes-of-the-tailgating-contest-recipe-judging/\"><span
+      class=\"chevron\">&raquo;</span> Behind the Scenes of the Tailgating Contest
+      Recipe Judging</a></li>\n      </ul>\n  </div>\n\n  <div id=\"ft_col4\">\n    <ul
+      class=\"footer_column last\">\n      <li class=\"col_heading rc-tr\"><a href=\"http://www.chow.com/videos\"><span
+      class=\"chevron\">&raquo;</span> Videos</a></li>\n      <li><a href=\"/videos/show/chow-tips/90208/how-to-save-leftover-canned-beans\"><span
+      class=\"chevron\">&raquo;</span> How to Save Leftover Canned Beans</a></li>\n
+      \     <li><a href=\"/videos/show/chow-tips/90197/dont-throw-away-corn-husks\"><span
+      class=\"chevron\">&raquo;</span> Don't Throw Away Corn Husks</a></li>\n      <li><a
+      href=\"/videos/show/chow-tips/90744/an-easy-way-to-make-ice-cream-in-your-food-processor\"><span
+      class=\"chevron\">&raquo;</span> An Easy Way to Make Ice Cream in Your Food
+      Processor</a></li>\n      <li><a href=\"/videos/show/chow-tips/90128/use-leftover-potato-chips-to-make-dinner\"><span
+      class=\"chevron\">&raquo;</span> Use Leftover Potato Chips to Make Dinner</a></li>\n
+      \     <li><a href=\"/videos/show/supertaster/89541/back-to-school-food-reviewed\"><span
+      class=\"chevron\">&raquo;</span> Back-to-School Food Reviewed!</a></li>\n      <li><a
+      href=\"/videos/show/chow-tips/86047/how-to-make-a-crazy-striped-omelet\"><span
+      class=\"chevron\">&raquo;</span> How to Make a Crazy Striped Omelet</a></li>\n
+      \     </ul>\n    </div>\n    \n          </div>\n         </div>\n        </div>\n
+      \      </div> <!-- ft_box4 --> \n</div> <!-- ft--> \n<div class=\"chow_slider
+      wide_slider clearfix mt20\">\n  <a href=\"\" rel=\"nofollow\" class=\"slider_btn
+      left end\">Prev Set</a>\n  <div class=\"slider_outer clearfix\">\n    <ul class=\"slider_inner\">
+      \      \n        <li class=\"slider_item\">\n\t                      <a href=\"/recipes/30080-breakfast-nachos\"
+      pos=\"0\" class=\"slider_link\" rel=\"Breakfast Nachos\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/09/30080_breakfast_nachos_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Breakfast Nachos\" class=\"slider_img\" /></a>\n\t
+      \                   </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/recipes/30076-breakfast-pita-pizza\" pos=\"1\"
+      class=\"slider_link\" rel=\"Breakfast Pita-Pizza\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/09/30076_breakfast_pita_pizza_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Breakfast Pita-Pizza\" class=\"slider_img\"
       /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/80355/behind-the-scenes-of-a-food-poisoning-shakedown/\"
-      pos=\"1\" class=\"slider_link\" rel=\"Behind the Scenes of a Food-Poisoning
-      Shakedown\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/SPEAK_TO_MGR_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Behind the Scenes of a Food-Poisoning Shakedown\"
+      \                     <a href=\"/food-news/91461/can-project-gold-hamburger-save-wendys/\"
+      pos=\"2\" class=\"slider_link\" rel=\"Can Project Gold Hamburger Save Wendy&#039;s?\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/wendy.jpg\"
+      width=\"97\" height=\"65\" alt=\"Can Project Gold Hamburger Save Wendy&amp;#039;s?\"
       class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/food-news/55097/10-cosmetic-uses-for-everyday-foods/\"
-      pos=\"2\" class=\"slider_link\" rel=\"10 Cosmetic Uses for Everyday Foods\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2009/06/ten_cosmetic_290.jpg\"
-      width=\"97\" height=\"65\" alt=\"10 Cosmetic Uses for Everyday Foods\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/54292/the-basics-how-to-make-roasted-chicken-breast/\"
-      pos=\"3\" class=\"slider_link\" rel=\"The Basics: How to Make Roasted Chicken
-      Breast\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2008/09/RFC_chicken_290.jpg\"
-      width=\"97\" height=\"65\" alt=\"The Basics: How to Make Roasted Chicken Breast\"
+      class=\"slider_item\">\n\t                      <a href=\"/food-news/89994/is-five-guys-really-the-best-fast-food-chain/\"
+      pos=\"3\" class=\"slider_link\" rel=\"Is Five Guys Really the Best Fast-Food
+      Chain?\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/five2.jpg\"
+      width=\"97\" height=\"65\" alt=\"Is Five Guys Really the Best Fast-Food Chain?\"
       class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/food-news/81373/the-rapture-diet-truly-last-meals/\"
-      pos=\"4\" class=\"slider_link\" rel=\"The Rapture Diet: Truly Last Meals\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/JUDGEMENT_DAY_620x206.jpg\"
-      width=\"97\" height=\"65\" alt=\"The Rapture Diet: Truly Last Meals\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/recipes/27620-jalapeno-cilantro-yogurt-spread\"
-      pos=\"5\" class=\"slider_link\" rel=\"Jalapeño-Cilantro Yogurt Spread\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/05/27620_jalapeno_cilantro_yogurt_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Jalape&#241;o-Cilantro Yogurt Spread\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/recipes/29592-white-bean-and-edamame-hummus\"
-      pos=\"6\" class=\"slider_link\" rel=\"White Bean and Edamame Hummus\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/05/29592_white_bean_edamame_hummus_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"White Bean and Edamame Hummus\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/80652/how-many-fruits-and-vegetables-should-i-eat-a-visual-guide/\"
-      pos=\"7\" class=\"slider_link\" rel=\"How Many Fruits and Vegetables Should
-      I Eat: A Visual Guide\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/how_many_fruit_veg_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"How Many Fruits and Vegetables Should I Eat:
-      A Visual Guide\" class=\"slider_img\" /></a>\n\t                    </li>\n
+      class=\"slider_item\">\n\t                      <a href=\"/food-news/91009/trader-joes-cake-capitalizes-on-macaron-craze/\"
+      pos=\"4\" class=\"slider_link\" rel=\"Trader Joe&#039;s Cake Capitalizes on
+      Macaron Craze\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/Supertaster_RaspberryMacaron_09_19_11.jpg\"
+      width=\"97\" height=\"65\" alt=\"Trader Joe&amp;#039;s Cake Capitalizes on Macaron
+      Craze\" class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
+      class=\"slider_item\">\n\t                      <a href=\"/food-news/91459/4-lessons-we-can-learn-from-the-first-white-house-brewed-beer/\"
+      pos=\"5\" class=\"slider_link\" rel=\"4 Lessons We Can Learn from the First
+      White House–Brewed Beer\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/homebrew.jpg\"
+      width=\"97\" height=\"65\" alt=\"4 Lessons We Can Learn from the First White
+      House&#8211;Brewed Beer\" class=\"slider_img\" /></a>\n\t                    </li>\n
       \                       <li class=\"slider_item\">\n\t                      <a
-      href=\"/recipes/28753-basic-ranch-dressing\" pos=\"8\" class=\"slider_link\"
-      rel=\"Basic Ranch Dressing\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/05/28753_ranch_dressing_2_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Basic Ranch Dressing\" class=\"slider_img\"
+      href=\"/galleries/128/oktoberfest-food/1983/simple-cinnamon-raisin-apple-strudel\"
+      pos=\"6\" class=\"slider_link\" rel=\"Simple Cinnamon-Raisin-Apple Strudel\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2009/09/27573_raisin_apple_strudel_600.jpg\"
+      width=\"97\" height=\"65\" alt=\"Simple Cinnamon-Raisin-Apple Strudel\" class=\"slider_img\"
       /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/81044/the-food-package-color-secret-decoder/\"
-      pos=\"9\" class=\"slider_link\" rel=\"The Food-Package-Color Secret Decoder\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/food_decoder_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"The Food-Package-Color Secret Decoder\" class=\"slider_img\"
+      \                     <a href=\"/food-news/89198/oatmeal-is-having-a-moment/\"
+      pos=\"7\" class=\"slider_link\" rel=\"Oatmeal Is the New Cheeseburger\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/08/Screen-shot-2011-08-25-at-11.41.22-AM-300x183.png\"
+      width=\"97\" height=\"65\" alt=\"Oatmeal Is the New Cheeseburger\" class=\"slider_img\"
       /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/recipes/29643-best-banana-bread\" pos=\"10\"
-      class=\"slider_link\" rel=\"Best Banana Bread\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/uploads/1/0/2/603201_banana_bread_pic.jpg\"
-      width=\"97\" height=\"65\" alt=\"Best Banana Bread\" class=\"slider_img\" /></a>\n\t
-      \                   </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/81429/vote-now-for-the-chow-recipe-challenge-best-muffin/\"
-      pos=\"11\" class=\"slider_link\" rel=\"Vote Now for the CHOW Recipe Challenge,
-      Best Muffin!\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/vote_now_muffin_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Vote Now for the CHOW Recipe Challenge, Best
-      Muffin!\" class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/food-news/81410/rules-for-effective-food-swapping/\"
-      pos=\"12\" class=\"slider_link\" rel=\"Rules for Effective Food-Swapping\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/08/table_manners_inline_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"Rules for Effective Food-Swapping\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/74488/make-your-own-loaded-potato-skins/\"
-      pos=\"13\" class=\"slider_link\" rel=\"Make Your Own Loaded Potato Skins\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/03/potato_skins_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Make Your Own Loaded Potato Skins\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/81564/what-the-food-editors-are-reading-2/\"
-      pos=\"14\" class=\"slider_link\" rel=\"What the Food Editors Are Reading\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/SMOKED_TROUT_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"What the Food Editors Are Reading\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/80910/why-is-the-sommelier-drinking-my-wine/\"
-      pos=\"15\" class=\"slider_link\" rel=\"Why Is the Sommelier Drinking My Wine?\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/08/table_manners_inline_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"Why Is the Sommelier Drinking My Wine?\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/80093/trader-joes-satisfies-the-macaron-fiends/\"
-      pos=\"16\" class=\"slider_link\" rel=\"Trader Joe&#039;s Satisfies the Macaron
-      Fiends\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/MACARONS_SUPERTASTER_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"Trader Joe&amp;#039;s Satisfies the Macaron
-      Fiends\" class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/recipes/29554-tacos-al-pastor\"
-      pos=\"17\" class=\"slider_link\" rel=\"Tacos al Pastor\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/04/29554_tacos_al_pastor_2_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Tacos al Pastor\" class=\"slider_img\" /></a>\n\t
-      \                   </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/galleries/174/italian-american-favorites/3432/basic-veggie-risotto\"
-      pos=\"18\" class=\"slider_link\" rel=\"Basic Veggie Risotto\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/02/29343_basic_vegetable_risotto_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Basic Veggie Risotto\" class=\"slider_img\"
-      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/galleries/207/delicious-grilled-meats/4230/beef-kalbi\"
-      pos=\"19\" class=\"slider_link\" rel=\"Beef Kalbi\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/05/25677_beef_kalbi_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Beef Kalbi\" class=\"slider_img\" /></a>\n\t
-      \                   </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/food-news/80597/none-of-the-dairy-none-of-the-whipped-fun/\"
-      pos=\"20\" class=\"slider_link\" rel=\"None of the Dairy, None of the Whipped
-      Fun\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/05/SOY_WHIP_SUPERTASTER_300.jpg\"
-      width=\"97\" height=\"65\" alt=\"None of the Dairy, None of the Whipped Fun\"
-      class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/recipes/10643-perfect-margarita\"
-      pos=\"21\" class=\"slider_link\" rel=\"Perfect Margarita\">\n\t                         <img
+      \                     <a href=\"/recipes/10643-perfect-margarita\" pos=\"8\"
+      class=\"slider_link\" rel=\"Perfect Margarita\">\n\t                         <img
       src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/04/10643_perfect_margarita_600.jpg\"
       width=\"97\" height=\"65\" alt=\"Perfect Margarita\" class=\"slider_img\" /></a>\n\t
       \                   </li>\n                        <li class=\"slider_item\">\n\t
-      \                     <a href=\"/galleries/174/italian-american-favorites/2951/mozzarella-and-fresh-basil-grilled-pizza\"
-      pos=\"22\" class=\"slider_link\" rel=\"Mozzarella and Fresh Basil Grilled Pizza\">\n\t
-      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2009/08/24532_mozzarela_fresh_basil_pizza_600.jpg\"
-      width=\"97\" height=\"65\" alt=\"Mozzarella and Fresh Basil Grilled Pizza\"
+      \                     <a href=\"/galleries/235/budget-dishes-that-taste-rich/4784/carnitas\"
+      pos=\"9\" class=\"slider_link\" rel=\"Carnitas\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/04/29567_carnitas_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Carnitas\" class=\"slider_img\" /></a>\n\t
+      \                   </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/recipes/29999-monte-cristo-sandwich\" pos=\"10\"
+      class=\"slider_link\" rel=\"Monte Cristo Sandwich\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/08/29999_monte_cristo_sandwich_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Monte Cristo Sandwich\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/galleries/221/hot-and-spicy-recipes/4480/chile-roasted-shrimp\"
+      pos=\"11\" class=\"slider_link\" rel=\"Chile-Roasted Shrimp\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/02/28092_chile_shrimp_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Chile-Roasted Shrimp\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/recipes/28370-doughnut-muffins\" pos=\"12\"
+      class=\"slider_link\" rel=\"Doughnut Muffins\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/05/28370_doghnut_muffins_600.jpg\"
+      width=\"97\" height=\"65\" alt=\"Doughnut Muffins\" class=\"slider_img\" /></a>\n\t
+      \                   </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/90927/america-no-longer-drowning-its-sorrows-in-soda/\"
+      pos=\"13\" class=\"slider_link\" rel=\"America No Longer Drowning Its Sorrows
+      in Soda\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/cans.jpg\"
+      width=\"97\" height=\"65\" alt=\"America No Longer Drowning Its Sorrows in Soda\"
       class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
-      class=\"slider_item\">\n\t                      <a href=\"/galleries/174/italian-american-favorites/3450/fried-calamari\"
-      pos=\"23\" class=\"slider_link\" rel=\"Fried Calamari\">\n\t                         <img
-      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/02/27913_fried_calamari_620.jpg\"
-      width=\"97\" height=\"65\" alt=\"Fried Calamari\" class=\"slider_img\" /></a>\n\t
-      \                   </li>\n                        </ul> \n  </div>\n  <a href=\"\"
-      rel=\"nofollow\" class=\"slider_btn right\">Next Set</a>\n  <span class=\"slider_hover_text\"></span>\n</div><div
-      id=\"chow_footer\">\n    <div id=\"chow_footer_inner\">\n    <div id=\"ft_nav\">\n
-      \   <p id=\"about_menu\">\n      <a href=\"http://www.chow.com/about\">About/Contact
-      CHOW</a> | \n      <a href=\"http://www.chow.com/sitemap.html\">Site Map</a>
-      | \n      <a href=\"http://www.chow.com/tags\">Tags</a> | \n      <a href=\"http://chowhound.chow.com/boards/59\">Feedback</a>
+      class=\"slider_item\">\n\t                      <a href=\"/recipes/30079-grilled-jam-and-cheese-sandwich\"
+      pos=\"14\" class=\"slider_link\" rel=\"Grilled Jam and Cheese Sandwich\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2011/09/30079_grilled_jam_cheese_sandwich_2_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Grilled Jam and Cheese Sandwich\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/89074/is-it-safe-to-leave-butter-out-at-room-temperature/\"
+      pos=\"15\" class=\"slider_link\" rel=\"Is It Safe to Leave Butter Out at Room
+      Temperature?\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/08/nagging_question_300.jpg\"
+      width=\"97\" height=\"65\" alt=\"Is It Safe to Leave Butter Out at Room Temperature?\"
+      class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
+      class=\"slider_item\">\n\t                      <a href=\"/food-news/91166/the-white-castle-slider-and-other-bad-moments-in-burger-history/\"
+      pos=\"16\" class=\"slider_link\" rel=\"The White Castle Slider and Other Dark
+      Moments in Burger History\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/whitecastle-259x199.jpg\"
+      width=\"97\" height=\"65\" alt=\"The White Castle Slider and Other Dark Moments
+      in Burger History\" class=\"slider_img\" /></a>\n\t                    </li>\n
+      \                       <li class=\"slider_item\">\n\t                      <a
+      href=\"/food-news/91080/red-espresso-is-actually-tea/\" pos=\"17\" class=\"slider_link\"
+      rel=\"Red Espresso Is Actually Tea\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/Supertaster_RedEspresso_09_21_11.jpg\"
+      width=\"97\" height=\"65\" alt=\"Red Espresso Is Actually Tea\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/89957/greasy-n-great-pub-grub-recipes/\"
+      pos=\"18\" class=\"slider_link\" rel=\"Greasy ’N Great Pub Grub Recipes\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/bar_food_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Greasy &#8217;N Great Pub Grub Recipes\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/galleries/128/oktoberfest-food/1996/bockwurst-sausage\"
+      pos=\"19\" class=\"slider_link\" rel=\"Bockwurst Sausage\">\n\t                         <img
+      src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2010/09/27643_bockwurst_sausage_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Bockwurst Sausage\" class=\"slider_img\" /></a>\n\t
+      \                   </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/90090/exotic-granola-four-new-versions-that-don-t-use-oats/\"
+      pos=\"20\" class=\"slider_link\" rel=\"Exotic Granola: Four New Versions That
+      Don&#039;t Use Oats\">\n\t                         <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/granola_recipes_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Exotic Granola: Four New Versions That Don&amp;#039;t
+      Use Oats\" class=\"slider_img\" /></a>\n\t                    </li>\n                        <li
+      class=\"slider_item\">\n\t                      <a href=\"/food-news/89355/cool-and-crazy-hot-dog-toppings/\"
+      pos=\"21\" class=\"slider_link\" rel=\"Cool and Crazy Hot Dog Toppings\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/blog-media/2011/09/hot_dog_carousel_620.jpg\"
+      width=\"97\" height=\"65\" alt=\"Cool and Crazy Hot Dog Toppings\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/54913/the-basics-how-to-make-beef-stew/\"
+      pos=\"22\" class=\"slider_link\" rel=\"The Basics: How to Make Beef Stew\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2009/02/rf_beefstew_290.jpg\"
+      width=\"97\" height=\"65\" alt=\"The Basics: How to Make Beef Stew\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        <li class=\"slider_item\">\n\t
+      \                     <a href=\"/food-news/55097/10-cosmetic-uses-for-everyday-foods/\"
+      pos=\"23\" class=\"slider_link\" rel=\"10 Cosmetic Uses for Everyday Foods\">\n\t
+      \                        <img src=\"http://search.chow.com/thumbnail/97/65/www.chow.com/assets/2009/06/ten_cosmetic_290.jpg\"
+      width=\"97\" height=\"65\" alt=\"10 Cosmetic Uses for Everyday Foods\" class=\"slider_img\"
+      /></a>\n\t                    </li>\n                        </ul> \n  </div>\n
+      \ <a href=\"\" rel=\"nofollow\" class=\"slider_btn right\">Next Set</a>\n  <span
+      class=\"slider_hover_text\"></span>\n</div><div id=\"chow_footer\">\n    <div
+      id=\"chow_footer_inner\">\n    <div id=\"ft_nav\">\n    <p id=\"about_menu\">\n
+      \     <a href=\"http://www.chow.com/about\">About/Contact CHOW</a> | \n      <a
+      href=\"http://www.chow.com/tags\">Tags</a> | \n      <a href=\"http://chowhound.chow.com/boards/59\">Feedback</a>
       | \n      <a href=\"http://chowhound.chow.com/boards/30\">Site Talk</a> | \n
       \     <a href=\"http://chowhound.chow.com/topics/367605\">Chowhound</a> : \n
       \     <a href=\"http://chowhound.chow.com/topics/367605\">Guidelines</a> : \n
       \     <a href=\"http://chowhound.chow.com/manifesto\">Manifesto</a> :\n      <a
       href=\"http://chowhound.chow.com/faq\">FAQ</a>\n    </p>\n\n    <div id=\"follow_chow_footer\">\n\t<span
-      class=\"f9\">FOLLOW CHOW</span>\n\t<ul id=\"follow_icons\">\n    <li id=\"fb_ft_icon\"><a
-      href=\"http://www.facebook.com/CHOW\" target=\"_blank\">facebook</a></li>\n
-      \   <li id=\"twitter_ft_icon\"><a href=\"http://twitter.com/#!/CHOW\" target=\"_blank\">twitter</a></li>\n
-      \   <li id=\"rss_ft_icon\"><a href=\"http://www.chow.com/rss\">rss</a></li>\n
-      \   <li id=\"yt_ft_icon\"><a href=\"http://www.youtube.com/user/CHOW\" target=\"_blank\">youTube</a></li>\n\t</ul>\n\t</div>\n
-      \   \n\n     \n<div id=\"cbsi_f\">\n<form>\n<script language=\"javascript\">\ndocument.write(\"<div><label
+      class=\"f9\">FOLLOW CHOW</span>\n        <ul id=\"follow_icons\">\n            <li
+      id=\"fb_ft_icon\"><a href=\"http://www.facebook.com/CHOW\" target=\"_blank\">facebook</a></li>\n
+      \           <li id=\"twitter_ft_icon\"><a href=\"http://twitter.com/#!/CHOW\"
+      target=\"_blank\">twitter</a></li>\n            <li id=\"rss_ft_icon\"><a href=\"http://www.chow.com/rss\">rss</a></li>\n
+      \           <li id=\"yt_ft_icon\"><a href=\"http://www.youtube.com/user/CHOW\"
+      target=\"_blank\">youTube</a></li>\n        </ul>\n\t</div>\n    \n\n     \n<div
+      id=\"cbsi_f\">\n<form>\n<script language=\"javascript\">\ndocument.write(\"<div><label
       for=\\\"cbsi_footer_menu\\\">Visit other CBS Interactive Sites</label><select
       name=\\\"cbsi_footer_menu\\\" id=\\\"cbsi_footer_menu\\\"><option value=\\\"\\\">Select
       Site</option><option value=\\\"http://www.bnet.com\\\">BNET</option><option
@@ -3234,150 +3088,178 @@
       2011 CBS Interactive Inc.  All rights reserved. | <a href='http://legalterms.cbsinteractive.com/privacy'>Privacy
       Policy</a> | <a href='http://cbsiprivacy.custhelp.com/app/answers/detail/a_id/1272/'>Ad
       Choice</a> | <a href='http://legalterms.cbsinteractive.com/terms-of-use'>Terms
-      of Use</a>\n</p>\n</div>\n</div></div></div>\n\n\n<!-- login box -->\n<div class=\"chow_lightbox
+      of Use</a>\n</p>\n</div>\n</div></div></div>\n\n\n<div class=\"chow_lightbox
       login_signup\" id=\"chow_login\">\n    <div class=\"chow_lightbox_bg\"></div>\n
       \   <div class=\"chow_lightbox_body\">\n        <div class=\"chow_lightbox_inner\">\n
       \           <a href=\"#chow_login\" class=\"close_lightbox\">X</a>\n\n            <h3
-      id=\"login_header\">Login</h3>\n            <form class=\"mt15\" id=\"login_form\"
-      method=\"post\">\n                <input type=\"hidden\" id=\"login_timezone\"
-      name=\"timezone_offset\" value=\"\" />\n\n                <label for=\"login_name\">USERNAME
-      / EMAIL</label>\n                <input id=\"login_name\" class=\"text_input\"
-      name=\"login[name]\" type=\"text\" />\n                \n                <label
-      for=\"login_password\">PASSWORD</label>\n                <input id=\"login_password\"
-      class=\"text_input\" name=\"login[password]\" type=\"password\" />\n                \n\t\t\t\t<input
-      type=\"checkbox\" checked  id=\"remember\" name=\"remember\" class=\"fl ml15\"
-      value=1 />\n                <label for=\"remember\" class=\"fl remember\">Remember
-      me</label>\n\t\t\t    \n\n\n                <div id=\"login_error\" class=\"login_error
-      clearfix\"></div>\n                \n                <fieldset class=\"tac\">\n
-      \                   <a href=\"#login\" id=\"login_submit\" class=\"login_submit_btns\"></a>\n
-      \                   <img id=\"login_submit_spinner\" class=\"submit_spinner\"
-      src=\"http://www.chow.com/static/201105161631/images/spinner-small-orange.gif\"
-      width=\"16\" height=\"16\" />\n                    <a href=\"#signup\" id=\"join_chow_link\"
-      class=\"blue\">Join CHOW</a> | <a href=\"/account/lost_password\" class=\"blue\">Forgot
-      your password?</a>\n                </fieldset> \n            </form>\n        </div>\n
-      \   </div>\n</div>\n\n\n<!-- sign up box -->\n<div class=\"chow_lightbox login_signup\"
+      id=\"login_header\">Log In</h3>\n            <form class=\"mt15 reset_on_close
+      validate_form\" data-submit-handler=\"chowLoginSignup.submit_login_form()\"
+      data-submit-btn-id=\"login_submit\" id=\"login_form\" method=\"post\">\n                <input
+      type=\"hidden\" id=\"login_timezone\" name=\"timezone_offset\" value=\"\" />\n\t\t\t\t<div
+      id=\"login_error\" class=\"chow_error clearfix\"></div>\n                <label
+      for=\"login_name\">USERNAME / EMAIL</label>\n                <input id=\"login_name\"
+      class=\"text_input required\" name=\"login[name]\" type=\"text\" />\n                \n
+      \               <label for=\"login_password\">PASSWORD</label>\n                <input
+      id=\"login_password\" class=\"text_input required\" name=\"login[password]\"
+      type=\"password\" />\n                \n\t\t\t\t<input type=\"checkbox\" checked=\"checked\"
+      \ id=\"remember\" name=\"remember\" class=\"fl mr5 mt10\" value=\"1\" />\n                <label
+      for=\"remember\" class=\"fl mt10\">Remember me</label>\n                \n                <input
+      type=\"submit\" id=\"login_submit\" class=\"chow_btn clear\" value=\"LOG IN\"/>\n
+      \               <div class=\"clear\">\n                \t<a href=\"#signup\"
+      id=\"join_chow_link\" class=\"blue\">Join CHOW</a> | <a href=\"/account/lost_password\"
+      class=\"blue\">Forgot your password?</a>\n                </div>\n            </form>\n
+      \       </div>\n    </div>\n</div>\n\n\n<div class=\"chow_lightbox login_signup\"
       id=\"chow_signup\">\n    <div class=\"chow_lightbox_bg\"></div>\n    <div class=\"chow_lightbox_body\">\n
       \       <div class=\"chow_lightbox_inner\">\n            <a href=\"#chow_signup\"
       class=\"close_lightbox\">X</a>\n\n            <h3 id=\"signup_header\">Sign
-      up</h3>\n\n            <form class=\"mt15\" id=\"signup_form\" method=\"post\">\n
+      Up</h3>\n            <form class=\"mt15 reset_on_close validate_form\" data-submit-handler=\"chowLoginSignup.submit_signup_form()\"
+      data-submit-btn-id=\"signup_submit_lightbox\" id=\"signup_form\" method=\"post\">\n
       \               <input type=\"hidden\" id=\"signup_timezone\" name=\"timezone_offset\"
-      value=\"\" />\n                \n                <label for=\"user_name\">USERNAME</label>\n
-      \               <input id=\"user_name\" name=\"user[name]\" class=\"text_input
-      fl\" type=\"text\" value=\"\" />\n                <div class=\"signup_hints
-      login_submit_btns signup_ok\" id=\"username_ok\">Good to go!</div>\n                <div
-      class=\"signup_hints login_submit_btns signup_error\" id=\"username_error\">Already
-      taken</div>\n                \n                <label for=\"user_email\" class=\"clear\">EMAIL</label>\n
+      value=\"\" />\n                <div id=\"signup_error\" class=\"chow_error\"></div>\n
+      \               <label for=\"user_name\">USERNAME</label>\n                <input
+      id=\"user_name\" name=\"user[name]\" class=\"text_input validate_username\"
+      type=\"text\" value=\"\" />\n\n                <label for=\"user_email\" class=\"clear\">EMAIL</label>\n
       \               <input id=\"user_email\" name=\"user[email]\" class=\"text_input
-      fl\" type=\"text\" />\n                <div class=\"signup_hints login_submit_btns
-      signup_ok\" id=\"signup_email_ok\"></div>\n                <div class=\"signup_hints
-      login_submit_btns signup_error\" id=\"signup_email_error\"></div>\n                \n
-      \               <label for=\"user_password\" class=\"clear\">PASSWORD</label>\n
-      \               <input id=\"user_password\" name=\"user[password]\" class=\"text_input
-      fl\" type=\"password\" />\n                <div class=\"signup_hints login_submit_btns
-      signup_ok\" id=\"password_ok\">Password ok</div>\n                <div class=\"signup_hints
-      login_submit_btns signup_error\" id=\"password_error\">Password must be at least
-      5 characters</div>\n                \n                <label for=\"user_password_confirmation\"
+      validate_email\" type=\"text\" />\n                \n                <label
+      for=\"user_password\" class=\"clear\">PASSWORD</label>\n                <input
+      id=\"user_password\" name=\"user[password]\" class=\"text_input validate_password\"
+      type=\"password\" />\n                \n                <label for=\"user_password_confirmation\"
       class=\"clear\">CONFIRM PASSWORD</label>\n                <input id=\"user_password_confirmation\"
-      name=\"user[password_confirmation]\" class=\"text_input fl\" type=\"password\"
-      />\n                <div class=\"signup_hints login_submit_btns signup_error\"
-      id=\"confirm_password_error\">Both passwords must match</div>\n\n                <div
-      id=\"newsletter_options\" class=\"clear\">\n                  <h3>Choose Newsletters</h3>\n
-      \                 \r\n\r\n\r\n\r\n\r\n    <ul class=\"mt10 ml20\">\r\n    \t\r\n
-      \   \t\t\r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n        <input checked=\"checked\"
-      class=\"newsletter_checkbox\" id=\"newsletters[e357]\" name=\"newsletters[e357]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">CHOW Announcements</span>\r\n
-      \     </label>\r\n    </li>\r\n\r\n\r\n  \t\t\r\n    \t\t\r\n\r\n\r\n\r\n    <li>\r\n
-      \     <label>\r\n        <input checked=\"checked\" class=\"newsletter_checkbox\"
-      id=\"newsletters[e348]\" name=\"newsletters[e348]\" type=\"checkbox\" value=\"1\"
-      /> \r\n        <span class=\"f12 bold\">CHOW Partner Offers</span>\r\n      </label>\r\n
-      \   </li>\r\n\r\n\r\n  \t\t\r\n    \t\t\r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n
-      \       <input class=\"newsletter_checkbox\" id=\"newsletters[e351]\" name=\"newsletters[e351]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">Recipe
-      of the Day</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n  \t\t\r\n    \t\t\r\n\r\n\r\n\r\n
-      \   <li>\r\n      <label>\r\n        <input class=\"newsletter_checkbox\" id=\"newsletters[e350]\"
-      name=\"newsletters[e350]\" type=\"checkbox\" value=\"1\" /> \r\n        <span
-      class=\"f12 bold\">CHOW's Week in Food</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n
-      \ \t\t\r\n    \t\t\r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n        <input
-      class=\"newsletter_checkbox\" id=\"newsletters[e349]\" name=\"newsletters[e349]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">CHOW Latest
-      Stories</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n  \t\t\r\n    \t\t\r\n\r\n\r\n\r\n
-      \   <li>\r\n      <label>\r\n        <input class=\"newsletter_checkbox\" id=\"newsletters[e345]\"
-      name=\"newsletters[e345]\" type=\"checkbox\" value=\"1\" /> \r\n        <span
-      class=\"f12 bold\">Weekly Recipes</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n
-      \ \t\t  \r\n    </ul>     \r\n    <div class=\"f12 ml15\"><strong>THE DIGEST</strong>
-      - <span class=\"f11 c666\">The best of Chowhound</span></div>\r\n    <ul class=\"mt10
-      ml20\">\r\n        \r\n            \r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n
-      \       <input class=\"newsletter_checkbox\" id=\"newsletters[e352]\" name=\"newsletters[e352]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">San Francisco
-      Bay Area</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n        \r\n            \r\n\r\n\r\n\r\n
-      \   <li>\r\n      <label>\r\n        <input class=\"newsletter_checkbox\" id=\"newsletters[e353]\"
-      name=\"newsletters[e353]\" type=\"checkbox\" value=\"1\" /> \r\n        <span
-      class=\"f12 bold\">New York Region</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n
-      \       \r\n            \r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n        <input
-      class=\"newsletter_checkbox\" id=\"newsletters[e354]\" name=\"newsletters[e354]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">Greater
-      Los Angeles</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n        \r\n            \r\n\r\n\r\n\r\n
-      \   <li>\r\n      <label>\r\n        <input class=\"newsletter_checkbox\" id=\"newsletters[e356]\"
-      name=\"newsletters[e356]\" type=\"checkbox\" value=\"1\" /> \r\n        <span
-      class=\"f12 bold\">CHOW Home Cooking Digest</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n
-      \       \r\n            \r\n\r\n\r\n\r\n    <li>\r\n      <label>\r\n        <input
-      class=\"newsletter_checkbox\" id=\"newsletters[e355]\" name=\"newsletters[e355]\"
-      type=\"checkbox\" value=\"1\" /> \r\n        <span class=\"f12 bold\">Boston
-      Area</span>\r\n      </label>\r\n    </li>\r\n\r\n\r\n        \r\n    </ul>\r\n\r\n</div>\n
-      \               \n                <div id=\"signup_error\" class=\"login_error\"></div>\n
-      \     \n                <div id=\"submit_rules\">Username is public and once
-      confirmed, is unchangeable.\n                By clicking the SIGN UP button,
-      you agree to Chow's \n                <a href=\"http://www.chow.com/terms\"
+      name=\"user[password_confirmation]\" class=\"text_input confirm_password\" type=\"password\"
+      />\n\n                <div class=\"newsletter_options clearfix\">\n                  <h3>Choose
+      Newsletters</h3>\n                  \r\n\r\n\r\n\r\n\r\n    <ul class=\"mt10
+      ml20\">\r\n    \t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n        <input
+      checked=\"checked\" class=\"newsletter_checkbox\" name=\"newsletters[e357]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Announcements</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input checked=\"checked\" class=\"newsletter_checkbox\" name=\"newsletters[e348]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Partner
+      Offers</span>\n      </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n
+      \     <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e351]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Recipe of
+      the Day</span>\n      </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e349]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Latest
+      Stories</span>\n      </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e345]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Weekly Recipes</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t  \r\n    </ul>     \r\n    <div class=\"f11
+      ml15\"><strong>THE DIGEST</strong> - <span class=\"f11 c666\">The best of Chowhound</span></div>\r\n
+      \   <ul class=\"mt10 ml20\">\r\n        \r\n            \n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e352]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">San Francisco Bay Area</span>\n
+      \     </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n    <li>\n
+      \     <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e353]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">New York
+      Region</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e354]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Greater
+      Los Angeles</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e356]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Home
+      Cooking Digest</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e355]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Boston Area</span>\n
+      \     </label>\n    </li>\n\n\r\n        \r\n    </ul>\r\n\r\n<input type=\"submit\"
+      id=\"signup_submit_lightbox\" class=\"chow_btn\" value=\"SIGN UP\" />\n                </div>\n
+      \               \n                <div class=\"f11 c666 clear\">\n                    Username
+      is public and once confirmed, is unchangeable. By clicking the SIGN UP button,
+      you agree to CHOW's \n                    <a href=\"http://www.chow.com/terms\"
       target=\"_blank\" class=\"blue\">terms of use</a> and have read and understand
-      our \n                <a href=\"http://www.cnet.com/html/aboutcnet/editorial/privacy.html\"
-      target=\"_blank\" class=\"blue\">privacy policy</a>.</div>\n             \n
-      \               <a href=\"#submit\" id=\"signup_submit_lightbox\" class=\"login_submit_btns\"></a>\n
-      \               <img id=\"signup_submit_lightbox_spinner\" class=\"submit_spinner\"
-      src=\"http://www.chow.com/static/201105161631/images/spinner-small-orange.gif\"
-      width=\"16\" height=\"16\" />\n                \n            </form>\n        </div>\n
-      \   </div>\n</div>\n\n\n\r\n    \r\n\r\n<ul id=\"share_side_bar\">\r\n    <li
-      class=\"share_bar_item first\" id=\"share_bar_twitter\">\r\n\t\t<a href=\"http://twitter.com/share\"
-      class=\"twitter-share-button\" data-text=\"Chocolate-Dipped Vanilla Ice Cream
-      Bars Recipe @CHOW\"\" data-count=\"vertical\" style=\"color:#333\">Loading...</a>\r\n
-      \   </li>\r\n\t<li class=\"share_bar_item\" id=\"share_bar_fb\">\r\n        <div
+      our \n                    <a href=\"http://www.cnet.com/html/aboutcnet/editorial/privacy.html\"
+      target=\"_blank\" class=\"blue\">privacy policy</a>.\n                </div>
+      \n            </form>\n        </div>\n    </div>\n</div>\n\n<div id=\"newsletter_signup\"
+      class=\"chow_lightbox login_signup\">\n    <div class=\"chow_lightbox_bg\"></div>\n
+      \   <div class=\"chow_lightbox_body\">\n      <div class=\"chow_lightbox_inner\">\n
+      \       <a href=\"#newsletter_signup\" class=\"close_lightbox\">X</a>\n        <h3
+      id=\"newsletter_signup_header\">Newsletter Sign Up</h3>\n        <form class=\"mt10
+      reset_on_close validate_form\" data-submit-handler=\"newsletterSignup.submitForm()\"
+      data-submit-btn-id=\"newsletter_submit_lightbox\" id=\"newsletters_form\" method=\"post\">\n
+      \         <div id=\"newsletter_signup_error\" class=\"chow_error\"></div>\n
+      \         <label for=\"newsletter_email\">CONFIRM EMAIL</label>\n          <input
+      id=\"newsletter_email\" name=\"email\" class=\"text_input validate_email\" type=\"text\"
+      value=\"\" />\n\n          <div class=\"newsletter_options clear\" id=\"select_a_newsletter\">\n
+      \           <h3>Choose Newsletters</h3>\n            \n\n \r\n\r\n\r\n\r\n\r\n
+      \   <ul class=\"mt10 ml20\">\r\n    \t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e357]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Announcements</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e348]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Partner Offers</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e351]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">Recipe of the Day</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e349]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Latest Stories</span>\n
+      \     </label>\n    </li>\n\n\r\n  \t\t\r\n    \t\t\n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e345]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">Weekly Recipes</span>\n      </label>\n
+      \   </li>\n\n\r\n  \t\t  \r\n    </ul>     \r\n    <div class=\"f11 ml15\"><strong>THE
+      DIGEST</strong> - <span class=\"f11 c666\">The best of Chowhound</span></div>\r\n
+      \   <ul class=\"mt10 ml20\">\r\n        \r\n            \n\n\n\n    <li>\n      <label>\n
+      \       <input class=\"newsletter_checkbox\" name=\"newsletters[e352]\" type=\"checkbox\"
+      value=\"1\" /> \n        <span class=\"f12 bold\">San Francisco Bay Area</span>\n
+      \     </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n    <li>\n
+      \     <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e353]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">New York
+      Region</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e354]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Greater
+      Los Angeles</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e356]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">CHOW Home
+      Cooking Digest</span>\n      </label>\n    </li>\n\n\r\n        \r\n            \n\n\n\n
+      \   <li>\n      <label>\n        <input class=\"newsletter_checkbox\" name=\"newsletters[e355]\"
+      type=\"checkbox\" value=\"1\" /> \n        <span class=\"f12 bold\">Boston Area</span>\n
+      \     </label>\n    </li>\n\n\r\n        \r\n    </ul>\r\n\r\n\n</div>\n\n          <input
+      type=\"submit\" id=\"newsletter_submit_lightbox\" class=\"chow_btn\" value=\"SIGN
+      UP\" />\n        </form>        \n    </div>\n  </div>    \n</div>\n\n    \n
+      \ <ul id=\"share_side_bar\">\n    <li class=\"share_bar_item first\" id=\"share_bar_twitter\">\n
+      \     <a href=\"http://twitter.com/share\" class=\"twitter-share-button\" data-text=\"Chocolate-Dipped
+      Vanilla Ice Cream Bars Recipe @CHOW\" data-count=\"vertical\" style=\"color:#333\">Loading...</a>\n
+      \   </li>\n    <li class=\"share_bar_item\" id=\"share_bar_fb\">\n      <div
       id=\"share_bar_tab\"><img src=\"/static/i/share_tab.png\" width=\"11\" height=\"68\"
-      alt=\"share\" /></div>\r\n\t\t<fb:like layout=\"box_count\" show_faces=\"false\"
-      width=\"50\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"></fb:like>\r\n
-      \   </li>\r\n    <li class=\"share_bar_item tac gigya_email\" id=\"share_bar_email\">\r\n
-      \   \tLoading...\r\n    </li>\r\n    <li class=\"share_bar_item tac last\" id=\"share_bar_gigya\"></li>\r\n</ul>\r\n\r\n
-      \   \r\n  </div>  </div>  \r\n  \r\n  <script src=\"http://dw.com.com/js/dw.js\"
+      alt=\"share\"/></div>\n      <fb:like layout=\"box_count\" show_faces=\"false\"
+      width=\"50\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"></fb:like>\n
+      \   </li>\n    <li class=\"share_bar_item tac gigya_email\" id=\"share_bar_email\">\n
+      \     Loading...\n    </li>\n    <li class=\"share_bar_item tac last\" id=\"share_bar_gigya\"></li>\n
+      \ </ul>\n\n\n  </div>\n  </div>\n\n\n  <script src=\"http://dw.com.com/js/dw.js\"
       id=\"dw_js_script_include\"></script>\n<script type=\"text/javascript\" id=\"dw_js_script\">DW.pageParams
-      = {siteId: \"103\", onid: \"12711\", cval: \"29576;Chocolate-Dipped Vanilla
-      Ice Cream Bars Recipe ;Sweet/Dessert\", ptid: 9910, asid: 29576, astid: 485,
-      ctype: \"cw_recipes_show\"}; DW.clear(); //DW.trackClicks();</script>\n<noscript
-      id=\"dw_js_noscript\"><img src=\"http://dw.com.com/clear/c.gif?ts=1306027562&sid=103&siteId=103&onid=12711&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ptid=9910&asid=29576&astid=485&ctype=cw_recipes_show\"
-      id=\"dw_clear_gif\" width=\"1\" height=\"1\" style=\"display:none\"/></noscript>\r\n
-      \ <script type=\"text/javascript\">\r\n    user_id      = null\r\n    viewing_self
-      = false\r\n    nav          = 'recipes'\r\n    action       = 'show'\r\n  </script>\r\n\r\n\r\n\r\n<script
-      type=\"text/javascript\">\r\nchow_js.init();\r\n\r\nif($j('#chow_carousel')[0]){\r\n\tchow_carousel.init();\r\n}\r\nif($j('#comments_container')[0]){\r\n\tchowcomments.init();\t\r\n}\r\nif($j('#boards_tab_container')[0]){\r\n\tbrowse_boards_controller.init();\r\n}\r\n//
-      restaurant rating on CH posts. not sure if we still need this.\r\nif($j('#restaurant_review_checkbox')[0])
-      {\r\n    ($j('#restaurant_review_checkbox')[0].checked) ? showRestaurantInputs(0)
-      : '';\r\n}\r\n// add permalink listeners if topic page with '?tag=' in the url\r\nif(document.location.toString().indexOf('/topics/')
-      != -1 && document.location.toString().indexOf('?tag=') != -1){\r\n    Topic.addPermaLinkListeners();\r\n}\r\n\r\nif($j('#dish_decider')[0]){\r\n\tdishDecider.init();\t\r\n}\r\nif($j('#share_side_bar')[0]){\r\n\tshare_side_bar.init();\r\n}\r\n//
-      places lists\r\nif($j('#places_list_map_holder')[0] || $j('#places_map')[0]){\r\n\tload_places_map();\r\n}\r\n\r\nfunction
-      startBehavioral(){\r\n   try {\r\n       cbsiRegisterAdGlobals(cbsiAdGlobal);\r\n
-      \      cbsiAdBehavioralSetup();\r\n       cbsiAdBehavioral();\r\n   }\r\n   catch(err)
-      {\r\n      setTimeout(\"startBehavioral()\", 500);\r\n   }\r\n}\r\nstartBehavioral();\r\n</script>\r\n
-      \r\n<script type=\"text/javascript\" src=\"http://i.i.com.com/cnwk.1d/Aud/javascript/apex.js\"></script>\r\n<script
-      type=\"text/javascript\"> \r\n  var cbsiApexGlobal = {\r\n     'SITE' : '103',\r\n
-      \    'PTYPE' : '9910',\r\n     'NODE' : 0,\r\n     'PID' : 0\r\n  };\r\n  cbsiLoadOffer(cbsiApexGlobal,1000);\r\n</script>\r\n\r\n\r\n<!--
-      Facebook JS -->\r\n<div id=\"fb-root\"></div>\r\n<script type=\"text/javascript\">\r\nwindow.fbAsyncInit
+      = {\"ptid\":9910,\"onid\":\"12711\",\"siteId\":\"103\",\"cval\":\"29576;Chocolate-Dipped
+      Vanilla Ice Cream Bars Recipe ;Sweet/Dessert\",\"ctype\":\"cw_recipes_show\",\"asid\":29576,\"astid\":485};
+      DW.clear(); //DW.trackClicks();</script>\n<noscript id=\"dw_js_noscript\"><img
+      src=\"http://dw.com.com/clear/c.gif?ptid=9910&onid=12711&siteId=103&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ctype=cw_recipes_show&asid=29576&astid=485&sid=103&ts=1317099019\"
+      id=\"dw_clear_gif\" width=\"1\" height=\"1\" style=\"display:none\"/></noscript>\n
+      \ <script type=\"text/javascript\">\n    user_id      = null\n    viewing_self
+      = false\n    nav          = 'recipes'\n    action       = 'show'\n  </script>\n\n\n\n<script
+      type=\"text/javascript\">\nchow_js.init();\n\nif($j('#chow_carousel')[0]){\n\tchow_carousel.init();\n}\nif($j('#comments_container')[0]){\n\tchowcomments.init();\n}\nif($j('#boards_tab_container')[0]){\n\tbrowse_boards_controller.init();\n}\n//
+      restaurant rating on CH posts. not sure if we still need this.\nif($j('#restaurant_review_checkbox')[0])
+      {\n    ($j('#restaurant_review_checkbox')[0].checked) ? showRestaurantInputs(0)
+      : '';\n}\n// add permalink listeners if topic page with '?tag=' in the url\nif(document.location.toString().indexOf('/topics/')
+      != -1 && document.location.toString().indexOf('?tag=') != -1){\n    Topic.addPermaLinkListeners();\n}\n\nif($j('#dish_decider')[0]){\n\tdishDecider.init();\n}\nif($j('#share_side_bar')[0]){\n\tshare_side_bar.init();\n}\n//
+      places lists\nif($j('#places_list_map_holder')[0] || $j('#places_map')[0]){\n\tload_places_map();\n}\n\nif($j('#places_mentioned_module')[0]){\n\tbtwg_action();\n}\nfunction
+      startBehavioral(){\n   try {\n       cbsiRegisterAdGlobals(cbsiAdGlobal);\n
+      \      cbsiAdBehavioralSetup();\n       cbsiAdBehavioral();\n   }\n   catch(err)
+      {\n      setTimeout(\"startBehavioral()\", 500);\n   }\n}\nstartBehavioral();\n\n\nrefreshableAds.init();\n</script>\n\n<script
+      type=\"text/javascript\" src=\"http://i.i.com.com/cnwk.1d/Aud/javascript/apex.js\"></script>\n<script
+      type=\"text/javascript\">\n  var cbsiApexGlobal = {\n     'SITE' : '103',\n
+      \    'PTYPE' : '9910',\n     'NODE' : 0,\n     'PID' : 0\n  };\n  cbsiLoadOffer(cbsiApexGlobal,1000);\n</script>\n\n\n<!--
+      Facebook JS -->\n<div id=\"fb-root\"></div>\n<script type=\"text/javascript\">\nwindow.fbAsyncInit
       = function() { FB.init({apiKey:'0278fc1adf6dc1daf1156f306ce2c5cc', xfbml:true});
-      };\r\nvar headTag = document.getElementsByTagName(\"head\")[0];         \r\nvar
-      newScriptTag = document.createElement('script');\r\nnewScriptTag.type = 'text/javascript';\r\nnewScriptTag.src
-      = 'http://connect.facebook.net/en_US/all.js';\r\nheadTag.appendChild(newScriptTag);\r\n</script>\r\n\r\n\r\n
-      \ \r\n    \r\n    <script type=\"text/javascript\">\r\n      (function() {\r\n
-      \       // google analytics\r\n        var ga = document.createElement('script');
-      ga.type = 'text/javascript'; ga.async = true;\r\n        ga.src = ('https:'
-      == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\r\n
-      \       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
-      s);\r\n        \r\n        // crazy egg tracking\r\n        var ce = document.createElement('script');
-      ce.type = 'text/javascript'; ce.async = true;\r\n        ce.src = 'http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3463.js';\r\n
+      };\nvar headTag = document.getElementsByTagName(\"head\")[0];\nvar newScriptTag
+      = document.createElement('script');\nnewScriptTag.type = 'text/javascript';\nnewScriptTag.src
+      = 'http://connect.facebook.net/en_US/all.js';\nheadTag.appendChild(newScriptTag);\n</script>\n\n\n
+      \ \n\n  \n    <script type=\"text/javascript\">\n      (function() {\n        //
+      google analytics\n        var ga = document.createElement('script'); ga.type
+      = 'text/javascript'; ga.async = true;\n        ga.src = ('https:' == document.location.protocol
+      ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n        var
+      s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga,
+      s);\n\n        // crazy egg tracking\n        var ce = document.createElement('script');
+      ce.type = 'text/javascript'; ce.async = true;\n        ce.src = 'http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3463.js';\n
       \       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ce,
-      s);\r\n      })();\r\n    </script>\r\n</body>\r\n</html>"
+      s);\n      })();\n    </script>\n<script type=\"text/javascript\">(function(){var
+      d=document;var e=d.createElement(\"script\");e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/19/eum/rum.js\";e.type=\"text/javascript\";var
+      s=d.getElementsByTagName(\"script\")[0];s.parentNode.insertBefore(e,s);})();NREUMQ.push([\"nrf2\",\"beacon-1.newrelic.com\",\"6a6c870add\",179693,\"cg5XEhZeVAkGQR5KBlIISQMXHksNDEQ=\",0,1670,new
+      Date().getTime()])</script></body>\n</html>\n"
     http_version: '1.1'

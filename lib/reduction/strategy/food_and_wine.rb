@@ -10,7 +10,7 @@ module Reduction
       end
 
       def title
-        doc.at('.recipe-info h2[itemprop=name]').text.collapse_whitespace
+        doc.at('.recipe-info h1[itemprop=name]').text.collapse_whitespace
       end
 
       def ingredients
@@ -18,7 +18,7 @@ module Reduction
       end
 
       def steps
-        [ doc.search('#directions ol[itemprop=instructions] li').map(&:text).
+        [ doc.search('#directions ol[itemprop=recipeInstructions] li').map(&:text).
           map(&:collapse_whitespace) ]
       end
 

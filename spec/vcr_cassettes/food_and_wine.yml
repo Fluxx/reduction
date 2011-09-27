@@ -497,31 +497,31 @@
       code: 200
       message: OK
     headers:
-      content-length:
-      - '42839'
       cache-control:
       - max-age=300,public
+      content-length:
+      - '44353'
       content-type:
       - text/html; charset=utf-8
       date:
-      - Sun, 22 May 2011 01:26:06 GMT
+      - Tue, 27 Sep 2011 04:50:24 GMT
       etag:
-      - ! '"300996f07e31da9d30dc3501fb34d051"'
+      - ! '"ab0f42e6ac4549855a148b8b578980d6"'
       last-modified:
-      - Sun, 22 May 2011 01:26:07 GMT
+      - Tue, 27 Sep 2011 04:50:25 GMT
       server:
       - Apache/2.2.3 (Red Hat)
       set-cookie:
-      - _fwr-frontend_session=BAh7BzoQX2NzcmZfdG9rZW4iMXB5SGl6TTlmRUVGbW5kcTNvVFM4NEFrMWtaR1RrRXZHUHhjMmk0Q0tMQzA9Og9zZXNzaW9uX2lkIiVhZWU3YjI1YTA5ZTYwMGRmYzBiY2MzMWEyM2FmNjQ5ZQ%3D%3D--6c066a36eeb4da7d777ebea028af763cfb4bf4d0;
+      - _fwr-frontend_session=BAh7BzoPc2Vzc2lvbl9pZCIlYWFmMmMwODUxNDg0N2IzOGYwMzRiYTJlMGNiZDdmYzk6EF9jc3JmX3Rva2VuIjFDNktKck9JdDdEbXJIV2JLVkx6ZXJCQ1U0eE9qWHR1UUF3ZEdTUVdFSnhvPQ%3D%3D--44959593c7e6e28233d65648159041ca6f0201f1;
         path=/; HttpOnly
       status:
       - '200'
       vary:
       - Accept-Encoding
       x-powered-by:
-      - Phusion Passenger (mod_rails/mod_rack) 2.2.15
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.7
       x-runtime:
-      - '521'
+      - '482'
     body: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
       keynote='CuisineEtVin' xmlns='http://www.w3.org/1999/xhtml'>\n<head>\n<meta
       content='text/html; charset=iso-8859-1' http-equiv='Content-type' />\n<meta
@@ -537,22 +537,22 @@
       on toast, Cindy Pawlcyn saut&#233;s mushrooms and onions with the Spanish dry
       sherry Oloroso.&#x000A;&#x000A;' property='og:description' />\n<meta content='article'
       property='og:type' />\n<meta content='Sherried Mushrooms with Fried Eggs on
-      Toast' property='og:title' />\n<link href='/favicon.ico' rel='icon' type='image/x-icon'
-      />\n<link href='/favicon.ico' rel='shortcut icon' type='image/x-icon' />\n\n<title>\nSherried
-      Mushrooms with Fried Eggs on Toast Recipe - Cindy Pawlcyn | Food &amp; Wine\n</title>\n<link
+      Toast' property='og:title' />\n<meta content='index, follow' property='robots'
+      />\n<link href='/favicon.ico' rel='icon' type='image/x-icon' />\n<link href='/favicon.ico'
+      rel='shortcut icon' type='image/x-icon' />\n\n<title>\nSherried Mushrooms with
+      Fried Eggs on Toast Recipe - Cindy Pawlcyn | Food &amp; Wine\n</title>\n<link
       href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet'
-      type='text/css' />\n<link href=\"/stylesheets/screen.css\" media=\"screen\"
-      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/printer.css\"
+      type='text/css' />\n<link href=\"/stylesheets/main.css\" media=\"screen\" rel=\"stylesheet\"
+      type=\"text/css\" />\n<link href=\"/stylesheets/recipe.css\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n\n<link href=\"/stylesheets/printer.css\"
       media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community.css\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
       />\n<link href=\"/stylesheets/community_new.css\" media=\"screen\" rel=\"stylesheet\"
       title=\"normal stage\" type=\"text/css\" />\n<link href=\"/stylesheets/screen_newsletter.css\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
-      />\n<link href=\"/stylesheets/fwr.css\" media=\"screen\" rel=\"stylesheet\"
-      type=\"text/css\" />\n<link href=\"/stylesheets/screen_recipes.css\" media=\"screen\"
-      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community_new.css\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n<!--[if IE 6]>\n<link
-      href='/css/ie6.css' rel='stylesheet' type='text/css' />\n<link href='/css/redesign.foodandwine/_printer-ie6.css'
+      />\n<link href=\"/stylesheets/screen_recipes.css\" media=\"screen\" rel=\"stylesheet\"
+      type=\"text/css\" />\n\n<!--[if IE 6]>\n<link href='/css/ie6.css' rel='stylesheet'
+      type='text/css' />\n<link href='/css/redesign.foodandwine/_printer-ie6.css'
       media='print' rel='stylesheet' type='text/css' />\n<![endif]-->\n<!--[if IE
       7]>\n<link href='/css/ie7.css' rel='stylesheet' type='text/css' />\n<link href='/css/redesign.foodandwine/_printer-ie7.css'
       media='print' rel='stylesheet' type='text/css' />\n<![endif]-->\n<!-- - bundle(:name
@@ -571,14 +571,15 @@
       type='text/javascript'></script>\n<script type='text/javascript'>\nRPXNOW.overlay
       = true;\nRPXNOW.language_preference = 'en';\n<!-- /FB.init(\"93ac89296316efd5d316caaa90bfbde4\");
       -->\n</script>\n\n<script src=\"http://img.timeinc.net/shared/static/js/tii_ads.js\"
-      type=\"text/javascript\"></script>\n<script language='javascript' type='text/javascript'>\nvar
+      type=\"text/javascript\"></script>\n<script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t'
+      type='text/javascript'></script>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
       adConfig = new TiiAdConfig('3475.fw');\nadConfig.setCmSitename('cm.fw');\nvar
       adFactory = new TiiAdFactory(adConfig, 'recipes');\nadFactory.setParam('ptype',
       'content');\nadFactory.setParam('sub', new Array('recipes', 'sherried-mushrooms-with-fried-eggs-on-toast'));\nadFactory.setParam('site',
-      'fw');\nif ((navigator.userAgent.match('iPhone')) || (navigator.userAgent.match('iPad'))
-      || (navigator.userAgent.match('iPod')) || (location.search.match('ipad=true')))
-      { adFactory.setParam(\"user\", \"ipad\");}if(getQueryVariable(\"pkw\")){adFactory.setParam(\"pkw\",
-      getQueryVariable(\"pkw\"));}\n</script>\n\n<script src=\"/javascripts/tabcontent.js\"
+      'fw');\nadFactory.setParam('as', TiiAdGetRevSciSegments());\nif ((navigator.userAgent.match('iPhone'))
+      || (navigator.userAgent.match('iPad')) || (navigator.userAgent.match('iPod'))
+      || (location.search.match('ipad=true'))) { adFactory.setParam(\"user\", \"ipad\");}if(getQueryVariable(\"pkw\")){adFactory.setParam(\"pkw\",
+      getQueryVariable(\"pkw\"));}\n//]]>\n</script>\n\n<script src=\"/javascripts/tabcontent.js\"
       type=\"text/javascript\"></script>\n\n<script type='text/javascript'>\njQuery.noConflict();\n</script>\n</head>\n<body>\n<script
       src=\"/javascripts/googleAnalytics.js\" type=\"text/javascript\"></script>\n<!--\nOMNITURE:
       DISPLAY BEGIN\n-->\n<div id='omniture' style='display:none'>\n<script type='text/javascript'>\nvar
@@ -598,40 +599,74 @@
       == \"https:\" ? \"https://sb\" : \"http://b\") + \".scorecardresearch.com/beacon.js'
       %3E%3C/script%3E\"));\n</script>\n<script>\nCOMSCORE.beacon({\nc1:2,\nc2:6034960,\nc3:\"\",\nc4:\"\",\nc5:\"\",\nc6:\"\",\nc15:\"\"\n});\n</script>\n<noscript>\n<img
       src=\"http://b.scorecardresearch.com/p?c1=2&c2=6034960&c3=&c4=&c5=&c6=&c15=&cj=1\"
-      />\n</noscript>\n\n<div id='container'>\n<div id='wrap'>\n<div class='clearfix'
-      id='ad-top'>\n<div id='ad-top-inner'>\n<script language='javascript' type='text/javascript'>\nvar
-      multiAd = adFactory.getMultiAd(new Array('728x90', '101x1'));\nmultiAd.setPosition('1');\nmultiAd.write();\n</script>\n\n</div>\n</div>\n<!--
+      />\n</noscript>\n\n<!--ROIA page #79--> <script type=\"text/javascript\">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){
+      l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;}
+      catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/im/p/79/js?s='+
+      Math.floor(Math.random()*1308319535)+';t='+escape(T.getTime())+';z='+ escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f);
+      if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;}
+      if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2);
+      if(/^\\s*roia_p79$/.test(p0)){u+=';_='+p1;break;}}} document.write('<'+'script
+      type=\"text/javascript\" src=\"'+u+'\">'); })(document,screen,new Date());/*]]>*/</script><noscript>
+      <iframe src=\"http://roia.biz/im/p/79/iframe?js=0\" width=\"1\" height=\"1\"
+      frameborder=\"0\" scrolling=\"no\" style=\"position:absolute;top:-3000px;left:-3000px;\"></iframe></noscript>
+      <!--/ROIA page #79-->\n\n<div id='container'>\n<!-- MYRECIPES nav -->\n<div
+      class='clearfix' id='myrecipes_logobar'>\n<a href='https://subscription.timeinc.com/storefront/link/1005836.html'
+      target='_blank' title='SUBSCRIBE to F&amp;W'>\n<img alt='F&amp;W Free Preview'
+      height='32' src='/images/myrecipes/get-a-free-preview-issue.gif' width='272'
+      />\n</a>\n<a href='http://www.allyou.com/?xid=logobar-fw' target='_blank' title='All
+      You'>\n<img alt='All You' height='32' src='/images/myrecipes/all-you.gif' width='79'
+      />\n</a>\n<a href='http://www.coastalliving.com/?xid=logobar-fw' target='_blank'
+      title='Coastal Living'>\n<img alt='Coastal Living' height='32' src='/images/myrecipes/coastal-living.gif'
+      width='82' />\n</a>\n<a href='http://www.cookinglight.com/?xid=logobar-fw' target='_blank'
+      title='Cooking Light'>\n<img alt='Cooking Light' height='32' src='/images/myrecipes/cooking-light.gif'
+      width='85' />\n</a>\n<a href='#' title='Food and Wine'>\n<img alt='Food and
+      Wine tab' height='32' src='/images/myrecipes/fandw-tab.gif' width='109' />\n</a>\n<a
+      href='http://www.health.com/health/?xid=logobar-fw' target='_blank' title='Health'>\n<img
+      alt='Health' height='32' src='/images/myrecipes/health.gif' width='80' />\n</a>\n<a
+      href='http://www.myrecipes.com/?xid=logobar-fw' target='_blank' title='My Recipes'>\n<img
+      alt='myRecipes' height='32' src='/images/myrecipes/myrecipes.gif' width='98'
+      />\n</a>\n<a href='http://www.southernliving.com/?xid=logobar-fw' target='_blank'
+      title='Southern Living'>\n<img alt='Southern Living' height='32' src='/images/myrecipes/southern-living.gif'
+      width='101' />\n</a>\n<a href='http://www.sunset.com/?xid=logobar-fw' target='_blank'
+      title='Sunset'>\n<img alt='Sunset' height='32' src='/images/myrecipes/sunset.gif'
+      width='95' />\n</a>\n</div>\n<div id='wrap'>\n<div class='clearfix' id='ad-top'>\n<div
+      id='ad-top-inner'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
+      multiAd = adFactory.getMultiAd(new Array('728x90', '101x1'));\nmultiAd.setPosition('1');\nmultiAd.write();\n//]]>\n</script>\n\n</div>\n</div>\n<!--
       MASTHEAD STARTS HERE -->\n<div class='clearfix' id='masthead'>\n<div id=\"topnav\">\n<div
-      id=\"topLinkWrapper\">\n<div id=\"navMenu\">\n\t<ul>\n    \t<li id=\"tsubsc\">\n
-      \       \t<a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\"
-      class=\"hide\"><span>SUBSCRIBE</span></a>\n            <ul>\n\t\t\t\t<li class=\"sub\"><a
-      href=\"https://subscription.timeinc.com/storefront/link/1002184.html\">MAGAZINE</a></li>\n\t\t\t\t<li
-      class=\"sub\"><a href=\"http://www.foodandwine.com/books\">BOOKS</a></li>\n\t\t\t\t<li
-      class=\"sub\"><a href=\"http://www.fwwineclub.com/\">WINE CLUB</a></li>\n\t\t\t\t<li
-      class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1001015.html
-      \">CONNOISSEUR CLUB</a></li>\n\t\t\t\t<li class=\"last\"><a href=\"http://www.foodandwine.com/mobile-apps\">IPAD
-      EDITION</a></li>\n\t\t\t\t<li class=\"curve\"></li>\n\t        </ul>\n        </li>\n
+      id=\"topLinkWrapper\">\n<div id=\"navMenu\">\n  <ul>\n      <li id=\"tsubsc\">\n
+      \         <a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\"
+      class=\"hide\"><span>SUBSCRIBE</span></a>\n            <ul>\n        <li class=\"sub\"><a
+      href=\"https://subscription.timeinc.com/storefront/link/1002184.html\">MAGAZINE</a></li>\n
+      \       <li class=\"sub\"><a href=\"http://www.foodandwine.com/books\">BOOKS</a></li>\n
+      \       <li class=\"sub\"><a href=\"http://www.fwwineclub.com/\">WINE CLUB</a></li>\n
+      \       <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1001015.html
+      \">CONNOISSEUR CLUB</a></li>\n        <li class=\"last\"><a href=\"http://www.foodandwine.com/mobile-apps\">IPAD
+      EDITION</a></li>\n        <li class=\"curve\"></li>\n          </ul>\n        </li>\n
       \       <li id=\"tnewsletters\"><a href=\"http://www.foodandwine.com/newsletters\"
-      class=\"hide\"><span>NEWSLETTERS</span></a>\n        <ul>\n\t\t\t\n\t\t\t\t<li
+      class=\"hide\"><span>NEWSLETTERS</span></a>\n        <ul>\n      \n        <li
       class=\"news\"><a href=\"http://www.foodandwine.com/newsletters\">THE DISH</a></li>\n
       \                               <li class=\"news\"><a href=\"http://www.foodandwine.com/newsletters\">THE
-      WINE LIST</a></li>\n\t\t\t\t<li class=\"last\"><a href=\"http://www.foodandwine.com/newsletters\">FOOD
-      &amp; WINE DAILY</a></li>\n\t\t\t\t<li class=\"curve\"></li>\n\t\t\t\n        </ul>\n
+      WINE LIST</a></li>\n        <li class=\"last\"><a href=\"http://www.foodandwine.com/newsletters\">FOOD
+      &amp; WINE DAILY</a></li>\n        <li class=\"curve\"></li>\n      \n        </ul>\n
       \       </li>\n\n        <li id=\"tshop\"><a href=\"http://www.foodandwine.com/shop\"
       class=\"hide\"><span>SHOP</span></a></li>\n\n\n        <li id=\"tevents\"><a
       href=\"http://www.foodandwine.com/promo/events\" class=\"hide\"><span>EVENTS</span></a>\n<ul>\n
       \          \n                <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/events\">2011
       CALENDAR</a></li>\n                <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">PROMOTIONS</a></li>\n
-      \               <li class=\"last\"><a href=\"http://www.foodandwine.com/promo/\">SWEEPSTAKES</a></li>\n
-      \               <li class=\"curve\"></li>\n           \n        </ul>\n\n\n\n</li>\n\n
-      \   </ul>\n</div>    \n</div>\n\n\n<div id=\"socialtext\">\n    <div id=\"login-spinner\">\n\t<img
-      alt=\"\" src=\"/images/spinner.gif\" width=\"16\" id=\"status-spinner\" />\n
-      \   </div>\t\n\n    <div id=\"social-links\">\n\t<p><strong>My F&amp;W</strong>:</p>\n\t<ul>\n\t
-      \   <li><a href=\"http://community.foodandwine.com/service/displayMyPlace.kickAction?as=117547\">My
-      Profile</a></li>\n\t    <li> | </li>\n\t    <li><a href=\"http://community.foodandwine.com/view/displayManageFavorites.kickAction?as=117547\">Favorites</a></li>\n\t
-      \   <li> | </li>\n\t    <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=photo&sortType=recent\">Photos</a></li>\n\t
-      \   <li> | </li>\n\t    <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=blog&sortType=recent&includeBlog=on&d-7095067-p=1\">Posts</a></li>\n\t
-      \   <li> | </li>\n\t</ul>\n    </div>\n</div>\n\n\n</div>\n<div id='branding'>\n<p
+      \               <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">SWEEPSTAKES</a></li>\n
+      \               <li class=\"events\"><a href=\"http://www.foodandwine.com/videos\">F&amp;W
+      VIDEOS</a></li>\n                <li class=\"last\"><a href=\"http://www.foodandwine.com/classic\">F&amp;W
+      CLASSIC</a></li>\n                <li class=\"curve\" style=\"background-image:
+      url(/images/dropfooter3.png); display: block; height: 8px; left: 1px; position:
+      relative; top: -1px; width: 96px;\"></li>\n           \n        </ul>\n\n\n\n</li>\n\n
+      \   </ul>\n</div>    \n</div>\n\n\n<div id=\"socialtext\">\n    <div id=\"login-spinner\">\n
+      \ <img alt=\"\" src=\"/images/spinner.gif\" width=\"16\" id=\"status-spinner\"
+      />\n    </div>  \n\n    <div id=\"social-links\">\n  <p><strong>My F&amp;W</strong>:</p>\n
+      \ <ul>\n      <li><a href=\"http://community.foodandwine.com/service/displayMyPlace.kickAction?as=117547\">My
+      Profile</a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/view/displayManageFavorites.kickAction?as=117547\">Favorites</a></li>\n
+      \     <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=photo&sortType=recent\">Photos</a></li>\n
+      \     <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=blog&sortType=recent&includeBlog=on&d-7095067-p=1\">Posts</a></li>\n
+      \     <li> | </li>\n  </ul>\n    </div>\n</div>\n\n\n</div>\n<div id='branding'>\n<p
       title='Food &amp; Wine'>\n<a href='/' title='Food &amp; Wine - home'>\n<img
       alt=\"Food &amp; Wine\" src=\"/images/logo.gif\" style=\"vertical-align: bottom;\"
       />\n</a>\n</p>\n<div style='float:left;margin:13px 0 0px 28px;'>\n<div id='subscToutContainer'>\n<div
@@ -640,7 +675,7 @@
       width='66' />\n</a>\n</div>\n<div id='subscToutLinksContainer'>\n<ul>\n<li class='lineHeight'>\n<a
       href='https://subscription.timeinc.com/storefront/link/1001005.html'>\nTRY 2
       RISK-FREE ISSUES\n</a>\n</li>\n<li>\n<a href='https://subscription.timeinc.com/storefront/link/1002188.html'>\nSUBSCRIBE\n</a>\n</li>\n<li>\n<a
-      href='https://subscription.timeinc.com/storefront/link/1001007.html'>\nGIVE
+      href='https://subscription.timeinc.com/storefront/link/1002341.html'>\nGIVE
       A GIFT\n</a>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<!--\nend branding\n-->\n<div
       id='search'>\n<form action='/search' id='search-form' method='get'>\n<input
       class='subinput2 clear-input' id='search-text' name='query' type='text' value='Search
@@ -665,139 +700,135 @@
       &amp; CHEFS</a></li><li id=\"nav-wine\"><a href=\"/wine\">WINE &amp; COCKTAILS</a></li><li
       id=\"nav-travel\"><a href=\"/restaurants\">RESTAURANTS &amp; TRAVEL</a></li><li
       id=\"nav-athome\"><a href=\"/entertaining\">ENTERTAINING &amp; HOME</a></li><li
-      id=\"nav-community\"><a href=\"http://community.foodandwine.com\">COMMUNITY</a></li><li
-      id=\"nav-mag\"><a href=\"/monthly\">MAGAZINE</a></li></ul>\n<ul id=\"submenu\"><li
-      id=\"nav-slideshows\"><a href=\"/slideshows\">SLIDESHOWS</a></li><li id=\"nav-menus\"><a
-      href=\"/menus\">MENUS</a></li><li id=\"nav-chefs\"><a href=\"/chefs\">CHEFS</a></li><li
-      id=\"nav-cooking_guides\"><a href=\"/cooking_guides\">COOKING GUIDES</a></li><li
-      id=\"nav-recipe_of_the_day\"><a href=\"/articles/recipe-of-the-day-archive\">RECIPE
-      OF THE DAY</a></li><li id=\"nav-videos\"><a href=\"/videos\">RECIPE VIDEOS</a></li></ul>\n<script>\n//document.getElementById('em-travel').style.backgroundPositionY='-31px';\n//document.getElementById('em-travel').style.cursor='pointer';\n</script>\n<script>\njQuery('#nav-wine_club
+      id=\"nav-blogs\"><a href=\"/blogs/mouthing-off\">BLOGS</a></li><li id=\"nav-mag\"><a
+      href=\"/monthly\">MAGAZINE</a></li></ul>\n<ul id=\"submenu\"><li id=\"nav-slideshows\"><a
+      href=\"/slideshows\">SLIDESHOWS</a></li><li id=\"nav-menus\"><a href=\"/menus\">MENUS</a></li><li
+      id=\"nav-chefs\"><a href=\"/chefs\">CHEFS</a></li><li id=\"nav-cooking_guides\"><a
+      href=\"/cooking_guides\">COOKING GUIDES</a></li><li id=\"nav-recipe_of_the_day\"><a
+      href=\"/articles/recipe-of-the-day-archive\">RECIPE OF THE DAY</a></li><li id=\"nav-videos\"><a
+      href=\"/videos\">RECIPE VIDEOS</a></li></ul>\n<script>\n//document.getElementById('em-travel').style.backgroundPositionY='-31px';\n//document.getElementById('em-travel').style.cursor='pointer';\n</script>\n<script>\njQuery('#nav-wine_club
       a').attr('target', '_blank');\n</script>\n</div>\n<!--\nend ##nav-wrap\n-->\n</div>\n<div
       class='clearfix' id='content'>\n<div id='main'>\n\n<div class='sponsor-logo'>\n<script
-      language='javascript' type='text/javascript'>\nvar ad = adFactory.getAd(88,
-      31);\nad.setPosition('1');\nad.write();\n</script>\n\n</div>\n<div itemscope=''
-      itemtype='http://data-vocabulary.org/Recipe'>\n<div id='recipe-head'>\n<div
+      language='javascript' type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(88,
+      31);\nad.setPosition('1');\nad.write();\n//]]>\n</script>\n\n</div>\n<div class='ally-sponsorship'>\n<script
+      language='javascript' type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(645,
+      45);\nad.setPosition('1');\nad.write();\n//]]>\n</script>\n\n</div>\n<style
+      type=\"text/css\">\n.allyBanner {width:640px;border:1px solid #ccc;margin:0px
+      0px 10px 0px;padding:4px}\n.allyBanner .title {font: 31px arial,sans-serif;}\n.allyBanner
+      a{cursor: pointer;text-decoration: none;}\n.allyBanner .title span{font: 18px
+      arial,sans-serif;}\n.allyBanner a.sponsor {color: #999999;float: right;font:
+      11px arial,sans-serif;text-align: right;width: 140px;margin-top:5px}\n.allyBanner
+      a.sponsor span {display: block;float: left;text-align: right;width: 50px;}\n</style>\n<div
+      itemscope itemtype='http://schema.org/Recipe'>\n<div id='recipe-head'>\n<div
       id='email-print-buttons'>\n<div id='email-button'>\n<a href=\"/recipes/sherried-mushrooms-with-fried-eggs-on-toast/send_recipe_to_friend_emails/new\"
-      title=\"email recipe\"><img alt=\"Email this recipe\" src=\"/images/email-button.gif\"
+      title=\"email this Sherried Mushrooms with Fried Eggs on Toast recipe\"><img
+      alt=\"Email this Sherried Mushrooms with Fried Eggs on Toast recipe\" src=\"/images/email-button.gif\"
       title=\"Email this recipe\" /></a>\n</div>\n<div id='print-button'>\n<a href=\"/recipes/sherried-mushrooms-with-fried-eggs-on-toast/print\"
-      title=\"print recipe\"><img alt=\"Print this recipe\" src=\"/images/print-button.gif\"
-      title=\"Print this recipe\" /></a>\n</div>\n<div class='clear'></div>\n</div>\n<div
-      id='red-ribbon'></div>\n<div id='recipetabs'>\n<ul>\n<li id='selected'>\n<a
-      href=\"#\" rel=\"recipe1\" title=\"Sherried Mushrooms with Fried Eggs on Toast\">Recipe</a>\n</li>\n<li
-      id='' onClick='fw_linktracker(\"Rate &amp; Review this recipe\");'>\n<a href=\"#\"
-      rel=\"recipe2\" title=\"Rate &amp; Review this recipe\">Rate & Review</a>\n</li>\n<li
-      id='' onClick='fw_linktracker(\"Related Recipes\");'>\n<a href=\"#\" rel=\"recipe3\"
-      title=\"Related Recipes to Sherried Mushrooms with Fried Eggs on Toast\">Related
-      Recipes</a>\n</li>\n</ul>\n</div>\n<div class='tabcontentstyle'>\n<div class='tabcontent'
-      id='recipe1' style='display: block;'>\n<div class='recipe-info'>\n<h2 itemprop='name'>\nSherried
-      Mushrooms with Fried Eggs on Toast\n</h2>\n<ul>\n<li>\nContributed by\n<a href=\"/chefs/cindy-pawlcyn\"
-      itemprop=\"author\" title=\"Chef Cindy Pawlcyn\">Cindy Pawlcyn</a>\n</li>\n</ul>\n<em>\n<div
+      title=\"print this Sherried Mushrooms with Fried Eggs on Toast recipe\"><img
+      alt=\"Print this recipe\" src=\"/images/print-button.gif\" title=\"Print this
+      recipe\" /></a>\n</div>\n<div class='clear'></div>\n</div>\n<div id='red-ribbon'></div>\n<div
+      id='recipetabs'>\n<ul>\n<li id='selected'>\n<a href=\"#\" rel=\"recipe1\" title=\"Sherried
+      Mushrooms with Fried Eggs on Toast\">Recipe</a>\n</li>\n<li id='' onClick='fw_linktracker(\"Rate
+      &amp; Review this recipe\");'>\n<a href=\"#\" rel=\"recipe2\" title=\"Rate &amp;
+      Review this recipe\">Rate & Review</a>\n</li>\n<li id='' onClick='fw_linktracker(\"Related
+      Recipes\");'>\n<a href=\"#\" rel=\"recipe3\" title=\"Related Recipes to Sherried
+      Mushrooms with Fried Eggs on Toast\">Related Recipes</a>\n</li>\n</ul>\n</div>\n<div
+      class='tabcontentstyle'>\n<div class='recipe-info'>\n<h1 itemprop='name'>\nSherried
+      Mushrooms with Fried Eggs on Toast\n</h1>\n<ul>\n<li>\nContributed by\n<a href=\"/chefs/cindy-pawlcyn\"
+      title=\"Chef Cindy Pawlcyn\"><span itemprop = \"author\">Cindy Pawlcyn</span></a>\n</li>\n</ul>\n<em>\n<div
       id='cooking-time-top'>\n<div id='time-box'>\n<ul>\n<li id='time-total'>\nTOTAL
-      TIME:\n<strong datetime='PT35M' itemprop='totalTime'>\n35 MIN\n\n</strong>\n</li>\n<li
-      id='time-servings'>\nSERVINGS:\n<strong itemprop='yield'>\n4\n</strong>\n<br
-      />\n</li>\n</ul>\n<div class='clear'></div>\n</div>\n</div>\n</em>\n\n<div id='usi-section'>\n<div
-      class='grey-line'>\n<img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\"
+      TIME:\n<meta datetime='PT35M' itemprop='totalTime'>\n<strong>\n35 MIN\n\n</strong>\n</meta>\n</li>\n<li
+      id='time-servings'>\nSERVINGS:\n<strong>\n<span itemprop='recipeYield'>\n4\n</span>\n<br
+      />\n</strong>\n</li>\n</ul>\n<div class='clear'></div>\n</div>\n</div>\n</em>\n\n</div>\n<div
+      class='tabcontent' id='recipe1' style='display: block;'>\n<div class='recipe-info'>\n<div
+      id='usi-section'>\n<div class='grey-line'>\n<img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\"
       />\n</div>\n<div class='clear'></div>\n<div id='user-buttons'>\n<div id='stars-alone'>\n<a
       href='#' onclick='return recipess.expandit(1);' title='Rate &amp; Review this
       recipe Sherried Mushrooms with Fried Eggs on Toast'></a>\n</div>\n<div class='ratings'></div>\n<p
-      class='ratings'>\n<a href=\"#\" onclick=\"return recipess.expandit(1);\">Rate
-      & Review this recipe</a>\n</p>\n<div id='little-grey-stars'>\n<a href=\"#\"
-      onclick=\"return recipess.expandit(1);\"><img alt=\"Star_5_small_grey\" src=\"/images/community/star_5_small_grey.gif\"
-      /></a>\n</div>\n<div id='divider-grey'>\n<img alt=\"Divider-grey\" src=\"/images/recipe/divider-grey.gif\"
+      class='ratings'>\n<a href=\"#\" onclick=\"return recipess.expandit(1);\" title=\"Rate
+      this Sherried Mushrooms with Fried Eggs on Toast recipe\">Rate & Review this
+      recipe</a>\n</p>\n<div id='little-grey-stars'>\n<a href=\"#\" onclick=\"return
+      recipess.expandit(1);\"><img alt=\"Rate this Sherried Mushrooms with Fried Eggs
+      on Toast recipe\" src=\"/images/community/star_5_small_grey.gif\" title=\"Rate
+      this Sherried Mushrooms with Fried Eggs on Toast recipe\" /></a>\n</div>\n<div
+      id='divider-grey'>\n<img alt=\"Divider-grey\" src=\"/images/recipe/divider-grey.gif\"
       />\n</div>\n<div id='addtofavorites-bluestar'>\n<a href=\"#\" onclick=\"return
-      recipess.expandit(1);\"><img alt=\"Addtofavorites-bluestar\" src=\"/images/recipe/addtofavorites-bluestar.gif\"
-      /></a>\n</div>\n<p class='addtofavorites'>\n<a href=\"#\" onclick=\"return recipess.expandit(1);\">Add
+      recipess.expandit(1);\"><img alt=\"Add this Sherried Mushrooms with Fried Eggs
+      on Toast to favorites\" src=\"/images/recipe/addtofavorites-bluestar.gif\" title=\"Add
+      this Sherried Mushrooms with Fried Eggs on Toast to favorites\" /></a>\n</div>\n<p
+      class='addtofavorites'>\n<a href=\"#\" onclick=\"return recipess.expandit(1);\"
+      title=\"Add this Sherried Mushrooms with Fried Eggs on Toast recipe to favorites\">Add
       to Favorites</a>\n</p>\n<div class='clear'></div>\n</div>\n<div class='grey-line'>\n<img
       alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n</div>\n<div class='clear'></div>\n</div>\n<div
-      class='clear'></div>\n\n<div id='teaser-border'>\n<p itemprop='summary'>\nFor
+      class='clear'></div>\n\n<div id='teaser-border'>\n<p itemprop='description'>\nFor
       a fabulous topping for a fried egg on toast, Cindy Pawlcyn saut&#233;s <a href=\"/slideshows/mushrooms\">mushrooms</a>
       and onions with the Spanish dry sherry Oloroso.\n</p>\n</div>\n<div class='clear'></div>\n<div
       id='wine-extras'>\n<div class='extras-border-top'>\n<div class='other-item-wine'>\n<div
       class='clearfix' id='recipeWines'>\n<h2>\nOur Pairing Suggestion\n</h2>\n<p>\nThis
       dish could go well with either an earthy red, such as a Pinot Noir, or a crisp
       white, like a Pinot Gris.\n</p>\n</div>\n</div>\n</div>\n</div>\n<div class='clear'></div>\n<div
+      id='camera' style='padding-top:8px'>\n<p><img src=\"/images/icon_camera2.gif\"
+      alt=\"slideshow\"> <a href=\"/slideshows/eggs\"><strong>&nbsp;More Egg Recipes</strong></a></p>\n</div>\n<div
       id='wine-pairings-anchor' style='display:none;'>\n<div class='grey-line'>\n<img
       alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n</div>\n<a href='#snooth'>\n<img
-      src='/images/recipe/snooth_bar.gif' />\n</a>\n</div>\n<div class='clear'></div>\n</div>\n</div>\n<div
+      alt='Pair this Sherried Mushrooms with Fried Eggs on Toast recipe with wine'
+      src='/images/recipe/snooth_bar.gif' title='Pair this Sherried Mushrooms with
+      Fried Eggs on Toast recipe with wine' />\n</a>\n</div>\n<div class='clear'></div>\n</div>\n</div>\n<div
       class='tabcontent' id='recipe2' style='display:none;'>\n<!-- Rate & Review tab
-      head content -->\n<div class='recipe-info'>\n<h2 itemprop='name'>\nSherried
-      Mushrooms with Fried Eggs on Toast\n</h2>\n<ul>\n<li>\nContributed by\n<a href=\"/chefs/cindy-pawlcyn\"
-      itemprop=\"author\" title=\"Chef Cindy Pawlcyn\">Cindy Pawlcyn</a>\n</li>\n</ul>\n<em>\n<div
-      id='cooking-time-top'>\n<div id='time-box'>\n<ul>\n<li id='time-total'>\nTOTAL
-      TIME:\n<strong datetime='PT35M' itemprop='totalTime'>\n35 MIN\n\n</strong>\n</li>\n<li
-      id='time-servings'>\nSERVINGS:\n<strong itemprop='yield'>\n4\n</strong>\n<br
-      />\n</li>\n</ul>\n<div class='clear'></div>\n</div>\n</div>\n</em>\n\n</div>\n<div
-      id='ka_recipes-rr'>\n<div id='comment_content_container'>\n<a name='COMMENTTOP'></a>\n<br
-      />\n<br />\n<div align='center'>\n<img alt=\"Loading\" src=\"http://clientapps.kickapps.com/amex2/comments/images/loading.gif\"
+      head content -->\n<div class='recipe-info'></div>\n<div id='ka_recipes-rr'>\n<div
+      id='comment_content_container'>\n<a name='COMMENTTOP'></a>\n<br />\n<br />\n<div
+      align='center'>\n<img alt=\"Loading\" src=\"http://clientapps.kickapps.com/amex2/comments/images/loading.gif\"
       />\n</div>\n</div>\n</div>\n<script defer='defer' src='http://clientapps.kickapps.com/amex2/comments/start.php?as=117547&amp;tzAbbr=EST&amp;n=Sherried%20Mushrooms%20with%20Fried%20Eggs%20on%20Toast&amp;id=http%3A%2F%2Fwww.foodandwine.com%2Frecipes%2Fsherried-mushrooms-with-fried-eggs-on-toast'
       type='text/javascript'></script>\n<!-- %script{ :type => \"text/javascript\",
       :src => \"http://clientapps.kickapps.com/amex2/comments/start.php?as=117547&tzAbbr=EST&n=#{u(commentable.to_s)}&d=#{u(description)}&id=#{u(page_url
       || (commentable.class.to_s + '-' + commentable.to_param))}\" } -->\n\n</div>\n<div
       class='tabcontent' id='recipe3' style='display:none;'>\n<!-- Related Recipes
-      tab head content -->\n<div class='recipe-info'>\n<h2 itemprop='name'>\nSherried
-      Mushrooms with Fried Eggs on Toast\n</h2>\n<ul>\n<li>\nContributed by\n<a href=\"/chefs/cindy-pawlcyn\"
-      itemprop=\"author\" title=\"Chef Cindy Pawlcyn\">Cindy Pawlcyn</a>\n</li>\n</ul>\n<em>\n<div
-      id='cooking-time-top'>\n<div id='time-box'>\n<ul>\n<li id='time-total'>\nTOTAL
-      TIME:\n<strong datetime='PT35M' itemprop='totalTime'>\n35 MIN\n\n</strong>\n</li>\n<li
-      id='time-servings'>\nSERVINGS:\n<strong itemprop='yield'>\n4\n</strong>\n<br
-      />\n</li>\n</ul>\n<div class='clear'></div>\n</div>\n</div>\n</em>\n\n<div class='grey-line'>\n<img
+      tab head content -->\n<div class='recipe-info'>\n<div class='grey-line'>\n<img
       alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n</div>\n<div class='clear'></div>\n<div
-      id='slideshow-link'>\n<p><img src=\"/images/icon_camera2.gif\" alt=\"slideshow\">
-      <a href=\"/slideshows/eggs\"><strong>&nbsp;More Egg Recipes</strong></a></p>\n<div
-      id='other-content'>\n<div id='recipe_otherlinks'>\n<div class='other-item'>\n<h2>\nRelated
-      Slideshows\n</h2>\n<ul>\n<li>\nFind 15 more recipes in our <a href=\"/slideshows/cheap-and-delicious\"
-      title=\"Cheap and Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind
-      15 more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a>
-      Recipes slideshow.\n</li>\n<li>\nFind 10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\"
+      id='slideshow-link'>\n<div id='other-content'>\n<div id='recipe_otherlinks'>\n<div
+      class='other-item'>\n<h2>\nRelated Slideshows\n</h2>\n<ul>\n<li>\nFind 15 more
+      recipes in our <a href=\"/slideshows/cheap-and-delicious\" title=\"Cheap and
+      Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind 25
+      more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a> Recipes
+      slideshow.\n</li>\n<li>\nFind 10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\"
       title=\"New Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
       10 more recipes in our <a href=\"/slideshows/organic-wine-pairings\" title=\"Organic
-      Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n</ul>\n\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div
+      Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n<li>\nFind
+      20 more recipes in our <a href=\"/slideshows/pinot-noir-pairings\" title=\"Pinot
+      Noir Pairings\">Pinot Noir Pairings</a> Recipes slideshow.\n</li>\n</ul>\n\n</div>\n</div>\n</div>\n</div>\n\n</div>\n</div>\n</div>\n<div
       id='user-attract'>\n<div id='user-attract-buttons'>\n<div id='facebook-like'>\n<iframe
       src=http://www.facebook.com/plugins/like.php?href=http:%2F%2Fwww.foodandwine.com%2Frecipes%2Fsherried-mushrooms-with-fried-eggs-on-toast&amp;layout=standard&amp;show_faces=false&amp;width=204&amp;action=like&amp;colorscheme=light&amp;height=40
       scrolling=\"no\" frameborder=\"0\" style=\"border:none; width:204px; height:40px;\"
-      allowTransparency=\"true\"></iframe>\n\n</div>\n\n<div id='buzz-box'>\n<script
-      badgetype='small' showbranding='0' src='http://d.yimg.com/ds/badge.js' type='text/javascript'>\nfood_wine62:http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast\n</script>\n<script
-      type='text/javascript'>\naddthis_url = location.href;\naddthis_title = document.title;\naddthis_pub
-      = 'aexp_community';\n</script>\n</div>\n<div id='bookmark-box'>\n<script src='http://s7.addthis.com/js/addthis_widget.php?v=12'
-      type='text/javascript'></script>\n</div>\n</div>\n\n<div class='clear'></div>\n<div
-      id='image-time-print'>\n<div id='featured_image_frame'>\n<img alt=\"Sherried
-      Mushrooms with Fried Eggs on Toast\" id=\"featured_image\" itemprop=\"photo\"
+      allowTransparency=\"true\"></iframe>\n\n</div>\n\n<div id='bookmark-box'>\n<script
+      src='http://s7.addthis.com/js/addthis_widget.php?v=12' type='text/javascript'></script>\n</div>\n</div>\n\n<div
+      class='clear'></div>\n<div id='image-time-print'>\n<div id='featured_image_frame'>\n<img
+      alt=\"Sherried Mushrooms with Fried Eggs on Toast\" id=\"featured_image\" itemprop=\"image\"
       src=\"/images/sys/200904-r-mushroom-eggs.jpg\" />\n<div class='imageCredit'>\n©
       Tina Rupp\n</div>\n<div class='imageCredit'>\n\n</div>\n</div>\n</div>\n\n</div>\n</div>\n<div
-      class='clear'></div>\n<div class='clearfix' id='recipe-content' style='display:block;'>\n<h2>\nSherried
-      Mushrooms with Fried Eggs on Toast\n</h2>\n<div class='clear'></div>\n<div id='cooking-time'>\n<ul>\n\n\n<meta
-      content='Breakfast &amp; Brunch' itemprop='recipeType' />\n\n\n<li id='time-fast'>FAST</li>\n\n\n<meta
-      content='Main Courses' itemprop='recipeType' />\n<li id='time-ahead'>MAKE-AHEAD</li>\n<li
-      id='time-staff'>STAFF-FAVORITE</li>\n\n<li id='time-veg'>VEGETARIAN</li>\n\n\n</ul>\n</div>\n<div
-      class='clear'></div>\n<div id='ingredients'>\n<ol>\n<li itemprop='ingredient'
-      itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Extra-virgin olive oil' itemprop='name' />\n<span>\n2 tablespoons extra-virgin
-      olive oil, plus more for brushing\n</span>\n</li>\n<li itemprop='ingredient'
-      itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Mushroom' itemprop='name' />\n<span>\n3/4 pound mixed mushrooms, such
-      as button and cremini, sliced 1/4 inch thick\n</span>\n</li>\n<li itemprop='ingredient'
-      itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Pepper' itemprop='name' />\n<span>\nSalt and freshly ground pepper\n</span>\n</li>\n<li
-      itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Onion' itemprop='name' />\n<span>\n1/2 small onion, thinly sliced\n</span>\n</li>\n<li
-      itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Dry sherry' itemprop='name' />\n<span>\n1/4 cup dry sherry, such as
-      Oloroso\n</span>\n</li>\n<li itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Bread' itemprop='name' />\n<span>\nFour 1/2-inch-thick slices of rustic
-      white bread\n</span>\n</li>\n<li itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Butter' itemprop='name' />\n<span>\n2 tablespoons unsalted butter\n</span>\n</li>\n<li
-      itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Egg' itemprop='name' />\n<span>\n4 large eggs\n</span>\n</li>\n<li
-      itemprop='ingredient' itemscope='' itemtype='http://data-vocabulary.org/RecipeIngredient'>\n<meta
-      content='Parsley' itemprop='name' />\n<span>\n2 tablespoons coarsely chopped
-      flat-leaf parsley\n</span>\n</li>\n</ol>\n</div>\n<div id='directions'>\n<ol
-      itemprop='instructions'>\n<li>\n\nPreheat the oven to 400&#176;. In a large
-      skillet, heat the 2 tablespoons of oil until shimmering. Add the mushrooms and
-      season with salt and pepper. Cover and cook over moderate heat, stirring a few
-      times, until softened, 4 minutes. Add the onion, cover and cook, stirring occasionally,
-      until the onion is softened and the mushrooms are browned, 3 minutes longer.
-      Add the sherry and cook until almost evaporated, 1 minute. Season with salt
-      and pepper. Remove from the heat, cover and set aside.\n</li>\n<li>\n\nArrange
+      class='clear'></div>\n<div class='clearfix' id='recipe-content' style='display:block;'>\n<h2>\nRecipe:
+      Sherried Mushrooms with Fried Eggs on Toast\n</h2>\n<div class='clear'></div>\n<div
+      id='cooking-time'>\n<ul>\n\n\n<meta content='Breakfast &amp; Brunch' itemprop='recipeCategory'
+      />\n\n\n<li id='time-fast'>FAST</li>\n\n\n<meta content='Main Courses' itemprop='recipeCategory'
+      />\n<li id='time-ahead'>MAKE-AHEAD</li>\n<li id='time-staff'>STAFF-FAVORITE</li>\n\n<li
+      id='time-veg'>VEGETARIAN</li>\n</ul>\n</div>\n<div class='clear'></div>\n<div
+      id='ingredients'>\n<ol>\n<li>\n<span itemprop='ingredients'>\n2 tablespoons
+      extra-virgin olive oil, plus more for brushing\n</span>\n</li>\n<li>\n<span
+      itemprop='ingredients'>\n3/4 pound mixed mushrooms, such as button and cremini,
+      sliced 1/4 inch thick\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\nSalt
+      and freshly ground pepper\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\n1/2
+      small onion, thinly sliced\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\n1/4
+      cup dry sherry, such as Oloroso\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\nFour
+      1/2-inch-thick slices of rustic white bread\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\n2
+      tablespoons unsalted butter\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\n4
+      large eggs\n</span>\n</li>\n<li>\n<span itemprop='ingredients'>\n2 tablespoons
+      coarsely chopped flat-leaf parsley\n</span>\n</li>\n</ol>\n</div>\n<div id='directions'>\n<ol
+      itemprop='recipeInstructions'>\n<li>\n\nPreheat the oven to 400&#176;. In a
+      large skillet, heat the 2 tablespoons of oil until shimmering. Add the mushrooms
+      and season with salt and pepper. Cover and cook over moderate heat, stirring
+      a few times, until softened, 4 minutes. Add the onion, cover and cook, stirring
+      occasionally, until the onion is softened and the mushrooms are browned, 3 minutes
+      longer. Add the sherry and cook until almost evaporated, 1 minute. Season with
+      salt and pepper. Remove from the heat, cover and set aside.\n</li>\n<li>\n\nArrange
       the bread slices on a large rimmed baking sheet and brush with olive oil. Bake
       for about 6 minutes, until toasted. Transfer the toasts to plates.\n</li>\n<li>\n\nIn
       a large, nonstick skillet, melt the butter over moderate heat. Crack the eggs
@@ -822,109 +853,94 @@
       src='\"+__sn_turl+\"/r\"+escape(escape(__sn_pid+'-'+__sn_rid))+\"' type='text/javascript'%3E%3C/script%3E\"));\ndocument.write(unescape(\"%3Cscript
       src='http://edge-media1.snooth.com/js-compressed/fw-recipe-pairing.sr11891.js'
       type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<!--\nEND OF SNOOTH
-      MODULE\n-->\n\n<div class='other-item-original'>\n<h2>\nRelated Slideshows\n</h2>\n<ul>\n<li>\nFind
+      MODULE\n-->\n\n<div class='clear'></div>\n<div id='slideshow-link'>\n<div id='other-content'>\n<div
+      id='recipe_otherlinks'>\n<div class='other-item'>\n<h2>\nRelated Slideshows\n</h2>\n<ul>\n<li>\nFind
       15 more recipes in our <a href=\"/slideshows/cheap-and-delicious\" title=\"Cheap
       and Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind
-      15 more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a>
+      25 more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a>
       Recipes slideshow.\n</li>\n<li>\nFind 10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\"
       title=\"New Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
       10 more recipes in our <a href=\"/slideshows/organic-wine-pairings\" title=\"Organic
-      Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n</ul>\n\n</div>\n</div>\n</div>\n<div
+      Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n<li>\nFind
+      20 more recipes in our <a href=\"/slideshows/pinot-noir-pairings\" title=\"Pinot
+      Noir Pairings\">Pinot Noir Pairings</a> Recipes slideshow.\n</li>\n</ul>\n\n</div>\n</div>\n</div>\n</div>\n\n</div>\n</div>\n<div
       class='clear'></div>\n<div class='recipe-intro-end'>\n<ul>\n<li>\nFrom\n<a href=\"/articles/mushroom-tips\"
       title=\"Mushroom Tips\">Mushroom Tips</a>, <a href=\"/articles/northern-california-wine-country-recipes-and-value-wines\"
       title=\"Northern California Wine Country Recipes &#38; Value Wines\">Northern
       California Wine Country Recipes &#38; Value Wines</a>, <a href=\"/articles/recipe-of-the-day-archive-july-2009\"
-      title=\"Recipe of the Day: July 2009\">Recipe of the Day: July 2009</a>\n</li>\n<li>\nPublished\n<span
-      datetime='2010-12-20' itemprop='published'>\n<a href=\"/monthly/april-2009\"
-      title=\"Food &amp; Wine's April 2009 Issue\">April 2009</a>\n</span>\n</li>\n</ul>\n</div>\n<div
-      class='free-issues'>\n<script language='javascript' type='text/javascript'>\nvar
-      adCm = adFactory.getCmAd(460, 70, \"recipe\", \"tout\");\nadCm.write();\n</script>\n\n</div>\n\n<div
+      title=\"Recipe of the Day: July 2009\">Recipe of the Day: July 2009</a>\n</li>\n<li>\nPublished\n<span>\n<a
+      href=\"/monthly/april-2009\" title=\"Food &amp; Wine's April 2009 Issue\">April
+      2009</a>\n</span>\n</li>\n</ul>\n</div>\n<div class='free-issues'>\n<script
+      language='javascript' type='text/javascript'>\n//<![CDATA[\nvar adCm = adFactory.getCmAd(460,
+      70, \"recipe\", \"tout\");\nadCm.write();\n//]]>\n</script>\n\n</div>\n\n<div
       class='display:none' id='review-content' style='display: none;'></div>\n<!--
       Reviews div -->\n<div id='more-content' style='display:none;'></div>\n<script
       type='text/javascript'>\n  //<![CDATA[\n    var recipess=new ddtabcontent(\"recipetabs\")\n
       \   recipess.setpersist(false)\n    recipess.setselectedClassTarget(\"linkparent\")\n
       \   recipess.init()\n  //]]>\n</script>\n</div>\n</div>\n\n</div>\n<div id='secondary'>\n<div
-      id='col'>\n<div class='wrap'>\n<div id='rr-ad'>\n<div id='subscModule'>\n<div
-      id='getMore'>\n                      <p>\n                        Get More\n
-      \                     </p>\n                      <img src='/images/fw_rrlogo.gif'
-      />\n                    </div>\n                    <div id='booksMod'>\n\n
-      \                     <div id='subscMag'>\n                        <a href='https://subscription.timeinc.com/storefront/link/1002190.html'>\n
-      \                         <img alt='Subscribe to F&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;W
-      Magazine' border='0' height='74' src='http://www.amexpub.com/images/covers/fw-cover-104.jpg'
-      width='56' />\n                        </a>\n                        <a href='https://subscription.timeinc.com/storefront/link/1002190.html'>\n
-      \                         SUBSCRIBE\n                        </a>\n                      </div>\n
-      \                     <div id='bookMag'>\n\n                        <a href='https://www.amexpubbooks.com/annual11TOUT'>\n
-      \                         <img alt='F&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;W
-      Books' border='0' height='74' src='/images/fwcb.jpg' width='56' />\n                        </a>\n
-      \                       <a href='https://www.amexpubbooks.com/annual11TOUT'>\n
-      \                         FREE BOOK\n                        </a>\n                      </div>\n
-      \                     <div id='ipadMag'>\n                        <a href='http://www.foodandwine.com/mobile-apps'>\n\n
-      \                         <img alt='F&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;W
-      iPad Edition' border='0' height='74' src='/images/fwipad.jpg' width='56' />\n
-      \                       </a>\n                        <a href='http://www.foodandwine.com/mobile-apps'>\n
-      \                         IPAD\n                        </a>\n                      </div>\n
-      \                     <div id='clubMag'>\n                        <a href='https://subscription.timeinc.com/storefront/link/1001981.html'>\n
-      \                         <img alt='F&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;W
-      Connoisseur Club' border='0' height='74' src='/images/fwcc.jpg' width='56' />\n\n
-      \                       </a>\n                        <a href='https://subscription.timeinc.com/storefront/link/1001981.html'>\n
-      \                         TRY IT FREE\n                        </a>\n                      </div>\n
-      \                   </div>\n</div>\n</div>\n<div id='rr-ad'>\n<script language='javascript'
-      type='text/javascript'>\nvar multiAd = adFactory.getMultiAd(new Array('300x250',
-      '300x600'));\nmultiAd.setPosition('1');\nmultiAd.write();\n</script>\n\n</div>\n<div
-      id='rr-ad'>\n<div class='emailcontainer'>\n<div class='emailheader'>\n<p class='newtitles'>\nE-NEWSLETTERS\n</p>\n<div
+      id='col'>\n<div class='wrap'>\n<div class='rr-ad'>\n<div id='subscModule'>\n<script
+      language='javascript' type='text/javascript'>\n//<![CDATA[\nvar adCm = adFactory.getCmAd(300,
+      250, \"globalsidebar\", \"tout\");\nadCm.write();\n//]]>\n</script>\n\n</div>\n</div>\n<div
+      class='rr-ad'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
+      multiAd = adFactory.getMultiAd(new Array('300x250', '300x600'));\nmultiAd.setPosition('1');\nmultiAd.write();\n//]]>\n</script>\n\n</div>\n<div
+      class='rr-ad'>\n<div class='emailcontainer'>\n<div class='containertext'>\n<div
       id='flash-error'></div>\n<form action=\"/newsletters/sign-up\" method=\"post\"
       onsubmit=\"if (validateEmail(this.e_mail)) { jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray())
-      + '&amp;authenticity_token=' + encodeURIComponent('pyHizM9fEEFmndq3oTS84Ak1kZGTkEvGPxc2i4CKLC0='),
+      + '&amp;authenticity_token=' + encodeURIComponent('C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo='),
       dataType:'script', type:'post', url:'/newsletters/sign-up'}); }; return false;\"><div
       style=\"margin:0;padding:0;display:inline\"><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"pyHizM9fEEFmndq3oTS84Ak1kZGTkEvGPxc2i4CKLC0=\" /></div>\n<div
-      id='foodcontainer'>\n<div class='radio'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
+      type=\"hidden\" value=\"C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo=\" /></div>\n<div
+      class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
-      />\n</div>\n<div class='textbox'>\n<p class='enewstext'>\n<span class='textboldlabel'>\nFOOD\n</span>\n<br
-      />\n<span class='textbold'>\nThe Dish:\n</span>\nTwice weekly chef recipes made
-      easy, weekly meal planners.\n</p>\n</div>\n</div>\n<div id='winecontainer'>\n<div
-      class='radio'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
-      type=\"checkbox\" value=\"2069486254\" />\n</div>\n<div class='textbox'>\n<p
-      class='enewstext'>\n<span class='textboldlabel'>\nWINE\n</span>\n<br />\n<span
-      class='textbold'>\nThe Wine List:\n</span>\nWeekly pairings, best bottles to
-      buy and the latest news.\n</p>\n</div>\n</div>\n<div id='enewsformcontainer'>\n<div
-      class='privacy-info-popup-holder'>\n<div class='privacy-info-popup'>\n<div class='privacy-info-popup-text'>\nAmerican
-      Express Publishing (\"AEP\") may use your email address to send you account
-      updates and offers that may interest you. To learn more about the ways we may
-      use your email address and about your privacy choices, read the\n<a href='http://www.amexpub.com/privacy/'
-      target='_blank'>\nAEP Privacy Statement.\n</a>\n</div>\n<img alt='' class='privacy-info-popup-triangle'
+      />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
+      class='textbold'>\nThe Dish\n</span>\n<span class='textdescription'>\nTwice
+      weekly chef recipes made easy, weekly meal planners.\n</span>\n</div>\n</div>\n<hr
+      class='hrline' size='1' />\n<div class='rowtext'>\n<div class='checkbox'>\n<input
+      id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
+      type=\"checkbox\" value=\"2069486254\" />\n</div>\n<div class='textboldlabel'>\nwine\n</div>\n<div
+      class='righttextdetails'>\n<span class='textbold'>\nThe Wine List\n</span>\n<span
+      class='textdescription'>\nWeekly pairings, best bottles to buy and the latest
+      news.\n</span>\n</div>\n</div>\n<hr class='hrline' size='1' />\n<div class='rowtext'>\n<div
+      class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
+      type=\"checkbox\" value=\"260816546\" />\n</div>\n<div class='textboldlabel'>\ndaily\n</div>\n<div
+      class='righttextdetails'>\n<span class='textbold'>\nF&amp;W Daily\n</span>\n<span
+      class='textdescription'>\nOne sensational dish served fresh every day.\n</span>\n</div>\n</div>\n<div
+      class='clear'></div>\n<div class='enewsformcontainer'>\n<div id='enewsform'>\n<div>\n<input
+      class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text'
+      value='Enter your email address' />\n<a href='http://www.foodandwine.com/newsletters'
+      target='_blank'></a>\n<input alt=\"Go\" class=\"signupbtn\" name=\"submit\"
+      src=\"/images/submitForm.gif\" type=\"image\" value=\"Sign Up\" />\n<input id=\"newsletter_source\"
+      name=\"newsletter[source]\" type=\"hidden\" value=\"CM TOUT\" />\n</div>\n<div
+      class='clear'></div>\n<div class='privacy-info-popup-holder'>\n<div class='privacy-info-popup'>\n<div
+      class='privacy-info-popup-text'>\nAmerican Express Publishing (\"AEP\") may
+      use your email address to send you account updates and offers that may interest
+      you. To learn more about the ways we may use your email address and about your
+      privacy choices, read the\n<a href='http://www.amexpub.com/privacy/' target='_blank'>\nAEP
+      Privacy Statement.\n</a>\n</div>\n<img alt='' class='privacy-info-popup-triangle'
       src='/images/popup-triangle.png' />\n</div>\n<a class='privacy-info-link' href='http://www.amexpub.com/privacy/#what_info'
-      target='_blank'>\nHow we use your email address\n</a>\n</div>\n\n<div id='enewsform'>\n<div>\n<input
-      class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' src='images/textfbg.gif'
-      type='text' value='Enter your email address' />\n</div>\n<div>\n<a href='http://www.foodandwine.com/newsletters'
-      target='_blank'></a>\n<input alt=\"Go\" name=\"submit\" src=\"/images/signupbtn.gif\"
-      type=\"image\" value=\"Sign Up\" />\n<input id=\"newsletter_source\" name=\"newsletter[source]\"
-      type=\"hidden\" value=\"CM TOUT\" />\n</div>\n</div>\n</div>\n</form>\n</div>\n</div>\n\n</div>\n<div
-      id='rr-ad'>\n<script language='javascript' type='text/javascript'>\nvar ad =
-      adFactory.getAd(300, 250);\nad.setPosition('2');\nad.write();\n</script>\n\n</div>\n<div
-      id='rr-ad'>\n<script language='javascript' type='text/javascript'>\nvar adCm
-      = adFactory.getCmAd(300, 250, \"globalsidebar\", \"ofie\");\nadCm.write();\n</script>\n\n</div>\n<div
-      id='rr-ad'>\n<script language='javascript' type='text/javascript'>\nvar ad =
-      adFactory.getAd(300, 250);\nad.setPosition('3');\nad.write();\n</script>\n\n</div>\n<div
-      id='marketplace'>\n<h3 title='Marketplace'>\n<div class='hiddenText'>\nMARKETPLACE\n</div>\n<em></em>\n</h3>\n<div
-      style='margin-left:10px'>\n<div style='margin-top:5px;'>\n<div id='ad_marketplace_textlinks_142x70'>\n<script
-      language='javascript' type='text/javascript'>\nvar ad = adFactory.getAd(142,
-      70);\nad.setPosition('1');\nad.write();\n</script>\n\n</div>\n</div>\n<div style='margin-top:5px;'>\n<div
-      id='ad_marketplace_textlinks_142x70'>\n<script language='javascript' type='text/javascript'>\nvar
-      ad = adFactory.getAd(142, 70);\nad.setPosition('2');\nad.write();\n</script>\n\n</div>\n</div>\n<div
-      style='margin-top:5px;'></div>\n<div id='ad_marketplace_textlinks_142x70'>\n<script
-      language='javascript' type='text/javascript'>\nvar ad = adFactory.getAd(142,
-      70);\nad.setPosition('3');\nad.write();\n</script>\n\n</div>\n</div>\n</div>\n<div
-      id='marketplace-bottomCap'>\n&nbsp;\n</div>\n</div>\n</div>\n</div>\n\n</div>\n</div>\n<div
+      style='float: left;' target='_blank'>\nHow we use your email address\n</a>\n</div>\n\n</div>\n</div>\n</div>\n</form>\n</div>\n</div>\n\n</div>\n<div
+      class='rr-ad'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
+      ad = adFactory.getAd(300, 250);\nad.setPosition('2');\nad.write();\n//]]>\n</script>\n\n</div>\n<div
+      class='rr-ad'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
+      adCm = adFactory.getCmAd(300, 250, \"globalsidebar\", \"ofie\");\nadCm.write();\n//]]>\n</script>\n\n</div>\n<div
+      id='marketplace'>\n<h3 title='Marketplace'>\n<div class='hiddenText'>\nMARKETPLACE\n</div>\n</h3>\n<div
+      id='mp-header'></div>\n<div id='mp-middler'>\n<div>\n<div class='ad_marketplace_textlinks_250x70-top'>\n<script
+      language='javascript' type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(142,
+      70);\nad.setPosition('1');\nad.write();\n//]]>\n</script>\n\n</div>\n</div>\n<div>\n<div
+      class='ad_marketplace_textlinks_250x70'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
+      ad = adFactory.getAd(142, 70);\nad.setPosition('2');\nad.write();\n//]]>\n</script>\n\n</div>\n</div>\n<div>\n<div
+      class='ad_marketplace_textlinks_250x70-bottom'>\n<script language='javascript'
+      type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(142, 70);\nad.setPosition('3');\nad.write();\n//]]>\n</script>\n\n</div>\n</div>\n</div>\n<div
+      id='mp-bottomer'></div>\n</div>\n</div>\n</div>\n</div>\n\n</div>\n</div>\n<div
       class='clearFix' id='footerContainer'>\n<div id='ad-strip-btm'>\n<script language='javascript'
-      type='text/javascript'>\nvar adCm = adFactory.getCmAd(990, 95, \"globalfooter\",
-      \"tout\");\nadCm.write();\n</script>\n\n</div>\n<!-- FOOTER SITEMAP -->\n<div
-      id='flinksMenu'>\n<p class='menusection'>\n<span class='categorystyle'>CATEGORY</span>\n<a
+      type='text/javascript'>\n//<![CDATA[\nvar adCm = adFactory.getCmAd(990, 95,
+      \"globalfooter\", \"tout\");\nadCm.write();\n//]]>\n</script>\n\n</div>\n<!--
+      FOOTER SITEMAP -->\n<div id='flinksMenu'>\n<p class='menusection'>\n<span class='categorystyle'>CATEGORY</span>\n<a
       href=\"/recipes\">Recipes &amp; Chefs</a>\n<span class='horzSpace'>\n|\n</span>\n<a
       href=\"/wine\">Wine &amp; Cocktails</a>\n<span class='horzSpace'>\n|\n</span>\n<a
       href=\"/restaurants\">Restaurants &amp; Travel</a>\n<span class='horzSpace'>\n|\n</span>\n<a
       href=\"/entertaining\">Entertaining &amp; Home</a>\n<span class='horzSpace'>\n|\n</span>\n<a
-      href='http://www.foodandwine.com/community'>Community</a>\n<span class='horzSpace'>\n|\n</span>\n<a
+      href='http://www.foodandwine.com/blogs/mouthing-off'>Blogs</a>\n<span class='horzSpace'>\n|\n</span>\n<a
       href=\"/monthly\">Magazine</a>\n</p>\n<div class='flinksVspace'></div>\n<p class='menusection'>\n<span
       class='categorystyle'>HELP</span>\n<a href='https://secure.customersvc.com/servlet/Show?WESPAGE=pe/home.html&amp;MSRSMAG=WI'>Customer
       Service</a>\n<span class='horzSpace'>\n|\n</span>\n<a href='http://www.foodandwine.com/contact/'>Contact
@@ -961,37 +977,44 @@
       />\n<br />\nUsers of this site agree to be bound by the terms of the American
       Express Publishing\n<br />\nCorporation Website Terms and Conditions.\n<br />\n<br
       />\n<span class='cwcolor'>Copyright &copy; 1997 - 2011 American Express Publishing
-      Corporation. All Rights Reserved.</span>\n<br />\n1.18.9\n</p>\n</div>\n</div>\n<!--
+      Corporation. All Rights Reserved.</span>\n<br />\n1.21.11\n</p>\n</div>\n</div>\n<!--
       FOOTER SITEMAP -->\n<div class='emailcontainer-bttm'>\n<div class='emailcontainer'>\n<div
-      class='emailheader'>\n<p class='newtitles'>\nE-NEWSLETTERS\n</p>\n<div id='flash-error'></div>\n<form
-      action=\"/newsletters/sign-up\" method=\"post\" onsubmit=\"if (validateEmail(this.e_mail))
-      { jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray()) + '&amp;authenticity_token='
-      + encodeURIComponent('pyHizM9fEEFmndq3oTS84Ak1kZGTkEvGPxc2i4CKLC0='), dataType:'script',
-      type:'post', url:'/newsletters/sign-up'}); }; return false;\"><div style=\"margin:0;padding:0;display:inline\"><input
-      name=\"authenticity_token\" type=\"hidden\" value=\"pyHizM9fEEFmndq3oTS84Ak1kZGTkEvGPxc2i4CKLC0=\"
-      /></div>\n<div id='foodcontainer'>\n<div class='radio'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
+      class='containertext'>\n<div id='flash-error'></div>\n<form action=\"/newsletters/sign-up\"
+      method=\"post\" onsubmit=\"if (validateEmail(this.e_mail)) { jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray())
+      + '&amp;authenticity_token=' + encodeURIComponent('C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo='),
+      dataType:'script', type:'post', url:'/newsletters/sign-up'}); }; return false;\"><div
+      style=\"margin:0;padding:0;display:inline\"><input name=\"authenticity_token\"
+      type=\"hidden\" value=\"C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo=\" /></div>\n<div
+      class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
-      />\n</div>\n<div class='textbox'>\n<p class='enewstext'>\n<span class='textboldlabel'>\nFOOD\n</span>\n<br
-      />\n<span class='textbold'>\nThe Dish:\n</span>\nTwice weekly chef recipes made
-      easy, weekly meal planners.\n</p>\n</div>\n</div>\n<div id='winecontainer'>\n<div
-      class='radio'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
-      type=\"checkbox\" value=\"2069486254\" />\n</div>\n<div class='textbox'>\n<p
-      class='enewstext'>\n<span class='textboldlabel'>\nWINE\n</span>\n<br />\n<span
-      class='textbold'>\nThe Wine List:\n</span>\nWeekly pairings, best bottles to
-      buy and the latest news.\n</p>\n</div>\n</div>\n<div id='enewsformcontainer'>\n<div
-      class='privacy-info-popup-holder'>\n<div class='privacy-info-popup'>\n<div class='privacy-info-popup-text'>\nAmerican
-      Express Publishing (\"AEP\") may use your email address to send you account
-      updates and offers that may interest you. To learn more about the ways we may
-      use your email address and about your privacy choices, read the\n<a href='http://www.amexpub.com/privacy/'
-      target='_blank'>\nAEP Privacy Statement.\n</a>\n</div>\n<img alt='' class='privacy-info-popup-triangle'
+      />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
+      class='textbold'>\nThe Dish\n</span>\n<span class='textdescription'>\nTwice
+      weekly chef recipes made easy, weekly meal planners.\n</span>\n</div>\n</div>\n<hr
+      class='hrline' size='1' />\n<div class='rowtext'>\n<div class='checkbox'>\n<input
+      id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
+      type=\"checkbox\" value=\"2069486254\" />\n</div>\n<div class='textboldlabel'>\nwine\n</div>\n<div
+      class='righttextdetails'>\n<span class='textbold'>\nThe Wine List\n</span>\n<span
+      class='textdescription'>\nWeekly pairings, best bottles to buy and the latest
+      news.\n</span>\n</div>\n</div>\n<hr class='hrline' size='1' />\n<div class='rowtext'>\n<div
+      class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\" name=\"newsletter[newsletter_ids][][newsletter_id]\"
+      type=\"checkbox\" value=\"260816546\" />\n</div>\n<div class='textboldlabel'>\ndaily\n</div>\n<div
+      class='righttextdetails'>\n<span class='textbold'>\nF&amp;W Daily\n</span>\n<span
+      class='textdescription'>\nOne sensational dish served fresh every day.\n</span>\n</div>\n</div>\n<div
+      class='clear'></div>\n<div class='enewsformcontainer'>\n<div id='enewsform'>\n<div>\n<input
+      class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text'
+      value='Enter your email address' />\n<a href='http://www.foodandwine.com/newsletters'
+      target='_blank'></a>\n<input alt=\"Go\" class=\"signupbtn\" name=\"submit\"
+      src=\"/images/submitForm.gif\" type=\"image\" value=\"Sign Up\" />\n<input id=\"newsletter_source\"
+      name=\"newsletter[source]\" type=\"hidden\" value=\"CM TOUT\" />\n</div>\n<div
+      class='clear'></div>\n<div class='privacy-info-popup-holder'>\n<div class='privacy-info-popup'>\n<div
+      class='privacy-info-popup-text'>\nAmerican Express Publishing (\"AEP\") may
+      use your email address to send you account updates and offers that may interest
+      you. To learn more about the ways we may use your email address and about your
+      privacy choices, read the\n<a href='http://www.amexpub.com/privacy/' target='_blank'>\nAEP
+      Privacy Statement.\n</a>\n</div>\n<img alt='' class='privacy-info-popup-triangle'
       src='/images/popup-triangle.png' />\n</div>\n<a class='privacy-info-link' href='http://www.amexpub.com/privacy/#what_info'
-      target='_blank'>\nHow we use your email address\n</a>\n</div>\n\n<div id='enewsform'>\n<div>\n<input
-      class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' src='images/textfbg.gif'
-      type='text' value='Enter your email address' />\n</div>\n<div>\n<a href='http://www.foodandwine.com/newsletters'
-      target='_blank'></a>\n<input alt=\"Go\" name=\"submit\" src=\"/images/signupbtn.gif\"
-      type=\"image\" value=\"Sign Up\" />\n<input id=\"newsletter_source\" name=\"newsletter[source]\"
-      type=\"hidden\" value=\"CM TOUT\" />\n</div>\n</div>\n</div>\n</form>\n</div>\n</div>\n\n</div>\n</div>\n<div
-      id='ad-btm'>\n<div id='ad-btm-inner'>\n<script language='javascript' type='text/javascript'>\nvar
+      style='float: left;' target='_blank'>\nHow we use your email address\n</a>\n</div>\n\n</div>\n</div>\n</div>\n</form>\n</div>\n</div>\n\n</div>\n</div>\n<div
+      id='ad-btm'>\n<div id='ad-btm-inner'>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
       ad = adFactory.getAd(728, 90);\nad.setPosition('2');\nad.setParam(\"!c\", \"expandables\");\nad.zone
-      = adFactory.zone + '/footer';\nad.write();\n</script>\n\n</div>\n</div>\n\n</div>\n</body>\n</html>\n"
+      = adFactory.zone + '/footer';\nad.write();\n//]]>\n</script>\n\n</div>\n</div>\n\n</div>\n</body>\n</html>\n\n"
     http_version: '1.1'
