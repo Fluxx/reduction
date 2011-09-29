@@ -6,7 +6,7 @@ module Reduction
   class << self
 
     def strategies
-    	Strategy.subclasses
+    	Strategy.all
     end
 
     def supports?(url)

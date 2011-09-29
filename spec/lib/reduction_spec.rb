@@ -4,16 +4,9 @@ describe Reduction do
 
   describe '.strategies' do
 
-  	it 'returns an array of strategies available' do
-  		described_class.strategies.should =~ [
-	  		Reduction::Strategy::AllRecipes,
-        Reduction::Strategy::Chow,
-        Reduction::Strategy::Epicurious,
-        Reduction::Strategy::Food,
-        Reduction::Strategy::FoodAndWine,
-        Reduction::Strategy::FoodNetwork,
-        Reduction::Strategy::Gourmet
-     	]
+  	it 'defers to Strategy.all' do
+  		described_class::Strategy.should_receive(:all)
+      described_class.strategies
   	end
 
   end
@@ -21,7 +14,7 @@ describe Reduction do
   describe 'supports?' do
 
   	it 'returns true if any of the strategies support the defined URL' do
-  		Reduction::Strategy::Chow.stub(for_url?: true)
+  		described_class.strategies.first.stub(for_url?: true)
   		described_class.supports?('http://www.example.com').should be_true
   	end
 
