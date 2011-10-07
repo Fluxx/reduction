@@ -86,7 +86,7 @@ module Reduction
 
       let(:example_2) do
         described_class.new.tap do |l|
-          l.name = 'secnd list'
+          l.name = 'second list'
           l << 2
           l << 3.1415
         end
@@ -102,18 +102,18 @@ module Reduction
         MultiJson.decode(str)
       end
 
-      # it 'can be serialized and de-serialized' do
-      #   round_trip = decoded(encoded(example_1))
-      #   round_trip.should == example_1
-      #   round_trip.name.should == 'example list'
-      # end
+      it 'can be serialized and de-serialized' do
+        round_trip = decoded(encoded(example_1))
+        round_trip.should == example_1
+        round_trip.name.should == 'example list'
+      end
 
-      # it 'works if there is an array of named lists' do
-      #   round_trip = decoded(encoded(both))
-      #   round_trip.should == both
-      #   round_trip.last.should == example_2
-      #   round_trip.last.name.should == 'second list'
-      # end
+      it 'works if there is an array of named lists' do
+        round_trip = decoded(encoded(both))
+        round_trip.should == both
+        round_trip.last.should == example_2
+        round_trip.last.name.should == 'second list'
+      end
 
     end
 

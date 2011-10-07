@@ -1,4 +1,5 @@
 require "delegate"
+require "multi_json"
 
 module Reduction
 
@@ -7,6 +8,19 @@ module Reduction
 
     def initialize(*args)
       super(Array.new(*args))
+    end
+
+    def to_json(*a)
+      {
+        :json_class => self.class.name,
+        :data => { :name => @name, :list => self.to_a}
+      }.to_json(*a)
+    end
+
+    def self.json_create(object)
+      new(object['data']['list']).tap do |list|
+        list.name = object['data']['name']
+      end
     end
 
     def self.from_node_set(nodeset, title_elem)
