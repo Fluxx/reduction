@@ -497,31 +497,33 @@
       code: 200
       message: OK
     headers:
-      cache-control:
-      - max-age=300,public
-      content-length:
-      - '44353'
-      content-type:
-      - text/html; charset=utf-8
       date:
-      - Tue, 27 Sep 2011 04:50:24 GMT
-      etag:
-      - ! '"ab0f42e6ac4549855a148b8b578980d6"'
-      last-modified:
-      - Tue, 27 Sep 2011 04:50:25 GMT
+      - Fri, 07 Oct 2011 22:15:00 GMT
       server:
       - Apache/2.2.3 (Red Hat)
+      x-powered-by:
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.7
+      etag:
+      - ! '"34d3629d706b45bd5ca6402191fc1d4f"'
+      x-runtime:
+      - '825'
+      cache-control:
+      - max-age=300, public
       set-cookie:
-      - _fwr-frontend_session=BAh7BzoPc2Vzc2lvbl9pZCIlYWFmMmMwODUxNDg0N2IzOGYwMzRiYTJlMGNiZDdmYzk6EF9jc3JmX3Rva2VuIjFDNktKck9JdDdEbXJIV2JLVkx6ZXJCQ1U0eE9qWHR1UUF3ZEdTUVdFSnhvPQ%3D%3D--44959593c7e6e28233d65648159041ca6f0201f1;
+      - _fwr-frontend_session=BAh7BzoPc2Vzc2lvbl9pZCIlOTljY2U4NjU3NjhhNGZiODYxMWRiYmRiZmZkNmQ3ZTM6EF9jc3JmX3Rva2VuIjFBVHRFZHFUYWYzVndleURBbjM5OVlzdnBPdE0vMzBWQzFpWjM0WndyS1djPQ%3D%3D--49ef611eef92078c634e18d523a41c33bb8cf259;
         path=/; HttpOnly
+      last-modified:
+      - Fri, 07 Oct 2011 22:15:01 GMT
       status:
       - '200'
       vary:
       - Accept-Encoding
-      x-powered-by:
-      - Phusion Passenger (mod_rails/mod_rack) 3.0.7
-      x-runtime:
-      - '482'
+      content-type:
+      - text/html; charset=utf-8
+      content-length:
+      - '44862'
+      connection:
+      - keep-alive
     body: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
       keynote='CuisineEtVin' xmlns='http://www.w3.org/1999/xhtml'>\n<head>\n<meta
       content='text/html; charset=iso-8859-1' http-equiv='Content-type' />\n<meta
@@ -674,7 +676,7 @@
       title='Subscribe to F&amp;W'>\n<img alt='F&amp;W Magazine' height='85' src='http://www.amexpub.com/images/covers/fw-cover-104.jpg'
       width='66' />\n</a>\n</div>\n<div id='subscToutLinksContainer'>\n<ul>\n<li class='lineHeight'>\n<a
       href='https://subscription.timeinc.com/storefront/link/1001005.html'>\nTRY 2
-      RISK-FREE ISSUES\n</a>\n</li>\n<li>\n<a href='https://subscription.timeinc.com/storefront/link/1002188.html'>\nSUBSCRIBE\n</a>\n</li>\n<li>\n<a
+      FREE PREVIEW ISSUES\n</a>\n</li>\n<li>\n<a href='https://subscription.timeinc.com/storefront/link/1002188.html'>\nSUBSCRIBE\n</a>\n</li>\n<li>\n<a
       href='https://subscription.timeinc.com/storefront/link/1002341.html'>\nGIVE
       A GIFT\n</a>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n<!--\nend branding\n-->\n<div
       id='search'>\n<form action='/search' id='search-form' method='get'>\n<input
@@ -788,10 +790,13 @@
       id='slideshow-link'>\n<div id='other-content'>\n<div id='recipe_otherlinks'>\n<div
       class='other-item'>\n<h2>\nRelated Slideshows\n</h2>\n<ul>\n<li>\nFind 15 more
       recipes in our <a href=\"/slideshows/cheap-and-delicious\" title=\"Cheap and
-      Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind 25
+      Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind 31
       more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a> Recipes
-      slideshow.\n</li>\n<li>\nFind 10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\"
-      title=\"New Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
+      slideshow.\n</li>\n<li>\nFind 30 more recipes in our <a href=\"/slideshows/fall-flavors-mushrooms-apples-butternut-squash\"
+      title=\"Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash\">Iconic Fall
+      Flavors: Mushrooms, Apples, Butternut Squash</a> Recipes slideshow.\n</li>\n<li>\nFind
+      10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\" title=\"New
+      Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
       10 more recipes in our <a href=\"/slideshows/organic-wine-pairings\" title=\"Organic
       Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n<li>\nFind
       20 more recipes in our <a href=\"/slideshows/pinot-noir-pairings\" title=\"Pinot
@@ -857,9 +862,12 @@
       id='recipe_otherlinks'>\n<div class='other-item'>\n<h2>\nRelated Slideshows\n</h2>\n<ul>\n<li>\nFind
       15 more recipes in our <a href=\"/slideshows/cheap-and-delicious\" title=\"Cheap
       and Delicious\">Cheap and Delicious</a> Recipes slideshow.\n</li>\n<li>\nFind
-      25 more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a>
-      Recipes slideshow.\n</li>\n<li>\nFind 10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\"
-      title=\"New Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
+      31 more recipes in our <a href=\"/slideshows/eggs\" title=\"Eggs\">Eggs</a>
+      Recipes slideshow.\n</li>\n<li>\nFind 30 more recipes in our <a href=\"/slideshows/fall-flavors-mushrooms-apples-butternut-squash\"
+      title=\"Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash\">Iconic Fall
+      Flavors: Mushrooms, Apples, Butternut Squash</a> Recipes slideshow.\n</li>\n<li>\nFind
+      10 more recipes in our <a href=\"/slideshows/new-zealand-pinot-noir\" title=\"New
+      Zealand Pinot Noir\">New Zealand Pinot Noir</a> Recipes slideshow.\n</li>\n<li>\nFind
       10 more recipes in our <a href=\"/slideshows/organic-wine-pairings\" title=\"Organic
       Wine Pairings\">Organic Wine Pairings</a> Recipes slideshow.\n</li>\n<li>\nFind
       20 more recipes in our <a href=\"/slideshows/pinot-noir-pairings\" title=\"Pinot
@@ -886,10 +894,10 @@
       class='rr-ad'>\n<div class='emailcontainer'>\n<div class='containertext'>\n<div
       id='flash-error'></div>\n<form action=\"/newsletters/sign-up\" method=\"post\"
       onsubmit=\"if (validateEmail(this.e_mail)) { jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray())
-      + '&amp;authenticity_token=' + encodeURIComponent('C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo='),
+      + '&amp;authenticity_token=' + encodeURIComponent('ATtEdqTaf3VweyDAn399YsvpOtM/30VC1iZ34ZwrKWc='),
       dataType:'script', type:'post', url:'/newsletters/sign-up'}); }; return false;\"><div
       style=\"margin:0;padding:0;display:inline\"><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo=\" /></div>\n<div
+      type=\"hidden\" value=\"ATtEdqTaf3VweyDAn399YsvpOtM/30VC1iZ34ZwrKWc=\" /></div>\n<div
       class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
       />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
@@ -977,14 +985,14 @@
       />\n<br />\nUsers of this site agree to be bound by the terms of the American
       Express Publishing\n<br />\nCorporation Website Terms and Conditions.\n<br />\n<br
       />\n<span class='cwcolor'>Copyright &copy; 1997 - 2011 American Express Publishing
-      Corporation. All Rights Reserved.</span>\n<br />\n1.21.11\n</p>\n</div>\n</div>\n<!--
+      Corporation. All Rights Reserved.</span>\n<br />\n1.21.13\n</p>\n</div>\n</div>\n<!--
       FOOTER SITEMAP -->\n<div class='emailcontainer-bttm'>\n<div class='emailcontainer'>\n<div
       class='containertext'>\n<div id='flash-error'></div>\n<form action=\"/newsletters/sign-up\"
       method=\"post\" onsubmit=\"if (validateEmail(this.e_mail)) { jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray())
-      + '&amp;authenticity_token=' + encodeURIComponent('C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo='),
+      + '&amp;authenticity_token=' + encodeURIComponent('ATtEdqTaf3VweyDAn399YsvpOtM/30VC1iZ34ZwrKWc='),
       dataType:'script', type:'post', url:'/newsletters/sign-up'}); }; return false;\"><div
       style=\"margin:0;padding:0;display:inline\"><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"C6KJrOIt7DmrHWbKVLzerBCU4xOjXtuQAwdGSQWEJxo=\" /></div>\n<div
+      type=\"hidden\" value=\"ATtEdqTaf3VweyDAn399YsvpOtM/30VC1iZ34ZwrKWc=\" /></div>\n<div
       class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"newsletter_newsletter_ids__newsletter_id\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
       />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span

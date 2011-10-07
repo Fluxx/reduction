@@ -3355,7 +3355,7 @@
       content-type:
       - text/html; charset=iso-8859-1
       date:
-      - Tue, 27 Sep 2011 04:50:21 GMT
+      - Fri, 07 Oct 2011 22:14:57 GMT
       transfer-encoding:
       - chunked
       connection:
@@ -3364,7 +3364,7 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Tue, 27 Sep 2011 05:00:21 GMT
+      - Fri, 07 Oct 2011 22:24:56 GMT
     body: ! "\n\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\">\n\n\n<head>\n    \n    \n    \n\n    \n    \n
@@ -3753,9 +3753,9 @@
       type='text/javascript'%3E%3C/script%3E\"));\n        document.write(unescape(\"%3Cscript
       src='http://edge-media2.snooth.com/js-compressed/epi-recipe-pairing.js' type='text/javascript'%3E%3C/script%3E\"));\n
       \       </script>\n\n        <div id=\"sponsorAdWinePairings\">\n            \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad292018960_300x60_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1701148718_300x60_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad292018960_', {sz:'300x60', kws:[]});\n    //-->\n
+      \       \n        CN.dart.call('ad1701148718_', {sz:'300x60', kws:[]});\n    //-->\n
       \   </script>\n    \n\n\n        </div>\n    </div>\n    <script type=\"text/javascript\"
       language=\"javascript\">\n        function resizeWinePairingsModule() {\n            if
       (contains1pxImage('sponsorAdWinePairings')) {\n                var e = document.getElementById('wine_pairings');\n
@@ -3941,15 +3941,16 @@
       href=\"/recipesmenus/whatsnew/recipes\">What's New</a></li>\n\t\t\t\t\t\t<li><a
       href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n
       \                   <div class=\"menu-feature-content\">\n                        <a
-      href=\"/recipesmenus/holidays/highholydays/recipes?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/highholydays/highholydays-navpromo-RM.jpg\"
-      border=\"0\" alt=\"A Taste of Honey\" /></a>\n                       <a href=\"/recipesmenus/holidays/highholydays/recipes?intcid=epi_navpromo\"><h4>A
-      Taste of Honey</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/recipesmenus/holidays/highholydays/recipes?intcid=epi_navpromo\">Welcome
-      a sweet new year with delectable recipes for Rosh Hashanah, including a luscious
-      honey cake for your holiday table.</a>\n                        </p>\n                        <p
-      class=\"menu-feature-links\">\n                            <a href=\"/articlesguides/holidays/highholydays/highholydays?intcid=epi_subpromo\">see
-      our high holidays planning guide </a>&nbsp;<span>&#8250;</span>\n                        </p>\n
+      href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\"><img src=\"/images/articlesguides/holidays/halloween/halloween-navpromo-RM.jpg\"
+      border=\"0\" alt=\"We Couldn't Scare Less\" /></a>\n                       <a
+      href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\"><h4>We
+      Couldn't Scare Less</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\">Have
+      yourself a scary little Halloween with hundreds of hair-raising recipes, including
+      Zombie Cupcakes, Monster Eyeballs, Spiderweb Cookies, and Witches' Brew.</a>\n
+      \                       </p>\n                        <p class=\"menu-feature-links\">\n
+      \                           <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_subpromo\">see
+      more halloween tricks and treats </a>&nbsp;<span>&#8250;</span>\n                        </p>\n
       \                       <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div>\n                        -->\n                        \n
@@ -3971,16 +3972,16 @@
       \                       <li><a href=\"/articlesguides/chefsexperts\">Chefs &amp;
       Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
       \                   </ul>\n\t\t\t\t\t\n\t\t\t\t\t\n                    <div
-      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/highholydays/highholydays?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/highholydays/highholydays-navpromo-AG.jpg\"
-      border=\"0\" alt=\"Shofar, So Good\" /></a>\n                       <a href=\"/articlesguides/holidays/highholydays/highholydays?intcid=epi_navpromo\"><h4>Shofar,
-      So Good</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/articlesguides/holidays/highholydays/highholydays?intcid=epi_navpromo\">It's
-      a New Year! Celebrate Rosh Hashanah with our entertaining tips, challah how-to,
-      wine buying guide, and menus from Joan Nathan and David Waltuck.</a>\n                        </p>\n
-      \                       <p class=\"menu-feature-links\">\n                            <a
-      href=\"/recipesmenus/holidays/highholydays/recipes?intcid=epi_subpromo\">see
-      hundreds of recipes for the high holidays </a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\n\n\n\n
+      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/halloween/halloween-navpromo-AG.jpg\"
+      border=\"0\" alt=\"Spooky Do\" /></a>\n                       <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\"><h4>Spooky
+      Do</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\">You
+      bring the tricks, we've got the treats: Get into the Halloween spirit with party-planning
+      tips, terrifyingly tasty recipes, and the ultimate pumpkin-carving guide.</a>\n
+      \                       </p>\n                        <p class=\"menu-feature-links\">\n
+      \                           <a href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_subpromo\">find
+      hundreds of halloween recipes </a>&nbsp;<span>&#8250;</span>\n                        </p>\n\n
       \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div> -->\n                    </div>
@@ -3990,8 +3991,8 @@
       your own recipes</a></li>\n\t\t\t<li><a href=\"/community/myepi/profile/findmembers\">find
       members</a></li>\n\t\t\t<li><a href=\"/community/memberrecipes\">member recipes</a></li>\n\t\t\t<li><a
       href=\"/community/forums\">forums</a></li>\n\t\t\t<li><a href=\"/community/chat\">epi
-      chat</a></li>\n\t\t\t<li><a href=\"/community\">member groups</a></li>\n\t\t\t<li><a
-      href=\"/community/events/winedinedonate\">events</a></li>\n            </ul>\n
+      chat</a></li>\n\t\t\t<li><a href=\"/community\">member groups</a></li>\n\t\t\t<!--
+      <li><a href=\"/community/events/winedinedonate\">events</a></li> -->\n            </ul>\n
       \       </div>\n         \n        <div id=\"primary_navigation_supplement\">\n
       \           <ul id=\"recipesandmenus_supplement\">\n                <li><a href=\"/recipesmenus/advancedsearch\">Advanced
       Search</a>&nbsp;&middot;</li>\n                <li><a href=\"/recipesmenus/browse\">Browse</a></li>\n
@@ -4205,8 +4206,8 @@
       -->\n\n\n\n\n            <div class=\"module\">\n                <div class=\"widget\"
       id=\"ad_widget\">\n                    <h2>Advertising</h2>\n                    <div
       id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad202438424_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad202438424_',
+      \   \n    \n        <div id=\"ad1207047056_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1207047056_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
       class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
@@ -4239,9 +4240,9 @@
       \   direction: 'horizontal'\n});\n</script>\n\n\n\n\n            <div class=\"module\">\n
       \               <div class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad768495320_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1999222491_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad768495320_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad1999222491_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
       class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
@@ -4249,65 +4250,65 @@
       href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
       href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/243624\"><img
-      src=\"/images/recipesmenus/2008/2008_september/\n243624_116.jpg\" alt=\"Poached
-      Salmon with Basil Butter and Succotash\" /></a>\n\n                    <div
-      id=\"rotd_details\">\n                        <h3><a href=\"/recipes/food/views/243624\">Poached
-      Salmon with Basil Butter and Succotash</a></h3>\n                        <p><em>Chanterelle:
-      The Story and Recipes of a Restaurant Classic</em>, September 2008</p>\n                    </div>\n
-      \                       <div class=\"clear\"></div>\n                </div>\n
-      \           </div>\n\n\n\n\n\n\n\n    <div class=\"scrolled module\" id=\"recent_searches_module\">\n
-      \   <h2>Recent Searches</h2>\n        <div class=\"module_content\" id=\"recent_searches_content\">\n
-      \           <button class=\"scroll_up\" id=\"rs_scroll_up\" onfocus=\"blur(this)\"></button>\n
-      \           <ul id=\"recent_searches_list\">\n\n                \n                \n
-      \                   \n                        \n                        \n                        \n
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/231889\"><img
+      src=\"/images/recipesmenus/2005/2005_april/\n231889_116.jpg\" alt=\"Cauliflower-Leek
+      Kugel with Almond-Herb Crust\" /></a>\n\n                    <div id=\"rotd_details\">\n
+      \                       <h3><a href=\"/recipes/food/views/231889\">Cauliflower-Leek
+      Kugel with Almond-Herb Crust</a></h3>\n                        <p>Bon App&eacute;tit,
+      April 2005</p>\n                    </div>\n                        <div class=\"clear\"></div>\n
+      \               </div>\n            </div>\n\n\n\n\n\n\n\n    <div class=\"scrolled
+      module\" id=\"recent_searches_module\">\n    <h2>Recent Searches</h2>\n        <div
+      class=\"module_content\" id=\"recent_searches_content\">\n            <button
+      class=\"scroll_up\" id=\"rs_scroll_up\" onfocus=\"blur(this)\"></button>\n            <ul
+      id=\"recent_searches_list\">\n\n                \n                \n                    \n
+      \                       \n                        \n                        \n
       \                       \n                            \n                                   <li
-      class=\"recent_search\">1.\n\n\n                                   <a href=\"/tools/searchresults?search=indian\">indian</a>\n
-      \                           </li>\n                        \n                    \n
+      class=\"recent_search\">1.\n\n\n                                   <a href=\"/tools/searchresults?search=%22pork+loin%22+grill+mustard\">&#034;pork
+      loin&#034; grill mustard</a>\n                            </li>\n                        \n
+      \                   \n                \n                    \n                        \n
+      \                       \n                        \n                        \n
+      \                           \n                                   <li class=\"recent_search\">2.\n\n\n
+      \                                  <a href=\"/tools/searchresults?search=banana+sundae\">banana
+      sundae</a>\n                            </li>\n                        \n                    \n
       \               \n                    \n                        \n                        \n
       \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">2.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=lentile+lemon\">lentile lemon</a>\n                            </li>\n
+      \                                  <li class=\"recent_search\">3.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=tuna\">tuna</a>\n                            </li>\n
       \                       \n                    \n                \n                    \n
       \                       \n                        \n                        \n
       \                       \n                            \n                                   <li
-      class=\"recent_search\">3.\n\n\n                                   <a href=\"/tools/searchresults?search=pancakes\">pancakes</a>\n
-      \                           </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">4.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=squash+tart\">squash tart</a>\n                            </li>\n
-      \                       \n                    \n                \n                    \n
+      class=\"recent_search\">4.\n\n\n                                   <a href=\"/tools/searchresults?search=roasted+garlic+lasagna\">roasted
+      garlic lasagna</a>\n                            </li>\n                        \n
+      \                   \n                \n                    \n                        \n
       \                       \n                        \n                        \n
-      \                       \n                            \n                                   <li
-      class=\"recent_search\">5.\n\n\n                                   <a href=\"/tools/searchresults?search=chicken+cream+pasta\">chicken
-      cream pasta</a>\n                            </li>\n                        \n
+      \                           \n                                   <li class=\"recent_search\">5.\n\n\n
+      \                                  <a href=\"/tools/searchresults?search=tuna+flying+saucers\">tuna
+      flying saucers</a>\n                            </li>\n                        \n
       \                   \n                \n                    \n                        \n
       \                       \n                        \n                        \n
       \                           \n                                   <li class=\"recent_search\">6.\n\n\n
-      \                                  <a href=\"/tools/searchresults?search=bro\">bro</a>\n
-      \                           </li>\n                        \n                    \n
+      \                                  <a href=\"/tools/searchresults?search=beer+bread\">beer
+      bread</a>\n                            </li>\n                        \n                    \n
       \               \n                    \n                        \n                        \n
       \                       \n                        \n                            \n
       \                                  <li class=\"recent_search\">7.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=vegetarian+cog+au+vin\">vegetarian cog au
-      vin</a>\n                            </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">8.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=tuna+casserole\">tuna casserole</a>\n                            </li>\n
+      href=\"/tools/searchresults?search=lamb+chop\">lamb chop</a>\n                            </li>\n
       \                       \n                    \n                \n                    \n
       \                       \n                        \n                        \n
       \                       \n                            \n                                   <li
-      class=\"recent_search\">9.\n\n\n                                   <a href=\"/tools/searchresults?search=winter+garden+herbed+po\">winter
-      garden herbed po</a>\n                            </li>\n                        \n
-      \                   \n                \n                    \n                        \n
-      \                       \n                        \n                        \n
-      \                           \n                                   <li class=\"recent_search\">10.\n\n\n
-      \                                  <a href=\"/tools/searchresults?search=fired+desserts\">fired
-      desserts</a>\n                            </li>\n                        \n
-      \                   \n                \n            </ul>\n            <button
-      class=\"scroll_down\" id=\"rs_scroll_down\" onfocus=\"blur(this)\"></button>\n
+      class=\"recent_search\">8.\n\n\n                                   <a href=\"/tools/searchresults?search=radish+pickled\">radish
+      pickled</a>\n                            </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">9.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=dressing%2C+salad\">dressing, salad</a>\n
+      \                           </li>\n                        \n                    \n
+      \               \n                    \n                        \n                        \n
+      \                       \n                        \n                            \n
+      \                                  <li class=\"recent_search\">10.\n\n\n                                   <a
+      href=\"/tools/searchresults?search=radish+herb\">radish herb</a>\n                            </li>\n
+      \                       \n                    \n                \n            </ul>\n
+      \           <button class=\"scroll_down\" id=\"rs_scroll_down\" onfocus=\"blur(this)\"></button>\n
       \       </div>\n    </div>\n    <script type=\"text/javascript\" language=\"JavaScript\"
       src=\"/rd_scripts/modules/recent_searches.js\"></script>\n\n\n\n<!-- /htmlinclude/tiles/rightrailcommunityPromo_HP.html
       -->\n<div id=\"outerbox\" class=\"rounded\">\n    <div id=\"communitypromo\">\n
