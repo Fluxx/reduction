@@ -6,10 +6,6 @@ module Reduction
 
     subject { described_class.new }
 
-    it 'is a array' do
-      subject.should be_a(Array)
-    end
-
     it 'has a name attribute that can be set and read from' do
       subject.name.should be_nil
       subject.name = 'Steve'
@@ -76,6 +72,49 @@ module Reduction
         subject[1].should == ['Item 3', 'Item 4']
         subject[2].should == ['bogus']
       end
+    end
+
+    describe 'json serialization' do
+
+      let(:example_1) do
+        described_class.new.tap do |l|
+          l.name = 'example list'
+          l << 1
+          l << 'a'
+        end
+      end
+
+      let(:example_2) do
+        described_class.new.tap do |l|
+          l.name = 'secnd list'
+          l << 2
+          l << 3.1415
+        end
+      end
+
+      let(:both) { [example_1, example_2] }
+
+      def encoded(obj)
+        MultiJson.encode(obj)
+      end
+
+      def decoded(str)
+        MultiJson.decode(str)
+      end
+
+      # it 'can be serialized and de-serialized' do
+      #   round_trip = decoded(encoded(example_1))
+      #   round_trip.should == example_1
+      #   round_trip.name.should == 'example list'
+      # end
+
+      # it 'works if there is an array of named lists' do
+      #   round_trip = decoded(encoded(both))
+      #   round_trip.should == both
+      #   round_trip.last.should == example_2
+      #   round_trip.last.name.should == 'second list'
+      # end
+
     end
 
   end

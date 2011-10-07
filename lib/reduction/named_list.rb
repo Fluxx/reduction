@@ -1,7 +1,13 @@
+require "delegate"
+
 module Reduction
 
-  class NamedList < Array
+  class NamedList < DelegateClass(Array)
     attr_accessor :name
+
+    def initialize(*args)
+      super(Array.new(*args))
+    end
 
     def self.from_node_set(nodeset, title_elem)
       stack = Array.new
