@@ -20,7 +20,7 @@ module Reduction
       end
 
       def yields
-        doc.at('#servings span[itemprop=yield]').text
+        doc.at('span[itemprop=yield]').text
       end
 
       def prep_time
@@ -30,7 +30,7 @@ module Reduction
       end
 
       def total_time
-        doc.at('#servings p[2] time[itemprop=totalTime]').text.collapse_whitespace
+        doc.at('time[itemprop=totalTime]').text.collapse_whitespace
       end
 
       private
