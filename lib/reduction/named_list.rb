@@ -1,14 +1,32 @@
 require "delegate"
+require "forwardable"
 require "multi_json"
+require "yaml"
 
 module Reduction
 
-  class NamedList < DelegateClass(Array)
+  class NamedList
+    extend Forwardable
+
+    # Basically, forward everything provided by instances of the Array class,
+    # as well as the equality methids
+    ARRAY_INSTANCE_METHODS = Array.instance_methods - Object.instance_methods
+
+    EQUALITY_METHODS = %w[== > >= < <= <=>]
+
+    # Forwarding to the internal Array is necessary as using a delegator causes
+    # an exception on YAML.dump when it subclasses DelegateClass.
+    def_delegators :@arr, *(ARRAY_INSTANCE_METHODS + EQUALITY_METHODS)
+
     attr_accessor :name
 
     def initialize(*args)
-      super(Array.new(*args))
+      @arr = Array.new(*args)
     end
+
+    # def ==(obj)
+    #   @arr == obj.to_a
+    # end
 
     def to_json(*a)
       {

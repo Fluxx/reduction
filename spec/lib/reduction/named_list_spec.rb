@@ -4,7 +4,14 @@ module Reduction
 
   describe NamedList do
 
-    subject { described_class.new }
+    subject { described_class.new [ ['1', '2'], '3'] }
+
+    it 'can be YAML dumped' do
+      dumped = YAML.dump(subject)
+      loaded = YAML.load(dumped)
+      loaded.to_a.should == subject.to_a
+      loaded.name.should == subject.name
+    end
 
     it 'has a name attribute that can be set and read from' do
       subject.name.should be_nil
