@@ -25,7 +25,7 @@ module Reduction
       end
 
       def prep_time
-        doc.at('.recipe-item p.prepTime').text
+        doc.at('.recipe-item p.preptime').text
       end
 
       def cook_time
