@@ -3354,37 +3354,45 @@
       - en-US
       content-type:
       - text/html; charset=iso-8859-1
+      cache-control:
+      - private, max-age=600
+      expires:
+      - Wed, 16 Nov 2011 02:39:24 GMT
       date:
-      - Fri, 07 Oct 2011 22:14:57 GMT
+      - Wed, 16 Nov 2011 02:29:24 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
-      cache-control:
-      - private, max-age=600
-      expires:
-      - Fri, 07 Oct 2011 22:24:56 GMT
-    body: ! "\n\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
+    body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
-      xml:lang=\"en-US\" lang=\"en-US\">\n\n\n<head>\n    \n    \n    \n\n    \n    \n
-      \       \n        \n        \n        \n        \n        \n            <title>\n\n\n\n\n\n\n\n\n\nPatricia
+      xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
+      itemtype=\"http://schema.org/\">\n\n\n<head>\n        \n    \n    \n\n    \n
+      \   \n        \n        \n        \n        \n        \n        \n            <title>\n\n\n\n\n\n\n\n\n\nPatricia
       Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n
-      at Epicurious.com</title>\n        \n        \n        \n    \n    \n    <link
-      rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"/styles/main.css\"
-      />\n    <link rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"/styles/secondary.css\"
-      />\n    \n\n    <link rel=\"stylesheet\" href=\"/styles/recipes/recipe_detail2.css\"
-      type=\"text/css\" media=\"screen\">\n\n\n<link rel=\"stylesheet\" type=\"text/css\"
-      media=\"print\" href=\"/styles/print.css\" />\n<link rel=\"Shortcut Icon\" href=\"/favicon.ico\"
-      type=\"image/x-icon\" />\n\n\n\n<meta http-equiv=\"Content-Type\" content=\"text/html;
-      charset=ISO-8859-1\" />\n<meta http-equiv=\"PRAGMA\" content=\"NO-CACHE\" />\n<meta
-      http-equiv=\"Content-Language\" content=\"en-us\" />\n<meta name=\"MSSmartTagsPreventParsing\"
-      content=\"true\" />\n<meta name=\"author\" content=\"CondeNet\" />\n<meta name=\"Copyright\"
-      content=\"Copyright (c) 2010 CondeNet\" />\n\n\n<meta property=\"fb:admins\"
-      content=\"648235154,789168297,688620285\"/>\n<meta property=\"fb:page_id\" content=\"12770210203\"/>\n<meta
-      property=\"og:site_name\" content=\"Epicurious\"/>\n\n\n\n\n\n\n<script type=\"text/javascript\">var
-      documentQueryString=window.location.search.replace(/\\?/,\"\"); </script>\n<script
-      type=\"text/javascript\" src=\"/scripts/jquery-1.3.2.min.js\"></script>\n<script
+      at Epicurious.com</title>\n            <meta itemprop=\"name\" content=\"\n\n\n\n\n\n\n\n\n\nPatricia
+      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n
+      at Epicurious.com\">\n            <meta property=\"og:title\" content=\"\n\n\n\n\n\n\n\n\n\nPatricia
+      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n
+      at Epicurious.com\" />\n        \n        \n        \n    \n    \n    \n\n\n\n\n<meta
+      http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\" />\n<meta
+      http-equiv=\"PRAGMA\" content=\"NO-CACHE\" />\n<meta http-equiv=\"Content-Language\"
+      content=\"en-us\" />\n<meta name=\"MSSmartTagsPreventParsing\" content=\"true\"
+      />\n<meta name=\"author\" content=\"CondeNet\" />\n<meta name=\"Copyright\"
+      content=\"Copyright (c) 2011 CondeNet\" />\n\n\n<meta property=\"og:type\" content=\"food\"
+      />\n<meta property=\"og:url\" content=\"http://www.epicurious.com:80/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      />\n\n    \n    \n        <meta property=\"og:image\" content=\"http://www.epicurious.com:80/images/recipesmenus/2011/2011_april/364872_116.jpg\"/>\n
+      \   \n    \n\n<meta property=\"og:site_name\" content=\"Epicurious\"/>\n<meta
+      property=\"fb:admins\" content=\"648235154,789168297,688620285\"/>\n<meta property=\"fb:page_id\"
+      content=\"12770210203\"/>\n\n    <link rel=\"stylesheet\" type=\"text/css\"
+      media=\"screen\" href=\"/styles/main.css\" />\n    <link rel=\"stylesheet\"
+      type=\"text/css\" media=\"screen\" href=\"/styles/secondary.css\" />\n    \n\n
+      \   <link rel=\"stylesheet\" href=\"/css/recipe-detail.css\" type=\"text/css\"
+      media=\"screen\">\n\n\n<link rel=\"stylesheet\" type=\"text/css\" media=\"print\"
+      href=\"/styles/print.css\" />\n<link rel=\"Shortcut Icon\" href=\"/favicon.ico\"
+      type=\"image/x-icon\" />\n\n\n\n\n\n<script type=\"text/javascript\">var documentQueryString=window.location.search.replace(/\\?/,\"\");
+      </script>\n<script type=\"text/javascript\" src=\"/scripts/jquery-1.3.2.min.js\"></script>\n<script
       type=\"text/javascript\" src=\"/js/cn-fe-common/cn.js\"></script>\n<script type=\"text/javascript\"
       src=\"/js/cn-fe-ads/cn.dart.js\"></script>\n<script type=\"text/javascript\">\n
       \   CN.site.init({\n        code: 'EPI',\n        title: 'Epicurious',\n        name:
@@ -3392,7 +3400,6 @@
       type=\"text/javascript\" src=\"/js/cn-fe-ads/cn.ad.lotame.js\"></script>\n\n<script
       type=\"text/javascript\" src=\"/rd_scripts/main.js\"></script>\n<script type=\"text/javascript\"
       src=\"/scripts/recipeAdUtils.js\"></script>\n<script type=\"text/javascript\"
-      src=\"/rd_scripts/css_overrides.js\"></script>\n<script type=\"text/javascript\"
       src=\"/rd_scripts/ecom/ecomfw.min.js\"></script>\n\n\n\n<script type=\"text/javascript\">\n
       \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
@@ -3404,7 +3411,7 @@
       type=\"text/javascript\" src=\"/scripts/registration.js\"></script>\n<script
       type=\"text/javascript\" src=\"/rd_scripts/rounder2.js\"></script>\n<script
       type=\"text/javascript\" src=\"/dwr/engine.js\"></script>\n<script type=\"text/javascript\"
-      src=\"/rd_scripts/json2.js\"></script>\n\n\n\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/json2.js\"></script>\n\n\n<script type=\"text/javascript\"
       src=\"/scripts/prototype-1.4.0.js\"></script>\n\n    <script type=\"text/javascript\"
       src=\"/dynjs/recipedetailhome.javascript.js\" language=\"javascript1.2\"></script>\n\n\n
       \   <script type=\"text/javascript\" src=\"/rd_scripts/recipe_detail/detailPageFunctions2.js\"></script>\n\n\n<link
@@ -3419,15 +3426,18 @@
       name=\"description\" content=\"Find the recipe for Patricia Wells's Cobb Salad:
       Iceberg, Tomato, Avocado, Bacon, and Blue Cheese and other lettuce recipes at
       Epicurious.com\">\n          \n        \n      \n    \n  \n  \n  \n  \n\n\n\n</head>\n<body
-      class=\"recipesmenus\" id=\"epicuriousBody\">\n\n<div id=\"dash-header\" style=\"display:
-      none;\">\n    <div id=\"dash-cobrand-container\">\n        <a href=\"http://www.dashmagazine.com\"><img
-      src=\"/rd_images/cobranding/dash.gif\"/></a>\n    </div>\n</div>\n\n\n\n\n\n\n\n\n\n<!--
-      begin stats call -->\n<script>\n    var epi_stats = \"\";\n </script>\n<!--
-      end stats call -->\n\n    <div id=\"pageWrapper\">\n        <ul class=\"user-session\"
-      id=\"loggedin\">\r\n        <li id=\"hi-user\">Hi <a href=\"/community/myepi/myprofile\"
-      id=\"sessionUserName\">epicurious user</a>\r\n            <ul id=\"user-utilities\">\r\n
-      \               <li><a href=\"/community/myepi/myprofile\">my epi profile</a></li>\r\n
-      \               <li><a href=\"/community/myepi/profile/mynetwork\">network</a></li>\r\n
+      class=\"recipesmenus\" id=\"epicuriousBody\">\n<div id=\"fb-root\"></div>\n<script>(function(d,
+      s, id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id))
+      {return;}\n  js = d.createElement(s); js.id = id;\n  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n
+      \ fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n<div
+      id=\"dash-header\" style=\"display: none;\">\n    <div id=\"dash-cobrand-container\">\n
+      \       <a href=\"http://www.dashmagazine.com\"><img src=\"/rd_images/cobranding/dash.gif\"/></a>\n
+      \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n<!-- begin stats call -->\n<script>\n
+      \   var epi_stats = \"\";\n </script>\n<!-- end stats call -->\n\n    <div id=\"pageWrapper\">\n
+      \       <ul class=\"user-session\" id=\"loggedin\">\r\n        <li id=\"hi-user\">Hi
+      <a href=\"/community/myepi/myprofile\" id=\"sessionUserName\">epicurious user</a>\r\n
+      \           <ul id=\"user-utilities\">\r\n                <li><a href=\"/community/myepi/myprofile\">my
+      epi profile</a></li>\r\n                <li><a href=\"/community/myepi/profile/mynetwork\">network</a></li>\r\n
       \               <li><a href=\"/community/myepi/profile/mycomments\">fridge door</a></li>\r\n
       \               <li><a href=\"/community/myepi/profile/submittedrecipes\">activity</a></li>\r\n
       \               <li><a href=\"/user/preferences/\">settings</a></li>\r\n            </ul>\r\n
@@ -3448,97 +3458,45 @@
       scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:84px;
       height:21px;\" allowTransparency=\"true\"></iframe></li>\r\n    </ul>\r\n\n
       \   \n    <div id=\"headerSpace\"></div>\n     \n     \n     <style>\ndiv#promotion_heading
-      {\nbackground:transparent url(/images/articlesguides/holidays/backtoschool/back-to-school-2011-banner.png)
+      {\nbackground:transparent url(/images/articlesguides/holidays/thanksgiving/thanksgiving-2011-banner.png)
       no-repeat scroll 0 0;}\ndiv#promotion_heading a.see_it_all {display:block; height:53px;
       margin:0 10px; width:970px;}\n.sponsor {position: absolute;top: 1px; left: 971px;
-      width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<!-- div
-      id=\"promotion_heading\">\n<div class=\"sponsor\"><a href=\"/articlesguides/everydaycooking/family/backtoschool?intcid=epi_promobar\"
-      \ntitle=\"head back to school\"></a></div>\n<div class=\"promotion_heading\"><a
-      href=\"/articlesguides/everydaycooking/family/backtoschool?intcid=epi_promobar\"
-      \ntitle=\"head back to school\" class=\"see_it_all\"></a></div>\n</div -->\n
+      width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<div id=\"promotion_heading\">\n<div
+      class=\"sponsor\"><a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_promobar\"
+      \ntitle=\"YOUR MOST DELICIOUS THANKSGIVING EVER\"></a></div>\n<div class=\"promotion_heading\"><a
+      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_promobar\"
+      \ntitle=\"YOUR MOST DELICIOUS THANKSGIVING EVER\" class=\"see_it_all\"></a></div>\n</div>\n
       \    \n     \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
       \       \n\n\n\n\n\n\n    \n\n\n    </div>\n    <a id=\"epiAppStorePromo\" class=\"appStorePromoHidden\"
       href=\"itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&mt=8&s=143441\">get
       the epicurious iPhone app</a>\n    <script type=\"text/javascript\" language=\"JavaScript\">detectPushdownAd();displayEpiAppStorePromo();</script>\n\n
-      \       <div class=\"contentContainer\" id=\"primary\">\n            <img id=\"printer_friendly_global\"\n
-      \           src=\"/rd_images/printer_friendly/printer_friendly_epi_logo.gif\"/>\n
-      \            \n\n\n\n\n\n\n\n\n<script type=\"text/javascript\" language=\"JavaScript
-      1.5\">\n    isDuplicateRecipe = false;\n    \n        \n        var recipeReferrer
-      = document.referrer;\n    \n    var recipeHost = \"www.epicurious.com\";\n    var
-      subscriptionSource = \"ot\";\n\n    if(recipeReferrer.toLowerCase().indexOf(recipeHost)
-      != -1){\n        isEpiReferrer = true;\n    }else{\n        isEpiReferrer =
-      false;\n    }\n</script>\n<script type=\"text/javascript\" language=\"JavaScript
-      1.5\" src=\"/rd_scripts/components/searchPromoUnit.js\"></script>\n<script type=\"text/javascript\"
-      language=\"JavaScript 1.5\" src=\"/rd_scripts/ecom/ecom_forms.js\"></script>\n\n<div
-      id=\"BNA_recipeDetails_form_wrapper\" style=\"display:none;\">\n    <div id=\"BNA_recipeDetails_form_header\">\n
-      \       <a href=\"#\">Close</a>\n    </div>\n    <div id=\"ecom_form_wrapper_content\">\n
-      \       <div id=\"BNA_recipeDetails_form\"></div>\n        <script type=\"text/javascript\">\n
-      \       //<!--\n            CNP.ecom.request({\n                pid:'BNA_recipeDetails_form',\n
-      \               tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_form',\n
-      \               params:{},callafter:{func: initEcomRecipeDetailsForm}\n            });\n
-      \       //-->\n        </script>\n    </div>\n    <div id=\"ecom_form_wrapper_footer\"></div>\n</div>\n\n\n<div
-      id=\"searchPromoUnit\" style=\"display: none;\">\n    <a class=\"close_promo\"
-      onclick=\"closePromo();\"></a>\n    <style>\nul#sp_moreonepi_links {font-size:11px;
-      left:400px; position:absolute; top:10px; width:267px;}\n#searchPromoUnit {border:
-      1px solid #e6e5da; padding: 1px; background-color: #fff;}\ndiv#promoimg {background-image:url(/rd_images/promo_unit/searchPromo/promounit.gif);height:71px;
-      margin-top: 0px;}\nul#sp_moreonepi_links {left:327px; width:352px;}\n</style>\n\n<div
-      id=\"promoimg\">\n<div id=\"promolink\" style=\"display: relative\"><a href=\"/articlesguides/holidays/grilling?intcid=epi_searchpromo\"
-      style=\"color: #ffffff;\" id=\"glink1\"><span>cook out tonight!</span></a></div>\n
-      \   <ul id=\"sp_moreonepi_links\">\n\t\t<li><span style=\"color: #000000; font-family:
-      \"Lucida Grande\",Arial,Verdana,sans-serif; size: 11px;\">get grilling with
-      epicurious...</span></li>\n        <li><a href=\"/articlesguides/holidays/grilling/lourdescastrocubancookout?intcid=epi_searchpromo\"
-      style=\"color: #000000;\">Lourdes Castro cooks it Cuban-style</a> <strong style=\"color:
-      #000000;\">&#8250;</strong></li>\n\t\t<li><a href=\"/articlesguides/holidays/grilling/myronmixonbarbecuerecipes?intcid=epi_searchpromo\"
-      style=\"color: #000000;\">Barbecue tips from champion grill-master Myron Mixon</a>
-      <strong style=\"color: #000000;\">&#8250;</strong></li>\n\t\t<li><a href=\"/articlesguides/healthy/nutritiousdishes/grilling?intcid=epi_searchpromo\"
-      style=\"color: #000000;\">Our best low-fat, high-flavor grilling recipes</a>
-      <strong style=\"color: #000000;\">&#8250;</strong></li>\n    </ul>\n</div>\n\n</div>\n\n<div
-      id=\"BNA_recipeDetails_banner\">\n</div>\n\n\n\n<div id=\"randomhouseCom\" style=\"display:
-      none;\">\n    \n</div>\n\n\n\n\n            \n        <div id=\"common_tools\">\n
-      \               <p id=\"parent_link\">\n                <a href=\"/recipesmenus\">Recipes
-      & Menus</a> &#8250;\n                </p>\n            <ul id=\"control_menu\">\n
-      \               <li id=\"ct_print\">\n                            <a href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      id=\"print\" target=\"new\">print</a> \n                            <!-- <div
-      id=\"hpPrintAd\"></div> --> \n                            <div id=\"pf_dropdown\">\n\t\t\t\t\t\t\t\t<div
-      id=\"printlink\"><a href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      target=\"new\">print</a></div>\n                                <ul id=\"printmenu\">\n\t\t\t\t\t\t\t\t\t
-      <li><a href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      target=\"new\">full page</a></li>\n                                        <li><a
-      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=photo\"
-      target=\"new\">full page w/ photo</a></li>\n                                    <li><a
-      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=3x5\"
-      target=\"new\">3x5 card</a></li>\n                                    <li id=\"fourbysix\"
-      ><a href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=4x6\"
-      target=\"new\">4x6 card</a></li>\n\t\t\t\t\t\t\t\t\t<li id=\"shoppinglist\"><a
-      href=\"/recipes/shoppinglist/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      target=\"new\">shopping list</a></li>\n \t\t\t\t\t\t\t\t</ul>\n                                <div
-      class=\"dinadiv\">&nbsp;</div>\n                            </div>\n                </li>\n
-      \                   <li id=\"ct_email\">\n                       <a href=\"/recipes/food/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\nPatricia
-      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n\"
-      id=\"email\">e-mail</a>\n\t\t\t\t\t   <div id=\"email_dropdown\">\n\t\t\t\t\t
-      \       <ul id=\"emailmenu\">\n\t\t\t\t\t\t\t\t<li id=\"email_text\">e-mail</li>\n\t\t\t\t\t\t\t\t<li
-      id=\"email_recipe\">\n\t\t\t\t\t\t\t\t\t<a href=\"/recipes/food/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\nPatricia
-      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n\">recipe</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t\t<li
-      id=\"email_shoppinglist\">\n\t\t\t\t\t\t\t\t\t<a href=\"/recipes/shoppinglist/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\nPatricia
-      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n\">shopping
-      list</a>\n\t\t\t\t\t\t\t\t</li>\n\t\t\t\t\t\t\t</ul>\n    \t\t\t\t   </div>\n\t\t\t\t\t
-      \  <script language=\"javascript\">\n\t\t\t\t\t     runOnLoad(emailDropdownMenuInit);\n
-      \       \t\t\t   </script>\n\t\t\t\t\t</li>\n                <li id=\"ct_font_switcher\">\n
-      \                   font size: <a id=\"fso_1\">A</a> <a class=\"active\" id=\"fso_2\">A</a>
-      <a id=\"fso_3\">A</a>\n                </li>\n            </ul>\n            <div
-      class=\"clear\"></div>\n        </div>\n        <script type=\"text/javascript\"
-      language=\"JavaScript 1.5\" src=\"/rd_scripts/common_tools.js\"></script>\n\n\n
-      \           \n            \n                \n                <div id=\"primary_content\"
-      class=\"hrecipe\">\n                    <div id=\"pc_extra_info\"></div>\n                    <div
-      id=\"pc_top\">\n                        <div id=\"pc_top1\"><!-- back to links
-      -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n</div>\n                        <div
-      id=\"pc_top2\">\n                            \n\n\n\n\n\n\n\n<div id=\"headline\">\n
-      \   \n    \n    <a href=\"\" class=\"clipping\"></a>\n    \n    \n        \n
-      \       \n\n        \n        \n\n        \n        \n        \n        \n        \n
+      \       <div class=\"contentContainer\" id=\"primary\">\n            <img id=\"printer_friendly_global\"
+      src=\"/rd_images/printer_friendly/printer_friendly_epi_logo.gif\"/>\n             \n\n\n\n\n\n\n\n
+      \       <script type=\"text/javascript\" language=\"JavaScript 1.5\" src=\"/rd_scripts/ecom/ecom_forms.js\"></script>\n
+      \       <div id=\"BNA_recipeDetails_form_wrapper\" style=\"display:none;\">\n
+      \           <div id=\"BNA_recipeDetails_form_header\">\n                <a href=\"#\">Close</a>\n
+      \           </div>\n            <div id=\"ecom_form_wrapper_content\">\n                <div
+      id=\"BNA_recipeDetails_form\"></div>\n                <script type=\"text/javascript\">\n
+      \               //<!--\n                    CNP.ecom.request({\n                        pid:'BNA_recipeDetails_form',\n
+      \                       tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_form',\n
+      \                       params:{},callafter:{func: initEcomRecipeDetailsForm}\n
+      \                   });\n                //-->\n                </script>\n
+      \           </div>\n            <div id=\"ecom_form_wrapper_footer\"></div>\n
+      \       </div>\n        <div id=\"BNA_recipeDetails_banner\"></div>\n\n        <script
+      type=\"text/javascript\">\n        //<!--\n            CNP.ecom.request({\n
+      \               pid:'BNA_recipeDetails_banner',\n                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_banner',\n
+      \               params:{}\n            });\n        //-->\n        </script>\n\n\n
+      \           \n            \n                <!-- back to links -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n\n
+      \               \n                <div id=\"primary_content\" class=\"hrecipe\">\n
+      \                   \n                    \n\n                    <div id=\"pc_extra_info\"></div>\n
+      \                   <div id=\"pc_top\">\n                        <div id=\"pc_top1\"></div>\n
+      \                       <div id=\"pc_top2\">\n                            \n\n\n\n\n\n\n\n<div
+      id=\"headline\">\n    \n    \n    <a href=\"\" class=\"clipping\"></a>\n    \n
+      \   \n        \n        \n\n        \n        \n\n        \n        \n        \n
       \       \n        \n        \n        \n        \n        \n        \n        \n
-      \       \n        \n        \n        \n\n        \n        \n\n        \n\n
-      \       \n            \n            \n\n\n\n\n\n\n\n\n\n            \n\n            \n
-      \           \n\n            \n            \n            \n                \n
+      \       \n        \n        \n        \n        \n        \n\n        \n        \n\n
+      \       \n\n        \n            \n            \n\n\n\n\n\n\n\n\n\n            \n\n
+      \           \n            \n\n            \n            \n            \n                \n
       \                   <h1 class=\"fn\">Patricia Wells's Cobb Salad: Iceberg, Tomato,
       Avocado, Bacon, and Blue Cheese</h1>\n                \n                \n            \n
       \       \n        \n        \n\n        \n        \n\n        \n        \n\n
@@ -3568,7 +3526,7 @@
       \                   \n\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n
       \       <div id=\"recipe_detail_module\" class=\"content_unit detail_page\">\n
       \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n    \n        \n    \n\n\n\n\n    \n    \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n        \n    \n\n\n\n\n    \n    \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n        \n    \n\n    \n    \n    \n    \n        \n    \n    \n
       \   \n    \n\n    \n        \n    \n\n    \n        \n    \n    \n    \n        \n
       \   \n    \n       \n          \n       \n          \n       \n          \n
@@ -3576,17 +3534,19 @@
       \   \n        \n        \n        \n        <div id=\"recipe_nav\" class=\"empty\">\n
       \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n<ul>\n
       \       <li>\n            <a href=\"/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      id=\"recipe_tab\" class=\"current\">recipe</a>\n        </li>\n        \n        <li>\n
+      id=\"recipe_tab\" class=\"current\">recipe</a>\n        </li>\n    \n        <li>\n
       \           <a href=\"/recipes/food/reviews/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
       id=\"reviews_tab\" >reviews (<span id=\"reviews_tab.numReviews\"><span itemprop=\"count\">5</span></span>)</a>\n
-      \       </li>\n        \n        \n        <li>\n            <a href=\"/recipes/food/photo/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      id=\"photo_tab\" >photo</a>\n        </li>\n        \n        \n        \n        <li>\n
+      \       </li>\n    \n    \n        <li>\n            <a href=\"/recipes/food/photo/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      id=\"photo_tab\" >photo</a>\n        </li>\n    \n    \n    \n        <li>\n
+      \           <a href=\"/recipes/food/wine-pairings/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      id=\"wines_tab\" >wine pairings</a>\n        </li>\n    \n    \n        <li>\n
       \           <a href=\"javascript:void(0);\" id=\"notes_tab\" >my notes</a>\n
       \           <script type=\"text/javascript\">\n                new LoginRequiredLink('364872','notes_tab','/recipes/food/notes/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872','recipeBox');\n
-      \           </script>\n        </li>\n        \n        \n        <li>\n            <a
+      \           </script>\n        </li>\n    \n    \n        <li>\n            <a
       href=\"/recipes/food/more/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
-      id=\"more_tab\" >find out more</a>\n        </li>\n        \n</ul>\n<script
-      type=\"text/javascript\" language=\"javascript\" src=\"/rd_scripts/recipe_detail/recipe_tabs.js\"></script>\n\n\n\n\n
+      id=\"more_tab\" >find out more</a>\n        </li>\n    \n</ul>\n<script type=\"text/javascript\"
+      language=\"javascript\" src=\"/rd_scripts/recipe_detail/recipe_tabs.js\"></script>\n\n\n\n\n
       \       </div>\n        \n    \n        \n        \n        \n        <div id=\"unit_col1\"
       class=\"empty\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div
       class=\"rounded\">\n    \n\n    \n    \n    <div id=\"user_interactions\">\n
@@ -3642,35 +3602,28 @@
       \               </span>\n                </p>\n            \n\n            \n\n
       \           \n            \n                <p>\n                    <span>appears
       in this menu</span>\n                    \n                        <a href=\"/recipes/menu/views/dinnerrush072211\">All
-      American!</a>\n                    \n            \n            \n\n            \n
-      \       </div>\n    \n\n\n    \n    \n        <div id=\"food_groups_saa\">\n
-      \           <img src=\"/rd_images/community/new2.gif\" alt=\"new\"/><h3>see
-      all about:</h3>\n            <ul>\n            \n                <li><a href=\"/community/groups/entertaining/\">Entertaining</a>,</li>\n
-      \           \n                <li><a href=\"/community/groups/quick/\">Quick
-      &amp; Easy Cooking</a>,</li>\n            \n                <li><a href=\"/community/groups/healthy/\">Healthy
-      Eating</a></li>\n            \n            </ul>\n        </div>\n    \n    \n\n\n\n
-      \   \n    <div id=\"in_resources\" class=\"rounded\">\n    <h3>more resources</h3>\n
-      \   <a href=\"/tools/fooddictionary\" id=\"food_dictionary\">Food Dictionary</a>\n
-      \   <a href=\"/video\" id=\"cooking_videos\">cooking videos</a>\n</div>\n\n
-      \n       \n        <script language=\"javascript\" type=\"text/javascript\">\n
-      \           EventBroker.registerLoginBox = new RegisterLoginBox({recipeId: '364872',
-      returnToUrl: '/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872',
+      American!</a>\n                    \n                </p>\n            \n            \n\n
+      \           \n        </div>\n    \n\n    <div id=\"cooks-tools\">\n        <h3>cooks&#8217;
+      tools</h3>\n        <a id=\"icon-conv-chart\" href=\"/tools/conversions\">conversion
+      chart</a>\n        <a id=\"icon-tech-video\" href=\"/video\">technique videos</a>\n
+      \       <div class=\"clear\"></div>\n    </div>\n\n\n    \n\n    \n\n    <script
+      language=\"javascript\" type=\"text/javascript\">\n    //instantiate userIsOwnerListener
+      to change right rail when the owner is viewing the recipe\n    EventBroker.registerLoginBox
+      = new RegisterLoginBox({recipeId: '364872', returnToUrl: '/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872',
       shoppingListUrl: '/recipes/shoppinglist/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872'});\n
-      \           Event.observe(window, 'load', recipeDetailsInit);\n            function
-      recipeDetailsInit() {\n                EventBroker.userIsOwnerListener = new
-      UserIsOwnerListener('364872');\n                ClientLoginManager.initialize('364872');\n
-      \               DWREngine.beginBatch();\n                \n                \n
-      \               \n                    EventBroker.searchLayer = new SearchLayer(document.referrer,
-      364872);\n                \n                \n                CacheableDWR.makeBatchCacheable();\n
-      \               DWREngine.endBatch();\n            }\n\n            \n        </script>\n</div>\n\n\n\n\n\n
-      \       </div>\n        \n    \n        \n        \n        \n        <div id=\"unit_col2\"
-      class=\"empty\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
-      language=\"javascript\">\n        \n        addLoadEvent(function() { setBackToRecipe(encodeURIComponent('Patricia
+      \   Event.observe(window, 'load', recipeDetailsInit);\n    function recipeDetailsInit()
+      {\n        EventBroker.userIsOwnerListener = new UserIsOwnerListener('364872');\n
+      \       ClientLoginManager.initialize('364872');\n        DWREngine.beginBatch();\n
+      \       \n        \n        \n            EventBroker.searchLayer = new SearchLayer(document.referrer,
+      364872);\n        \n        \n        CacheableDWR.makeBatchCacheable();\n        DWREngine.endBatch();\n
+      \   }\n\n    \n    </script>\n\n</div>\n\n\n\n\n\n        </div>\n        \n
+      \   \n        \n        \n        \n        <div id=\"unit_col2\" class=\"empty\">\n
+      \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
+      language=\"javascript\">\n        addLoadEvent(function() { setBackToRecipe(encodeURIComponent('Patricia
       Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese'), document.URL)
-      });\n        var textPref = getCookie(\"style\");\n        var title = textPref
-      ? textPref : getPreferredStyleSheet();\n        setActiveStyleSheet(title);\n</script>\n\n\n<div
-      id=\"introBlock\">\n    \n    \n    <div id=\"recipe_thumb\">\n        <a href=\"/recipes/food/photo/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">\n
-      \           \n            <img src=\"/images/recipesmenus/2011/2011_april/\n364872_116.jpg\"
+      });\n</script>\n\n\n<div id=\"introBlock\">\n    \n    \n    <div id=\"recipe_thumb\">\n
+      \       <a href=\"/recipes/food/photo/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">\n
+      \           \n            <img src=\"/images/recipesmenus/2011/2011_april/364872_116.jpg\"
       class=\"photo scale_down\" alt=\"Patricia Wells's Cobb Salad: Iceberg, Tomato,
       Avocado, Bacon, and Blue Cheese\" />\n        </a>\n        <a href=\"/recipes/food/photo/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
       id=\"enlarge_image\">enlarge image</a>\n    </div>\n    \n    \n    <div id=\"recipe_summary\">\n
@@ -3717,9 +3670,11 @@
       href=\"/recipes/food/views/364871\">Yogurt and Lemon Dressing</a></li>\n                   \n
       \               \n                   \n                      \n                      <li
       class=\"ingredient\">Coarse, freshly ground black pepper</li>\n                   \n
-      \               \n            </ul>\n        \n\n    \n    <a href=\"/recipes/shoppinglist/custom/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      \               \n            </ul>\n        \n\n        \n            <a href=\"/recipes/shoppinglist/custom/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
       target=\"_blank\" id=\"printShoppingList\">print a shopping list for this recipe</a>\n
-      \   \n\n    </div>\n    \n    \n        <div class=\"detail_division\"><img
+      \       \n        \n            <a href=\"/recipes/food/wine-pairings/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      class=\"lnkWinePairing\"><span></span>view wine pairings</a>\n        \n        <div
+      class=\"clrLeft\"></div>\n    </div>\n    \n    \n        <div class=\"detail_division\"><img
       src=\"/rd_images/primaryContent/recipe_detail/rd_buckets_divider.gif\" border=\"0\"/></div>\n
       \   \n\n\n\n<div id=\"preparation\" class=\"instructions\">\n    <h2>Preparation</h2>\n
       \   \n        \n            \n            <p class=\"instruction\">\n                \n
@@ -3738,61 +3693,32 @@
       Trimbach, or Hugel. Neither you nor your guests will be disappointed.\n        </p>\n
       \   \n    <a href=\"/recipes/food/notes/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
       id=\"addnoteLnk\">add your own note</a>\n</div>\n<div class=\"detail_division
-      bottomDivider\"><img border=\"0\" src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   <div class=\"topDivider\"><img border=\"0\" alt=\"\" src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"></div>\n
-      \   <div id=\"wine_pairings\">\n        <h2>wine pairings for this recipe</h2><a
-      id=\"wine_pairings_info\" href=\"/services/winepairings\">What is this?</a>\n
-      \       <a href=\"http://www.snooth.com\" target=\"_blank\"><img src=\"/rd_images/primaryContent/recipe_detail/snooth_logo.gif\"
-      id=\"snooth_logo\" alt=\"powered by snooth\"/></a>\n\n        <script type=\"text/javascript\"
-      language=\"javascript\">\n        var __sn_rid = '364872';  //recipe id.\n        var
-      __sn_iurl = 'http://www.epicurious.com'; // wines will link to this site, adding
-      /wine/(wine code)\n        var __sn_pid = 2;  // website identifier, do not
-      change\n        var __sn_turl = 'http://tyrant.snooth.com';\n        \n        var
-      __sn_live = 1;\n        document.write(unescape(\"%3Cdiv id='__sn_content' style='width:617px;margin:0px;padding:0px;display:block;'%3E%3C/div%3E\"));\n
-      \       document.write(unescape(\"%3Cscript src='\"+__sn_turl+\"/r\"+escape(escape(__sn_pid+'-'+__sn_rid))+\"'
-      type='text/javascript'%3E%3C/script%3E\"));\n        document.write(unescape(\"%3Cscript
-      src='http://edge-media2.snooth.com/js-compressed/epi-recipe-pairing.js' type='text/javascript'%3E%3C/script%3E\"));\n
-      \       </script>\n\n        <div id=\"sponsorAdWinePairings\">\n            \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1701148718_300x60_frame\"
-      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad1701148718_', {sz:'300x60', kws:[]});\n    //-->\n
-      \   </script>\n    \n\n\n        </div>\n    </div>\n    <script type=\"text/javascript\"
-      language=\"javascript\">\n        function resizeWinePairingsModule() {\n            if
-      (contains1pxImage('sponsorAdWinePairings')) {\n                var e = document.getElementById('wine_pairings');\n
-      \               if (e) {\n                    e.style.height = \"220px\";\n
-      \               }\n            }\n        }\n\n        addLoadEvent(resizeWinePairingsModule)\n
-      \   </script>\n    <div class=\"detail_division bottomDivider\"><img border=\"0\"
-      src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n
-      \   \n    \n        <div class=\"tallTopDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"
-      border=\"0\" alt=\"\"></div>\n    \n\n    <div id=\"social-toolbar\">\n        <ul>\n
-      \           \n                \n                \n                  \n                  \n
-      \                 \n                \n            \n            <script type=\"text/javascript\">\n
-      \               jQuery(window).load(function()\n                {\n                    jQuery(\"#fblike\").attr(\"src\",\"http://www.facebook.com/plugins/like.php?href=\"+encodeURIComponent(location.href)+\"&amp;layout=standard&amp;show_faces=false&amp;width=456&amp;action=like&amp;colorscheme=light&amp;height=26\");\n
-      \                   jQuery(\"#social-toolbar a.reddit\").attr(\"href\",\"http://reddit.com/submit?url=\"+encodeURIComponent(location.href)+\"&title=\"+document.title);\n
-      \                   jQuery(\"#social-toolbar a.digg\").attr(\"href\",\"http://digg.com/submit?phase=2&url=\"+encodeURIComponent(location.href)+\"&title=\"+document.title);\n
-      \               });\n            </script>\n                    <li class=\"first\">\n
-      \                        <iframe id=\"fblike\" src=\"\" scrolling=\"no\" frameborder=\"0\"
-      style=\"border:none; overflow:hidden;  height:26px;\" width=\"424\" allowTransparency=\"true\"></iframe>\n
-      \                   </li>\n                    <li id=\"retweet\">\n                         <script
-      type=\"text/javascript\">\n                               tweetmeme_style =
-      'compact';\n                               tweetmeme_width = 99;\n                         </script>\n
-      \                        <script type=\"text/javascript\" src=\"http://tweetmeme.com/i/scripts/button.js\"></script>\n
-      \                  </li>\n                   <li><a href=\"\" target=\"_blank\"
-      class=\"reddit\" title=\"reddit\">reddit</a></li>\n                   <li><a
-      href=\"\" target=\"_blank\" class=\"digg\" title=\"digg\">digg</a></li>\n\n
-      \      </ul>\n    </div>\n\n    \n    \n        <div class=\"detail_division
-      bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
-      border=\"0\" alt=\"\" width=\"648\" height=\"3\"></div>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n        <div class=\"tallTopDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"
-      alt=\"\" border=\"0\"></div>\n        <div id=\"review_teaser\">\n            <div><ul>\n
-      \           \n                \n                   <li><a href=\"/recipes/food/reviews/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">see
+      bottomDivider\"><img border=\"0\" src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        <div class=\"topDivider\"><img border=\"0\" alt=\"\" src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"></div>\n\n
+      \       <div id=\"find-more\">\n            <h2>find more...</h2>\n\n            <div
+      id=\"featuredin\" class=\"rounded-border\">\n                \n\n                \n\n
+      \               \n                    \n                \n\n                \n
+      \                   \n                       \n                          \n\n
+      \                         <div class=\"featureItem\">\n                              \n
+      \                                 \n                                    \n                                    \n
+      \                                 \n                              \n                              \n
+      \                             <a href=\"/recipes/menu/views/dinnerrush072211\">\n
+      \                                <img src=\"/images/recipesmenus/2011/2011_april/364872_116.jpg\"
+      alt=\"\" title=\"\" />\n                              </a>\n                              <span><a
+      href=\"/recipes/menu/views/dinnerrush072211\">All American!</a></span>\n                          </div>\n\n
+      \                         \n                       \n                   \n                \n
+      \               <div class=\"clrLeft\"></div>\n            </div>\n        </div>\n\n
+      \       <div class=\"detail_division bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
+      border=\"0\"/></div>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        <div class=\"tallTopDivider\"><img
+      src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\" alt=\"\"
+      border=\"0\"></div>\n        <div id=\"review_teaser\">\n        <h2>Comment
+      & Share</h2>\n        <div>\n            <ul>\n            \n                \n
+      \                  <li><a href=\"/recipes/food/reviews/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">see
       all 5 reviews &amp; comments</a>&nbsp;&#8250;</li>\n                   <li><button
       id=\"writeCommentBtn\">write your own</button></li>\n                \n                \n
-      \           \n            </ul>\n            \n            <ul id=\"more_teaser\">\n
-      \              <li>find out more...</li>\n                \n                \n
-      \                  <li><a href=\"/recipes/food/more/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">see
-      source information</a></li>\n                \n            </ul>\n            \n
-      \           <div class=\"clrLeft\"></div>\n        </div>\n\n\n        </div>\n
+      \           \n            </ul>\n\n            <div id=\"review_fb_like\"><fb:like
+      send=\"false\" width=\"286\" show_faces=\"true\" font=\"lucida grande\"></fb:like></div>\n\n
+      \           <div class=\"clrLeft\"></div>\n        </div>\n        </div>\n
       \       <div class=\"detail_division bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
       border=\"0\"/></div>\n        <script type=\"text/javascript\">\n            function
       createReviewBox2(){\n                if (EventBroker.reviewRecipeBox == undefined)
@@ -3803,82 +3729,70 @@
       \                           '/images/recipes/recipe_search/rate_forks', 'fork',
       'fork', 'forks');\n                } else {\n                    EventBroker.reviewRecipeBox.addOpenLink('writeCommentBtn');\n
       \               }\n            }\n            runOnLoad(createReviewBox2);\n
-      \       </script>\n    \n\n\n\n\n\n\n\n        </div>\n        \n    \n        \n
+      \       </script>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"print-options\">\n
+      \   \n        \n            \n            <a href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      id=\"print\" target=\"new\">print</a>\n            <div id=\"pf_dropdown\">\n
+      \              <div></div>\n               <ul id=\"printmenu\">\n                    <li><a
+      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      target=\"new\">full page</a></li>\n                     \n                        <li><a
+      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=photo\"
+      target=\"new\">full page w/ photo</a></li>\n                    \n                    <li><a
+      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=3x5\"
+      target=\"new\">3x5 card</a></li>\n                    <li id=\"fourbysix\" ><a
+      href=\"/recipes/food/printerfriendly/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?printFormat=4x6\"
+      target=\"new\">4x6 card</a></li>\n                    \n                    <li
+      id=\"shoppinglist\"><a href=\"/recipes/shoppinglist/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
+      target=\"new\">shopping list</a></li>\n                       \n                </ul>\n
+      \           </div>\n        \n        \n    \n</div>\n\n\n\n\n\n\n\n\n\n\n    <div
+      id=\"social-toolbar\">\n        <ul>\n            \n            <li id=\"stb-email\">\n
+      \               <a href=\"/recipes/food/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\n\n\n\n\n\n\n\n\n\nPatricia
+      Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n\"
+      id=\"email\">e-mail</a>\n            </li>\n            \n            <li id=\"stb-twitter\">\n
+      \           <div>\n                <script src=\"//platform.twitter.com/widgets.js\"
+      type=\"text/javascript\"></script>\n                <a href=\"https://twitter.com/share?count=vertical\"
+      class=\"twitter-share-button\">Tweet</a>\n           </div>\n           </li>\n
+      \          <li id=\"stb-facebook\">\n           <div>\n                <fb:like
+      send=\"false\" layout=\"box_count\" width=\"55\" show_faces=\"false\" font=\"lucida
+      grande\"></fb:like>\n           </div>\n           </li>\n           <li id=\"stb-googleplus\">\n
+      \          <div id=\"gp-container\">\n               <g:plusone size=\"tall\"></g:plusone>\n
+      \              <script type=\"text/javascript\">\n                 (function()
+      {\n                   var po = document.createElement('script'); po.type = 'text/javascript';
+      po.async = true;\n                   po.src = 'https://apis.google.com/js/plusone.js';\n
+      \                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po,
+      s);\n                 })();\n               </script>\n            </div>\n
+      \           </li>\n            <li id=\"stb-stumbleupon\">\n            <div>\n
+      \               <script src=\"http://www.stumbleupon.com/hostedbadge.php?s=5\"></script>\n
+      \           </div>\n            </li>\n            \n\n            <script type=\"text/javascript\">\n
+      \           jQuery(window).load(function()\n            {\n                var
+      imagePath = \"/images/recipesmenus/2011/2011_april/364872.jpg\";\n                jQuery(\"#stb-pinit
+      div\").html(\"<a href='http://pinterest.com/pin/create/button/?url=\" + encodeURIComponent(location.href)
+      + \"&media=\" + encodeURIComponent(location.protocol + location.host + imagePath)
+      + \"' class='pin-it-button' count-layout='vertical'>Pin It</a>\");\n\n            });\n
+      \           </script>\n\n            <li id=\"stb-pinit\">\n            <div>\n
+      \           </div>\n            </li>\n            <script type=\"text/javascript\"
+      src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n\n            \n\n
+      \      </ul>\n    </div>\n\n\n\n\n\n        </div>\n        \n    \n        \n
       \       \n        \n        <div id=\"col4\" class=\"separator\">\n              \n
       \               \n              \n\n\n\n\n\t\t\t\t\n\n<hr/>\n\n\n\n\n        </div>\n
       \       \n    \n\n\n\n\n        </div>\n        \n    \n        \n        \n
       \       \n        <div id=\"col2\" class=\"empty\">\n              \n                \n
-      \             \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        \n\n\n
-      \       \n            <div id=\"featuredin\" class=\"recipeDetailPageFeatured\">\n
-      \               \n                    \n                        <h3>more like
-      this&hellip;<span><a href=\"/recipes/food/more/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\">see
-      all</a> &#8250;</span></h3>\n                    \n                    \n                \n\n
-      \               <table cellspacing=\"0\" cellpadding=\"0\" border=\"0\">\n                <tr
-      valign=\"top\">\n                \n                \n                    <td
-      id=\"food_groups_mlt_body\">\n                        <h4>RELATED RECIPES</h4>\n
-      \                       <img src=\"/rd_images/community/new2.gif\" id=\"new2\"
-      alt=\"new\"/>\n                        \n                        \n                            <a
-      href=\"/community/groups/entertaining/\"><img src=\"/rd_images/community/groups/foodgroup_entertaining.jpg\"
-      alt=\"member groups\" id=\"groups_promo\"/></a>\n                        \n\n
-      \                       <p id=\"tagged\">\n                        \n                            This
-      recipe is tagged <span><a href=\"/community/groups/entertaining/\">Entertaining</a></span>,
-      \n                        \n                            <span><a href=\"/community/groups/quick/\">Quick
-      &amp; Easy Cooking</a></span>, \n                        \n                            <span><a
-      href=\"/community/groups/healthy/\">Healthy Eating</a></span>\n                        \n
-      \                       </p>\n\n                        \n                            <p
-      class=\"all_about\"><a href=\"/community/groups/entertaining/\">see all about
-      Entertaining</a>&nbsp;&rsaquo;</p>\n                        \n                            <p
-      class=\"all_about\"><a href=\"/community/groups/quick/\">see all about Quick
-      &amp; Easy Cooking</a>&nbsp;&rsaquo;</p>\n                        \n                            <p
-      class=\"all_about\"><a href=\"/community/groups/healthy/\">see all about Healthy
-      Eating</a>&nbsp;&rsaquo;</p>\n                        \n                     </td>\n
-      \               \n\n                \n                \n                    <td
-      id=\"food_groups_guides_and_tips\">\n\n                        <h4>GUIDES &amp;
-      TIPS</h4>\n\n                        \n\n                             \n                            \n\n
-      \                           \n                            \n\n                            \n
-      \                           \n                                \n                                    <div
-      id=\"feature_item_menu\" class=\"featureItem\">\n                                        \n
-      \                                           \n                                                \n
-      \                                               \n                                            \n
-      \                                       \n                                        \n
-      \                                       <a href=\"/recipes/menu/views/dinnerrush072211\">\n
-      \                                           <img class=\"scale_down\" src=\"/images/recipesmenus/2011/2011_april/364872_116.jpg\"
-      alt=\"\" title=\"\" />\n                                        </a>\n                                        <span>Menu:
-      <a href=\"/recipes/menu/views/dinnerrush072211\">All American!</a></span>\n
-      \                                   </div>\n                                    \n
-      \                                   \n                                    \n
-      \                               \n                            \n                        \n\n
-      \                            \n                            \n\n                            \n
-      \                           \n\n                            \n                            \n
-      \                               \n                            \n                        \n\n
-      \                            \n                            \n\n                            \n
-      \                           \n\n                            \n                            \n
-      \                               \n                            \n                        \n\n
-      \                   </td>\n                \n\n\n                \n                <td
-      id=\"food_groups_mlt_videos\">\n                    <h4>COOKING VIDEOS</h4>\n\n
-      \                   <img src=\"/rd_images/global_images/video_icon_large.gif\"
-      alt=\"cooking videos\"/>\n                    <a href=\"/video\">Watch cooking
-      videos about everything from basic techniques to celebrity kitchen tours</a>\n\n
-      \               </td>\n            </tr>\n            </table>\n           </div>\n
-      \       \n\n    \n\n\n\n\n\n\n\n\n        </div>\n        \n    \n\n                    <div
-      class=\"clear\"></div>\n                    \n\n\n\n\n\n\n\n\n\n\n<div id=\"addToRbox\"
-      class=\"epiRecipe\">\n    \n        \n        \n            <a href=\"javascript:void(0);\"
-      id=\"addRecipeButton\">Save To Recipe Box</a>\n            <script type=\"text/javascript\">new
-      LoginRequiredLink('364872','addRecipeButton','/user/recipebox/save?id=364872&returnto=/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872','recipeBox',
-      'addToRbox');</script>\n        \n    \n    \n        \n        \n            \n
-      \               \n                \n                    <a href=\"javascript:void(0);\"
-      id=\"addRecipeToShoppingListButton\">save to shopping list</a>\n                    <script
-      type=\"text/javascript\">new LoginRequiredLink('364872','addRecipeToShoppingListButton','/user/shoppinglist/save?id=364872&returnto=/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872','recipeBox',
-      'addToRbox', {shoppingListPromo: true});</script>\n\n                    <a
-      href=\"/tools/shoppinglist/\" id=\"findOutMore\">find out more</a>\n                \n
-      \           \n        \n    \n</div>\n\n                    <div id=\"pc_bottom\">\n
-      \                       <!-- back to links -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n\n
-      \                   </div>\n                    \n                </div>\n            \n\n
-      \           \n\n\n\n\n\n\n\n\n\n    \n    \n    \n    \n    \n        \n    \n
-      \   \n    \n\n\n\n<div class=\"module\" id=\"section_search\">\n<form action=\"/tools/searchresults\"
-      name=\"section_search_form\">\n    <h2>search:</h2>\n   \n    <input type=\"text\"
-      id=\"section_search_box\" name=\"search\" maxlength=\"100\"  value=\"\" />\n
-      \   <select id=\"section_search_select\" name=\"section_search_select\" onchange=\"document.forms['section_search_form'].action
+      \             \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n        </div>\n        \n    \n\n
+      \                   <div class=\"clear\"></div>\n                    \n\n\n\n\n\n\n\n\n\n\n<div
+      id=\"addToRbox\" class=\"epiRecipe\">\n    \n        \n        \n            <a
+      href=\"javascript:void(0);\" id=\"addRecipeButton\">save to recipe box</a>\n
+      \           <script type=\"text/javascript\">new LoginRequiredLink('364872','addRecipeButton','/user/recipebox/save?id=364872&returnto=/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872','recipeBox',
+      'addToRbox');</script>\n        \n    \n</div>\n\n    \n    \n        <div id=\"joinRecipeBox\"
+      class=\"rounded-border\">\n            <a href=\"javascript:void(0);\" id=\"joinNowLink\">Join
+      now to set up a FREE recipe box to save all your favorite recipes!</a>\n            <script
+      type=\"text/javascript\">new LoginRequiredLink('364872','joinNowLink','/user/recipebox/save?id=364872&returnto=/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872','recipeBox',
+      'addToRbox');</script>\n        </div>\n    \n\n<a id=\"goToRbox\" href=\"/community/myepi/myrecipebox\"
+      >go to my recipe box &rsaquo;</a>\n\n                    <div id=\"pc_bottom\"></div>\n
+      \                   \n                </div>\n            \n\n            \n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n    \n    \n        \n    \n    \n    \n\n\n\n<div class=\"module\"
+      id=\"section_search\">\n<form action=\"/tools/searchresults\" name=\"section_search_form\">\n
+      \   <h2>search:</h2>\n   \n    <input type=\"text\" id=\"section_search_box\"
+      name=\"search\" maxlength=\"100\"  value=\"\" />\n    <select id=\"section_search_select\"
+      name=\"section_search_select\" onchange=\"document.forms['section_search_form'].action
       = this.options[this.selectedIndex].value; return false;\">\n        <option
       value=\"/tools/searchresults\" selected=\"selected\" >food recipes</option>\n
       \       <option value=\"/tools/searchresults/drinks\"  >drink recipes</option>\n
@@ -3941,19 +3855,21 @@
       href=\"/recipesmenus/whatsnew/recipes\">What's New</a></li>\n\t\t\t\t\t\t<li><a
       href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n
       \                   <div class=\"menu-feature-content\">\n                        <a
-      href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\"><img src=\"/images/articlesguides/holidays/halloween/halloween-navpromo-RM.jpg\"
-      border=\"0\" alt=\"We Couldn't Scare Less\" /></a>\n                       <a
-      href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\"><h4>We
-      Couldn't Scare Less</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_navpromo\">Have
-      yourself a scary little Halloween with hundreds of hair-raising recipes, including
-      Zombie Cupcakes, Monster Eyeballs, Spiderweb Cookies, and Witches' Brew.</a>\n
-      \                       </p>\n                        <p class=\"menu-feature-links\">\n
-      \                           <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_subpromo\">see
-      more halloween tricks and treats </a>&nbsp;<span>&#8250;</span>\n                        </p>\n
-      \                       <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
+      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/thanksgiving/2011-thanksgiving-navpromo-RM.jpg\"
+      border=\"0\" alt=\"Turkey, Stuffing & Pie\" /></a>\n                       <a
+      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\"><h4>Turkey,
+      Stuffing & Pie</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\">Whether
+      you're a novice or expert, cooking for two or a crowd, going tried-and-true
+      or creating new traditions, dig in to our delicious recipes.</a>\n                        </p>\n
+      \                       <p class=\"menu-feature-links\">\n                            <a
+      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_subpromo\">see
+      Thanksgiving menus, planning advice, and more</a>&nbsp;<span>&#8250;</span>\n
+      \                       </p>\t\t\t\t\t\n\t\t\t\t\t\t\n                        <!--
+      \ <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
-      alt=\"\" />\n                        </div>\n                        -->\n                        \n
+      alt=\"\" />\n                        </div>\n                        -->            \n
       \                   </div>                    \n                </div>\n                <div
       class=\"dropdown-end-cap\"></div>\n            </div>\n\n            <div id=\"articlesandguides_dropdown\">\n
       \               <div class=\"dropdown-content\">\n                    <ul>\n
@@ -3972,17 +3888,19 @@
       \                       <li><a href=\"/articlesguides/chefsexperts\">Chefs &amp;
       Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
       \                   </ul>\n\t\t\t\t\t\n\t\t\t\t\t\n                    <div
-      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/halloween/halloween-navpromo-AG.jpg\"
-      border=\"0\" alt=\"Spooky Do\" /></a>\n                       <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\"><h4>Spooky
-      Do</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/articlesguides/holidays/halloween/halloween?intcid=epi_navpromo\">You
-      bring the tricks, we've got the treats: Get into the Halloween spirit with party-planning
-      tips, terrifyingly tasty recipes, and the ultimate pumpkin-carving guide.</a>\n
-      \                       </p>\n                        <p class=\"menu-feature-links\">\n
-      \                           <a href=\"/recipesmenus/holidays/halloween/recipes?intcid=epi_subpromo\">find
-      hundreds of halloween recipes </a>&nbsp;<span>&#8250;</span>\n                        </p>\n\n
-      \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
+      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/thanksgiving/2011-thanksgiving-navpromo-AG.jpg\"
+      border=\"0\" alt=\"Great American Thanksgiving\" /></a>\n                       <a
+      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\"><h4>Great
+      American Thanksgiving</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\">Celebrate
+      with menus from Bobby Flay, Molly O'Neill, Rick Rodgers, and more. Plus, get
+      carving how-tos, planning tips, and secrets to showstopping pies.</a>\n                        </p>\n
+      \                       <p class=\"menu-feature-links\">\n                            <a
+      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_subpromo\">see
+      thousands of tried-and-true Thanksgiving recipes</a>&nbsp;<span>&#8250;</span>\n
+      \                       </p>\n\t\t\t\t\n\t\t\t\t\t\n                      <!--
+      \ <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div> -->\n                    </div>
       \                   \n                </div>\n                <div class=\"dropdown-end-cap\"></div>\n
@@ -4107,7 +4025,7 @@
       IE 6]>\n<style type=\"text/css\">\n    div#newsletter_content, div#rss_content,
       div#podcast_content { margin-top: -2px; }\n    div#newsletter_content { margin-bottom:
       -14px; }\n    div#error_area, div#error_area2 { margin-top: -2px; }\n</style>\n<![endif]-->\n\n<div
-      style=\"padding-bottom:5px;\">\n    <div id=\"newsletter_section\" style=\"display:none;\">\n
+      id=\"marketingWidgetModule\">\n    <div id=\"newsletter_section\" style=\"display:none;\">\n
       \       <div class=\"newsletter_top\">\n            <div id=\"header\">\n                <a
       href=\"javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();\"
       id=\"newsletter_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('mobile_section');
@@ -4157,14 +4075,13 @@
       \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
       hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
       hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
-      \       <div id=\"mobile_content\" class=\"mkt_widget_content\">\n            <a
-      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epiIconWidget.jpg\"
-      border=\"0\" height=\"120\" width=\"84\" alt=\"nook\" align=\"left\"/></a>\n
-      \           <p><a href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicuriousEverywhereApp.jpg\"
-      border=\"0\" height=\"42\" width=\"155\" alt=\"epicurious Everywhere\" style=\"margin:
-      0 0 5px 0;\"/></a><br />\n                Get our award-winning food<br />app
-      in the kitchen or on the go.<br />\n                <a class=\"learnMore\" href=\"/services/mobile\"
-      style=\"line-height: 16px;\">learn more</a>&nbsp;&#8250;\n            </p>\n
+      \       <div id=\"mobile_content\" class=\"mkt_widget_content\">\n<div class=\"rightNew\"><a
+      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicurious-apps.gif\"
+      border=\"0\" height=\"120\" width=\"133\" alt=\"epicurious apps\"/></a></div>\n<a
+      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicurious-everywhere.gif\"
+      border=\"0\" height=\"38\" width=\"141\" alt=\"epicurious Everywhere\" style=\"margin:
+      10px 0 5px 0;\"/></a><br />\n                <a class=\"learnMoreNew\" href=\"/services/mobile\">Get
+      our award-winning<br/>food app in the kitchen<br/>or on the go &nbsp;&#8250;</a>\n\n
       \       </div>\n        <div class=\"mkt_widget_bottom\">&nbsp;</div>\n    </div>\n\n
       \   <div id=\"rss_section\" style=\"display:none;\">\n        <div class=\"rss_top\">\n
       \           <div id=\"header\">\n                <a href=\"javascript:switchid('newsletter_section');
@@ -4206,8 +4123,8 @@
       -->\n\n\n\n\n            <div class=\"module\">\n                <div class=\"widget\"
       id=\"ad_widget\">\n                    <h2>Advertising</h2>\n                    <div
       id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad1207047056_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1207047056_',
+      \   \n    \n        <div id=\"ad2105338501_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad2105338501_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
       class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
@@ -4221,28 +4138,12 @@
       \   \n    \n        <div id=\"pollBooth165x31_frame\" class=\"displayAd\"></div>\n
       \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('pollBooth',
       {sz:'165x31', kws:[]});\n    //-->\n    </script>\n    \n\n\n        </div>\n
-      \   </div>\n\n\n\n\n<div id=\"cooks_tools_module\" class=\"modular content_unit
-      dropshadowed hslider\">\n\n          \n\t<h2>cooks' tools</h2>\n\n\t<span id=\"see_tools\"><a
-      href=\"/tools/\">see all</a> &#8250;</span>\n\n\t<div class=\"content_wrapper\">\n\t\t<ul>\n\t\t\t<li
-      id=\"ct_fd\"><a href=\"/tools/fooddictionary/\">Food Dictionary</a></li>\n\t\t\t<li
-      id=\"ct_sl\"><a href=\"/tools/shoppinglist/\">Shopping List</a></li>\n\t\t\t<li
-      id=\"ct_ia\"><a href=\"/services/mobile/\">Mobile Apps</a></li>\n\t\t\t<li id=\"ct_tv\"><a
-      href=\"/video/\">Technique Videos</a></li>\n\t\t\t<li id=\"ct_wp\"><a href=\"/services/winepairings/\">Wine
-      Pairings</a></li>\n\t\t\t<li id=\"ct_cc\"><a href=\"/tools/conversions/\">Conversion
-      Chart</a></li>\n\t\t</ul>\n\t</div>\n\n        <div class=\"sponsorship_ad\">\n
-      \           \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"cooksTools120x61_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('cooksTools',
-      {sz:'120x61', kws:[\"top\",\"cookstool\"]});\n    //-->\n    </script>\n    \n\n\n
-      \       </div>\n\n</div>\n<script type=\"text/javascript\" language=\"JavaScript
-      1.5\">\nvar cookstoolsSlider = new Slider({\n    containerId: 'cooks_tools_module',\n
-      \   groupSize: 3,\n    speed: 8,\n    hasGroupNav: false,\n    effect: 1,\n
-      \   direction: 'horizontal'\n});\n</script>\n\n\n\n\n            <div class=\"module\">\n
-      \               <div class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
+      \   </div>\n\n\n\n\n            <div class=\"module\">\n                <div
+      class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1999222491_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad844682703_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad1999222491_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad844682703_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
       class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
@@ -4250,105 +4151,35 @@
       href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
       href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/231889\"><img
-      src=\"/images/recipesmenus/2005/2005_april/\n231889_116.jpg\" alt=\"Cauliflower-Leek
-      Kugel with Almond-Herb Crust\" /></a>\n\n                    <div id=\"rotd_details\">\n
-      \                       <h3><a href=\"/recipes/food/views/231889\">Cauliflower-Leek
-      Kugel with Almond-Herb Crust</a></h3>\n                        <p>Bon App&eacute;tit,
-      April 2005</p>\n                    </div>\n                        <div class=\"clear\"></div>\n
-      \               </div>\n            </div>\n\n\n\n\n\n\n\n    <div class=\"scrolled
-      module\" id=\"recent_searches_module\">\n    <h2>Recent Searches</h2>\n        <div
-      class=\"module_content\" id=\"recent_searches_content\">\n            <button
-      class=\"scroll_up\" id=\"rs_scroll_up\" onfocus=\"blur(this)\"></button>\n            <ul
-      id=\"recent_searches_list\">\n\n                \n                \n                    \n
-      \                       \n                        \n                        \n
-      \                       \n                            \n                                   <li
-      class=\"recent_search\">1.\n\n\n                                   <a href=\"/tools/searchresults?search=%22pork+loin%22+grill+mustard\">&#034;pork
-      loin&#034; grill mustard</a>\n                            </li>\n                        \n
-      \                   \n                \n                    \n                        \n
-      \                       \n                        \n                        \n
-      \                           \n                                   <li class=\"recent_search\">2.\n\n\n
-      \                                  <a href=\"/tools/searchresults?search=banana+sundae\">banana
-      sundae</a>\n                            </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">3.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=tuna\">tuna</a>\n                            </li>\n
-      \                       \n                    \n                \n                    \n
-      \                       \n                        \n                        \n
-      \                       \n                            \n                                   <li
-      class=\"recent_search\">4.\n\n\n                                   <a href=\"/tools/searchresults?search=roasted+garlic+lasagna\">roasted
-      garlic lasagna</a>\n                            </li>\n                        \n
-      \                   \n                \n                    \n                        \n
-      \                       \n                        \n                        \n
-      \                           \n                                   <li class=\"recent_search\">5.\n\n\n
-      \                                  <a href=\"/tools/searchresults?search=tuna+flying+saucers\">tuna
-      flying saucers</a>\n                            </li>\n                        \n
-      \                   \n                \n                    \n                        \n
-      \                       \n                        \n                        \n
-      \                           \n                                   <li class=\"recent_search\">6.\n\n\n
-      \                                  <a href=\"/tools/searchresults?search=beer+bread\">beer
-      bread</a>\n                            </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">7.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=lamb+chop\">lamb chop</a>\n                            </li>\n
-      \                       \n                    \n                \n                    \n
-      \                       \n                        \n                        \n
-      \                       \n                            \n                                   <li
-      class=\"recent_search\">8.\n\n\n                                   <a href=\"/tools/searchresults?search=radish+pickled\">radish
-      pickled</a>\n                            </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">9.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=dressing%2C+salad\">dressing, salad</a>\n
-      \                           </li>\n                        \n                    \n
-      \               \n                    \n                        \n                        \n
-      \                       \n                        \n                            \n
-      \                                  <li class=\"recent_search\">10.\n\n\n                                   <a
-      href=\"/tools/searchresults?search=radish+herb\">radish herb</a>\n                            </li>\n
-      \                       \n                    \n                \n            </ul>\n
-      \           <button class=\"scroll_down\" id=\"rs_scroll_down\" onfocus=\"blur(this)\"></button>\n
-      \       </div>\n    </div>\n    <script type=\"text/javascript\" language=\"JavaScript\"
-      src=\"/rd_scripts/modules/recent_searches.js\"></script>\n\n\n\n<!-- /htmlinclude/tiles/rightrailcommunityPromo_HP.html
-      -->\n<div id=\"outerbox\" class=\"rounded\">\n    <div id=\"communitypromo\">\n
-      \   \t<!-- <span class=\"hdr_round hdr_blue\"></span> -->\n        <h2>join
-      the epicurious community</h2>\n        <div class=\"innerboxContent dropshadowed\">\n
-      \           <a href=\"/community/myepi/myprofile\"><img src=\"/images/home/promo_mags/com_profile.gif\"
-      align=\"left\" alt=\"\" border=\"0\" /></a>\n            <p>\n                <strong>Have
-      you built a profile?</strong><br /> Create your own profile, share recipes,
-      and organize your recipes in your personal Recipe Box.<br />\n                <a
-      href=\"/community/myepi/myprofile\">get started now</a><span>&nbsp;&#8250;</span>\n
-      \           </p>\n            <div class=\"clear\"></div>\n            \n            <a
-      href=\"/community/myepi/profile/findmembers\"><img src=\"/images/home/promo_mags/com_find.gif\"
-      align=\"left\" alt=\"\" border=\"0\"/></a>\n            <p>\n                <strong>Find
-      other foodies</strong><br />View member profiles, Recipe Boxes, and even become
-      a fan of a fellow member.<br />\n                <a class=\"epilog_content\"
-      href=\"/community/myepi/profile/findmembers\">find members</a><span>&nbsp;&#8250;</span>\n
-      \           </p>\n            <div class=\"clear\"></div>            \n            \n
-      \           <a class=\"epilog_content\" href=\"/community\"><img src=\"/rd_images/community/explore/join_group_icon.gif\"
-      align=\"left\" alt=\"Join a Member Group\" border=\"0\"/></a>\n            <p>\n
-      \               <strong>Join a Member Group</strong><br />Whether you're a chocoholic,
-      love entertaining, or are looking for healthy eating ideas, we've got the perfect
-      foodie community for you.<br />\n                <a href=\"/community\">see
-      all Member Groups</a><span>&nbsp;&#8250;</span>\n            </p>\n            <div
-      class=\"clear\"></div>\n        </div>\n    </div>  \n</div>\n\n\n\n        </div>\n
-      \       <script type=\"text/javascript\" language=\"JavaScript 1.5\">roundContainer(\"secondary\");</script>\n\n
-      \       \n\n\n\n\n\n<div class=\"separator\" id=\"364872\">\n    <hr/>\n</div>\n\n\n
-      \       \n\n\n\n<div id=\"breadcrumb_session\">\n    <div id=\"bc_left\">\n
-      \   \n        \n        \n            \n                <a href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n
-      \               \n                \n            \n            &#8250;\n        \n
-      \           \n                \n                <a href=\"/recipesmenus\" class=\"bc_links\">recipes
-      & menus</a>\n                \n            \n            &#8250;\n        \n
-      \           \n                \n                \n                patricia wells's
-      cobb salad: iceberg, tomato, avocado, bacon, and blue cheese\n            \n
-      \           \n        \n        \n\n        \n    \n    </div>\n    \n\n\n\n\n\n<div
-      class=\"separator\" id=\"364872\">\n    <hr/>\n</div>\n\n</div>\n\n\n        <div
-      id=\"footerContainer\">\n            \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a
-      rel=\"nofollow\" href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\"
-      href=\"/services/sitemap\">Site Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact
-      Us</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a
-      rel=\"nofollow\" target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368307\"><img
+      src=\"/images/recipesmenus/2011/2011_november/368307_116.jpg\" alt=\"Shrimp
+      and Grits Cakes\" /></a>\n\n                    <div id=\"rotd_details\">\n
+      \                       <h3><a href=\"/recipes/food/views/368307\">Shrimp and
+      Grits Cakes</a></h3>\n                        <p>SELF, November 2011</p>\n                    </div>\n
+      \                       <div class=\"clear\"></div>\n                </div>\n
+      \           </div>\n\n\n<!-- /htmlinclude/tiles/rightrailcommunityPromo_HP.html
+      -->\n<div id=\"outerbox\" class=\"rounded recipeBoxPromo\">\n    <div id=\"communitypromo\">\n
+      \       <h2>join now &amp; set up a recipe box</h2>\n        <div class=\"innerboxContent
+      dropshadowed\">\n            <a href=\"/user/registration\"><img src=\"/globalimages/rightrail/joinNowAndSave.gif\"
+      alt=\"Join now &amp; set up a recipe box\" width=\"256\" height=\"130\" border=\"0\"
+      /></a>\n            <div class=\"clear\"></div>\n        </div>\n    </div>
+      \ \n</div>\n\n\n\n        </div>\n        <script type=\"text/javascript\" language=\"JavaScript
+      1.5\">roundContainer(\"secondary\");</script>\n\n        \n\n\n\n\n\n<div class=\"separator\"
+      id=\"364872\">\n    <hr/>\n</div>\n\n\n        \n\n\n\n<div id=\"breadcrumb_session\">\n
+      \   <div id=\"bc_left\">\n    \n        \n        \n            \n                <a
+      href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n                \n                \n
+      \           \n            &#8250;\n        \n            \n                \n
+      \               <a href=\"/recipesmenus\" class=\"bc_links\">recipes & menus</a>\n
+      \               \n            \n            &#8250;\n        \n            \n
+      \               \n                \n                patricia wells's cobb salad:
+      iceberg, tomato, avocado, bacon, and blue cheese\n            \n            \n
+      \       \n        \n\n        \n    \n    </div>\n    \n\n\n\n\n\n<div class=\"separator\"
+      id=\"364872\">\n    <hr/>\n</div>\n\n</div>\n\n\n        <div id=\"footerContainer\">\n
+      \           \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a rel=\"nofollow\"
+      href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/sitemap\">Site
+      Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact Us</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a rel=\"nofollow\"
+      target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
       rel=\"nofollow\" href=\"/services/presscenter\">Press Center</a></li>\n\t<li><a
       rel=\"nofollow\" href=\"/services/subscriptions\">Subscription Services</a></li>\t\t\n\t<li><a
       rel=\"nofollow\" href=\"/services/newsletters\">Newsletters</a></li>\n\t<li><a
