@@ -1,10 +1,11 @@
 module Reduction
   class Strategy
 
-    attr_reader :doc
+    attr_reader :doc, :url
 
-    def initialize(html_doc)
+    def initialize(html_doc, url)
       @doc = Nokogiri::HTML(html_doc.to_s)
+      @url = url
     end
 
     def self.all
