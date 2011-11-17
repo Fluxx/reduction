@@ -46,7 +46,18 @@ module Reduction
       def cook_time
       end
 
+      def images
+        absolute_img_srcs_from(normalized_images)
+      end
+
       private
+
+      def normalized_images
+        doc.search('#recipe_thumb img').map do |img|
+          img.set_attribute('src', img['src'].gsub(/\n|\r/, ''))
+          img
+        end
+      end
 
       def multiple_steps_lists
         stack = Array.new

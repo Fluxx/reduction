@@ -9,7 +9,7 @@ module Reduction
       use_vcr_cassette 'epicurious'
 
       context 'normal recipe' do
-        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872')) }
+        strategy_subject_for('http://www.epicurious.com/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872')
 
         it_should_behave_like "a strategy"
 
@@ -51,10 +51,12 @@ module Reduction
         it_should_find 'prep_time', nil
 
         it_should_find 'cook_time', nil
+
+        it_should_find 'images', ['http://www.epicurious.com/images/recipesmenus/2011/2011_april/364872_116.jpg']
       end
 
       context 'a recipe with multiple ingredient lists' do
-        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')) }
+        strategy_subject_for('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')
         it_should_behave_like "a strategy"
 
         it_should_find 'ingredients', [
@@ -82,10 +84,13 @@ module Reduction
             "Equipment: a 10-inch fluted tart pan with removable bottom; pie weights or dried beans"
           ]
         ]
+
+        it_should_find 'images', ['http://www.epicurious.com/images/recipesmenus/2009/2009_april/352272_116.jpg']
       end
 
       context 'a recipe with multiple step lists' do
-        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')) }
+        strategy_subject_for('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')
+        
         it_should_behave_like "a strategy"
 
         it_should_find 'steps', [
@@ -111,10 +116,13 @@ module Reduction
             "Assemble tart:"
           ]
         end
+
+        it_should_find 'images', ['http://www.epicurious.com/images/recipesmenus/2009/2009_april/352272_116.jpg']
       end
 
       context 'a recipe with one step and random line breaks' do
-        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Lemongrass-Lime-Leaf-365192')) }
+        strategy_subject_for('http://www.epicurious.com/recipes/food/views/Lemongrass-Lime-Leaf-365192')
+
         it_should_behave_like "a strategy"
 
         it_should_find 'steps',  [
@@ -125,7 +133,8 @@ module Reduction
       end
 
       context 'a recipe that has a shopping list' do
-        subject { described_class.new(get_page('http://www.epicurious.com/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109')) }
+        strategy_subject_for('http://www.epicurious.com/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109')
+
         it_should_behave_like "a strategy"
 
         it_should_find 'ingredients',  [
@@ -146,6 +155,8 @@ module Reduction
         it 'picks up the recipe header' do
           subject.ingredients.last.name.should == 'Shopping with anna:'
         end
+
+        it_should_find 'images', ['http://www.epicurious.com/images/recipesmenus/2011/2011_may/365109_116.jpg']
       end
 
     end
