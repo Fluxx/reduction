@@ -33,7 +33,17 @@ module Reduction
         doc.at('time[itemprop=totalTime]').text.collapse_whitespace
       end
 
+      def images
+        absolute_img_srcs_from(relevent_images)
+      end
+
       private
+
+      def relevent_images
+        doc.search('.content img').reject do |img|
+          img['src'] =~ Regexp.new("clear.gif|difficulty_[a-z]+.jpg")
+        end
+      end
 
       def ingredient_elements
         @ingredient_elements ||= doc.at('#ingredients').children

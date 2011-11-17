@@ -1,8 +1,9 @@
 shared_examples_for "a strategy" do
 
   string_methods = %w[title yields]
-  array_methods = %w[ingredients steps]
-  all_methods = string_methods + array_methods
+  list_methods = %w[ingredients steps]
+  array_methods = %w[images]
+  all_methods = string_methods + list_methods + array_methods
 
   all_methods.each do |method|
 
@@ -20,12 +21,18 @@ shared_examples_for "a strategy" do
     end
   end
 
-  array_methods.each do |method|
+  list_methods.each do |method|
     it "should return an array of objects that respond to :each ##{method}" do
       subject.send(method).should be_a(Array)
       subject.send(method).each do |element|
         element.should respond_to(:each)
       end
+    end
+  end
+
+  array_methods.each do |method|
+    it "#{method} return an object that responds to each" do
+      subject.send(method).should respond_to(:each)
     end
   end
 
@@ -38,7 +45,7 @@ shared_examples_for "a strategy" do
 end
 
 
-%w[title ingredients steps yields prep_time cook_time total_time].each do |method|
+%w[title ingredients steps yields prep_time cook_time total_time images].each do |method|
   shared_examples_for "#{method}" do |property|
     it "should return the correct #{method}" do
       subject.send(method).should == property

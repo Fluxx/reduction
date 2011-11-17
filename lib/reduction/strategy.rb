@@ -30,5 +30,15 @@ module Reduction
       "Prep Time: #{prep_time}. Cook Time: #{cook_time}"
     end
 
+    private
+
+    def absolute_img_srcs_from(images)
+      host_uri = URI.parse(url)
+
+      images.map do |img|
+        host_uri.merge(URI.parse(img['src'])).to_s
+      end
+    end
+
   end
 end

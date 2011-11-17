@@ -10,7 +10,7 @@ module Reduction
 
       context 'normal recipe page' do
 
-        subject { described_class.new(get_page('http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars')) }
+        strategy_subject_for('http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars')
 
         it_should_behave_like "a strategy"
 
@@ -64,11 +64,21 @@ module Reduction
 
         it_should_find 'total_time', '45 mins, plus at least 7 hrs freezing time'
 
+        it_should_find 'images', [
+          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg",
+          "http://www.chow.com/images/green_checkmark.png",
+          "http://www.chow.com/assets/2011/04/vanilla_bar_1.jpg",
+          "http://www.chow.com/assets/2011/04/vanilla_bar_2.jpg",
+          "http://www.chow.com/assets/2011/04/vanilla_bar_3.jpg",
+          "http://www.chow.com/assets/2011/04/vanilla_bar_4.jpg",
+          "http://www.chow.com/assets/2011/04/vanilla_bar_5.jpg"
+        ]
+
       end
 
       context 'recipe with multiple sets of ingredients' do
 
-        subject { described_class.new(get_page('http://www.chow.com/recipes/29539-pavlova-with-lemon-curd-and-fresh-berries')) }
+        strategy_subject_for('http://www.chow.com/recipes/29539-pavlova-with-lemon-curd-and-fresh-berries')
 
         it_should_behave_like "a strategy"
 
@@ -105,11 +115,30 @@ module Reduction
           ]
         end
 
+        it_should_find 'images', [
+          "http://www.chow.com/assets/2011/04/29539_pavlova_lemon_curd_290.jpg",
+          "http://www.chow.com/assets/2011/04/lemoncurd_1.jpg",
+          "http://www.chow.com/assets/2011/04/lemoncurd_2.jpg",
+          "http://www.chow.com/assets/2011/04/lemoncurd_3.jpg",
+          "http://www.chow.com/assets/2011/04/lemoncurd_4.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_1.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_2.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_3.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_4.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_5.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_6.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_7.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_8.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_9.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_10.jpg",
+          "http://www.chow.com/assets/2011/04/pavlova_11.jpg"
+        ]
+
       end
 
       context 'recipe with multiple sets of instuctions' do
 
-        subject { described_class.new(get_page('http://www.chow.com/recipes/28966-apple-honey-upside-down-cakes')) }
+        strategy_subject_for('http://www.chow.com/recipes/28966-apple-honey-upside-down-cakes')
 
         it_should_behave_like "a strategy"
 
@@ -133,6 +162,11 @@ module Reduction
             'For the cake:'
           ]
         end
+
+        it_should_find 'images', [
+          "http://www.chow.com/assets/2010/10/28966_apple_honey_cakes_3_290.jpg",
+          "http://www.chow.com/uploads/6/9/6/100696_chim_tiny.jpg"
+        ]
 
       end
 
