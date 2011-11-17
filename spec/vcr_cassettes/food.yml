@@ -1394,24 +1394,23 @@
       server:
       - Apache/2.2.3 (Red Hat)
       content-length:
-      - '111342'
+      - '111379'
       content-type:
       - text/html;charset=UTF-8
       set-cookie:
-      - JSESSIONID=a35342a1b5060abeb312faa337f8.foodweb02i1; Path=/
-      - JSESSIONID=a3535fbd92459058b80ce3816480.foodweb02i1; Path=/
+      - JSESSIONID=03bc014301e2408b6d832db82d6b.foodweb02i1; Path=/
       x-powered-by:
       - JSP/2.1
       x-cnection:
       - close
       expires:
-      - Wed, 16 Nov 2011 02:29:33 GMT
+      - Thu, 17 Nov 2011 06:34:26 GMT
       cache-control:
       - max-age=0, no-cache, no-store
       pragma:
       - no-cache
       date:
-      - Wed, 16 Nov 2011 02:29:33 GMT
+      - Thu, 17 Nov 2011 06:34:26 GMT
       connection:
       - keep-alive
     body: ! "\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"
@@ -1540,7 +1539,7 @@
       Chop Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/cakes\"
       rev=\"Recipes\" rel=\"gh-t1-10\">Cake Recipes</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/recipe-finder/all?sd=11/14/2011\" rev=\"Recipes\"
+      \ href=\"http://www.food.com/recipe-finder/all?sd=11/16/2011\" rev=\"Recipes\"
       rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\"
       rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes-popular\" rev=\"Recipes\" rel=\"gh-t1-13\">Top-Rated
@@ -1660,10 +1659,10 @@
       \ href=\"http://www.food.com/bb/viewforum.zsp?f=9\" rev=\"Community\" rel=\"gh-t4-9\">Dieting</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/bb/viewforum.zsp?f=26\" rev=\"Community\" rel=\"gh-t4-10\">Breads
       & Baking</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li class=\"explore\">\r\n\t\t\t<h5>Explore
-      the Community</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/bb/viewforum.zsp?f=16\"
-      rev=\"Community\" rel=\"gh-t4-11\">New Members Help</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/browse/chefs/\" rev=\"Community\" rel=\"gh-t4-12\">All
-      Members A-Z</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/bb/viewforum.zsp?f=4\"
+      the Community</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://blog.food.com/happenings\"
+      rev=\"Community\" rel=\"gh-t4-11\">Food.com Blog</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      \ href=\"http://www.food.com/bb/viewforum.zsp?f=16\" rev=\"Community\" rel=\"gh-t4-12\">New
+      Members Help</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/bb/viewforum.zsp?f=4\"
       rev=\"Community\" rel=\"gh-t4-13\">Customer Support</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/bb/index.zsp\" rev=\"Community\" rel=\"gh-t4-14\">All
       Forums</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/about/contactus.zsp\"
@@ -1730,7 +1729,7 @@
       \ href=\"http://www.food.com/recipes/crock-pot-slow-cooker\" rev=\"Recipes\"
       rel=\"gh-t1-12-li\">Crock-Pot Recipes</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/recipe-finder/all?sd=11/14/2011\" rev=\"Recipes\"
+      \ href=\"http://www.food.com/recipe-finder/all?sd=11/16/2011\" rev=\"Recipes\"
       rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\"
       rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes-popular\" rev=\"Recipes\" rel=\"gh-t1-15-li\">Top-Rated
@@ -1801,9 +1800,9 @@
       \ href=\"http://www.food.com/bb/viewforum.zsp?f=23\" rev=\"Community\" rel=\"gh-t4-11-li\">Cooking
       on a Budget</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore the Community</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/bb/viewforum.zsp?f=16\" rev=\"Community\" rel=\"gh-t4-12-li\">New
-      Members Help</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/browse/chefs/\"
-      rev=\"Community\" rel=\"gh-t4-13-li\">All Members A-Z</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      \ href=\"http://blog.food.com/happenings\" rev=\"Community\" rel=\"gh-t4-12-li\">Food.com
+      Blog</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/bb/viewforum.zsp?f=16\"
+      rev=\"Community\" rel=\"gh-t4-13-li\">New Members Help</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/bb/viewforum.zsp?f=4\" rev=\"Community\" rel=\"gh-t4-14-li\">Customer
       Support</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/bb/index.zsp\"
       rev=\"Community\" rel=\"gh-t4-15-li\">All Forums</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\r\n</ul>\r\n\n\t\t</div>\n\t</li>\n\t<li
@@ -1900,7 +1899,7 @@
       = userInfo.country;\n\t\tSNI.Community.UR.ViewingMemberId = userInfo.memberId;\n\t\tSNI.Community.UR.logged_in=true;\n\t}\n</script>\r\n\t</div>\r\n</div>\r\n<script
       type=\"text/javascript\" charset=\"utf-8\">handleHeaderLoad();</script>\n\r\n\r\n\r\n<input
       type=\"hidden\" id=\"globalAssetId\" value=\"292214\"></input>\r\n<input type=\"hidden\"
-      id=\"globalAssetType\" value=\"1\"></input>\r\n\r\n<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@6b0648
+      id=\"globalAssetType\" value=\"1\"></input>\r\n\r\n<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@10af9b0
       -->\r\n<div id=\"site-wrapper\" class=\"recipe-details\">\r\n\t\r\n\r\n\r\n\r\n<div
       id=\"rz-bc\" class=\"clrfix\"> \r\n\t\r\n\r\n<div id=\"rz-breadcrumb\">You are
       in: \r\n\r\n\t<a href=\"http://www.food.com\">Home</a> /  \r\n\r\n\t<a href=\"http://www.food.com/recipes/\">Recipes</a>
@@ -1952,7 +1951,7 @@
       class=\"selected\"  ><span>Recipe</span></a>\r\n</li>\r\n\r\n<li>\r\n\t<a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/review\"
       ><span>Ratings &amp; Reviews<em>(6)</em></span></a>\r\n</li>\r\n\r\n<li>\r\n\t<a
       href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/photo\"  ><span>Photos<em>(2)</em></span></a>\r\n</li>\r\n</ul>\r\n<!--
-      recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@6b0648 -->\r\n\r\n\t\t\t\t\t\r\n\t\t<div
+      recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@10af9b0 -->\r\n\r\n\t\t\t\t\t\r\n\t\t<div
       class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\t\t\t<small>Sponsored
       by:</small><em></em>\r\n\t\t\t<script type=\"text/javascript\">try{MultiLogoAd('LOGO',1);}catch(e){}</script>\r\n\t\t</div>\r\n\t\t<script
       type=\"text/javascript\">\r\n\t\tif( document.getElementById('sponsor_ad_div_id').innerHTML.indexOf(\"1x1.gif\")==-1
@@ -2141,22 +2140,22 @@
       class=\"pod topCollection\">\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n<h2
       class=\"hd\">Browse Our Top <a id=\"brtoprec\" href=\"http://www.food.com/recipes/cocktails\">Cocktail</a>
       Recipes</h2>\r\n    <ul class=\"colList clrfix\" id =\"bmrec\">\r\n            \r\n
-      \               <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-185484\"
-      rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/18/54/84/thumbs/picZUZixS.jpg\"
-      title=\"Frozen Watermelon Margaritas. Recipe by lazyme\" alt=\"Frozen Watermelon
-      Margaritas. Recipe by lazyme\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-185484\"
-      rel=\"bmr-0\">Frozen Watermelon Margaritas</a></p>\r\n                  <small>By
-      lazyme</small>\r\n                  \r\n                \t<span class=\"inline-rating
-      small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
-      style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
-      \               \t</span>\r\n                  \r\n                </li>\r\n
-      \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margaritas-93338\"
-      rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/93/33/8/thumbs/picsGj0c7.jpg\"
+      \               <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margaritas-93338\"
+      rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/93/33/8/thumbs/picsGj0c7.jpg\"
       title=\"Frozen Margaritas. Recipe by Lauriew\" alt=\"Frozen Margaritas. Recipe
       by Lauriew\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margaritas-93338\"
-      rel=\"bmr-1\">Frozen Margaritas</a></p>\r\n                  <small>By Lauriew</small>\r\n
+      rel=\"bmr-0\">Frozen Margaritas</a></p>\r\n                  <small>By Lauriew</small>\r\n
       \                 \r\n                \t<span class=\"inline-rating small\">\r\n
       \               \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
+      style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
+      \               \t</span>\r\n                  \r\n                </li>\r\n
+      \           \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\"
+      rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/23/44/74/thumbs/picLRa2lO.jpg\"
+      title=\"Frozen Mango Margarita. Recipe by English_Rose\" alt=\"Frozen Mango
+      Margarita. Recipe by English_Rose\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\"
+      rel=\"bmr-1\">Frozen Mango Margarita</a></p>\r\n                  <small>By
+      English_Rose</small>\r\n                  \r\n                \t<span class=\"inline-rating
+      small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
       style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
       \               \t</span>\r\n                  \r\n                </li>\r\n
       \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\"
@@ -2168,23 +2167,24 @@
       small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
       style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
       \               \t</span>\r\n                  \r\n                </li>\r\n
-      \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\"
-      rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/22/39/66/thumbs/pic4YVud6.jpg\"
-      title=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"
-      alt=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"/></a>\r\n
-      \               \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\"
-      rel=\"bmr-3\">Frozen Watermelon Margaritas for a Crowd</a></p>\r\n                  <small>By
-      justcallmetoni</small>\r\n                  \r\n                \t<span class=\"inline-rating
-      small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
-      style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
-      \               \t</span>\r\n                  \r\n                </li>\r\n
-      \           \r\n    </ul>\r\n\r\n\t\t\t\t\t  \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n
-      \ \r\n\r\n\r\n<div class=\"filters\">\r\n\t<div class=\"ft pod\">\r\n\t\t<div
-      class=\"hd clrfix\"></div>\r\n\t\t<h2>Recipe Collections</h2>\r\n\t\t<div class=\"bd
-      colTextList clrfix\" id=\"reccoll\">\r\n\t\t\t\r\n\t    \r\n\t\t\t<ul class=\"list\">\r\n\t\t\t\r\n\t\t\t\t<li><a
-      href=\"http://www.food.com/recipe-collection/mexican-cocktail\" rel=\"rc-1\">Mexican
-      Cocktail</a></li>\r\n\t\t\t\r\n\t\t</div>\r\n\t\t<p><a id=\"vallreccoll\" href=\"http://www.food.com/recipe-collections/\">View
-      all Recipe Collections</a></p>\r\n\t</div>\r\n</div>\r\n\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div
+      \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\"
+      rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/31/23/18/thumbs/picYDq0uO.jpg\"
+      title=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\"
+      alt=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\"/></a>\r\n
+      \               \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\"
+      rel=\"bmr-3\">Frozen Watermelon Margarita With Tarragon-Salt Rim</a></p>\r\n
+      \                 <small>By CaliforniaJan</small>\r\n                  \r\n
+      \               \t<span class=\"inline-rating small\">\r\n                \t\t<ul
+      class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\"
+      class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n
+      \                 \r\n                </li>\r\n            \r\n    </ul>\r\n\r\n\t\t\t\t\t
+      \ \r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n  \r\n\r\n\r\n<div class=\"filters\">\r\n\t<div
+      class=\"ft pod\">\r\n\t\t<div class=\"hd clrfix\"></div>\r\n\t\t<h2>Recipe Collections</h2>\r\n\t\t<div
+      class=\"bd colTextList clrfix\" id=\"reccoll\">\r\n\t\t\t\r\n\t    \r\n\t\t\t<ul
+      class=\"list\">\r\n\t\t\t\r\n\t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/mexican-cocktail\"
+      rel=\"rc-1\">Mexican Cocktail</a></li>\r\n\t\t\t\r\n\t\t</div>\r\n\t\t<p><a
+      id=\"vallreccoll\" href=\"http://www.food.com/recipe-collections/\">View all
+      Recipe Collections</a></p>\r\n\t</div>\r\n</div>\r\n\r\n\t\t\t\t</div>\r\n\t\t\t\t\r\n\t\t\t\t<div
       style=\"clear:both\">\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n<script language=\"javascript\">\r\n
       \   SNI.RZ.Recipe.commentsConfig = {\r\n        memberId: \"0\"\r\n    };\r\n</script>\r\n<div
       class=\"pod ratings-reviews-list\">\r\n\t\r\n\t\r\n\t\r\n\t\t<h2>Ratings &amp;
@@ -2368,18 +2368,18 @@
       class=\"hd\"&gt;\n&lt;h4&gt;\n&lt;a rel=\"fns-head\" href=\"http://www.cooking.com/foodcom/\"
       target=\"_blank\"&gt;Food.com Store&lt;/a&gt;\n&lt;/h4&gt;\n&lt;/div&gt;\n&lt;div
       class=\"bd clrfix\"&gt;\n&lt;ul class=\"list-store-item\"&gt;\n&lt;li class=\"first
-      store-item\"&gt;\n&lt;a rel=\"fns-1\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=365538&amp;CCAID=CBFO365538\"
-      title=\"Metrokane Boston Cocktail Shaker\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/365538.jpg\"
-      width=\"120\" height=\"90\" alt=\"Metrokane Boston Cocktail Shaker\"&gt;&lt;/a&gt;\n&lt;div
-      class=\"item-info\"&gt;\n&lt;a class=\"item-description\" target=\"_blank\"
-      title=\"Metrokane Boston Cocktail Shaker\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=365538&amp;CCAID=CBFO365538\"
-      rel=\"fns-1\"&gt;Metrokane Boston Cocktail Shaker&lt;/a&gt;\n&lt;p class=\"price\"&gt;$24.95&lt;/p&gt;\n&lt;/div&gt;\n&lt;/li&gt;\n&lt;li
-      class=\"last store-item\"&gt;\n&lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=239587&amp;CCAID=CBFO239587\"
+      store-item\"&gt;\n&lt;a rel=\"fns-1\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=239587&amp;CCAID=CBFO239587\"
       title=\"Outset Cocktail Shaker\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/239587.jpg\"
       width=\"120\" height=\"90\" alt=\"Outset Cocktail Shaker\"&gt;&lt;/a&gt;\n&lt;div
       class=\"item-info\"&gt;\n&lt;a class=\"item-description\" target=\"_blank\"
       title=\"Outset Cocktail Shaker\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=239587&amp;CCAID=CBFO239587\"
-      rel=\"fns-2\"&gt;Outset Cocktail Shaker&lt;/a&gt;\n&lt;p class=\"price\"&gt;$24.95&lt;/p&gt;\n&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p
+      rel=\"fns-1\"&gt;Outset Cocktail Shaker&lt;/a&gt;\n&lt;p class=\"price\"&gt;$24.95&lt;/p&gt;\n&lt;/div&gt;\n&lt;/li&gt;\n&lt;li
+      class=\"last store-item\"&gt;\n&lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=365538&amp;CCAID=CBFO365538\"
+      title=\"Metrokane Boston Cocktail Shaker\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/365538.jpg\"
+      width=\"120\" height=\"90\" alt=\"Metrokane Boston Cocktail Shaker\"&gt;&lt;/a&gt;\n&lt;div
+      class=\"item-info\"&gt;\n&lt;a class=\"item-description\" target=\"_blank\"
+      title=\"Metrokane Boston Cocktail Shaker\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=365538&amp;CCAID=CBFO365538\"
+      rel=\"fns-2\"&gt;Metrokane Boston Cocktail Shaker&lt;/a&gt;\n&lt;p class=\"price\"&gt;$24.95&lt;/p&gt;\n&lt;/div&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p
       class=\"browse-more\"&gt;\n&lt;a rel=\"fns-products\" class=\"store-link\" href=\"http://www.cooking.com/foodcom/\"
       target=\"_blank\"&gt;\n                Browse More Products\n                &lt;/a&gt;\n&lt;/p&gt;\n&lt;/div&gt;\n&lt;div
       class=\"ft\"&gt;&lt;/div&gt;\n&lt;/div&gt;&lt;script type=\"text/javascript\"&gt;\n

@@ -498,7 +498,7 @@
       message: OK
     headers:
       date:
-      - Wed, 16 Nov 2011 02:29:28 GMT
+      - Thu, 17 Nov 2011 06:34:19 GMT
       server:
       - Apache/2.2.3 (Red Hat)
       x-powered-by:
@@ -506,11 +506,11 @@
       x-ua-compatible:
       - IE=Edge,chrome=1
       x-runtime:
-      - '0.515603'
+      - '0.678204'
       cache-control:
       - max-age=300, public
       set-cookie:
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMWNHRUwwV0hibG1rVlpZZ1lMeDBZa3B2enBjL1phYUt1anVid3NqZ2l3WVU9Ig9zZXNzaW9uX2lkIiU1ZTRkNDQ1MjQ5ZjEyZjk2OTVlNDBiOTMzMTQ4Yjk2MQ%3D%3D--e70acf3f643b39faa6174aa3269a9691b999db16;
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMVdiSThpZjJZUTZzcGx2UW8zbkhxOFFHNFhFRGRIOEE2K1BZNkhjNFZna2c9Ig9zZXNzaW9uX2lkIiU4OGYyODIzNGU5MzZlZTczY2JmY2IyZTRmYjUwNzNhYw%3D%3D--f9a55f49729c81d679eb6f933c25cc3c705acb6b;
         path=/; HttpOnly
       last-modified:
       - Sun, 16 Oct 2011 14:13:48 GMT
@@ -538,24 +538,24 @@
       rel='shortcut icon' type='image/x-icon'>\n\n<title>\nSherried Mushrooms with
       Fried Eggs on Toast\n Recipe - \nCindy Pawlcyn\n | Food &amp; Wine\n</title>\n<link
       href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet'
-      type='text/css'>\n<link href=\"/stylesheets/main.css?1321392743\" media=\"screen\"
-      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/recipe.css?1321392743\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n<link href=\"/stylesheets/printer.css?1321392743\"
-      media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community.css?1321392743\"
+      type='text/css'>\n<link href=\"/stylesheets/main.css?1321464479\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/recipe.css?1321464479\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n<link href=\"/stylesheets/printer.css?1321464479\"
+      media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community.css?1321464479\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
-      />\n<link href=\"/stylesheets/community_new.css?1321392743\" media=\"screen\"
-      rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n<link href=\"/stylesheets/screen_newsletter.css?1321392743\"
+      />\n<link href=\"/stylesheets/community_new.css?1321464479\" media=\"screen\"
+      rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n<link href=\"/stylesheets/screen_newsletter.css?1321464479\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
-      />\n<link href=\"/stylesheets/screen_recipes.css?1321392743\" media=\"screen\"
+      />\n<link href=\"/stylesheets/screen_recipes.css?1321464479\" media=\"screen\"
       rel=\"stylesheet\" type=\"text/css\" />\n\n<!--[if IE 7]>\n<link href='/css/ie7.css'
       rel='stylesheet' type='text/css'>\n<link href='/css/redesign.foodandwine/_printer-ie7.css'
-      media='print' rel='stylesheet' type='text/css'>\n<![endif]-->\n<script src=\"/javascripts/jquery.min.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery_ujs.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/swfobject.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/foodandwine_new.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/privacy_popup.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.clearinput.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/community_login_check.js?1321392743\"
+      media='print' rel='stylesheet' type='text/css'>\n<![endif]-->\n<script src=\"/javascripts/jquery.min.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery_ujs.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/swfobject.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/foodandwine_new.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/privacy_popup.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.clearinput.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/community_login_check.js?1321464479\"
       type=\"text/javascript\"></script>\n<script src=\"http://img.timeinc.net/shared/static/js/tii_ads.js\"
       type=\"text/javascript\"></script>\n<script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t'
       type='text/javascript'></script>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nvar
@@ -573,18 +573,18 @@
       } -->\n<script src='https://rpxnow.com/openid/v2/widget' type='text/javascript'></script>\n<script
       type='text/javascript'>\nRPXNOW.overlay = true;\nRPXNOW.language_preference
       = 'en';\n<!-- /FB.init(\"93ac89296316efd5d316caaa90bfbde4\"); -->\n</script>\n\n<script
-      src=\"/javascripts/tabcontent.js?1321392743\" type=\"text/javascript\"></script>\n\n<script
+      src=\"/javascripts/tabcontent.js?1321464479\" type=\"text/javascript\"></script>\n\n<script
       type='text/javascript'>\njQuery.noConflict();\n</script>\n</head>\n<body>\n<script
-      src=\"/javascripts/googleAnalytics.js?1321392743\" type=\"text/javascript\"></script>\n<script
-      src=\"/javascripts/ga_social_tracking.js?1321392743\" type=\"text/javascript\"></script>\n<!--\nOMNITURE:
+      src=\"/javascripts/googleAnalytics.js?1321464479\" type=\"text/javascript\"></script>\n<script
+      src=\"/javascripts/ga_social_tracking.js?1321464479\" type=\"text/javascript\"></script>\n<!--\nOMNITURE:
       DISPLAY BEGIN\n-->\n<div id='omniture' style='display:none'>\n<script type='text/javascript'>\nvar
       s_account = \"timefoodandwine\";\nvar search_kw = \"\";\nvar channel = \"recipes\";\nvar
       sub_channel = \"\";\nvar titleNoBrand = document.title;\ntitleNoBrand = titleNoBrand.slice(0,titleNoBrand.indexOf('
       |'));\nfunction fw_linktracker(linkname)\n{\nvar titleNoChef = document.title;\ntitleNoChef
       = titleNoChef.slice(0,titleNoChef.indexOf(' -'));\ns_time=s_gi(\"timefoodandwine\");\ns_time.linkTrackVars='events,prop13';\ns_time.linkTrackEvents=
       'event5';\ns_time.events='event5';\ns_time.prop13= titleNoChef;\ns_time.tl(true,'o',linkname
-      + ' = ' + titleNoChef);\n}\n</script>\n</div>\n<script src=\"/javascripts/_fw_track.js?1321392743\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/omniture_vars.js?1321392743\"
+      + ' = ' + titleNoChef);\n}\n</script>\n</div>\n<script src=\"/javascripts/_fw_track.js?1321464479\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/omniture_vars.js?1321464479\"
       type=\"text/javascript\"></script>\n\n<!--\nBegin comScore Tag\n-->\n<script>\ndocument.write(unescape(\"%3Cscript
       src='\" + (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\")
       + \".scorecardresearch.com/beacon.js' %3E%3C/script%3E\"));\n</script>\n<script>\nCOMSCORE.beacon({\nc1:2,\nc2:6034960,\nc3:\"\",\nc4:\"\",\nc5:\"\",\nc6:\"\",\nc15:\"\"\n});\n</script>\n<noscript>\n&lt;img
@@ -670,21 +670,21 @@
       id='twitter-button'>\n<a href='http://www.twitter.com/fandw' target='_blank'>\n<img
       alt='Follow us on Twitter' src='/images/social-media/icon_twitter.gif'>\n</a>\n</div>\n<div
       id='rss-button'>\n<a href='/rss/'>\n<img alt='RSS' src='/images/social-media/icon_rss.gif'>\n</a>\n</div>\n<div
-      id='foodspotting-button'>\n<a href='http://www.foodspotting.com' target='_blank'>\n<img
-      alt='Experience Foodspotting' src='/images/social-media/icon_foodspotting.gif'>\n</a>\n</div>\n<div
+      id='foodspotting-button'>\n<a href='http://www.foodspotting.com/food-and-wine'
+      target='_blank'>\n<img alt='Experience Foodspotting' src='/images/social-media/icon_foodspotting.gif'>\n</a>\n</div>\n<div
       id='mobile-button'>\n<a href='/mobile-apps'>\n<img alt='Get FW mobile apps'
       src='/images/social-media/icon_mobile.gif'>\n</a>\n</div>\n<div id='tumblr-button'>\n<a
-      href='http://www.tumblr.com/fandw' target='_blank'>\n<img alt='Join FW at Tumblr'
-      src='/images/social-media/icon_tumblr.gif'>\n</a>\n</div>\n<!--\nend ##socialmedia\n-->\n</div>\n<!--\nmain
-      navigational menu\n-->\n<div class='clearfix' id='nav-wrap'>\n<ul id=\"nav\"><li
-      class=\"selected simple-navigation-active-leaf\" id=\"nav-recipes\"><a href=\"/recipes\"
-      class=\"selected\">RECIPES &amp; CHEFS</a></li><li id=\"nav-wine\"><a href=\"/wine\">WINE
-      &amp; COCKTAILS</a></li><li id=\"nav-travel\"><a href=\"/restaurants\">RESTAURANTS
-      &amp; TRAVEL</a></li><li id=\"nav-athome\"><a href=\"/entertaining\">ENTERTAINING
-      &amp; HOME</a></li><li id=\"nav-blogs\"><a href=\"/blogs/mouthing-off\">BLOGS</a></li><li
-      id=\"nav-mag\"><a href=\"/monthly\">MAGAZINE</a></li></ul>\n<ul id=\"submenu\"><li
-      id=\"nav-slideshows\"><a href=\"/slideshows\">SLIDESHOWS</a></li><li id=\"nav-menus\"><a
-      href=\"/menus\">MENUS</a></li><li id=\"nav-chefs\"><a href=\"/chefs\">CHEFS</a></li><li
+      href='http://foodandwinephotos.tumblr.com' target='_blank'>\n<img alt='Join
+      FW at Tumblr' src='/images/social-media/icon_tumblr.gif'>\n</a>\n</div>\n<!--\nend
+      ##socialmedia\n-->\n</div>\n<!--\nmain navigational menu\n-->\n<div class='clearfix'
+      id='nav-wrap'>\n<ul id=\"nav\"><li class=\"selected simple-navigation-active-leaf\"
+      id=\"nav-recipes\"><a href=\"/recipes\" class=\"selected\">RECIPES &amp; CHEFS</a></li><li
+      id=\"nav-wine\"><a href=\"/wine\">WINE &amp; COCKTAILS</a></li><li id=\"nav-travel\"><a
+      href=\"/restaurants\">RESTAURANTS &amp; TRAVEL</a></li><li id=\"nav-athome\"><a
+      href=\"/entertaining\">ENTERTAINING &amp; HOME</a></li><li id=\"nav-blogs\"><a
+      href=\"/blogs/mouthing-off\">BLOGS</a></li><li id=\"nav-mag\"><a href=\"/monthly\">MAGAZINE</a></li></ul>\n<ul
+      id=\"submenu\"><li id=\"nav-slideshows\"><a href=\"/slideshows\">SLIDESHOWS</a></li><li
+      id=\"nav-menus\"><a href=\"/menus\">MENUS</a></li><li id=\"nav-chefs\"><a href=\"/chefs\">CHEFS</a></li><li
       id=\"nav-cooking_guides\"><a href=\"/cooking_guides\">COOKING GUIDES</a></li><li
       id=\"nav-recipe_of_the_day\"><a href=\"/articles/recipe-of-the-day-archive\">RECIPE
       OF THE DAY</a></li><li id=\"nav-videos\"><a href=\"/videos\">RECIPE VIDEOS</a></li></ul>\n<script>\n//document.getElementById('em-travel').style.backgroundPositionY='-31px';\n//document.getElementById('em-travel').style.cursor='pointer';\n</script>\n<script>\njQuery('#nav-wine_club
@@ -865,7 +865,7 @@
       id='flash-error'></div>\n<form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\"
       data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
       name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"cGEL0WHblmkVZYgYLx0Ykpvzpc/ZaaKujubwsjgiwYU=\" /></div>\n<div
+      type=\"hidden\" value=\"WbI8if2YQ6splvQo3nHq8QG4XEDdH8A6+PY6Hc4Vgkg=\" /></div>\n<div
       class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"dish_newsletter\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
       />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
@@ -885,7 +885,7 @@
       class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text'
       value='Enter your email address'>\n<a href='http://www.foodandwine.com/newsletters'
       target='_blank'></a>\n<input alt=\"Go\" class=\"signupbtn\" name=\"submit\"
-      src=\"/images/submitForm.gif?1321392743\" type=\"image\" value=\"Sign Up\" />\n<input
+      src=\"/images/submitForm.gif?1321464479\" type=\"image\" value=\"Sign Up\" />\n<input
       id=\"newsletter_source\" name=\"newsletter[source]\" type=\"hidden\" value=\"CM
       TOUT\" />\n</div>\n<div class='clear'></div>\n<div class='privacy-info-popup-holder'>\n<div
       class='privacy-info-popup'>\n<div class='privacy-info-popup-text'>\nAmerican
@@ -952,7 +952,7 @@
       target='_blank'>Privacy Statement</a>\nof American Express Publishing Corporation.\n<br>\n<br>\nUsers
       of this site agree to be bound by the terms of the American Express Publishing\n<br>\nCorporation
       Website Terms and Conditions.\n<br>\n<br>\n<span class='cwcolor'>Copyright &copy;
-      1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>\n<br>\n3.13-ci\n</p>\n</div>\n</div>\n<!--
+      1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>\n<br>\n3.13.2-ci\n</p>\n</div>\n</div>\n<!--
       FOOTER SITEMAP -->\n<!-- .emailcontainer-bttm -->\n<!-- = render 'shared/newsletter_signup'
       -->\n</div>\n<div id='ad-btm'>\n<div id='ad-btm-inner'>\n<script language='javascript'
       type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(728, 90);\nad.setPosition('2');\nad.setParam(\"!c\",
@@ -971,11 +971,12 @@
       email mini'>\n<a href='mailto:?subject=Sherried%20Mushrooms%20with%20Fried%20Eggs%20on%20Toast%0A%20Recipe%20-%20%0ACindy%20Pawlcyn%20on%20Food%20%26%20Wine&amp;body=Sherried%20Mushrooms%20with%20Fried%20Eggs%20on%20Toast%0A%20Recipe%20-%20%0ACindy%20Pawlcyn%0Ahttp://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast'
       id='email-button'>\n<img src='/images/mail_icon.jpg'>\n</a>\n</div>\n<div class='share-button
       mini'>\n<a alt='Sherried Mushrooms with Fried Eggs on Toast&#x000A; Recipe -
-      &#x000A;Cindy Pawlcyn' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast/print'>\n<img
-      src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n<!-- / for browsers less
-      than 1155 pixels, share button markup is loaded here and inserted into an empty
-      div within a view -->\n<div id='share-bar-horz-preload' style='display:none;'>\n<div
-      class='share-button facebook' id='fb-like'>\n<fb:like font='arial' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast'
+      &#x000A;Cindy Pawlcyn' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast/print'
+      id='print'>\n<img src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n<!--
+      / for browsers less than 1155 pixels, share button markup is loaded here and
+      inserted into an empty div within a view -->\n<div id='share-bar-horz-preload'
+      style='display:none;'>\n<div class='share-button facebook' id='fb-like'>\n<fb:like
+      font='arial' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast'
       layout='button_count' ref='fw-horz' send='true' show_faces='false' width='140'></fb:like>\n</div>\n<div
       class='share-button twitter'>\n<a class='twitter-share-button' data-count='horizontal'
       data-url='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast'
@@ -989,6 +990,6 @@
       id='email-button'>\n<img alt='Email #{mail_title.strip}' src='/images/mail_icon.jpg'>\n</a>\n</div>\n<div
       class='share-button mini'>\n<a alt='Sherried Mushrooms with Fried Eggs on Toast&#x000A;
       Recipe - &#x000A;Cindy Pawlcyn' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast/print'>\n<img
-      src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n\n<script src=\"/javascripts/universal_share_bar.js?1321392743\"
+      src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n\n<script src=\"/javascripts/universal_share_bar.js?1321464479\"
       type=\"text/javascript\"></script>\n</div>\n</body>\n</html>\n\n"
     http_version: '1.1'

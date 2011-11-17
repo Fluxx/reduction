@@ -3357,9 +3357,9 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Wed, 16 Nov 2011 02:39:24 GMT
+      - Thu, 17 Nov 2011 06:44:14 GMT
       date:
-      - Wed, 16 Nov 2011 02:29:24 GMT
+      - Thu, 17 Nov 2011 06:34:14 GMT
       transfer-encoding:
       - chunked
       connection:
@@ -4123,8 +4123,8 @@
       -->\n\n\n\n\n            <div class=\"module\">\n                <div class=\"widget\"
       id=\"ad_widget\">\n                    <h2>Advertising</h2>\n                    <div
       id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad2105338501_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad2105338501_',
+      \   \n    \n        <div id=\"ad1960756098_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1960756098_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
       class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
@@ -4141,9 +4141,9 @@
       \   </div>\n\n\n\n\n            <div class=\"module\">\n                <div
       class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad844682703_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1291175871_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad844682703_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad1291175871_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
       class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
@@ -4151,16 +4151,17 @@
       href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
       href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368307\"><img
-      src=\"/images/recipesmenus/2011/2011_november/368307_116.jpg\" alt=\"Shrimp
-      and Grits Cakes\" /></a>\n\n                    <div id=\"rotd_details\">\n
-      \                       <h3><a href=\"/recipes/food/views/368307\">Shrimp and
-      Grits Cakes</a></h3>\n                        <p>SELF, November 2011</p>\n                    </div>\n
-      \                       <div class=\"clear\"></div>\n                </div>\n
-      \           </div>\n\n\n<!-- /htmlinclude/tiles/rightrailcommunityPromo_HP.html
-      -->\n<div id=\"outerbox\" class=\"rounded recipeBoxPromo\">\n    <div id=\"communitypromo\">\n
-      \       <h2>join now &amp; set up a recipe box</h2>\n        <div class=\"innerboxContent
-      dropshadowed\">\n            <a href=\"/user/registration\"><img src=\"/globalimages/rightrail/joinNowAndSave.gif\"
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368272\"><img
+      src=\"/images/recipesmenus/2011/2011_november/368272_116.jpg\" alt=\"Cider-Brined
+      Turkey with Star Anise and Cinnamon\" /></a>\n\n                    <div id=\"rotd_details\">\n
+      \                       <h3><a href=\"/recipes/food/views/368272\">Cider-Brined
+      Turkey with Star Anise and Cinnamon</a></h3>\n                        <p>Bon
+      App&eacute;tit, November 2011</p>\n                    </div>\n                        <div
+      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n<!--
+      /htmlinclude/tiles/rightrailcommunityPromo_HP.html -->\n<div id=\"outerbox\"
+      class=\"rounded recipeBoxPromo\">\n    <div id=\"communitypromo\">\n        <h2>join
+      now &amp; set up a recipe box</h2>\n        <div class=\"innerboxContent dropshadowed\">\n
+      \           <a href=\"/user/registration\"><img src=\"/globalimages/rightrail/joinNowAndSave.gif\"
       alt=\"Join now &amp; set up a recipe box\" width=\"256\" height=\"130\" border=\"0\"
       /></a>\n            <div class=\"clear\"></div>\n        </div>\n    </div>
       \ \n</div>\n\n\n\n        </div>\n        <script type=\"text/javascript\" language=\"JavaScript

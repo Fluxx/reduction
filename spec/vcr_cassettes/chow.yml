@@ -2245,11 +2245,11 @@
       x-powered-by:
       - Phusion Passenger (mod_rails/mod_rack) 3.0.7
       etag:
-      - ! '"17c3f396904e11eb4c17d95f2abeb3b4"'
+      - ! '"fd948eb5075bdde81d809c52837d3063"'
       x-ua-compatible:
       - IE=Edge,chrome=1
       x-runtime:
-      - '1.559179'
+      - '1.033192'
       status:
       - '200'
       cneonction:
@@ -2259,18 +2259,18 @@
       cache-control:
       - private, must-revalidate, max-age=0
       expires:
-      - Wed, 16 Nov 2011 02:29:21 GMT
+      - Thu, 17 Nov 2011 06:34:10 GMT
       date:
-      - Wed, 16 Nov 2011 02:29:21 GMT
+      - Thu, 17 Nov 2011 06:34:10 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Wed, 30-Nov-2011
-        02:29:21 GMT
-      - _chow_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiIlMzgwZmJjODQ0MDQwMTJhODBhNjU5ZmNjN2MyNTMzMjZJIhBfY3NyZl90b2tlbgY7AEZJIjFudk5PYzRreHh3Uk5WUW14RW5DcktyM1p1NHVkdjVKWlhKekd5a2cvUXZ3PQY7AEY%3D--ecb194870261bc3ef346853af25c57ca01f008e1;
+      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Thu, 01-Dec-2011
+        06:34:09 GMT
+      - _chow_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiIlOWU3ZDVlMjE4Y2JlYjkwMmFjM2FjNDdjNzgwM2Y4MzBJIhBfY3NyZl90b2tlbgY7AEZJIjFNa29CRG1KeWhmQnNsTlNlZmFUVlRWaFdlUWpmYVQ5dC96cXJDZUJQUlQ4PQY7AEY%3D--da878d64f8dc5b11fe2284274b6e046ed6e040a6;
         domain=.chow.com; path=/; HttpOnly
     body: ! "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
       xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\"
@@ -2286,34 +2286,35 @@
       Chow.com - devoted to the pleasure of food and drink.\" name=\"description\"
       />\n  <meta http-equiv=\"content-type\" content=\"text/html;charset=UTF-8\"
       />\n  \n\n  <link rel=\"canonical\" href=\"http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars\"/>\n
-      \ \n\n  <link rel=\"shortcut icon\" href=\"http://www.chow.com/static/20111115000641/images/favicon.ico\"
-      type=\"image/x-icon\" />\n  <link rel=\"apple-touch-icon-precomposed\" href=\"http://www.chow.com/static/20111115000641/images/apple-touch-icon-precomposed.png\"
+      \ \n\n  <link rel=\"shortcut icon\" href=\"http://www.chow.com/static/20111116224447/images/favicon.ico\"
+      type=\"image/x-icon\" />\n  <link rel=\"apple-touch-icon-precomposed\" href=\"http://www.chow.com/static/20111116224447/images/apple-touch-icon-precomposed.png\"
       />\n\n  <link href=\"//opensearch.xml\" rel=\"search\" title=\"CHOW Search\"
       type=\"application/opensearchdescription+xml\" />\n  \n\n   <script type=\"text/javascript\"
       src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js\"></script>\n
       \  <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js\"></script>\n
-      \  <script src=\"http://www.chow.com/static/20111115000641/js/jquery-cookie.js\"
-      type=\"text/javascript\"></script>\n   <script src=\"http://www.chow.com/static/20111115000641/js/functions.js.php\"
-      type=\"text/javascript\"></script>\n        <script src=\"http://www.chow.com/static/20111115000641/javascripts/combined_min.js\"
+      \  <script src=\"http://www.chow.com/static/20111116224447/js/jquery-cookie.js\"
+      type=\"text/javascript\"></script>\n   <script src=\"http://www.chow.com/static/20111116224447/js/functions.js.php\"
+      type=\"text/javascript\"></script>\n        <script src=\"http://www.chow.com/static/20111116224447/javascripts/combined_min.js\"
       type=\"text/javascript\"></script>\n\n    <script type=\"text/javascript\">\n
       \       var cbsiAdGlobal = {\n            'SITE' : '103',\n            'BRAND'
-      : '26',\n            'NCAT' : '12711',\n            'PTYPE' : '9910',\n            'STAGING'
-      : 0  // set to 1 if on a test environment\n        };\n\n        // intromercial\n
-      \       var CN_AD = new Object();\n        CN_AD.AD_HOST = \"mads.chow.com\";\n
-      \       CN_AD.SITE = '103';\n        CN_AD.BRAND = \"26\";\n        CN_AD.SP
-      = \"80\";\n        CN_AD.POS = \"100\";\n        CN_AD.PTYPE = \"9910\";\n        CN_AD.NCAT
-      = \"12711\";\n        cbsiGetAd(CN_AD);\n    </script>\n\n\n    <script src=\"http://www.chow.com/static/20111115000641/javascripts/reviews.js\"
-      type=\"text/javascript\"></script>\n\n\n\n  <link href=\"http://www.chow.com/static/20111115000641/css/global.css\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"http://www.chow.com/static/20111115000641/stylesheets/recipes.css\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"http://www.chow.com/static/20111115000641/stylesheets/reviews.css\"
+      : '26',\n            'NCAT' : '12711',\n            'PTYPE' : '9910',\n            'BYPASSKEY'
+      : '',\n            'STAGING' : 0  // set to 1 if on a test environment\n        };\n\n
+      \       // intromercial\n        var CN_AD = new Object();\n        CN_AD.AD_HOST
+      = \"mads.chow.com\";\n        CN_AD.SITE = '103';\n        CN_AD.BRAND = \"26\";\n
+      \       CN_AD.SP = \"80\";\n        CN_AD.POS = \"100\";\n        CN_AD.PTYPE
+      = \"9910\";\n        CN_AD.NCAT = \"12711\";\n        cbsiGetAd(CN_AD);\n    </script>\n\n\n
+      \   <script src=\"http://www.chow.com/static/20111116224447/javascripts/reviews.js\"
+      type=\"text/javascript\"></script>\n\n\n\n  <link href=\"http://www.chow.com/static/20111116224447/css/global.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"http://www.chow.com/static/20111116224447/stylesheets/recipes.css\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"http://www.chow.com/static/20111116224447/stylesheets/reviews.css\"
       media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  <!--[if IE 6]><link
-      href=\"http://www.chow.com/static/20111115000641/stylesheets/chow_ie6.css\"
+      href=\"http://www.chow.com/static/20111116224447/stylesheets/chow_ie6.css\"
       media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]--><!--[if
-      IE 7]><link href=\"http://www.chow.com/static/20111115000641/stylesheets/chow_ie7.css\"
+      IE 7]><link href=\"http://www.chow.com/static/20111116224447/stylesheets/chow_ie7.css\"
       media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]--><!--[if
-      IE 8]><link href=\"http://www.chow.com/static/20111115000641/stylesheets/chow_ie8.css\"
+      IE 8]><link href=\"http://www.chow.com/static/20111116224447/stylesheets/chow_ie8.css\"
       media=\"screen\" rel=\"stylesheet\" type=\"text/css\" /><![endif]-->\n\n  <link
-      href=\"http://www.chow.com/static/20111115000641/stylesheets/chow_print.css\"
+      href=\"http://www.chow.com/static/20111116224447/stylesheets/chow_print.css\"
       media=\"print\" rel=\"stylesheet\" title=\"CHOW Print\" type=\"text/css\" />\n\n\n\n
       \   <script type=\"text/javascript\">\n        var _gaq = _gaq || [];\n        _gaq.push(['_setAccount',
       'UA-8105127-1']);\n        _gaq.push(['_setDomainName', '.chow.com']);\n        _gaq.push(['_setAllowHash',
@@ -2367,18 +2368,18 @@
       class=\"chevron\">»</span> How to Avoid Thanksgiving Cooking Disasters</a>\n
       \  <a class=\"holiday_eyebrow_link\" href=\"http://www.chow.com/food-news/95112/the-2011-chow-13/\"><span
       class=\"chevron\">»</span> The 2011 CHOW 13</a>\n   <a class=\"holiday_eyebrow_link\"
-      href=\"http://www.chow.com/food-news/95857/classic-thanksgiving-only-cheaper/\"><span
-      class=\"chevron\">»</span> Classic Thanksgiving … Only Cheaper</i></a>\n   </div>\n</div>\n\n\n
-      \ <div id=\"mantle_skin\">\n  \n\n    <div id=\"leaderboard_wrapper\">\n      <div
-      id=\"leaderboard\"></div>\n    </div>\n\n  <div id=\"custom-doc\" class=\"recipe\">\n\n
-      \   <div id=\"bd\" class=\"clearfix\">\n        <hr class=\"m0\" />\n\n      <div
-      id=\"main_body\">\n        \n          \n\n\n\n\n<div id=\"recipes\" itemscope
-      itemtype=\"http://www.data-vocabulary.org/Recipe\">\n\n\n<div id=\"col1\" class=\"clearfix\">\n<div
-      class=\"dotted_line_bottom clearfix\">\n  <div class=\"breadcrumb pb5 pt5 caps\">\n
-      \   <em>\n      <a href=\"/\" class=\"c069\">CHOW</a>:\n      <a href=\"/recipes\"
-      class=\"c069\">Recipes</a>:\n      <span class=\"c999\">Chocolate-Dipped Vanilla
-      Ice Cream Bars</span>\n    </em>\n  </div>\n\n  <div id=\"fb_post_widget\" class=\"clearfix\">\n
-      \   <div class=\"fr f11 printlink_image\">\n    <span class=\"printlink_text\"><a
+      href=\"http://www.chow.com/food-news/97366/pondering-what-to-bring-on-thanksgiving-use-this-chart/\"><span
+      class=\"chevron\">»</span> Pondering What to Bring on Thanksgiving? Use This
+      Chart</a>\n   </div>\n</div>\n\n\n  <div id=\"mantle_skin\">\n  \n\n    <div
+      id=\"leaderboard_wrapper\">\n      <div id=\"leaderboard\"></div>\n    </div>\n\n
+      \ <div id=\"custom-doc\" class=\"recipe\">\n\n    <div id=\"bd\" class=\"clearfix\">\n
+      \       <hr class=\"m0\" />\n\n      <div id=\"main_body\">\n        \n          \n\n\n\n\n<div
+      id=\"recipes\" itemscope itemtype=\"http://www.data-vocabulary.org/Recipe\">\n\n\n<div
+      id=\"col1\" class=\"clearfix\">\n<div class=\"dotted_line_bottom clearfix\">\n
+      \ <div class=\"breadcrumb pb5 pt5 caps\">\n    <em>\n      <a href=\"/\" class=\"c069\">CHOW</a>:\n
+      \     <a href=\"/recipes\" class=\"c069\">Recipes</a>:\n      <span class=\"c999\">Chocolate-Dipped
+      Vanilla Ice Cream Bars</span>\n    </em>\n  </div>\n\n  <div id=\"fb_post_widget\"
+      class=\"clearfix\">\n    <div class=\"fr f11 printlink_image\">\n    <span class=\"printlink_text\"><a
       href=\"http://search.chow.com/print/recipe/29576\" class=\"pl25 blue_link\"
       id=\"printID\" rel=\"nofollow\">Print</a></span>\n  </div>\n\n  <div class=\"gigya_email
       share_emaillink pt5 fr\"></div>\n  <div class='share_twitterlink fl'>\n    <a
@@ -2636,7 +2637,7 @@
       action=\"/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars/reviews.js\"
       class=\"new_review\" data-remote=\"true\" id=\"review_form\" method=\"post\"><div
       style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\"
-      value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"nvNOc4kxxwRNVQmxEnCrKr3Zu4udv5JZXJzGykg/Qvw=\"
+      value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"MkoBDmJyhfBslNSefaTVTVhWeQjfaT9t/zqrCeBPRT8=\"
       /></div>\n\n    <div class=\"review_box new_review clearfix\">\n      <span
       class=\"review_box_tail review_graphic\"></span>\n\n      <div class=\"instructions\">\n
       \       <label class=\"bold f11 fl pr10 caps\" for=\"review_body\">Review &amp;
@@ -2723,7 +2724,7 @@
       data-submit-btn-id=\"getNewsForm_submit\" data-submit-handler=\"newsletterSignup.submit_sidebar_form()\"
       id=\"getNewsForm\" method=\"post\" name=\"getNewsForm\"><div style=\"margin:0;padding:0;display:inline\"><input
       name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"nvNOc4kxxwRNVQmxEnCrKr3Zu4udv5JZXJzGykg/Qvw=\" /></div>\n
+      type=\"hidden\" value=\"MkoBDmJyhfBslNSefaTVTVhWeQjfaT9t/zqrCeBPRT8=\" /></div>\n
       \                   <input id=\"newsEmail\" class=\"validate_email has_default_text\"
       data-insert-error-after=\"getNewsForm_submit\" type=\"text\" data-default-text=\"Email
       address\" value=\"Email address\" />\n                    <input type=\"submit\"
@@ -2801,42 +2802,47 @@
       src=\"http://search.chow.com/thumbnail/140/95/www.chow.com//assets/2010/08/28654_boston_ice_cream_pie_620.jpg\"
       width=\"140\" />\n      <p class=\"pt10 f14 lh16 c333 bold\">Boston Ice Cream
       Pie Cake</p>\n    </a>\n  </li>\n  <li class=\"related_recipe_item clearfix
-      pb10 pr10\">\n    <a href=\"/recipes/11057-almond-jay\">\n      <img alt=\"Almond
-      Jay\" class=\"related_recipe_image fl pr10\" height=\"95\" src=\"http://search.chow.com/thumbnail/140/95/www.chow.com//assets/2009/08/almond_jay_chocolate_bar_600.jpg\"
-      width=\"140\" />\n      <p class=\"pt10 f14 lh16 c333 bold\">Almond Jay</p>\n
-      \   </a>\n  </li>\n</ul>\n\n\n\n        \n\n        \n\n        \n\n        <div
-      id=\"button\" class=\"mb20 mt20\"></div>\n\n        \n\n        \n\n        \n
-      \     </div>\n\n\n        <script src=\"http://www.chow.com/static/20111115000641/js/comments.js\"
+      pb10 pr10\">\n    <a href=\"/recipes/29314-chocolate-dipped-strawberries\">\n
+      \     <img alt=\"Chocolate-Dipped Strawberries\" class=\"related_recipe_image
+      fl pr10\" height=\"95\" src=\"http://search.chow.com/thumbnail/140/95/www.chow.com//assets/2011/02/29314_chocolate_dipped_strawberries_620.jpg\"
+      width=\"140\" />\n      <p class=\"pt10 f14 lh16 c333 bold\">Chocolate-Dipped
+      Strawberries</p>\n    </a>\n  </li>\n</ul>\n\n\n\n        \n\n        \n\n        \n\n
+      \       <div id=\"button\" class=\"mb20 mt20\"></div>\n\n        \n\n        \n\n
+      \       \n      </div>\n\n\n        <script src=\"http://www.chow.com/static/20111116224447/js/comments.js\"
       type=\"text/javascript\"></script>\n\n\n    </div>\n\n      \n\n      \n  <div
       id=\"ft\" class=\"clearfix\">\n    <div id=\"ft_box4\">\n        <div id=\"ft_box3\">\n
       \           <div id=\"ft_box2\">\n                <div id=\"ft_box1\">\n\n    <div
       id=\"ft_col1\">\n        <ul class=\"footer_column first\">\n      <li class=\"col_heading
       rc-tl\"><a href=\"http://www.chow.com/recipes\"><span class=\"chevron\">&raquo;</span>
-      Recipes</a></li>\n      <li><a href=\"http://www.chow.com/food-news/95857/classic-thanksgiving-only-cheaper/\"><span
+      Recipes</a></li>\n      <li><a href=\"http://www.chow.com/food-news/97155/diy-flavored-salts/\"><span
+      class=\"chevron\">&raquo;</span> DIY Flavored Salts</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30205-citrus-salt\"><span
+      class=\"chevron\">&raquo;</span> Citrus Salt</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30204-bloody-mary-salt\"><span
+      class=\"chevron\">&raquo;</span> Bloody Mary Salt</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30203-porcini-parmesan-salt\"><span
+      class=\"chevron\">&raquo;</span> Porcini-Parmesan Salt</a></li>\n      <li><a
+      href=\"http://www.chow.com/food-news/95857/classic-thanksgiving-only-cheaper/\"><span
       class=\"chevron\">&raquo;</span> Classic Thanksgiving ... Only Cheaper</a></li>\n
       \     <li><a href=\"http://www.chow.com/food-news/95860/classic-thanksgiving-feast-for-8-for-about-a-hundred-bucks/\"><span
       class=\"chevron\">&raquo;</span> Classic Thanksgiving Feast for 8 for About
-      a Hundred Bucks</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30193-jellied-cranberry-sauce\"><span
-      class=\"chevron\">&raquo;</span> Jellied Cranberry Sauce</a></li>\n      <li><a
-      href=\"http://www.chow.com/recipes/30197-sweet-potato-casserole\"><span class=\"chevron\">&raquo;</span>
-      Sweet Potato Casserole</a></li>\n      <li><a href=\"http://www.chow.com/recipes/30211-thanksgiving-leftovers-club-sandwich\"><span
-      class=\"chevron\">&raquo;</span> Thanksgiving Leftovers Club Sandwich</a></li>\n
-      \     <li><a href=\"http://www.chow.com/recipes/30198-turkey-hash-patties\"><span
-      class=\"chevron\">&raquo;</span> Turkey Hash Patties</a></li>\n      </ul>\n
-      \ </div>\n    \n    <div id=\"ft_col2\">\n        <ul class=\"footer_column\">\n
-      \     <li class=\"col_heading\"><a href=\"http://chowhound.chow.com/boards\"><span
-      class=\"chevron\">&raquo;</span> Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/812908\"><span
-      class=\"chevron\">&raquo;</span> Antica Pizzeria Fellini - Suburban Detroit</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/817979\"><span class=\"chevron\">&raquo;</span>
-      Making a good Chinese chili sauce</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/817623\"><span
-      class=\"chevron\">&raquo;</span> Sushi Kaji Review</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/817754\"><span
-      class=\"chevron\">&raquo;</span> nouveau beaujolais? who drinks this stuff?</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/817968\"><span class=\"chevron\">&raquo;</span>
-      Kumari's Cuisine - Taste of Nepal (Petaluma)</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/817312\"><span
-      class=\"chevron\">&raquo;</span> Boston area breakfast recap</a></li>\n      </ul>\n
-      \ </div>\n\n  <div id=\"ft_col3\">\n    <ul class=\"footer_column\">\n      <li
-      class=\"col_heading\"><a href=\"http://www.chow.com/food-news/\"><span class=\"chevron\">&raquo;</span>
-      Stories</a></li>\n      <li><a href=\"/food-news/96518/the-slightly-dark-side-of-coffee-addiction/\"><span
+      a Hundred Bucks</a></li>\n      </ul>\n  </div>\n    \n    <div id=\"ft_col2\">\n
+      \       <ul class=\"footer_column\">\n      <li class=\"col_heading\"><a href=\"http://chowhound.chow.com/boards\"><span
+      class=\"chevron\">&raquo;</span> Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/818221\"><span
+      class=\"chevron\">&raquo;</span> LQ@SK 18 Course White Truffle Dinner in Photos.
+      \ Minimal Verbiage</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/775336\"><span
+      class=\"chevron\">&raquo;</span> Craving me a slice of pie...</a></li>\n      <li><a
+      href=\"http://chowhound.chow.com/topics/818088\"><span class=\"chevron\">&raquo;</span>
+      NEED GREAT suggestion for  lunch in Napa</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/817419\"><span
+      class=\"chevron\">&raquo;</span> Burger Kitchen. Is it still under the crazy
+      management from \"Kitchen Nightmares?\"</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/817933\"><span
+      class=\"chevron\">&raquo;</span> Hokkaido Seafood Buffet Opens In Westside Pavilion</a></li>\n
+      \     <li><a href=\"http://chowhound.chow.com/topics/818112\"><span class=\"chevron\">&raquo;</span>
+      Thanksgiving --- something awesome and fun and great to eat .... that can hold
+      for a day or two and travel</a></li>\n      </ul>\n  </div>\n\n  <div id=\"ft_col3\">\n
+      \   <ul class=\"footer_column\">\n      <li class=\"col_heading\"><a href=\"http://www.chow.com/food-news/\"><span
+      class=\"chevron\">&raquo;</span> Stories</a></li>\n      <li><a href=\"/food-news/97814/rachael-ray-and-guy-fieri-will-teach-d-listers-how-to-cook/\"><span
+      class=\"chevron\">&raquo;</span> Rachael Ray and Guy Fieri Will Teach D-Listers
+      How to \"Cook\"</a></li>\n      <li><a href=\"/food-news/96801/pumpkin-flavored-white-russianwhy-not/\"><span
+      class=\"chevron\">&raquo;</span> Pumpkin-Flavored White Russian—Why Not?</a></li>\n
+      \     <li><a href=\"/food-news/96518/the-slightly-dark-side-of-coffee-addiction/\"><span
       class=\"chevron\">&raquo;</span> The Sanka Cure, and Other Questionable Addiction
       Strategies</a></li>\n      <li><a href=\"/food-news/97602/in-new-york-southern-food-begins-its-long-crawl-out-of-the-bbq-pit/\"><span
       class=\"chevron\">&raquo;</span> In New York, Southern Restaurants Start to
@@ -2844,10 +2850,6 @@
       class=\"chevron\">&raquo;</span> Who Should Pay for the Office Holiday Party?</a></li>\n
       \     <li><a href=\"/food-news/97515/when-did-thanksgiving-become-a-collaborative-effort/\"><span
       class=\"chevron\">&raquo;</span> When Did Thanksgiving Turn Into a Potluck?</a></li>\n
-      \     <li><a href=\"/food-news/97551/enter-our-facebook-sweepstakes-and-you-could-win-a-smartphone/\"><span
-      class=\"chevron\">&raquo;</span> Enter Our Facebook Sweepstakes and You Could
-      Win a Smartphone!</a></li>\n      <li><a href=\"/food-news/97147/make-ahead-recipes-for-thanksgiving/\"><span
-      class=\"chevron\">&raquo;</span> Make-Ahead Recipes for Thanksgiving</a></li>\n
       \     </ul>\n  </div>\n\n  <div id=\"ft_col4\">\n    <ul class=\"footer_column
       last\">\n      <li class=\"col_heading rc-tr\"><a href=\"http://www.chow.com/videos\"><span
       class=\"chevron\">&raquo;</span> Videos</a></li>\n      <li><a href=\"/videos/show/chow-tips/97096/holiday-myth-debunked-sweet-potatoes-are-not-healthier-than-regular-potatoes\"><span
@@ -3057,7 +3059,7 @@
       = {\"ptid\":9910,\"onid\":\"12711\",\"siteId\":\"103\",\"cval\":\"29576;Chocolate-Dipped
       Vanilla Ice Cream Bars Recipe ;Sweet/Dessert\",\"ctype\":\"cw_recipes_show\",\"asid\":29576,\"astid\":485};
       DW.clear(); //DW.trackClicks();</script>\n<noscript id=\"dw_js_noscript\"><img
-      src=\"http://dw.com.com/clear/c.gif?ptid=9910&onid=12711&siteId=103&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ctype=cw_recipes_show&asid=29576&astid=485&sid=103&ts=1321410561\"
+      src=\"http://dw.com.com/clear/c.gif?ptid=9910&onid=12711&siteId=103&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ctype=cw_recipes_show&asid=29576&astid=485&sid=103&ts=1321511650\"
       id=\"dw_clear_gif\" width=\"1\" height=\"1\" style=\"display:none\"/></noscript>\n
       \ <script type=\"text/javascript\">\n    user_id      = null\n    viewing_self
       = false\n    nav          = 'recipes'\n    action       = 'show'\n  </script>\n\n\n\n<script
@@ -3089,6 +3091,6 @@
       = true;\n        ce.src = 'http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3463.js';\n
       \       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ce,
       s);\n      })();\n    </script>\n<script type=\"text/javascript\">if (!NREUMQ.f)
-      NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nif(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};\nNREUMQ.push([\"nrf2\",\"beacon-1.newrelic.com\",\"6a6c870add\",179693,\"cg5XEhZeVAkGQR5KBlIISQMXHksNDEQ=\",0,1553,new
+      NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nif(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};\nNREUMQ.push([\"nrf2\",\"beacon-1.newrelic.com\",\"6a6c870add\",179693,\"cg5XEhZeVAkGQR5KBlIISQMXHksNDEQ=\",0,1027,new
       Date().getTime()])</script></body>\n</html>\n"
     http_version: '1.1'
