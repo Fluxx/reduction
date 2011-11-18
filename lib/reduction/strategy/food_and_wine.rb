@@ -30,6 +30,10 @@ module Reduction
         doc.at('#time-total strong').text.collapse_whitespace.downcase
       end
 
+      def images
+        absolute_img_srcs_from(doc.search('img#featured_image'))
+      end
+
     end
 
   end

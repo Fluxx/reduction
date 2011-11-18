@@ -61,6 +61,8 @@ module Reduction
         it_should_find 'cook_time', nil
 
         it_should_find 'total_time', '35 min'
+
+        it_should_find 'images', ["http://www.foodandwine.com/images/sys/200904-r-mushroom-eggs.jpg"]
       end
 
     end
