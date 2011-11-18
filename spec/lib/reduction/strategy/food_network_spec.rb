@@ -59,6 +59,11 @@ module Reduction
         it_should_find 'prep_time', '15 min'
 
         it_should_find 'cook_time', '6 min'
+
+        it_should_find 'images', [
+          "http://img.foodnetwork.com/FOOD/2004/05/10/ll1a03_garlic_mashed_potatoes1_med.jpg"
+        ]
+
       end
 
       context 'a recipe with multiple ingredient lists' do
@@ -91,6 +96,11 @@ module Reduction
         it 'grabs the right headers' do
           subject.ingredients.map(&:name).should == [nil, '"Marshmallowy" Frosting:']
         end
+
+        it_should_find 'images', [
+          "http://img.foodnetwork.com/FOOD/2010/05/20/GE0204_01_cake-piece-on-a-white-plate_s4x3_med.jpg"
+        ]
+
       end
 
       context 'a recipe with multiple step lists' do
@@ -125,6 +135,10 @@ module Reduction
             "To assemble the cake:"
           ] 
         end
+
+        it_should_find 'images', [
+          "http://img.foodnetwork.com/FOOD/2007/05/11/ei1012_cake_med.jpg"
+        ]
       end
 
     end

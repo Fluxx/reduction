@@ -31,6 +31,10 @@ module Reduction
         recipe('#recipe-meta dd.cookTime').text.collapse_whitespace
       end
 
+      def images
+        absolute_img_srcs_from(doc.search('#recipe-lead img.photo'))
+      end
+
       private
 
       def multiple_steps_elements
