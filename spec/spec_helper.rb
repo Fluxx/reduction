@@ -6,9 +6,11 @@ require 'open-uri'
 Dir['./spec/support/**/*.rb'].each { |f| require f }
 
 module StrategyMacros
+
   def strategy_subject_for(url)
-    subject { described_class.new(get_page(url), url) }
+    subject { described_class.new(open(url).read, url) }
   end
+  
 end
 
 RSpec.configure do |config|
