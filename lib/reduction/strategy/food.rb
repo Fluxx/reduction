@@ -35,6 +35,10 @@ module Reduction
       def total_time
         doc.at('.recipe-item h3.duration').text
       end
+
+      def images
+        absolute_img_srcs_from(doc.search('.recipe-item .largePageImage'))
+      end
       
       private
       

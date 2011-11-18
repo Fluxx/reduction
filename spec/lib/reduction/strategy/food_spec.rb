@@ -56,6 +56,10 @@ module Reduction
 
         it_should_find 'total_time', '5 mins'
 
+        it_should_find 'images', [
+          "http://food.sndimg.com/img/recipes/29/22/14/large/picDrdxNy.jpg"
+        ]
+
       end
 
       context 'a recipe with multiple ingredient lists' do
@@ -90,6 +94,10 @@ module Reduction
         it 'matches the ingredient list names correctly' do
           subject.ingredients.map(&:name).should == [nil, 'Frosting', 'Garnish']
         end
+
+        it_should_find 'images', [
+          "http://food.sndimg.com/img/recipes/67/25/6/large/pichIPBA2.jpg"
+        ]
 
       end
 
