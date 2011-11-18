@@ -4,8 +4,9 @@ module Reduction
 
   describe Strategy do
 
+    let(:page_url)  { 'http://www.example.com/' }
     let(:page_html) { '<html><body>foo</body></html>' }
-    subject { described_class.new(page_html) }
+    subject { described_class.new(page_html, page_url) }
 
     describe '#doc' do
 
