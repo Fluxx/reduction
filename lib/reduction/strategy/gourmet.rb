@@ -39,6 +39,10 @@ module Reduction
         # doc.at('#servings p[2]').children[1].text.strip
       end
 
+      def images
+        absolute_img_srcs_from(doc.search('.recipe img'))
+      end
+
     end
 
   end

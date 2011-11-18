@@ -66,6 +66,9 @@ module Reduction
       #
       # it_should_find 'total_time', ''
 
+      it_should_find 'images', [
+        "http://www.gourmet.com/images/recipes/2009/09/re-peppercorn-roasted-pork-w-vermouth-pan-sauce-608.jpg"
+      ]
 
     end
 
