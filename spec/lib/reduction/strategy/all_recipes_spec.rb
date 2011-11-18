@@ -6,7 +6,7 @@ module Reduction
     describe AllRecipes do
       use_vcr_cassette 'all_recipes'
 
-      subject { described_class.new(get_page('http://allrecipes.com/Recipe/sopapilla-cheesecake-pie/Detail.aspx')) }
+      strategy_subject_for('http://allrecipes.com/Recipe/sopapilla-cheesecake-pie/Detail.aspx')
 
       it_should_behave_like "a strategy"
 
@@ -52,6 +52,9 @@ module Reduction
 
       it_should_find 'cook_time', '45 Min'
 
+      it_should_find 'images', [
+        'http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/194206.jpg'
+      ]
 
       describe '#title' do
 
