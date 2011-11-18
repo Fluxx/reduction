@@ -8,7 +8,7 @@ module Reduction
       use_vcr_cassette 'food_network'
 
       context 'a normal recipe' do
-        subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/george-stella/mock-garlic-mashed-potatoes-recipe/index.html')) }
+        strategy_subject_for('http://www.foodnetwork.com/recipes/george-stella/mock-garlic-mashed-potatoes-recipe/index.html')
 
         it_should_behave_like "a strategy"
 
@@ -62,7 +62,7 @@ module Reduction
       end
 
       context 'a recipe with multiple ingredient lists' do
-        subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')) }
+        sstrategy_subject_for('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')
         it_should_behave_like "a strategy"
 
         it_should_find 'ingredients', [
@@ -94,7 +94,7 @@ module Reduction
       end
 
       context 'a recipe with multiple step lists' do
-        subject { described_class.new(get_page('http://www.foodnetwork.com/recipes/giada-de-laurentiis/hazelnut-crunch-cake-with-mascarpone-and-chocolate-recipe/index.html')) }
+        strategy_subject_for('http://www.foodnetwork.com/recipes/giada-de-laurentiis/hazelnut-crunch-cake-with-mascarpone-and-chocolate-recipe/index.html')
         it_should_behave_like "a strategy"
 
         it_should_find 'steps', [

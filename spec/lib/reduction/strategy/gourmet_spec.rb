@@ -9,7 +9,7 @@ module Reduction
 
       use_vcr_cassette 'gourmet'
 
-      subject { described_class.new(get_page('http://www.gourmet.com/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce')) }
+      strategy_subject_for('http://www.gourmet.com/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce')
 
       it_should_behave_like "a strategy"
 

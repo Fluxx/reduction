@@ -9,7 +9,7 @@ module Reduction
       use_vcr_cassette 'food_and_wine'
 
       context 'for a normal recipe' do
-        subject { described_class.new(get_page('http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast')) }
+        strategy_subject_for('http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast')
 
         it_should_behave_like "a strategy"
 

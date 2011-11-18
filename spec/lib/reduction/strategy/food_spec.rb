@@ -11,7 +11,7 @@ module Reduction
 
       context 'a normal recipe' do
 
-        subject { described_class.new(get_page('http://www.food.com/recipe/yummy-frozen-margaritas-292214')) }
+        strategy_subject_for('http://www.food.com/recipe/yummy-frozen-margaritas-292214')
 
         it_should_behave_like "a strategy"
 
@@ -59,7 +59,7 @@ module Reduction
       end
 
       context 'a recipe with multiple ingredient lists' do
-        subject { described_class.new(get_page('http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256')) }
+        strategy_subject_for('http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256')
 
         it_should_behave_like "a strategy"
 
