@@ -62,7 +62,7 @@ module Reduction
       end
 
       context 'a recipe with multiple ingredient lists' do
-        sstrategy_subject_for('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')
+        strategy_subject_for('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')
         it_should_behave_like "a strategy"
 
         it_should_find 'ingredients', [
