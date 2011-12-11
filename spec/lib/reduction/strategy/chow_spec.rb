@@ -170,6 +170,15 @@ module Reduction
 
       end
 
+      context 'another' do
+        strategy_subject_for('http://www.chow.com/recipes/14271-olive-parsley-dip-with-crudites')
+        it_should_behave_like 'a strategy'
+
+        it 'should be okay' do
+          subject.yields
+        end
+      end
+
     end
 
   end

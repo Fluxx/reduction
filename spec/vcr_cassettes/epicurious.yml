@@ -3357,16 +3357,16 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Sun, 11 Dec 2011 06:25:14 GMT
+      - Sun, 11 Dec 2011 23:11:09 GMT
       date:
-      - Sun, 11 Dec 2011 06:15:14 GMT
+      - Sun, 11 Dec 2011 23:01:09 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - mobify=0; expires=Sun, 11-Dec-2011 08:15:14 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 12-Dec-2011 01:01:09 GMT; domain=epicurious.com
     body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
@@ -3975,8 +3975,8 @@
       \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
       \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
       \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad625569946_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad625569946_',
+      \   \n    \n        <div id=\"ad418610551_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad418610551_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
       class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
@@ -3993,9 +3993,9 @@
       \   </div>\n\n\n\n\n            <div class=\"module\">\n                <div
       class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad2021630357_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad431103085_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad2021630357_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad431103085_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
       class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
