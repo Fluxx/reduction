@@ -1394,23 +1394,23 @@
       server:
       - Apache/2.2.3 (Red Hat)
       content-length:
-      - '111402'
+      - '102982'
       content-type:
       - text/html;charset=UTF-8
       set-cookie:
-      - JSESSIONID=4e4a845f99fcd0a62e38295d473d.foodweb03i1; Path=/
+      - JSESSIONID=bc30b9b11f17be2ce1e12f4cb9a6.foodweb04i1; Path=/
       x-powered-by:
       - JSP/2.1
       x-cnection:
       - close
       expires:
-      - Fri, 18 Nov 2011 04:17:24 GMT
+      - Sun, 11 Dec 2011 06:15:30 GMT
       cache-control:
       - max-age=0, no-cache, no-store
       pragma:
       - no-cache
       date:
-      - Fri, 18 Nov 2011 04:17:24 GMT
+      - Sun, 11 Dec 2011 06:15:30 GMT
       connection:
       - keep-alive
     body: ! "\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\"
@@ -1419,14 +1419,11 @@
       xmlns=\"http://www.w3.org/1999/xhtml\">\r\n\r\n\r\n\r\n\r\n<head>\n\t<meta http-equiv=\"Content-type\"
       content=\"text/html; charset=utf-8\" />\r\n\t<meta http-equiv=\"X-UA-Compatible\"
       content=\"IE=7\" />\r\n\t\r\n\t\r\n\t<link rel=\"shortcut icon\" type=\"image/x-icon\"
-      href=\"http://www.food.com/favicon.ico\"/>\t\r\n\t<link rel=\"stylesheet\" href=\"http://food.sndimg.com/css/?minify=1&webfont=1\"
-      type=\"text/css\" />\r\n\t\r\n\t\r\n\t\t\r\n\t\r\n\t<script src=\"http://food.sndimg.com/js/rz2/?minify=1\"
-      charset=\"utf-8\"></script>\r\n\t\r\n    \r\n\r\n    <script type=\"text/javascript\"
-      src=\"http://food.sndimg.com/js/rz2/sni-rz/recipe.js?minify=1\" charset=\"utf-8\"></script>\r\n
-      \   <script type=\"text/javascript\" src=\"http://food.sndimg.com/js/rz2/sni-rz/collectionlanding.js?minify=1\"
-      charset=\"utf-8\"></script>\r\n\r\n\t\r\n\r\n\t<script type=\"text/javascript\">\r\n\t\ttry{\r\n\t\t\tSNI.Ads._adServerHostname
+      href=\"http://www.food.com/favicon.ico\"/>\t\r\n\t<link rel=\"stylesheet\" href=\"http://food.sndimg.com/css/sni-rz.css\"
+      type=\"text/css\" />\r\n\t\r\n\t\r\n\t\t\r\n\t\r\n\t<script src=\"http://food.sndimg.com/js/rz2/rz.min.js\"
+      charset=\"utf-8\"></script>\r\n\t\r\n    \r\n\r\n\t\r\n\r\n\t<script type=\"text/javascript\">\r\n\t\ttry{\r\n\t\t\tSNI.Ads._adServerHostname
       = 'adsremote.scrippsnetworks.com';\r\n\t\t}catch(e){}\r\n\t\t\r\n\t\tmdManager
-      = new MetaDataManager();\r\n\t</script>\r\n\t\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\tmdManager.addParameter(\"adkey1\",\"COCKTAIL\");\t\t\r\n\tmdManager.addParameter(\"adkey2\",\"empty\");\t\t\r\n\tmdManager.addParameter(\"CategoryDspName\",\"RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Classification\",\"RECIPES,RECIPES,FOODCOM\");\t\t\r\n\tmdManager.addParameter(\"keywordids\",\"11,12,13,16,32,82,141,195,469\");\t\t\r\n\tmdManager.addParameter(\"keywords\",\"15_minutes_or_less,time_to_make,course,preparation,5_ingredients_or_less,beverages,easy,cocktails,3_steps_or_less\");\t\t\r\n\tmdManager.addParameter(\"SctnDspName\",\"RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Site\",\"FOODCOM\");\t\t\r\n\tmdManager.addParameter(\"Sponsorship\",\"FC11_CINCODEMAYO_RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Type\",\"RECIPE\");\t\t\r\n\tmdManager.addParameter(\"UniqueId\",\"1-292214-recipe\");\t\r\n\tmdManager.addParameter(\"Subdomain\",\"\");\r\n\tmdManager.addParameter(\"Url\",\"http://www.food.com/recipe/yummy-frozen-margaritas-292214\");\t\r\n\tmdManager.addParameter('Title',\"Yummy
+      = new MetaDataManager();\r\n\t</script>\r\n\t\r\n\r\n\r\n<script type=\"text/javascript\">\r\n\tmdManager.addParameter(\"adkey1\",\"COCKTAIL\");\t\t\r\n\tmdManager.addParameter(\"adkey2\",\"empty\");\t\t\r\n\tmdManager.addParameter(\"CategoryDspName\",\"RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Classification\",\"RECIPES,RECIPES,FOODCOM\");\t\t\r\n\tmdManager.addParameter(\"keywordids\",\"11,12,13,16,32,82,141,195,469\");\t\t\r\n\tmdManager.addParameter(\"keywords\",\"15_minutes_or_less,time_to_make,course,preparation,5_ingredients_or_less,beverages,easy,cocktails,3_steps_or_less\");\t\t\r\n\tmdManager.addParameter(\"SctnDspName\",\"RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Site\",\"FOODCOM\");\t\t\r\n\tmdManager.addParameter(\"Sponsorship\",\"FC11_CINCODEMAYO_RECIPES\");\t\t\r\n\tmdManager.addParameter(\"Type\",\"RECIPE\");\t\t\r\n\tmdManager.addParameter(\"UniqueId\",\"1-292214-recipe\");\t\r\n\r\n\tmdManager.addParameter(\"Subdomain\",\"\");\r\n\tmdManager.addParameter(\"Url\",\"http://www.food.com/recipe/yummy-frozen-margaritas-292214\");\t\r\n\tmdManager.addParameter('Title',\"Yummy
       Frozen Margaritas Recipe - Food.com - 292214\");\r\n</script>\r\n\t\r\n\t<script
       type=\"text/javascript\">\r\n\tif(!SNI){\r\n\t\tSNI = {};\r\n\t}\r\n\tif(!SNI.RZ){\r\n\t\tSNI.RZ
       = {};\r\n\t}\r\n\tif(!SNI.RZ.Sifter){\r\n\t\tSNI.RZ.Sifter = {}\r\n\t}\r\n\t//initialize
@@ -1469,9 +1466,12 @@
       \ \t</div>\r\n \t\r\n\t<div class=\"rz-site-hd-wrap\">\r\n\t\n\n\n\n\n\n\n \n\n
       \n \n\t<div id=\"rz-masthead\">\n\t\t<div id=\"rz-logo\"><a href=\"http://www.food.com\">Food.com:
       The most complete collection of free recipes on the Internet, trusted by home
-      chefs throughout the world.</a></div>\n\t\t\n\n\n\n<div id=\"occasionHeader\">&nbsp;</div>\n\t\t<div
-      class=\"search\">\n\t\t<!-- <form id=\"header-search-form\" name=\"header-search-form\"
-      class=\"clrfix\" name=\"headerSearchForm\" onsubmit=\"setSuggestValue();\"  method=\"get\">-->\n\t\t\t<div
+      chefs throughout the world.</a></div>\n\t\t\n\n\n\n<div id=\"occasionHeader\"
+      style=\"background-image: url('http://food.sndimg.com/img/header/7oED9m.png')\"><a
+      href=\"http://www.food.com/holiday-entertaining/home/package\" title=\"Holiday
+      Entertaining\">Holiday Entertaining</a></div>\n\t\t<div class=\"search\">\n\t\t<!--
+      <form id=\"header-search-form\" name=\"header-search-form\" class=\"clrfix\"
+      name=\"headerSearchForm\" onsubmit=\"setSuggestValue();\"  method=\"get\">-->\n\t\t\t<div
       class=\"input\">\n\t\t\t\t<input autocomplete=\"off\" name=\"q\" id=\"rz-search-input\"
       type=\"text\" onKeyPress=\"return disableEnterKey(event);\" />\n\t\t\t</div>\n\t\t\t\n\t\t\t\n\t\t\t<div
       class=\"site-search-options\" id=\"site-search-options-id\" onClick=\"javascript:closeAutoSuggest();\">\n\t\t\t\t<select
@@ -1513,33 +1513,33 @@
       signed_out\">\n\t<li class=\"nav_recipes\">\n\t\t<h4><a href=\"http://www.food.com/recipes\"
       rel=\"gh-t1\">Recipes</a><span></span></h4>\n\t\t<div class=\"headernav_subnav\">\n\t\t\t<span>Recipes
       Navigation</span>\n\t\t\t\r\n\r\n\r\n\r\n\r\n\t<div class=\"headernav_subnav_featured
-      clrfix\">\r\n\t\t<a class=\"headernav_subnav_featured_img\" href=\"http://www.food.com/thanksgiving/home/package\"><img
-      src=\"http://img.food.com/img/slideshow/0028/thumbs/emjF7v.jpg\" alt=\"Thanksgiving
+      clrfix\">\r\n\t\t<a class=\"headernav_subnav_featured_img\" href=\"http://www.food.com/holiday-entertaining/home/package\"><img
+      src=\"http://food.sndimg.com/img/recipes/10/31/75/thumbs/picqeIEJd.jpg\" alt=\"Holiday
       Central\" /></a>\r\n\t\t<div class=\"headernav_subnav_featured_content\">\r\n\t\t\t<h4><a
-      href=\"http://www.food.com/thanksgiving/home/package\">Thanksgiving Central</a></h4>\r\n\t\t\t<p>Our
-      one-stop shop has every Thanksgiving recipe you need to make your holiday a
-      delicious success.</p>\r\n\t\t\t\r\n\t\t\t<div class=\"headernav_subnav_featured_ft\">\r\n\t\t\t\t<h5>Also
-      New:</h5>\r\n\t\t\t\t<p><a href=\"http://www.food.com/slideshow/10-shortcut-thanksgiving-pies-44\">10
-      Quick Pies</a>, <a href=\"http://www.food.com/slideshow/10-make-ahead-side-dishes-45\">Easy
-      Make-Ahead Side Dishes</a></p>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
+      href=\"http://www.food.com/holiday-entertaining/home/package\">Holiday Central</a></h4>\r\n\t\t\t<p>Our
+      one-stop shop has every entertaining recipe you need to make your holiday season
+      a sweet success.</p>\r\n\t\t\t\r\n\t\t\t<div class=\"headernav_subnav_featured_ft\">\r\n\t\t\t\t<h5>Also
+      New:</h5>\r\n\t\t\t\t<p><a href=\"http://www.food.com/holiday-entertaining/food-gifts/package\">Homemade
+      Food Gifts</a>, <a href=\"http://www.food.com/holiday-entertaining/cookies/package\">Christmas
+      Cookies</a></p>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
       class=\"popular\">\r\n\t\t\t<h5>Popular Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://thanksgiving.food.com\" rev=\"Recipes\" rel=\"gh-t1-1\">Thanksgiving
-      Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/casseroles\"
-      rev=\"Recipes\" rel=\"gh-t1-2\">Casserole Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      \ href=\"http://christmas.food.com\" rev=\"Recipes\" rel=\"gh-t1-1\">Christmas
+      Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/gingerbread\"
+      rev=\"Recipes\" rel=\"gh-t1-2\">Gingerbread Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes/chicken\" rev=\"Recipes\" rel=\"gh-t1-3\">Chicken
       Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/chili\"
       rev=\"Recipes\" rel=\"gh-t1-4\">Chili Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes/crock-pot-slow-cooker\" rev=\"Recipes\"
-      rel=\"gh-t1-5\">Crock-Pot Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://dessert.food.com\"
-      rev=\"Recipes\" rel=\"gh-t1-6\">Dessert Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://christmas.food.com\" rev=\"Recipes\" rel=\"gh-t1-7\">Christmas
+      rel=\"gh-t1-5\">Crock-Pot Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/holiday-entertaining/cookies/package\"
+      rev=\"Recipes\" rel=\"gh-t1-6\">Cookie Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      \ href=\"http://www.food.com/recipes/appetizers\" rev=\"Recipes\" rel=\"gh-t1-7\">Appetizer
       Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://healthy.food.com\"
       rev=\"Recipes\" rel=\"gh-t1-8\">Healthy Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes/pork-chops\" rev=\"Recipes\" rel=\"gh-t1-9\">Pork
-      Chop Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/cakes\"
-      rev=\"Recipes\" rel=\"gh-t1-10\">Cake Recipes</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
+      Chop Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/holiday-entertaining/baking/package\"
+      rev=\"Recipes\" rel=\"gh-t1-10\">Holiday Baking Recipes</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/recipe-finder/all?sd=11/16/2011\" rev=\"Recipes\"
+      \ href=\"http://www.food.com/recipe-finder/all?sd=12/10/2011\" rev=\"Recipes\"
       rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\"
       rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes-popular\" rev=\"Recipes\" rel=\"gh-t1-13\">Top-Rated
@@ -1555,14 +1555,15 @@
       class=\"nav_cookbook\">\n\t\t<h4><a href=\"http://www.food.com/books\"  rel=\"gh-t2\">Cookbooks</a><span></span></h4>\n\t\t<div
       class=\"headernav_subnav\">\n\t\t\t<span>Cookbooks Navigation</span>\n\t\t\t\r\n\r\n\r\n\r\n\r\n\t<div
       class=\"headernav_subnav_featured clrfix\">\r\n\t\t<a class=\"headernav_subnav_featured_img\"
-      href=\"http://www.food.com/cookbook/crock-pot-183975\"><img src=\"http://food.sndimg.com/img/recipes/25/32/36/thumbs/picQ4Jhqa.jpg\"
-      alt=\"Crock-Pot Cooking\" /></a>\r\n\t\t<div class=\"headernav_subnav_featured_content\">\r\n\t\t\t<h4><a
-      href=\"http://www.food.com/cookbook/crock-pot-183975\">Crock-Pot Cooking</a></h4>\r\n\t\t\t<p>Fuel
-      your family on those busy weeknights with these fix-it-and-forget-it favorites.</p>\r\n\t\t\t\r\n\t\t\t<div
-      class=\"headernav_subnav_featured_ft\">\r\n\t\t\t\t<h5>Similar Cookbooks:</h5>\r\n\t\t\t\t<p><a
-      href=\"http://www.food.com/cookbook/casseroles-crock-pot-dishes-120826\">Casseroles
-      & Crock-Pot Dishes</a>,  <a href=\"http://www.food.com/cookbook/what-a-crock-pot-164432\">What
-      a Crock (Pot)</a></p>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
+      href=\"http://www.food.com/cookbook/party-foods-desserts-christmas-thanksgiving-173733\"><img
+      src=\"http://food.sndimg.com/img/recipes/39/26/35/thumbs/picL6pnmn.jpg\" alt=\"Holiday
+      Party Foods\" /></a>\r\n\t\t<div class=\"headernav_subnav_featured_content\">\r\n\t\t\t<h4><a
+      href=\"http://www.food.com/cookbook/party-foods-desserts-christmas-thanksgiving-173733\">Holiday
+      Party Foods</a></h4>\r\n\t\t\t<p>Fuel your holiday party with 800+ appetizers
+      and sweets from this member cookbook.</p>\r\n\t\t\t\r\n\t\t\t<div class=\"headernav_subnav_featured_ft\">\r\n\t\t\t\t<h5>Similar
+      Cookbooks:</h5>\r\n\t\t\t\t<p><a href=\"http://www.food.com/cookbook/christmas-holiday-gift-ideas-86674\">Christmas
+      & Food Gift Ideas</a>,  <a href=\"http://www.food.com/cookbook/ho-ho-holidays-254072\">Ho
+      Ho Holidays!</a></p>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
       class=\"popular\">\r\n\t\t\t<h5>Popular Member Cookbooks</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/cookbook-finder/all/copycat\" rev=\"Cookbooks\"
       rel=\"gh-t2-1\">Restaurant Copycats</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/cookbook-finder/desserts\"
@@ -1571,8 +1572,8 @@
       Dishes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/cookbook/400-calorie-meals-49870\"
       rev=\"Cookbooks\" rel=\"gh-t2-4\">400-Calorie Meals</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/cookbook-finder/Vegetarian/\" rev=\"Cookbooks\"
-      rel=\"gh-t2-5\">Vegetarian Cookbooks</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/cookbook-finder/quick/\"
-      rev=\"Cookbooks\" rel=\"gh-t2-6\">Quick Meals</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      rel=\"gh-t2-5\">Vegetarian Cookbooks</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/cookbook-finder/all/cookies?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0\"
+      rev=\"Cookbooks\" rel=\"gh-t2-6\">Cookies Cookbooks</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/cookbook/mexican-225637\" rev=\"Cookbooks\" rel=\"gh-t2-7\">Mexican
       Cookbook</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/cookbook-finder/LowFat/\"
       rev=\"Cookbooks\" rel=\"gh-t2-8\">Low-Fat Cookbooks</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
@@ -1596,16 +1597,12 @@
       class=\"nav_menus\">\n\t\t<h4><a href=\"http://www.food.com/menu\" rel=\"gh-t3\">Menus</a><span></span></h4>\n\t\t<div
       class=\"headernav_subnav\">\n\t\t\t<span>Menus Navigation</span>\n\t\t\t\r\n\r\n\r\n\r\n\r\n\t<div
       class=\"headernav_subnav_featured clrfix\">\r\n\t\t<a class=\"headernav_subnav_featured_img\"
-      href=\"http://www.food.com/menu/our-ultimate-thanksgiving-menu-70517\"><img
-      src=\"http://food.sndimg.com/img/recipes/47/10/2/thumbs/pic21jAQS.jpg\" alt=\"The
-      Ultimate Thanksgiving Menu\" /></a>\r\n\t\t<div class=\"headernav_subnav_featured_content\">\r\n\t\t\t<h4><a
-      href=\"http://www.food.com/menu/our-ultimate-thanksgiving-menu-70517\">The Ultimate
-      Thanksgiving Menu</a></h4>\r\n\t\t\t<p>Plan your family's must-have lineup with
-      our most-reviewed, highest-rated Thanksgiving dishes.</p>\r\n\t\t\t\r\n\t\t\t<div
-      class=\"headernav_subnav_featured_ft\">\r\n\t\t\t\t<h5>SIMILAR MENUS:</h5>\r\n\t\t\t\t<p><a
-      href=\"http://www.food.com/menu/make-ahead-thanksgiving-617\">Make-Ahead Thanksgiving</a>,
-      <a href=\"http://www.food.com/menu/traditional-thanksgiving-dinner-31988\">Traditional
-      Thanksgiving Dinner</a></p>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
+      href=\"http://www.food.com/menu-finder/all/christmas?Ns=main_submit_date|1\"><img
+      src=\"http://food.sndimg.com/img/recipes/76/86/4/thumbs/picT4Cz5X.jpg\" alt=\"Christmas
+      Menus\" /></a>\r\n\t\t<div class=\"headernav_subnav_featured_content\">\r\n\t\t\t<h4><a
+      href=\"http://www.food.com/menu-finder/all/christmas?Ns=main_submit_date|1\">Christmas
+      Menus</a></h4>\r\n\t\t\t<p>Whether you're after hearty brunch ideas or want
+      the classic ham dinner,  celebrate the big day with our members' best menu ideas.</p>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\r\n\t<ul>\r\n\t\r\n\t\t<li
       class=\"popular\">\r\n\t\t\t<h5>Popular Member Menus</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/menu-finder/all/chicken-dinner\" rev=\"Menus\"
       rel=\"gh-t3-1\">Chicken Dinners</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/menu-finder/seafood,main-dish/\"
@@ -1620,8 +1617,8 @@
       Menus</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/menu-finder/all/mexican?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0\"
       rev=\"Menus\" rel=\"gh-t3-8\">Mexican Menus</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/menu-finder/all/italian\" rev=\"Menus\" rel=\"gh-t3-9\">Italian
-      Menus</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/menu-finder/all/Fall?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0\"
-      rev=\"Menus\" rel=\"gh-t3-10\">Fall Meals</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
+      Menus</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/menu-finder/all/Winter?Ns=has_photo|1||recipe_avg_rating|1||main_num_ratings|1||main_title_alternative|0\"
+      rev=\"Menus\" rel=\"gh-t3-10\">Winter Meals</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore More Menus</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/menu-finder?Ns=main_submit_date|1\" rev=\"Menus\"
       rel=\"gh-t3-11\">Newest Menus</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/menu\"
@@ -1720,16 +1717,16 @@
       class=\"action\">I Want To&hellip;<a href=\"http://www.food.com/members/subm/editr2\"
       rev=\"Recipes\" rel=\"gh-t1-7-li\">Submit a Recipe</a></li>\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"popular\">\r\n\t\t\t<h5>Popular Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://thanksgiving.food.com\" rev=\"Recipes\" rel=\"gh-t1-8-li\">Thanksgiving
-      Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/casseroles\"
-      rev=\"Recipes\" rel=\"gh-t1-9-li\">Casserole Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
+      \ href=\"http://christmas.food.com\" rev=\"Recipes\" rel=\"gh-t1-8-li\">Christmas
+      Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/gingerbread\"
+      rev=\"Recipes\" rel=\"gh-t1-9-li\">Gingerbread Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes/chicken\" rev=\"Recipes\" rel=\"gh-t1-10-li\">Chicken
       Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/recipes/chili\"
       rev=\"Recipes\" rel=\"gh-t1-11-li\">Chili Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes/crock-pot-slow-cooker\" rev=\"Recipes\"
       rel=\"gh-t1-12-li\">Crock-Pot Recipes</a></li>\r\n\t\t\t\r\n\t\t\t</ul>\r\n\t\t</li>\r\n\t\r\n\t\t<li
       class=\"explore\">\r\n\t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\t\t\t<ul>\r\n\t\t\t\r\n\t\t\t\t<li><a
-      \ href=\"http://www.food.com/recipe-finder/all?sd=11/16/2011\" rev=\"Recipes\"
+      \ href=\"http://www.food.com/recipe-finder/all?sd=12/10/2011\" rev=\"Recipes\"
       rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\"
       rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\t\t\t\r\n\t\t\t\t<li><a
       \ href=\"http://www.food.com/recipes-popular\" rev=\"Recipes\" rel=\"gh-t1-15-li\">Top-Rated
@@ -1899,16 +1896,16 @@
       = userInfo.country;\n\t\tSNI.Community.UR.ViewingMemberId = userInfo.memberId;\n\t\tSNI.Community.UR.logged_in=true;\n\t}\n</script>\r\n\t</div>\r\n</div>\r\n<script
       type=\"text/javascript\" charset=\"utf-8\">handleHeaderLoad();</script>\n\r\n\r\n\r\n<input
       type=\"hidden\" id=\"globalAssetId\" value=\"292214\"></input>\r\n<input type=\"hidden\"
-      id=\"globalAssetType\" value=\"1\"></input>\r\n\r\n<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@1b33323
+      id=\"globalAssetType\" value=\"1\"></input>\r\n\r\n<!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@1d55191
       -->\r\n<div id=\"site-wrapper\" class=\"recipe-details\">\r\n\t\r\n\r\n\r\n\r\n<div
       id=\"rz-bc\" class=\"clrfix\"> \r\n\t\r\n\r\n<div id=\"rz-breadcrumb\">You are
       in: \r\n\r\n\t<a href=\"http://www.food.com\">Home</a> /  \r\n\r\n\t<a href=\"http://www.food.com/recipes/\">Recipes</a>
       /  \r\n\r\n\tYummy  Frozen Margaritas Recipe\r\n\t   \r\n\r\n</div>\r\n\t<div
       id=\"rz-sitemap\">Lost? <a href=\"http://www.food.com/sitemap.do\">Site Map</a></div>\r\n</div>\t\r\n\t<div
-      id=\"rz-bd\" class=\"hrecipe clrfix recipe-detail-page\">\r\n\t\t<div id=\"rz-lead\"
-      \ class=\"recipe-info-page clrfix tabby\">\r\n\t\t\t\t<div class=\"leady-hd
+      id=\"rz-bd\" class=\"hrecipe clrfix recipe-detail-page\" itemscope itemtype=\"http://schema.org/Recipe\">\r\n\t\t<div
+      id=\"rz-lead\"  class=\"recipe-info-page clrfix tabby\">\r\n\t\t\t\t<div class=\"leady-hd
       rz-rec clrfix\">\r\n\t\t\t\t\t\r\n\r\n\r\n\t\t\t\t\t<span class=\"item\">\r\n\t\t\t\t\t\t<h1
-      class=\"fn\">Yummy  Frozen Margaritas</h1>\r\n\t\t\t\t\t</span>\r\n\t\t\t\t\t<div
+      class=\"fn\"  itemprop=\"name\">Yummy  Frozen Margaritas</h1>\r\n\t\t\t\t\t</span>\r\n\t\t\t\t\t<div
       class=\"recipe-user\">\r\n\t\t\t\t\t\t<a href=\"http://share.food.com/community/Kermit-in-Huntsville/style.esi?member_id=718022\"><img
       src=\"http://picklemedia1.scrippsnetworks.com/pickle_media1/media/rz_migration/71/Photo_Video_718022_square.jpg\"
       alt=\"\" width=\"48\" height=\"48\" /></a>\r\n\r\n\t\t\t\t\t\t<div class=\"user-info
@@ -1951,16 +1948,17 @@
       class=\"selected\"  ><span>Recipe</span></a>\r\n</li>\r\n\r\n<li>\r\n\t<a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/review\"
       ><span>Ratings &amp; Reviews<em>(6)</em></span></a>\r\n</li>\r\n\r\n<li>\r\n\t<a
       href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/photo\"  ><span>Photos<em>(2)</em></span></a>\r\n</li>\r\n</ul>\r\n<!--
-      recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@1b33323 -->\r\n\r\n\t\t\t\t\t\r\n\t\t<div
+      recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@1d55191 -->\r\n\r\n\t\t\t\t\t\r\n\t\t<div
       class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\t\t\t<small>Sponsored
       by:</small><em></em>\r\n\t\t\t<script type=\"text/javascript\">try{MultiLogoAd('LOGO',1);}catch(e){}</script>\r\n\t\t</div>\r\n\t\t<script
       type=\"text/javascript\">\r\n\t\tif( document.getElementById('sponsor_ad_div_id').innerHTML.indexOf(\"1x1.gif\")==-1
       && (document.getElementById('sponsor_ad_div_id').innerHTML.indexOf(\"img\")!=-1
       || document.getElementById('sponsor_ad_div_id').innerHTML.indexOf(\"IMG\")!=-1
       ) )\r\n\t\t{\r\n\t\t\tdocument.getElementById('sponsor_ad_div_id').style.display
-      =\"block\";\r\n\t\t}\r\n\t\t</script>\r\n\t\t\t\t\t<script type=\"text/javascript\">\r\n\t\t\t\t\t\tSNI.RZ.Recipe.notesConfig
-      = {\r\n\t\t\t\t\t\t\trecipeId: \"292214\",\r\n\t\t\t\t\t\t\tprivateNotesId:
-      \"0\",\r\n\t\t\t\t\t\t\tnoteMemberId: \"0\"\r\n\t\t\t\t\t\t};\r\n\t\t\t\t\t</script>\r\n\t\t\t</div>\r\n\t\t</div>
+      =\"block\";\r\n\t\t\tdocument.getElementsByTagName('h1')[0].style.width = \"455px\";\r\n\t\t}\r\n\t\t</script>\r\n\t\t\t\t\t<script
+      type=\"text/javascript\">\r\n\t\t\t\t\t\tSNI.RZ.Recipe.notesConfig = {\r\n\t\t\t\t\t\t\trecipeId:
+      \"292214\",\r\n\t\t\t\t\t\t\tprivateNotesId: \"0\",\r\n\t\t\t\t\t\t\tnoteMemberId:
+      \"0\"\r\n\t\t\t\t\t\t};\r\n\t\t\t\t\t</script>\r\n\t\t\t</div>\r\n\t\t</div>
       <!-- /#rz-lead -->\r\n\t\t<div id=\"rz-main\">\r\n\t\t\t<div id=\"rz-w\">\r\n\t\t\t\t\r\n\t\t\t<div
       class=\"pod recipe-item clrfix\">\r\n\t\t\t\t<div class=\"rz-w\">\r\n\t\t\t\t\t<!--\r\n\t\t\t\t\tNOTE
       TO DEV TEAM!\r\n\t\t\t\t\tTo match formatting of different image sizes - the
@@ -1968,10 +1966,8 @@
       class=\"bd\">\r\n\t\t\t\t\t\t<script>\r\n                            SNI.RZ.Recipe.ImageResize.init();\r\n\t\t\t\t\t\t</script>\r\n\t\t\t\t\t\t<div
       class=\"close closeExpanded\"></div>\r\n\t\t\t\t\t\t<div id=\"enlrphoto\" class=\"imgCont\">\r\n\t\t\t\t\t\t\t<div
       class=\"imgfloater enlarge\" style=\"position:relative;\">\r\n\t\t\t\t\t\t\t\t<div
-      class=\"open\"></div>\r\n\t\t\t\t\t\t\t\t<img class=\"largePageImage photo\"
-      src=\"http://food.sndimg.com/img/recipes/29/22/14/large/picDrdxNy.jpg\" title=\"Yummy
-      \ Frozen Margaritas. Photo by Sue Lau\" alt=\"Yummy  Frozen Margaritas. Photo
-      by Sue Lau\">\r\n                <img class=\"smallPageImage photo\" src=\"http://food.sndimg.com/img/recipes/29/22/14/large/picDrdxNy.jpg\"
+      class=\"open\"></div>\r\n\t\t\t\t\t\t\t\t<img class=\"smallPageImage photo\"
+      itemprop=\"image\" src=\"http://food.sndimg.com/img/recipes/29/22/14/large/picDrdxNy.jpg\"
       title=\"Yummy  Frozen Margaritas. Photo by Sue Lau\" alt=\"Yummy  Frozen Margaritas.
       Photo by Sue Lau\">\r\n\t\t\t\t\t\t\t\t<div class=\"photolink\"><p>Photo by
       <a href=\"\" onclick=\"\">Sue Lau</a></p></div>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<div
@@ -1994,47 +1990,12 @@
       class=\"ct-e\">\r\n\t\t\t\t\t\t\t<h3 class=\"duration\">5 mins<span class=\"value-title\"
       title=\"PT5M\"></span></h3>\r\n\t\t\t\t\t\t\t<p class=\"preptime\">5 mins<span
       class=\"value-title\" title=\"PT5M\"></span></p>\r\n\t\t\t\t\t\t\t<p class=\"cooktime\">0
-      mins<span class=\"value-title\" title=\"PT0M\"></span></p>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t<script
-      type=\"text/javascript\">\r\n                        $(document).ready(function()
-      {\r\n                        \t   var fullAddPrivateTxt \t= $(\"#textnoteformore\").text();\r\n
-      \                       \t   var fullUserNoteTxt \t\t= $(\"#usertextnote\").text();\r\n
-      \                       \t   var fullUserNoteHtml \t= $(\"#usertextnote\").html();\r\n
-      \                       \t  \t$('.morelinkfornote').live('hover', function()
-      {\r\n                        \t\t\t$('.textnotemore').html(fullAddPrivateTxt);\r\n
-      \                       \t\t});\r\n                        \t\t$('.morelinkforusernote').live('hover',
-      function() {\r\n                        \t\t\t$('.userclsnote').html(fullUserNoteHtml);\r\n
-      \                       \t\t});\r\n                        \t\t$('.my-pn').mouseleave(function(){\r\n
-      \                       \t\t\tresizeAddPrivateNote();\r\n                        \t
-      \  });\r\n                        \t   $('.userNoteCont').mouseleave(function(){\r\n
-      \                       \t\t\tresizeUserNote();\r\n                  \t   \t\t
-      \   });\r\n                 \t   \t\t    \r\n                        \t   $('.noteDel').click(function()
-      {\r\n                       \t\t\t$('.MyDeleteNote').attr('style', 'display:block');\r\n
-      \                      \t\t   });\r\n\r\n                        \t   $('.pnote-cancel').click(function()
-      {\r\n                          \t\t\t$('.MyDeleteNote').attr('style', 'display:none');\r\n
-      \                         \t    });\r\n\r\n                        \t   function
-      resizeAddPrivateNote() {\r\n                        \t        var fullTxtLength
-      = fullAddPrivateTxt.length;\r\n                        \t        if(fullTxtLength
-      >= 250){\r\n                        \t\t\tvar $shortMessage = fullAddPrivateTxt.substr(0,250)+
-      ' ...';\r\n                        \t\t\t$('.textnotemore').html($shortMessage);\r\n
-      \                       \t\t\t$('.textnotemore').append('<div class=\"morelinkfornote\"><a
-      href=\"javascript:void(0);\">More</a></div>');\r\n                        \t\t\t}\r\n
-      \                       \t   }\r\n\r\n                        \t   function
-      resizeUserNote() {\r\n                       \t        var fullTxtLength = fullUserNoteTxt.length;\r\n
-      \                      \t        if(fullTxtLength >= 250){\r\n                       \t\t\t\tvar
-      $shortMessage = fullUserNoteHtml.substr(0,250)+ ' ...';\r\n                       \t\t\t\t$('.morelinkforusernote').remove();\r\n
-      \                      \t\t\t\t$('.userclsnote').html( $shortMessage);\r\n                       \t\t\t\t$('.userclsnote').append('<div
-      class=\"morelinkforusernote\"><a href=\"javascript:void(0);\">More</a></div>');\r\n
-      \                      \t\t\t\t}\r\n                       \t     \t}\r\n                      \t
-      \    \t\r\n                        \t\tresizeAddPrivateNote();\r\n                        \t\tresizeUserNote();\r\n
-      \                       \t  });\r\n                        function removeNotes()\r\n\t\t\t\t\t\t{\r\n
-      \                       \tvar request=document.all?new ActiveXObject(\"Microsoft.XMLHTTP\"):new
-      XMLHttpRequest();\r\n\t\t\t\t\t\t\tvar url=\"/dpn.do?pid=0&mid=0&rid=292214\";\r\n\t\t\t\t\t\t\trequest.onreadystatechange=function()\r\n\t\t\t\t\t\t\t{\r\n\t\t\t\t\t\t\t\tif(request.readyState==4)\r\n\t\t\t\t\t\t\t\t{\r\n\t\t\t\t\t\t\t\t\tif(request.status==200)\r\n\t\t\t\t\t\t\t\t\t{\r\n\t\t\t\t\t\t\t\t\t\tdocument.location
-      = document.location+\"\";\r\n\t\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\t}\r\n\t\t\t\t\t\t\trequest.open(\"GET\",
-      url,true);\r\n\t\t\t\t\t\t\trequest.send(null);\r\n\t\t\t\t\t\t}\r\n\t\t\t\t\t</script>\r\n\t\t\t\t\t\r\n\t\t\t\t\t<div
+      mins<span class=\"value-title\" title=\"PT0M\"></span></p>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\t\t\t\t\t\r\n\t\t\t\t\t<div
       class=\"userNoteCont clrfix\">\r\n\t\t\t\t\t\t<div class=\"userNote clrfix\">\r\n\t\t\t\t\t\t\t<em></em>\r\n\t\t\t\t\t\t\t<h4><a
       href=\"http://share.food.com/community/Kermit-in-Huntsville/style.esi?member_id=718022\">Kermit
-      in Huntsville</a>'s Note:</h4>\r\n\t\t\t\t\t\t\t<p class=\"userclsnote\" id=\"usertextnote\">\r\n\t\t\t\t\t\t\t\tthis
-      is so good\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t<div class=\"end-quote\"></div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t\t<div
+      in Huntsville</a>'s Note:</h4>\r\n\t\t\t\t\t\t\t<p class=\"userclsnote\" id=\"usertextnote\"
+      \ itemprop=\"description\">\r\n\t\t\t\t\t\t\t\tthis is so good\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t<div
+      class=\"end-quote\"></div>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t\t\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t\r\n\t\t\t<div
       class=\"pod add-this-recipe-to\">\r\n\t\t\t\t\t<div class=\"rz-bd first\" id=\"RecipeToolContainerId\">\r\n\t\t\t\t\t\t<h5>RECIPE
       TOOLS</h5>\r\n\t\t\t\t\t\t<ul class=\"top clrfix\">\r\n\t\t\t\t\t\t\t<li id=\"print-recipe\"><a
       id=\"prntrec\" target=\"_new\" class=\"pr\" href=\"http://www.food.com/recipeprint.do?rid=292214\"
@@ -2101,37 +2062,40 @@
       class=\"is-twitter-button last\"></li>\r\n\t\t\t\t\t\t\t<li id=\"recipe-facebook\"
       class=\"is-fb-like-button last\"></li>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t\t<div
       class=\"recipe-detail-wrap\">\r\n\t\t\t\t\t\r\n          <script charset=\"utf-8\"
-      type=\"text/javascript\">\r\n\t\t\t\r\n            SNI.RZ.IS.ShareThis.init({element:
-      \"#recipe-share-this a\"}, 'sharethis');\r\n            SNI.RZ.IS.Twitter.share({element:
-      \"#recipe-tweet\", messages: {pageTitle: \"Yummy  Frozen Margaritas\"}});\r\n
-      \           SNI.RZ.IS.FB.like({element: \"#recipe-facebook\"});\r\n\t\t\t\r\n
-      \           SNI.RZ.CustomDropdown.addToRecipeLinks(\"292214\");\r\n        </script>\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\r\n<script
-      language=\"javascript\">\r\n\r\n    SNI.RZ.Recipe.servingConfig = {\r\n        url:
-      \"http://www.food.com/recipe/yummy-frozen-margaritas-292214?\",\r\n        mode:
-      \"null\"\r\n    };\r\n    \r\n</script>\r\n<div class=\"pod ingredients clrfix\">\r\n\t<h2>Ingredients:</h2>\r\n\t\t\r\n\t<div
-      class=\"rz-ss-e serviceSize\" style=\"display:block;\">\r\n\t\t<div class=\"section
-      clrfix\">\r\n\t\t\r\n\t\t<div class=\"part\">\t\r\n\t\t\r\n\t\t<p>Servings:</p>\r\n\t\t\r\n\t\t<input
-      type=\"hidden\" id=\"original_value\" value=\"4\">\r\n\t\t<select name=\"servingssize\"
-      id=\"servingssize\" class=\"fsm\" onchange=\"setServing(this)\">\r\n\t\t\t<option
-      class=\"select-title\">4 </option>\r\n\t\t\t<option selected=\"selected\" value=\"4
-      \">4</option>\t\r\n\t\t</select>\r\n\t\t<script language=\"javascript\">\r\n\t\t\tvar
-      oldServing = 4;\r\n\t\t</script>\r\n\t\t\r\n\t\t<p class=\"yieldUnits-txt\"></p><script
-      type=\"text/javascript\" charset=\"utf-8\">\r\n\t\t\t$('#servingssize').servingsize_dropdown({ddTypeName:
-      ''});\r\n\t\t</script>\r\n\t\t</div>\r\n\t</div>\r\n\t<div class=\"section clrfix
-      units\">\r\n\t\t<div class=\"part\"><p>Units:  US  |  <a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214?mode=metric&scaleto=4.0&st=null\">Metric</a></p></div>\r\n\t</div>\r\n\t</div>\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\r\n\t\t<ul>\r\n\t\t<li
-      class=\"ingredient\">\r\n\t\t\t<span class=\"ingredient\"><span class=\"amount\"><span
-      class=\"value\">6 </span> <span class=\"type\">ounces</span></span>  \r\n\t\t\t<span
-      class=\"name\">\t\t\t\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\t<a href=\"http://www.food.com/library/lime-260\">\r\n\t\t\tfrozen
-      limeade concentrate</a>\t\t\t\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t</li>\r\n\t\t\r\n\t\t<li
-      class=\"ingredient\">\r\n\t\t\t<span class=\"ingredient\"><span class=\"amount\"><span
-      class=\"value\">6 </span> <span class=\"type\">ounces</span></span>  \r\n\t\t\t<span
-      class=\"name\">\t\t\t\t\t\t\r\n\t\t\t \r\n\t\t\ttequila\t\t\t\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t</li>\r\n\t\t\r\n\t\t<li
-      class=\"ingredient\">\r\n\t\t\t<span class=\"ingredient\"><span class=\"amount\"><span
-      class=\"value\">2 </span> <span class=\"type\">ounces</span></span>  \r\n\t\t\t<span
-      class=\"name\">\t\t\t\t\t\t\r\n\t\t\t \r\n\t\t\t\r\n\t\t\t\t<a href=\"http://www.food.com/library/curacao-432\">\r\n\t\t\ttriple
-      sec</a>\t\t\t\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t\r\n\t\t\t</span>\r\n\t\t\t</li>\r\n\t\t\r\n\t\t\t</ul>\r\n\t\t\r\n</div>\r\n\r\n\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n<div
-      class=\"pod directions\">\r\n\t<h2>Directions:</h2>\r\n\t\r\n\t<span class=\"instructions\">\r\n\t<ol>\r\n\t\t\r\n\t\t\t<li><div
-      class=\"num\">1</div> <div class=\"txt\">Fill blender with crushed ice.</div></li>\r\n\t\t\r\n\t\t\t<li><div
+      type=\"text/javascript\">\r\n          SNI.RZ.CustomDropdown.addToRecipeLinks(\"292214\");\r\n\t\t\t\r\n\t\t\t\r\n\t\t\t\r\n
+      \           SNI.RZ.IS.ShareThis.init({element: \"#recipe-share-this a\"}, \"sharethis\");\r\n\t\t\tjQuery(window).load(function(){\r\n\t\t\t\tSNI.RZ.IS.Twitter.share({element:
+      \"#recipe-tweet\", messages: {pageTitle: \"Yummy  Frozen Margaritas\"}});\r\n\t\t\t\tSNI.RZ.IS.FB.like({element:
+      \"#recipe-facebook\"});\r\n\t\t\t});\r\n\t\t\t\r\n            \r\n        </script>\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n\t<script
+      language=\"javascript\">\r\n\t\r\n\t    SNI.RZ.Recipe.servingConfig = {\r\n\t
+      \       url: \"http://www.food.com/recipe/yummy-frozen-margaritas-292214?\",\r\n\t
+      \       mode: \"null\"\r\n\t    };\r\n\t    \r\n\t</script>\r\n\t<div class=\"pod
+      ingredients\">\r\n\t\t<h2>Ingredients:</h2>\r\n\t\t\t\r\n\t\t<div class=\"rz-ss-e
+      serviceSize\" style=\"display:block;\">\r\n\t\t\t<div class=\"section clrfix\">\r\n\t\t\t\r\n\t\t\t<div
+      class=\"part\">\t\r\n\t\t\t\r\n\t\t\t<p>Servings:</p>\r\n\t\t\t\r\n\t\t\t<input
+      type=\"hidden\" id=\"original_value\" value=\"4\">\r\n\t\t\t<select name=\"servingssize\"
+      id=\"servingssize\" class=\"fsm\" onchange=\"setServing(this)\">\r\n\t\t\t\t<option
+      class=\"select-title\">4 </option>\r\n\t\t\t\t<option selected=\"selected\"
+      value=\"4 \">4</option>\t\r\n\t\t\t</select>\r\n\t\t\t<script language=\"javascript\">\r\n\t\t\t\tvar
+      oldServing = 4;\r\n\t\t\t</script>\r\n\t\t\t\r\n\t\t\t<p class=\"yieldUnits-txt\"
+      title=\"\"></p><script type=\"text/javascript\" charset=\"utf-8\">\r\n\t\t\t\t$('#servingssize').servingsize_dropdown({ddTypeName:
+      ''});\r\n\t\t\t</script>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t\t<div class=\"section
+      clrfix units\">\r\n\t\t\t<div class=\"part\"><p>Units:  US  |  <a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214?mode=metric&scaleto=4.0&st=null\">Metric</a></p></div>\r\n\t\t</div>\r\n\t\t</div>\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\r\n\t\t\t<ul>\r\n\t\t\t\t\t\t\t<li
+      class=\"ingredient\"  itemprop=\"ingredients\">\r\n\t\t\t\t\t\t\t<span class=\"ingredient\"><span
+      class=\"amount\"><span class=\"value\">6 </span> <span class=\"type\">ounces</span></span>
+      \ \r\n\t\t\t\t\t\t\t<span class=\"name\">\r\n\t\t\t\t\t\t\t \r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<a
+      href=\"http://www.food.com/library/lime-260\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\tfrozen
+      limeade concentrate\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+      class=\"ingredient\"  itemprop=\"ingredients\">\r\n\t\t\t\t\t\t\t<span class=\"ingredient\"><span
+      class=\"amount\"><span class=\"value\">6 </span> <span class=\"type\">ounces</span></span>
+      \ \r\n\t\t\t\t\t\t\t<span class=\"name\">\r\n\t\t\t\t\t\t\t \r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\ttequila\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<li
+      class=\"ingredient\"  itemprop=\"ingredients\">\r\n\t\t\t\t\t\t\t<span class=\"ingredient\"><span
+      class=\"amount\"><span class=\"value\">2 </span> <span class=\"type\">ounces</span></span>
+      \ \r\n\t\t\t\t\t\t\t<span class=\"name\">\r\n\t\t\t\t\t\t\t \r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t<a
+      href=\"http://www.food.com/library/curacao-432\">\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\ttriple
+      sec\r\n\t\t\t\t\t\t\t</a>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t</li>\r\n\t\t\t\t\t\t\t\r\n\t\t\t</ul>\r\n\t\t\t\r\n\t</div>\r\n\r\n\r\n\t\t\t\t\t\r\n\r\n\r\n\r\n\r\n<div
+      class=\"pod directions\">\r\n\t<h2>Directions:</h2>\r\n\t\r\n\t<span class=\"instructions\"
+      \ itemprop=\"recipeInstructions\">\r\n\t<ol>\r\n\t\t\r\n\t\t\t<li><div class=\"num\">1</div>
+      <div class=\"txt\">Fill blender with crushed ice.</div></li>\r\n\t\t\r\n\t\t\t<li><div
       class=\"num\">2</div> <div class=\"txt\">Add three ingredients and blend till
       thick.</div></li>\r\n\t\t\r\n\t</ol>\r\n\t</span>\r\n\t\r\n\t\t\t\r\n</div>\r\n<div
       class=\"recipe-ft clrfix pod\">\r\n\t\t\t<div class=\"rz-e\"><a id=\"prnthisrep\"
@@ -2149,31 +2113,31 @@
       \               \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
       style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
       \               \t</span>\r\n                  \r\n                </li>\r\n
-      \           \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066\"
-      rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/31/70/66/thumbs/picK1E3yl.jpg\"
-      title=\"Frozen Strawberry Margaritas. Recipe by misscrys79\" alt=\"Frozen Strawberry
-      Margaritas. Recipe by misscrys79\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066\"
-      rel=\"bmr-1\">Frozen Strawberry Margaritas</a></p>\r\n                  <small>By
-      misscrys79</small>\r\n                  \r\n                \t<span class=\"inline-rating
-      small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
-      style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
-      \               \t</span>\r\n                  \r\n                </li>\r\n
       \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\"
-      rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/22/39/66/thumbs/pic4YVud6.jpg\"
+      rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/22/39/66/thumbs/pic4YVud6.jpg\"
       title=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"
       alt=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"/></a>\r\n
       \               \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\"
-      rel=\"bmr-2\">Frozen Watermelon Margaritas for a Crowd</a></p>\r\n                  <small>By
+      rel=\"bmr-1\">Frozen Watermelon Margaritas for a Crowd</a></p>\r\n                  <small>By
       justcallmetoni</small>\r\n                  \r\n                \t<span class=\"inline-rating
       small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
       style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
       \               \t</span>\r\n                  \r\n                </li>\r\n
-      \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\"
-      rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/30/05/53/thumbs/pic6X0H8M.jpg\"
-      title=\"Frozen Margarita Punch. Recipe by CIndytc\" alt=\"Frozen Margarita Punch.
-      Recipe by CIndytc\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\"
-      rel=\"bmr-3\">Frozen Margarita Punch</a></p>\r\n                  <small>By
-      CIndytc</small>\r\n                  \r\n                \t<span class=\"inline-rating
+      \           \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-185484\"
+      rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/18/54/84/thumbs/picZUZixS.jpg\"
+      title=\"Frozen Watermelon Margaritas. Recipe by lazyme\" alt=\"Frozen Watermelon
+      Margaritas. Recipe by lazyme\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-185484\"
+      rel=\"bmr-2\">Frozen Watermelon Margaritas</a></p>\r\n                  <small>By
+      lazyme</small>\r\n                  \r\n                \t<span class=\"inline-rating
+      small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
+      style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
+      \               \t</span>\r\n                  \r\n                </li>\r\n
+      \           \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\"
+      rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/23/44/74/thumbs/picLRa2lO.jpg\"
+      title=\"Frozen Mango Margarita. Recipe by English_Rose\" alt=\"Frozen Mango
+      Margarita. Recipe by English_Rose\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\"
+      rel=\"bmr-3\">Frozen Mango Margarita</a></p>\r\n                  <small>By
+      English_Rose</small>\r\n                  \r\n                \t<span class=\"inline-rating
       small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li
       style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n
       \               \t</span>\r\n                  \r\n                </li>\r\n
@@ -2303,23 +2267,23 @@
       id=\"rz-e\" class=\"rz-e-rec\">\r\n\t\t\t\t<div class=\"rz-e-hd\"></div>\r\n\t\t\t\t\r\n\t\t\t\t\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\t\t\t\r\n\t\t\t\t\t\t\t<div
       class=\"hd pod-white-rc\"></div>\t\t\r\n\t\t\t\t\t\t\t<div class=\"pod next-recipe
       clrfix\">\r\n\t\t\t\t\t\t\t\t<h4>Next Recipe</h4>\r\n\t\t\t\t\t\t\t\t\t<div
-      class=\"bd clrfix\">\r\n\t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071','227071');\"
-      rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/22/70/71/thumbs/picXUzdOh.jpg\"
-      alt=\"Frozen Strawberry Margarita Dessert. Recipe by KC_Cooker\" title=\"Frozen
-      Strawberry Margarita Dessert. Recipe by KC_Cooker\" width=\"92\" height=\"69\"
-      /></a>\r\n\t\t\t\t\t\t\t\t\t\t<div class=\"cont\">\r\n\t\t\t\t\t\t\t\t\t\t\t<p><a
-      id=\"nxt-recipe-txt\" href=\"http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071\"
-      rel=\"nrt-1\">Frozen Strawberry Margarita Dessert</a></p>\r\n\t\t\t\t\t\t\t\t\t\t\t<small>By
-      <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/KC_Cooker/style.esi?member_id=64203\">KC_Cooker</a></small>\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<span
+      class=\"bd clrfix\">\r\n\t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-cranberry-margaritas-125256','125256');\"
+      rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/12/52/56/thumbs/piczQbVRf.jpg\"
+      alt=\"Frozen Cranberry Margaritas. Recipe by Shirl (J) 831\" title=\"Frozen
+      Cranberry Margaritas. Recipe by Shirl (J) 831\" width=\"92\" height=\"69\" /></a>\r\n\t\t\t\t\t\t\t\t\t\t<div
+      class=\"cont\">\r\n\t\t\t\t\t\t\t\t\t\t\t<p><a id=\"nxt-recipe-txt\" href=\"http://www.food.com/recipe/frozen-cranberry-margaritas-125256\"
+      rel=\"nrt-1\">Frozen Cranberry Margaritas</a></p>\r\n\t\t\t\t\t\t\t\t\t\t\t<small>By
+      <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/Shirl-J-831/style.esi?member_id=82616\">Shirl
+      (J) 831</a></small>\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t\t<span
       class=\"inline-rating small\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"star-rating\">\r\n\t\t\t\t\t\t\t\t\t\t\t\t\t<li
       class=\"current-rating\" style=\"width: 100.00%;\"></li>\r\n\t\t\t\t\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t\t\t\t\t\t\t\t</span>\r\n\t\t\t\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t\t<a
-      id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071','227071');\"
+      id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-cranberry-margaritas-125256','125256');\"
       rel=\"nr-1\"><em></em></a>\r\n\t\t\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\t\t\t<small><a
       href=\"http://www.food.com/recipes/cocktails\" id=\"ViewAllRecipe\">View All
       Cocktail Recipes</a></small>\r\n\t\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t\r\n\r\n\r\n<form
       name=\"nextrecipeform\" method=\"POST\">\r\n<input type=\"hidden\" name=\"nextrecipeids\"
       id=\"nextrecipeids\" value=\"292214\" />\r\n<input type=\"hidden\" name=\"nrf\"
-      id=\"nrf\" value=\"true\" />\r\n\r\n\t\t\t\t<div class=\"ad\" id=\"bigbox\">\n\t<script
+      id=\"nrf\" value=\"true\" />\r\n</form>\r\n\t\t\t\t<div class=\"ad\" id=\"bigbox\">\n\t<script
       type=\"text/javascript\">BigboxAd('5',mdManager.getKeywords());</script>\n\t<p>Advertisement</p>\n</div>\n\r\n\t\t\t\t\r\n\r\n\r\n\t\t\t\t\r\n\r\n<div
       class=\"hd pod-white-rc\"></div>\t\t\t\t\r\n<div class=\"pod nutrition-facts
       clrfix\">\r\n\t<div class=\"hd clrfix\">\r\n\t\t<div class=\"hd nutrition-facts\"></div>\r\n\t\t<h3
@@ -2351,7 +2315,18 @@
       class=\"nf-item\">\r\n\t\t\t\t\ttriple sec\r\n\t\t\t\t</p>\r\n\t\t\t\r\n\t\t</div>\r\n\t</div>\r\n\t\r\n\t\r\n\t\r\n\t<div
       class=\"ft\">\r\n\t\t<a href=\"http://www.food.com/recipe/nutrition?rid=292214\"
       class=\"detail\">Detailed Nutrition Values</a>\r\n\t\t<a href=\"http://www.food.com/help/nutrition.zsp\"
-      class=\"about\">About Nutrition Info</a>\r\n\t</div>\r\n\r\n</div>\r\n\r\n\t\t\t\t\n\n\n\n\n\n\n\n\n<div
+      class=\"about\">About Nutrition Info</a>\r\n\t</div>\r\n\r\n</div>\r\n\r\n\t\t\t\t\r\n<div
+      class=\"pod more_ideas\">\n<div class=\"hd\"></div>\n<h3 class=\"title\">More
+      Ideas from Food.com</h3>\n<div class=\"rz-stc\">\n<div class=\"hd clrfix\">\n<a
+      \ href=\"http://www.food.com/holiday-entertaining/home/package\"><img width=\"92\"
+      height=\"69\" alt=\"Holidays\" src=\"http://food.sndimg.com/img/recipes/36/15/21/thumbs/pic6KRppO.jpg\">\n</a>\n<h4><a
+      href=\"http://www.food.com/holiday-entertaining/home/package\">Top Holiday Recipes</a></h4>\n<p>We
+      have the essential recipes and gift idea to make your holidays a success.</p>\n</div>\n<div
+      class=\"clrfix\">\n<ul class=\"list clrfix\">\n<li class=\"odd\"><a href=\"http://www.food.com/holiday-entertaining/baking/package\">Best
+      Baking Recipes</a></li>\n<li><a href=\"http://www.food.com/holiday-entertaining/food-gifts/package\">Homemade
+      Gifts</a></li>\n<li class=\"odd\"><a href=\"http://share.food.com/holiday-cookie-contest/multigallery.esi\">Cookie
+      Photo Contest</a></li>\n<li><a href=\"http://www.food.com/holiday-entertaining/christmas/package\">Christmas
+      Meals</a></li>\n</ul>\n</div>\n</div>\n</div>\n\r\n\r\n\r\n\t\t\t\t\n\n\n\n\n\n\n\n\n<div
       class=\"pod crosslink\">\n\t<div>\n\t\t<h1 class=\"title\">More Recipes Like
       This From Food Network</h1>\n\t</div>\n\t<div class=\"bd\">\n\t\t<ul class=\"list\">\n\t\t<li>\n\t\t\n\t\t\t<a
       href=\"http://www.foodnetwork.com/topics/mixed-drink-recipes/index.html\">\n\t\t\n\t\tMixed-Drink
@@ -2389,57 +2364,62 @@
       = document.getElementById('inOurStore').innerText;\n\t    else\n\t    \tdecoder
       = $(contents).text();\n\t    $('#inOurStore').replaceWith(decoder);\n    }\n</script>\n\r\n\r\n\t\t\t\t\r\n\r\n\r\n\r\n\t\t\t\t<div
       class=\"ad\">\r\n\t<script type=\"text/javascript\">GoogleBigboxAd('1');</script>\r\n\t<p>Advertisement</p>\r\n</div>\r\n\t\t\t\t<div><script
-      type=\"text/javascript\">VswAd(1);</script></div> \r\n\r\n\r\n\t\t\t\t\r\n<div
-      class=\"pod more_ideas\">\n<div class=\"hd\"></div>\n<h3 class=\"title\">More
-      Ideas from Food.com</h3>\n<div class=\"rz-stc\">\n<div class=\"hd clrfix\">\n<a
-      \ href=\"http://www.food.com/thanksgiving/home/package\"><img width=\"92\" height=\"69\"
-      alt=\"Thanksgiving\" src=\"http://img.food.com/img/slideshow/0028/small/emjF7v.jpg\">\n</a>\n<h4><a
-      href=\"http://www.food.com/thanksgiving/home/package\">Thanksgiving Recipes</a></h4>\n<p>We
-      have every dish you need to make this year's meal a delicious success.</p>\n</div>\n<div
-      class=\"clrfix\">\n<ul class=\"list clrfix\">\n<li class=\"odd\"><a href=\"http://www.food.com/thanksgiving/appetizers/package\">Thanksgiving
-      Apps</a></li>\n<li><a href=\"http://www.food.com/thanksgiving/sidedishes/package\">Essential
-      Side Dishes</a></li>\n<li class=\"odd\"><a href=\"http://www.food.com/thanksgiving/stuffingdressing/package\">Stuffings
-      & Dressings</a></li>\n<li><a href=\"http://www.food.com/slideshow/shortcut-thanksgiving-pies-44\">10
-      Shortcut Pies</a></li>\n</ul>\n</div>\n</div>\n</div>\n\r\n\r\n\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<script
-      charset=\"utf-8\" type=\"text/javascript\">\r\n\t(function() {\r\n\t\tvar rzed
-      = document.getElementById('rz-e');\r\n\t\tvar rzbd = document.getElementById('rz-bd');\r\n\t\trzbd.style.minHeight
-      = rzed.offsetHeight + 'px';\r\n\t})();\r\n\t</script>\r\n</div>\r\n\r\n\r\n\r\n\r\n\t\t\t\t\r\n\r\n\r\n\t\t\n\n\n\n<div
-      id=\"rz-footer\">\n\n\t<div class=\"hd body-white-roundedcorners\"></div>\n\n\t<div
-      id=\"rz-footer-nav\">\n\t \r\n\t \r\n                \r\n \r\n                 \r\n\r\n\r\n\r\n<div
-      class=\"list-cols\" id=\"rz-sponsored-links\">\r\n\t\t\t\r\n\t\t\t<h4>Ideas
-      from Food.com</h4>\r\n\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t<ul class=\"list\">\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/green-bean-casserole-47102\" rel=\"gf-ideas-1\">Green
-      Bean Casserole</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/apple-cranberry-pie-7251\" rel=\"gf-ideas-2\">Apple
-      Cranberry Pie</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://breakfast.food.com/recipes/breakfast-casseroles\" rel=\"gf-ideas-3\">Breakfast
-      Casserole Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://restaurant.food.com/all-recipes/popular\" rel=\"gf-ideas-4\">Popular
-      Restaurant Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t</ul>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t<ul
-      class=\"list\">\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a href=\"http://www.food.com/recipe/fannie-farmers-classic-baked-macaroni-and-cheese-135350\"
-      rel=\"gf-ideas-5\">Baked Macaroni and Cheese</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/better-than-olive-garden-alfredo-sauce-141983\"
-      rel=\"gf-ideas-6\">Alfredo Sauce Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/best-banana-bread-2886\" rel=\"gf-ideas-7\">Banana
-      Bread Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/delicious-healthy-butternut-squash-soup-463583\"
-      rel=\"gf-ideas-8\">Butternut Squash Soup</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t</ul>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t<ul
-      class=\"list\">\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a href=\"http://www.food.com/recipe/roasted-pumpkin-seeds-13549\"
-      rel=\"gf-ideas-9\">Pumpkin Seed Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/menu/our-ultimate-thanksgiving-menu-70517\" rel=\"gf-ideas-10\">Our
-      Ultimate Thanksgiving Menu</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipes/chicken-breasts\" rel=\"gf-ideas-11\">Chicken
-      Breast Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/corn-casserole-449420\" rel=\"gf-ideas-12\">Corn
-      Casserole Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t</ul>\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t<ul
-      class=\"list\">\t\t\t\t\r\n\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a href=\"http://www.food.com/recipes/turkey\"
-      rel=\"gf-ideas-13\">Turkey Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipes/crock-pot-slow-cooker\" rel=\"gf-ideas-14\">Crock
-      Pot Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/recipe/turkey-brine-442690\" rel=\"gf-ideas-15\">Turkey
-      Brine Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      type=\"text/javascript\">VswAd(1);</script></div> \t\t\t\t\r\n\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t<script
+      type=\"text/javascript\">\r\n\t(function($){\r\n\t\t\r\n\t\tSNI.RZ.Recipe.init();\r\n\t\t\r\n\t\t$('a.removeNotes').click(removeNotes);\r\n\t\t\r\n\t\tfunction
+      removeNotes() {\r\n\t\t\tvar $url=\"/dpn.do?pid=0&mid=0&rid=292214\";\r\n\t\t\t$.ajax({\r\n\t\t\t\turl:
+      $url,\r\n\t\t\t\tsuccess: function(){document.location = document.location+\"\";}\r\n\t\t\t});\r\n\t\t\treturn
+      false;\r\n\t\t}\r\n\t\t\r\n\t})(jQuery);\r\n\t</script>\r\n</div>\r\n\r\n\r\n\r\n\r\n\t\t\t\t\r\n\r\n\r\n\t\t\n\n\n\n\n<div
+      class=\"linklists clrfix\">\n\t<hr />\n\t<div class=\"col1\">\n\t\t<h4>Over
+      400,000 Recipes</h4>\n\t\t<ul class=\"list\">\n\t\t\t<li><a href=\"http://www.food.com/browse/allrecipes/\"
+      rel=\" gf-xp-\">All Recipes</a></li>\n\t\t\t<li><a href=\"http://www.food.com/categorycollections.php\">All
+      Collections</a></li>\n\t\t\t<li><a href=\"http://www.food.com/random.php\" rel=\"Get
+      a Random Recipe\" rel=\"Get a Random Recipe\">Get a Random Recipe</a></li>\n\t\t\t<li><a
+      href=\"http://www.food.com/library/all.zsp\" rel=\"Kitchen Dictionary\">Kitchen
+      Dictionary</a></li>\n\t\t\t<li><a href=\"http://www.food.com/library/calc.zsp\"
+      rel=\"Measurement Converter\">Measurement Converter</a></li>\n\t\t\t<li><a href=\"http://www.food.com/bb/viewforum.zsp?f=1\"
+      rel=\"Request a Recipe\">Request a Recipe</a></li>\n\t\t</ul>\n\t</div>\n\t<div
+      class=\"col2\">\n\t\t<h4>Food.com Network of Sites</h4>\n\t\t<ul class=\"list\">\n\t\t\t<li><a
+      href=\"http://baking.food.com\" rel=\"Baking Recipes\">Baking Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://blue.food.com\" rel=\"Blue Recipes\">Blue Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://breakfast.food.com\" rel=\"Breakfast Recipes\">Breakfast Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://cheese.food.com\" rel=\"Cheese Recipes\">Cheese Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://chinese.food.com\" rel=\"Chinese Recipes\">Chinese Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://christmas.food.com\" rel=\"Christmas Recipes\">Christmas Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://dessert.food.com\" rel=\"Dessert Recipes\">Dessert Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://healthy.food.com\" rel=\"Healthy Recipes\">Healthy Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://indian.food.com\" rel=\"Indian Recipes\">Indian Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://italian.food.com\" rel=\"Italian Recipes\">Italian Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://mexican.food.com\" rel=\"Mexican Recipes\">Mexican Recipes</a></li>\n\t\t\t<li><a
+      href=\"http://quick-and-easy.food.com\" rel=\"Quick & Easy Recipes\">Quick &
+      Easy Recipes</a></li>\n\t\t\t<li><a href=\"http://red.food.com\" rel=\"Red Recipes\">Red
+      Recipes</a></li>\n\t\t\t<li><a href=\"http://restaurant.food.com\" rel=\"Restaurant
+      Recipes\">Restaurant Recipes</a></li>\n\t\t\t<li><a href=\"http://southern.food.com\"
+      rel=\"Southern Recipes\">Southern Recipes</a></li>\n\t\t\t<li><a href=\"http://thai.food.com\"
+      rel=\"Thai Recipes\">Thai Recipes</a></li>\n\t\t\t<li><a href=\"http://thanksgiving.food.com\"
+      rel=\"Thanksgiving Recipes\">Thanksgiving Recipes</a></li>\n\t\t\t<li><a href=\"http://myrecipebox.food.com/homebase.do\">MyRecipeBox.Food.com</a></li>\n\t\t</ul>\n\t</div>\n</div>\n\n<div
+      id=\"rz-footer\">\n\n\t<div id=\"rz-footer-nav\">\n\t \r\n\t \r\n                \r\n
+      \r\n                 \r\n\r\n\r\n\r\n<div class=\"list-cols clrfix\" id=\"rz-sponsored-links\">\r\n\t\t\t\r\n\t\t\t<h4>Ideas
+      from Food.com</h4>\r\n\t\t\t\r\n\t\t\t<ul class=\"list\">\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://dessert.food.com/recipes/gingerbread\" rel=\"gf-ideas-1\">Gingerbread
+      Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
       href=\"http://mynewsletters.scrippsnetworks.com:8080/subscription/subscribe?brand=foodcom&source=0000_FC_WEBFORM\"
-      rel=\"gf-ideas-16\">Get Our Newsletter</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t</ul>\r\n\t\t\t\r\n\t\t\t\t\t\t\r\n</div>\r\n\n\t\t<div
+      rel=\"gf-ideas-2\">Get Our Newsletter</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://breakfast.food.com/recipes/breakfast-casseroles\" rel=\"gf-ideas-3\">Breakfast
+      Casserole Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://restaurant.food.com/all-recipes/popular\" rel=\"gf-ideas-4\">Popular
+      Restaurant Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/recipes/chicken-breasts\" rel=\"gf-ideas-5\">Chicken
+      Breast Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/recipe/better-than-olive-garden-alfredo-sauce-141983\"
+      rel=\"gf-ideas-6\">Alfredo Sauce Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/recipe/best-banana-bread-2886\" rel=\"gf-ideas-7\">Banana
+      Bread Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/recipe-collection/easy-appetizer\" rel=\"gf-ideas-8\">Easy
+      Appetizer Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/recipe/nutella-hot-chocolate-74086\" rel=\"gf-ideas-9\">Hot
+      Chocolate Recipe</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t\t<li>\r\n\t\t\t\t\t\t<a
+      href=\"http://www.food.com/holiday-entertaining/hanukkah/package\" rel=\"gf-ideas-10\">Hanukkah
+      Recipes</a>\r\n\t\t\t\t\t</li>\t\t\t\t\t\r\n\t\t\t\r\n\t\t\t\t\t\t\r\n</div>\r\n\n\t\t<div
       class=\"sub-tier\">\n\t\t\t<div id=\"more-rz\">\n\t\t\t\t<h5>More from Food.com</h5>\n\t\t\t\t<ul
       class=\"list\">\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"http://www.food.com/browse/chefs/\"
       rel=\"gf-more-1\">Chef Directory</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
@@ -2448,168 +2428,90 @@
       rel=\"gf-more-3\">Cooking Q &amp; A</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
       href=\"http://www.food.com/rssfeeds.php\" rel=\"gf-more-4\">RSS</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
       href=\"http://www.food.com/sitetour1.do\" rel=\"gf-more-5\">Site Tour</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/sitemap.do\" rel=\"gf-more-6\">Site Map</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/sitenews/\" rel=\"gf-more-7\">The Food.com Blog</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>
+      href=\"http://blog.food.com/happenings\" rel=\"gf-more-7\">The Food.com Blog</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>
       \n\t\t\t\r\n\r\n\r\n<div class=\"rz-family-hd\"></div>\r\n<div id=\"rz-family\">\r\n
       \  <h5>Food.com Family</h5>\r\n   \r\n   <div id=\"crsl-footer\" class=\"pod
-      crsl-footer\">\r\n   <div class=\"bd crsl\">\r\n\t   <ul>\r\n\t     \r\n\t\t\t
-      \ <li class=\"panel\">\r\n\t\t\t  \r\n\t\t\t  \t   \t   <blur><center>\r\n\t\t\t
-      \   1-3\r\n\t\t\t\t       of\r\n\t\t\t    9\r\n\t\t\t\t       </center></blur>\r\n\t\t\t
-      \      \r\n\t\t\t\t   <ul class=\"crsl-group\">\r\n\t\t\t\t     \r\n\t\t       \r\n\t\t\t\t\t
+      crsl-footer\">\r\n   <div class=\"bd crsl\">\r\n\t   <ul>\r\n\t\t\t  <li class=\"panel\">\r\n\t\t
+      \r\n\t\t\t\t   <ul class=\"crsl-group\">\r\n\t\t\t\t     \r\n\t\t       \r\n\t\t\t\t\t
       \      <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\t\t\t\t\t\t\t\t<h6><a
       href=\"http://www.cookingchanneltv.com/?xp=foodcom_footer\" target=\"_blank\"
-      rel=\"cpct-1\">Cooking Channel</a></h6> \n<ul class=\"list\"> \n<li><a href=\"http://www.cookingchanneltv.com/thanksgiving-turkey-side-dishes-and-desserts-recipes/package/index.html?xp=thx\"
-      target=\"_blank\" rel=\"cpc-1-1\">Thanksgiving Recipes</a></li> \n<li><a href=\"http://www.cookingchanneltv.com/recipes/thanksgiving-mashed-potato-recipes/pictures/index.html?xp=thx\"
-      target=\"_blank\" rel=\"cpc-1-2\">Best Mashed Potatoes</a></li> \n<li><a href=\"http://www.cookingchanneltv.com/thanksgiving-turkey-recipes/package/index.html?xp=thx\"
-      target=\"_blank\" rel=\"cpc-1-3\">Top Turkey Recipes</a></li> \n</ul>\t\r\n\t\t\t\t\t
+      rel=\"cpct-1\">Cooking Channel</a></h6> \n<ul class=\"list\"> \n<li><a href=\"http://www.cookingchanneltv.com/recipes/cookie-monsters-famous-sugar-cookie-dough-recipe/index.html?xp=foodcom_footer\"
+      target=\"_blank\" rel=\"cpc-1-1\">Cookie Monster's Cookies</a></li> \n<li><a
+      href=\"http://www.cookingchanneltv.com/holiday-cookie-swap-and-recipes/package/index.html?xp=ccholiday\"
+      target=\"_blank\" rel=\"cpc-1-2\">Top Christmas Cookies</a></li> \n<li><a href=\"http://www.cookingchanneltv.com/holiday-gifts-ideas/package/index.html?xp=ccholiday\"
+      target=\"_blank\" rel=\"cpc-1-3\">Holiday Gift Guide</a></li> \n</ul>\t\r\n\t\t\t\t\t
       \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
       \     \r\n\t\t\t\t\t\t\t\t<div>\n<h6>\n<a target=\"_blank\" href=\"http://www.foodnetwork.com?xp=foodcom_footer\">Food
       Network</a>\n</h6>\n<div class=\"bd\" style=\"line-height: 1.3;\">\n<p><a target=\"_blank\"
-      href=\"http://www.foodnetwork.com/thanksgiving-turkey/package/index.html?xp=thx\"><img
+      href=\"http://www.foodnetwork.com/12-days-of-cookies/package/index.html?xp=fnholiday\"><img
       style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right:
-      4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network Thanksgiving\"
-      src=\"http://img.foodnetwork.com/FOOD/2010/10/04/FNM_110110-Cover-008-no-dial_s4x3_sm.jpg\"></a><a
-      target=\"_blank\" href=\"http://www.foodnetwork.com/thanksgiving-desserts/package/index.html?xp=thx\">Find
-      the Perfect Turkey for Your Thanksgiving</a></p>\n</div>\n</div>\t\r\n\t\t\t\t\t
+      4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network 12 Days of
+      Cookies\" src=\"http://img.foodnetwork.com/FOOD/2011/11/12/12-Days-of-Cookies_gingersnaps-004-R_s4x3_sm.jpg\"></a><a
+      target=\"_blank\" href=\"http://www.foodnetwork.com/12-days-of-cookies/package/index.html?xp=fnholiday\">Get
+      Holiday Cookie Recipes from Your Favorite Chefs</a></p>\n</div>\n</div>\t\r\n\t\t\t\t\t
       \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
       \     \r\n\t\t\t\t\t\t\t\t<h6><a href=\"http://www.hgtv.com/?xp=foodcom_footer\"
       target=\"_blank\" rel=\"cpct-1\">HGTV</a></h6> \n<ul class=\"list\"> \n<li><a
-      href=\"http://www.hgtv.com/thanksgiving-ideas/package/index.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-1\">Thanksgiving Table Settings</a></li> \n<li><a
-      href=\"http://www.hgtv.com/handmade-holidays/package/index.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-2\">Handmade Christmas</a></li> \n<li><a href=\"http://www.hgtv.com/hosting-the-holidays/package/index.html?xp=foodcom_footer\"
+      href=\"http://www.hgtv.com/holidays-decorating-ideas/package/index.html?xp=holiday\"
+      target=\"_blank\" rel=\"cpc-1-1\">Christmas Decorating Tips</a></li> \n<li><a
+      href=\"http://www.hgtv.com/handmade-holidays/package/index.html?xp=holiday\"
+      target=\"_blank\" rel=\"cpc-1-2\">Handmade Christmas</a></li> \n<li><a href=\"http://www.hgtv.com/hosting-the-holidays/package/index.html?xp=holiday\"
       target=\"_blank\" rel=\"cpc-1-3\">Host the Perfect Party</a></li> \n</ul>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \t\t\t\t    \r\n\t\t\t\t\t</ul>\t\r\n\t\t          </li>\r\n\t\t
-      \r\n\t\t\t  <li class=\"panel\">\r\n\t\t\t  \r\n\t\t\t  \t   \t   <blur><center>\r\n\t\t\t
-      \   4-6\r\n\t\t\t\t       of\r\n\t\t\t    9\r\n\t\t\t\t       </center></blur>\r\n\t\t\t
-      \      \r\n\t\t\t\t   <ul class=\"crsl-group\">\r\n\t\t\t\t     \r\n\t\t       \r\n\t\t\t\t\t
-      \      <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\t\t\t\t\t\t\t\t<h6><a
-      href=\"http://www.frontdoor.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">FrontDoor</a></h6>
-      \n<ul class=\"list\"> \n<li><a href=\"http://www.frontdoor.com/buy/10-tips-for-getting-a-deal-on-a-home-in-the-fall/55827?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-1\">Fall Homebuying Tips</a></li> \n<li><a href=\"http://www.frontdoor.com/sell/bathroom-remodeling-projects-expert-tips-and-advice-to-add-home-value/55495?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-2\">5 Bathroom Projects</a></li> \n<li><a href=\"http://www.frontdoor.com/sell/10-tips-for-selling-a-home-in-the-fall/55828?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-3\">Tips for Seasonal Selling</a></li> \n</ul>\t\r\n\t\t\t\t\t
       \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
-      \     \r\n\t\t\t\t\t\t\t\t<div>\n<h6>\n<a target=\"_blank\" href=\"http://www.diynetwork.com?xp=foodcom_footer\">DIY
-      Network</a>\n</h6>\n<div class=\"bd\" style=\"line-height: 1.3;\">\n<p><a target=\"_blank\"
-      href=\"http://www.diynetwork.com/ultimate-kitchen-and-bath-giveaway-enter/package/index.html?xp=ukb\"><img
-      style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right:
-      4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Ultimate Kitchen & Bath
-      Giveaway\" src=\"http://img.diynetwork.com/DIY/2011/10/21/spHomepage_UKandB11_s4x3_sm.jpg\"></a><a
-      target=\"_blank\" href=\"http://www.diynetwork.com/ultimate-kitchen-and-bath-giveaway-enter/package/index.html?xp=ukb\">Win
-      $100,000 for the Ultimate Kitchen & Bath</a></p>\n</div>\n</div>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
-      \     \r\n\t\t\t\t\t\t\t\t<h6><a href=\"http://www.food2.com/?xp=hgtvremodels_footer\"
-      target=\"_blank\" rel=\"cpct-1\">HGTVRemodels</a></h6> \n<ul class=\"list\">
-      \n<li><a href=\"http://www.hgtvremodels.com/kitchens/a-kitchen-built-for-the-family/index.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-1\">A Family-Friendly Kitchen</a></li> \n<li><a
-      href=\"http://www.hgtvremodels.com/kitchens/creating-a-kitchen-for-entertaining/index.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-2\">A Kitchen for Entertaining</a></li> \n<li><a
-      href=\"http://www.hgtvremodels.com/dream-home/hgtv-dream-home-2012-time-lapse-construction-photos/pictures/index.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-3\">New Dream Home Photos</a></li> \n</ul>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \t\t\t\t    \r\n\t\t\t\t\t</ul>\t\r\n\t\t          </li>\r\n\t\t
-      \r\n\t\t\t  <li class=\"panel\">\r\n\t\t\t   \r\n\t\t\t\t       <blur><center>\r\n\t\t\t
-      \   7-9\r\n\t\t\t\t       of\r\n\t\t\t    9\r\n\t\t\t\t       </center></blur>\r\n\t\t
-      \         \r\n\t\t\t\t   <ul class=\"crsl-group\">\r\n\t\t\t\t     \r\n\t\t
-      \      \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\t\t\t\t\t\t\t\t<h6><a
-      href=\"http://www.gactv.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">GAC</a></h6>
-      \n<ul class=\"list\"> \n<li><a href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_71097,00.html?xp=fifty\"
-      target=\"_blank\" rel=\"cpc-1-1\">Vote: Top 50 Videos</a></li> \n<li><a href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_53711,0.html?xp=cma\"
-      target=\"_blank\" rel=\"cpc-1-2\">CMA Award Pics</a></li> \n<li><a href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_101993,00.html?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-3\">Celebrity Smile Photos</a></li> \n</ul>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
-      \     \r\n\t\t\t\t\t\t\t\t<div>\n<h6>\n<a target=\"_blank\" href=\"http://www.travelchannel.com/?xp=foodcom_footer\">Travel
-      Channel</a>\n</h6>\n<div class=\"bd\" style=\"line-height: 1.3;\">\n<p><a target=\"_blank\"
-      href=\"http://www.travelchannel.com/daily-escape?xp=foodcom_footer\"><img style=\"float:
-      left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;\" width=\"92\"
-      height=\"69\" border=\"0\" alt=\"Daily Escape\" src=\"http://img.foodnetwork.com/FOOD/2011/09/29/FN_musha-cay_s92x69.jpg\"></a><a
-      target=\"_blank\" href=\"http://www.travelchannel.com/daily-escape?xp=foodcom_footer\">Daily
-      Escape:<br>A Vacation<br>for Your Brain</a></p>\n</div>\n</div>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \r\n\t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t
-      \     \r\n\t\t\t\t\t\t\t\t<h6><a href=\"http://www.food2.com/?xp=foodcomfooter\"
-      target=\"_blank\" rel=\"cpct-1\">Food2</a></h6> \n<ul class=\"list\"> \n<li><a
-      href=\"http://www.food2.com/blog/2011/09/27/apples-and-pears-and-sweet-potatoes-oh-my?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-1\">Fall Harvest Feasting</a></li> \n<li><a href=\"http://www.food2.com/package/Thanksgiving-Starters-Sides--Sweets?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-2\">Not Your Average Sides</a></li> \n<li><a href=\"http://www.food2.com/blog/2011/10/17/meatless-monday-pumpkin-pasta-with-spaghetti-squash-and-sage?xp=foodcom_footer\"
-      target=\"_blank\" rel=\"cpc-1-3\">How2 Turn Soup Into Pasta</a></li> \n</ul>\t\r\n\t\t\t\t\t
-      \      </li> \r\n\t\t\t\t    \t\t\t\t    \r\n\t\t\t\t\t</ul>\t\r\n\t\t          </li>\r\n\t\t
-      \  \r\n\t\t\t\r\n\t\t   </ul>\r\n\t\t </div>\r\n\t</div>\r\n\t       \r\n<script
-      type=\"text/javascript\">\r\n\tSNI.Common.Carousel(\"#crsl-footer\", { pagelink:\"image\"
-      });\r\n</script>\r\n\t \n<!-- end footer caousel -->\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<!--
-      coming soon -->\n\t\t\t</div>\n\t\t</div> \n\t</div>  \n<div id=\"rz-ft-links\">\n\t\t<div
-      class=\"ft-wrap\">\n\t\t\t<div class=\"recipe-xpromote list-cols\" id=\"rz-ft-links-1\">\n\t\t\t\t<h5>Over
-      400,000 Recipes</h5>\n\t\t\t\t<ul class=\"list\" >\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/browse/allrecipes/\" rel=\" gf-xp-\">All Recipes</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/categorycollections.php\" rel=\"All Categories\">All
-      Categories</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"http://www.food.com/recipes-newest\"
-      rel=\"New Recipes\">New Recipes</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/random.php\" rel=\"Get a Random Recipe\">Get a Random
-      Recipe</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"http://www.food.com/library/all.zsp\"
-      rel=\"Kitchen Dictionary\">Kitchen Dictionary</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/library/calc.zsp\" rel=\"Measurement Converter\">Measurement
-      Converter</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"http://www.food.com/books/\"
-      rel=\"Cookbooks\">Cookbooks</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/menu/\" rel=\"Menus\">Menus</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/bb/viewforum.zsp?f=1\" rel=\"Request a Recipe\">Request
-      a Recipe</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a href=\"http://www.food.com/members/subm/editr2\"
-      id=\"SubmitArecipe\" rel=\"Submit a Recipe\">Submit a Recipe</a>\n\t\t\t\t\t</li>\n\t\t\t\t\t<li>\n\t\t\t\t\t\t<a
-      href=\"http://www.food.com/help/faq\" rel=\"FAQs\">FAQs</a>\n\t\t\t\t\t</li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div
-      class=\"rz-sites list-cols\" id=\"rz-ft-links-2\">\n\t\t\t\t<h5>Food.com Network
-      of Sites</h5>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t<li><a
-      href=\"http://baking.food.com\" rel=\"Baking Recipes\">Baking Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://blue.food.com\" rel=\"Blue Recipes\">Blue Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://breakfast.food.com\" rel=\"Breakfast Recipes\">Breakfast Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://cheese.food.com\" rel=\"Cheese Recipes\">Cheese Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://chinese.food.com\" rel=\"Chinese Recipes\">Chinese Recipes</a></li>\n\t\t\t\t</ul>\n\t\t\t\t<ul
-      class=\"list\">\n\t\t\t\t\t<li><a href=\"http://christmas.food.com\" rel=\"Christmas
-      Recipes\">Christmas Recipes</a></li>\n\t\t\t\t\t<li><a href=\"http://dessert.food.com\"
-      rel=\"Dessert Recipes\">Dessert Recipes</a></li>\n\t\t\t\t\t<li><a href=\"http://healthy.food.com\"
-      rel=\"Healthy Recipes\">Healthy Recipes</a></li>\n\t\t\t\t\t<li><a href=\"http://indian.food.com\"
-      rel=\"Indian Recipes\">Indian Recipes</a></li>\n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t<li><a
-      href=\"http://italian.food.com\" rel=\"Italian Recipes\">Italian Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://mexican.food.com\" rel=\"Mexican Recipes\">Mexican Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://quick-and-easy.food.com\" rel=\"Quick & Easy Recipes\">Quick &
-      Easy Recipes</a></li>\n\t\t\t\t\t<li><a href=\"http://red.food.com\" rel=\"Red
-      Recipes\">Red Recipes</a></li>\n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"list\">\n\t\t\t\t\t<li><a
-      href=\"http://restaurant.food.com\" rel=\"Restaurant Recipes\">Restaurant Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://southern.food.com\" rel=\"Southern Recipes\">Southern Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://thai.food.com\" rel=\"Thai Recipes\">Thai Recipes</a></li>\n\t\t\t\t\t<li><a
-      href=\"http://thanksgiving.food.com\" rel=\"Thanksgiving Recipes\">Thanksgiving
-      Recipes</a></li>\n\t\t\t\t\t<li><a href=\"http://myrecipebox.food.com/homebase.do\">MyRecipeBox.Food.com</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<div
-      class=\"sn-digital\" id=\"rz-ft-links-3\">\n\t\t\t\t<h5>SN Digital</h5>\n\t\t\t\t<ul
-      class=\"list\">\n\t\t\t\t\t<li><a href=\"http://www.foodnetwork.com/\" rel=\"Food
-      Network\">Food Network</a></li>\n\t\t\t\t\t<li><a href=\"http://www.food2.com/\"
-      rel=\"Food2\">Food2</a></li>\n\t\t\t\t\t<li><a href=\"http://www.cookingchanneltv.com/\"
-      rel=\"Cooking Channel\">Cooking Channel</a></li>\n\t\t\t\t\t<li><a href=\"http://www.foodnetwork.co.uk/\"
-      rel=\"Food Network UK\">Food Network UK</a></li>\n\t\t\t\t\t<li><a href=\"http://www.hgtv.com/\"
-      rel=\"HGTV\">HGTV</a></li>\n\t\t\t\t\t<li><a href=\"http://www.hgtvremodels.com/\"
-      rel=\"HGTV Remodels\">HGTV Remodels</a></li>\n\t\t\t\t\t<li><a href=\"http://www.diynetwork.com/\"
-      rel=\"DIY Network\">DIY Network</a></li>\n\t\t\t\t\t<li><a href=\"http://www.frontdoor.com/\"
-      rel=\"FrontDoor\">FrontDoor</a></li>\n\t\t\t\t\t<li><a href=\"http://www.gactv.com/\"
-      rel=\"GAC\">GAC</a></li>\n\t\t\t\t\t<li><a href=\"http://www.travelchannel.com/\"
-      rel=\"Travel Channel\">Travel Channel</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>
-      \n\t</div> \n\t<div class=\"rz-legal\">\n\t\t<div class=\"ft-wrap\" id=\"rz-ft-links-4\">\n\t\t\t<div
-      class=\"brand\">\n\t\t\t\t<a href=\"http://www.food.com\">Food.com: The most
-      complete collection of free recipes on the Internet, trusted by home chefs throughout
-      the world.</a>\n\t\t\t</div>\n\t\t\t<div class=\"wrap\">\n        <p>&copy;
-      2011 <a href=\"http://www.scrippsnetworks.com\" rel=\"Scripps Networks\">Scripps
-      Networks</a>, LLC. All Rights Reserved</p>\n        <p><a href=\"http://www.food.com/about/tos.zsp\"
-      rel=\"gf-legal-1\">Terms of Use</a> | <a href=\"http://www.food.com/about/privacy.zsp\"
-      rel=\"gf-legal-2\">Privacy and CA Privacy Rights</a> | <a href=\"http://www.scrippsnetworksdigital.com/foodcat/default.aspx\"
-      rel=\"gf-legal-3\">Advertise with us</a> | <a href=\"http://www.food.com/about/infringements.zsp\"
-      rel=\"gf-legal-4\">Infringements</a> | <a href=\"http://www.food.com/about/contactus.zsp\"
-      rel=\"gf-legal-5\">Contact us</a> | <a href=\"http://www.food.com/help/faq\"
-      rel=\"gf-legal-6\">Help</a> | <a href=\"http://dv.privacychoice.org/index.php/preferenceManager/global?company_id=40\"
+      \     \r\n\t\t\t\t\t\t\t\t<h6><a href=\"http://www.frontdoor.com/?xp=foodcom_footer\"
+      target=\"_blank\" rel=\"cpct-1\">FrontDoor</a></h6> \n<ul class=\"list\"> \n<li><a
+      href=\"http://www.frontdoor.com/buy/celebrity-home-spotlight-winter-retreats/pictures/pg232?xp=foodcom_footer\"
+      target=\"_blank\" rel=\"cpc-1-1\">Famous Winter Retreats</a></li> \n<li><a href=\"http://www.frontdoor.com/buy/holiday-historic-home-tours/pictures/pg210?xp=foodcom_footer\"
+      target=\"_blank\" rel=\"cpc-1-2\">Historic Holiday Homes</a></li> \n<li><a href=\"http://www.frontdoor.com/buy/pint-sized-real-estate/pictures/pg237?xp=foodcom_footer\"
+      target=\"_blank\" rel=\"cpc-1-3\">Pint-Sized Real Estate</a></li> \n</ul>\t\r\n\t\t\t\t\t
+      \      </li> \r\n\t\t\t\t    \t\t\t\t    \r\n\t\t\t\t\t</ul>\t\r\n\t\t          </li>
+      \r\n\t\t   </ul>\r\n\t\t </div>\r\n\t</div>\r\n\t       \r\n<script type=\"text/javascript\">\r\n\t//SNI.Common.Carousel(\"#crsl-footer\",
+      { pagelink:\"image\" });\r\n\t$(document).ready(function(){\r\n\t\t$(\"#crsl-footer\").find(\"li.crsl-item:last\").removeClass(\"first\").addClass(\"last\");\r\n\t});\r\n</script>\r\n\t
+      \n<!-- end footer caousel -->\n\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<!-- coming soon
+      -->\n\t\t\t</div>\n\t\t</div> \n\t</div>  \n\n\t<div class=\"rz-legal clrfix\">\n\t\t<div
+      class=\"ft-wrap\" id=\"rz-ft-links-4\">\n\t\t\t<div class=\"brand\">\n\t\t\t\t<a
+      href=\"http://www.food.com\">Food.com: The most complete collection of free
+      recipes on the Internet, trusted by home chefs throughout the world.</a>\n\t\t\t</div>\n\t\t\t<div
+      class=\"rz-ft-global-nav wrap\">\n\t\t\t\t<ul>\n\t\t\t\t\t<li><a href=\"http://www.food.com/recipes\">Recipes</a></li>\n\t\t\t\t\t<li><a
+      href=\"http://www.food.com/books\">Cookbooks</a></li>\n\t\t\t\t\t<li><a href=\"http://www.food.com/menu\">Menus</a></li>\n\t\t\t\t\t<li><a
+      href=\"http://www.food.com/communityforum.do\">Community</a></li>\n\t\t\t\t\t<li><a
+      href=\"http://www.cooking.com/aff/adredir.asp?CCAID=CBFOPTPH1&Redir=%2Ffoodcom\"
+      target=\"_blank\">Shop</a></li>\n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t\t<!-- <p
+      class=\"rz-ft-shop-links wrap\">Comparison Shop for <a href=\"#\">Kitchen Appliances</a>
+      &amp; <a href=\"#\">Utensils</a> at <a href=\"#\">Shopzilla</a> &amp; <a href=\"#\">Bizrate</a></p>
+      -->\n\t\t\t<div class=\"snd-sites\"><span class=\"arrow\">&nbsp;</span>See All
+      of Scripps Networks Digital \n\t\t\t\t\n\t\t\t\t\t<div class=\"snd-sites-list
+      flyout fly-dd\">\n\t\t\t\t\t\t<div class=\"fly-hd\"></div>\n\t\t\t\t\t\t<div
+      class=\"fly-bd noscroll\">\n\t\t\t\t\t\t\t<!-- <h5>Scripps Networks Digital</h5>
+      -->\n\t\t\t\t\t\t\t<ul class=\"fly-ul\">\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.foodnetwork.com/\"
+      rel=\"Food Network\">Food Network</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.cookingchanneltv.com/\"
+      rel=\"Cooking Channel\">Cooking Channel</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.cityeats.com\"
+      rel=\"CityEats\">CityEats.com</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.hgtv.com/\"
+      rel=\"HGTV\">HGTV</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.diynetwork.com/\"
+      rel=\"DIY Network\">DIY Network</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.frontdoor.com/\"
+      rel=\"FrontDoor\">FrontDoor.com</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.hgtvremodels.com/\"
+      rel=\"HGTV Remodels\">HGTVRemodels.com</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.travelchannel.com/\"
+      rel=\"Travel Channel\">Travel Channel</a></li>\n\t\t\t\t\t\t\t\t\t<li><a href=\"http://www.gactv.com/\"
+      rel=\"GAC\">GAC</a></li>\n\t\t\t\t\t\t\t</ul>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t\t<div
+      class=\"fly-ft\"></div>\n\t\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t<p
+      class=\"rz-copyright wrap\">&copy; 2011 <a href=\"http://www.scrippsnetworks.com\"
+      rel=\"Scripps Networks\">Scripps Networks</a>, LLC. All Rights Reserved</p>\n\t\t\t<p
+      class=\"rz-legal-links\"><a href=\"http://www.food.com/sitemap.do\">Sitemap</a>
+      | <a href=\"http://www.scrippsnetworks.com/terms.aspx\"  target=\"_blank\" rel=\"gf-legal-1\">Terms
+      of Use</a> | <a href=\"http://dv.privacychoice.org/index.php/preferenceManager/global?company_id=40\"
       target=\"_blank\" rel=\"gf-legal-7\">Ad Choices<img src=\"http://adimages.scrippsnetworks.com/daaIcon/daaIcon.png\"
-      border=\"0\" alt=\"DAA Icon\"/></a> </p>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</div>
-      \t\n\r\n<script type=\"text/javascript\">\r\n// Following code Capture asset
-      stats in asset_stats table .. So don't delete if any clarifications ask to VASANTH\r\n<!--\r\ntry{\r\n\tassetStats();\r\n}catch(e){}\r\n//-->\r\n</script>\t\t\r\n<script
-      type=\"text/javascript\" src=\"http://food.sndimg.com/js/rz2/sni-rz/s_code_remote.js\"></script>\r\n<script
-      src=\"http://js.revsci.net/gateway/gw.js?csid=A09802\"></script> \r\n<script
-      language=\"javascript\"> \r\n\tif (typeof g_adkeyword != \"undefined\") {\r\n\t\tSNI.RSI.setvars(g_adkeyword);\r\n\t}\r\n</script>\r\n<script
-      type=\"text/javascript\">s.t();</script>\r\n\r\n\t\r\n<script type=\"text/javascript\">\r\n\tSNI.Omniture.pageType
-      = \"RECIPE\";\r\n\r\n\r\n\tSNI.Omniture.MultiVar(\"#postreview\",\"Rate and
-      Review Recipe\");\r\n\tSNI.Omniture.MultiVar(\"#mailShare\",\"Email\");\r\n\t\r\n\tSNI.Omniture.MultiVar(\"#nxt-recipe\",\"Next
+      border=\"0\" alt=\"DAA Icon\"/></a> | <a href=\"http://www.food.com/about/infringements.zsp\"
+      rel=\"gf-legal-4\">Infringements</a> | <a href=\"http://www.food.com/sitetour1.do\"
+      rel=\"gf-legal-3\">About us</a> | <a href=\"http://www.food.com/help/faq\" rel=\"gf-legal-6\">Help</a>
+      | <a href=\"http://www.food.com/about/contactus.zsp\" rel=\"gf-legal-5\">Contact
+      us</a> </p>\n\t\t</div>\n\t</div>\n</div> \t\n\r\n<script type=\"text/javascript\">\r\n//
+      Following code Capture asset stats in asset_stats table .. So don't delete if
+      any clarifications ask to VASANTH\r\n<!--\r\ntry{\r\n\tassetStats();\r\n}catch(e){}\r\n//-->\r\n</script>\r\n<script
+      type=\"text/javascript\">\r\njQuery(window).load(function(){\r\n\tjQuery.getScript(\"http://food.sndimg.com/js/rz2/sni-rz/s_code_remote.js\",
+      function(){\r\n\t\ts.t();\r\n\t});\r\n\tjQuery.getScript(\"http://js.revsci.net/gateway/gw.js?csid=A09802\",
+      function(){\r\n\t\tif (typeof g_adkeyword != \"undefined\") {\r\n\t\t\tSNI.RSI.setvars(g_adkeyword);\r\n\t\t}\r\n\t});\r\n});\r\n</script>\t\t\r\n\r\n\r\n\t\r\n<script
+      type=\"text/javascript\">\r\n\tSNI.Omniture.pageType = \"RECIPE\";\r\n\r\n\r\n\tSNI.Omniture.MultiVar(\"#postreview\",\"Rate
+      and Review Recipe\");\r\n\tSNI.Omniture.MultiVar(\"#mailShare\",\"Email\");\r\n\t\r\n\tSNI.Omniture.MultiVar(\"#nxt-recipe\",\"Next
       Recipe Top Right\");\r\n\tSNI.Omniture.MultiVar(\"#nxt-recipe-img\",\"Next Recipe
       Top Right\");\r\n\tSNI.Omniture.MultiVar(\"#nxt-recipe-txt\",\"Next Recipe Top
       Right\");\r\n\tSNI.Omniture.MultiVar(\"#nxt-recipe-by\",\"Next Recipe Top Right\");\r\n\r\n\r\n\tSNI.Omniture.MultiVar(\"#justadded\",\"Just
@@ -2646,16 +2548,14 @@
       Next Recipe\");\r\n\tSNI.Omniture.MultiVar(\"#redrvl\",\"Read Total Review\");\r\n\tSNI.Omniture.MultiVar(\"#enlrphoto\",\"Recipe
       Photo Enlarge\");\r\n\tSNI.Omniture.MultiVar(\"#readthereview\",\"Read the Review\");\r\n\tSNI.Omniture.MultiVar(\"#reccoll\",\"Recipe
       Collections\");\r\n\r\n\r\n\r\n</script>\r\n<script type=\"text/javascript\">\r\nif(document.getElementById(\"p2-food-home\")
-      != null){\r\nvar result = '';\r\nvar S_url = document.location+\"\";\r\nif(S_url.indexOf(\"?\")!=-1){\r\n\tS_url
-      = S_url.substring(0,S_url.indexOf(\"?\"));\r\n}\r\nif(S_url.indexOf(\"test1\")!=-1){\r\nresult
-      = \"http://www.test1-food.com\";\r\n}\r\nelse if(S_url.indexOf(\"staging\")!=-1){\r\nresult
-      = \"http://www.test2-food.com\" ;\r\n}\r\nelse{\r\nresult = \"http://www.food.com\";\r\n}\r\ndocument.getElementById(\"p2-food-home\").href=unescape(result);\r\nif(document.getElementById(\"p2-food-sitemap\")
-      != null) {\r\n\tresult = result + \"/sitemap.do\";\r\n\tdocument.getElementById(\"p2-food-sitemap\").href=unescape(result);\r\n}\r\n\r\n}\r\n</script>\r\n\r\n<script
-      type=\"text/javascript\"> \r\n\tSuperstitialAd(2);\r\n\tSuperstitialAd(3);\r\n</script>\r\n<script
-      type=\"text/javascript\">\r\nif(document.location.protocol=='http:'){\r\n var
-      Tynt=Tynt||[];Tynt.push('aeNYyiayCr4ktEadbi-bnq');\r\n (function(){var s=document.createElement('script');s.async=\"async\";s.type=\"text/javascript\";s.src='http://tcr.tynt.com/ti.js';var
-      h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();\r\n}\r\n</script>\r\n\r\n<script
-      type='text/javascript' src='http://cti.w55c.net/ct/ct-f4c9bb883b0145969b8dc71a8407973f.js'></script>\n\r\n\r\n<!--
+      != null){\r\n\tvar result = unescape(\"http://www.food.com\");\r\n\tdocument.getElementById(\"p2-food-home\").href
+      = result;\r\n\tif(document.getElementById(\"p2-food-sitemap\") != null) {\r\n\t\tdocument.getElementById(\"p2-food-sitemap\").href
+      = result + \"/sitemap.do\";\r\n\t}\r\n}\r\n</script>\r\n\r\n<script type=\"text/javascript\">
+      \r\n\tSuperstitialAd(2);\r\n\tSuperstitialAd(3);\r\n</script>\r\n<script type=\"text/javascript\">\r\nif(document.location.protocol=='http:'){\r\n
+      var Tynt=Tynt||[];Tynt.push('aeNYyiayCr4ktEadbi-bnq');\r\n (function(){var s=document.createElement('script');s.async=\"async\";s.type=\"text/javascript\";s.src='http://tcr.tynt.com/ti.js';var
+      h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();\r\n}\r\n</script>\r\n\r\n\r\n<script
+      type='text/javascript'>\r\n(function(d){\r\n\tvar h;\r\n\tvar s = d.createElement('script');\r\n\ts.type
+      = \"text/javascript\";\r\n\ts.async = true;\r\n\ts.src='http://cti.w55c.net/ct/ct-f4c9bb883b0145969b8dc71a8407973f.js';\n\r\n\th=document.getElementsByTagName('script')[0];\r\n\th.parentNode.insertBefore(s,h);\r\n})(document);\r\n</script>\r\n\r\n<!--
       START Nielsen Online SiteCensus V6.0 -->\r\n<!-- COPYRIGHT 2010 Nielsen Online
       -->\r\n<script type=\"text/javascript\">\r\n  (function () {\r\n    var d =
       new Image(1, 1);\r\n    d.onerror = d.onload = function () {\r\n      d.onerror

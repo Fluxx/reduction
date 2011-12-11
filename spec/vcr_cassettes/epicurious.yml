@@ -3357,16 +3357,16 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Fri, 18 Nov 2011 04:20:45 GMT
+      - Sun, 11 Dec 2011 06:25:14 GMT
       date:
-      - Fri, 18 Nov 2011 04:10:45 GMT
+      - Sun, 11 Dec 2011 06:15:14 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - mobify=0; expires=Fri, 18-Nov-2011 06:10:45 GMT; domain=epicurious.com
+      - mobify=0; expires=Sun, 11-Dec-2011 08:15:14 GMT; domain=epicurious.com
     body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
@@ -3406,7 +3406,7 @@
       \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
       \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'epi.dart',
-      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Salad&Healthy&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
+      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Healthy&Salad&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
       charmap : {}, embed: true});\n    //-->\n    </script>\n        \n    \n\n\n\n<script
       type=\"text/javascript\" src=\"/rd_scripts/popMaster.js\"></script>\n<script
       type=\"text/javascript\" src=\"/rd_scripts/subscription.js\"></script>\n<script
@@ -3460,15 +3460,16 @@
       scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:84px;
       height:21px;\" allowTransparency=\"true\"></iframe></li>\r\n    </ul>\r\n\n
       \   \n    <div id=\"headerSpace\"></div>\n     \n     \n     <style>\ndiv#promotion_heading
-      {\nbackground:transparent url(/images/articlesguides/holidays/thanksgiving/thanksgiving-2011-banner.png)
+      {\nbackground:transparent url(/images/articlesguides/holidays/christmas/christmas-tbar-2011-sponsor-ge.png)
       no-repeat scroll 0 0;}\ndiv#promotion_heading a.see_it_all {display:block; height:53px;
       margin:0 10px; width:970px;}\n.sponsor {position: absolute;top: 1px; left: 971px;
-      width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<div id=\"promotion_heading\">\n<div
-      class=\"sponsor\"><a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_promobar\"
-      \ntitle=\"YOUR MOST DELICIOUS THANKSGIVING EVER\"></a></div>\n<div class=\"promotion_heading\"><a
-      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_promobar\"
-      \ntitle=\"YOUR MOST DELICIOUS THANKSGIVING EVER\" class=\"see_it_all\"></a></div>\n</div>\n
-      \    \n     \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
+      width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<div id=\"promotion_heading\">\n<!--
+      div class=\"sponsor\"><a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\"
+      \ntitle=\"Have Yourselves a Merry Christmas\"></a></div -->\n<div class=\"promotion_heading\"><a
+      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\" \ntitle=\"Have
+      Yourselves a Merry Christmas\" class=\"see_it_all\"><IMG SRC=\"http://ad.doubleclick.net/ad/N1974.Epicurious/B5547358.39;sz=1x1;ord=[timestamp]?\"
+      BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"Advertisement\"></a></div>\n</div>\n     \n
+      \    \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
       \       \n\n\n\n\n\n\n    \n\n\n    </div>\n    <a id=\"epiAppStorePromo\" class=\"appStorePromoHidden\"
       href=\"itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&mt=8&s=143441\">get
       the epicurious iPhone app</a>\n    <script type=\"text/javascript\" language=\"JavaScript\">detectPushdownAd();displayEpiAppStorePromo();</script>\n\n
@@ -3762,22 +3763,20 @@
       po.async = true;\n                   po.src = 'https://apis.google.com/js/plusone.js';\n
       \                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po,
       s);\n                 })();\n               </script>\n            </div>\n
-      \           </li>\n            <li id=\"stb-stumbleupon\">\n            <div>\n
-      \               <script src=\"http://www.stumbleupon.com/hostedbadge.php?s=5\"></script>\n
-      \           </div>\n            </li>\n            \n\n            <script type=\"text/javascript\">\n
+      \           </li>\n            \n            <script type=\"text/javascript\">\n
       \           jQuery(window).load(function()\n            {\n                var
       imagePath = \"/images/recipesmenus/2011/2011_april/364872.jpg\";\n                jQuery(\"#stb-pinit
       div\").html(\"<a href='http://pinterest.com/pin/create/button/?url=\" + encodeURIComponent(location.href)
       + \"&media=\" + encodeURIComponent(location.protocol + location.host + imagePath)
       + \"' class='pin-it-button' count-layout='vertical'>Pin It</a>\");\n\n            });\n
-      \           </script>\n\n            <li id=\"stb-pinit\">\n            <div>\n
+      \           </script>\n            <li id=\"stb-pinit\">\n            <div>\n
       \           </div>\n            </li>\n            <script type=\"text/javascript\"
-      src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n\n            \n\n
-      \      </ul>\n    </div>\n\n\n\n\n\n        </div>\n        \n    \n        \n
-      \       \n        \n        <div id=\"col4\" class=\"separator\">\n              \n
-      \               \n              \n\n\n\n\n\t\t\t\t\n\n<hr/>\n\n\n\n\n        </div>\n
-      \       \n    \n\n\n\n\n        </div>\n        \n    \n        \n        \n
-      \       \n        <div id=\"col2\" class=\"empty\">\n              \n                \n
+      src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n            \n       </ul>\n
+      \   </div>\n\n\n\n\n\n        </div>\n        \n    \n        \n        \n        \n
+      \       <div id=\"col4\" class=\"separator\">\n              \n                \n
+      \             \n\n\n\n\n\t\t\t\t\n\n<hr/>\n\n\n\n\n        </div>\n        \n
+      \   \n\n\n\n\n        </div>\n        \n    \n        \n        \n        \n
+      \       <div id=\"col2\" class=\"empty\">\n              \n                \n
       \             \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n        </div>\n        \n    \n\n
       \                   <div class=\"clear\"></div>\n                    \n\n\n\n\n\n\n\n\n\n\n<div
       id=\"addToRbox\" class=\"epiRecipe\">\n    \n        \n        \n            <a
@@ -3857,18 +3856,15 @@
       href=\"/recipesmenus/whatsnew/recipes\">What's New</a></li>\n\t\t\t\t\t\t<li><a
       href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n
       \                   <div class=\"menu-feature-content\">\n                        <a
-      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/thanksgiving/2011-thanksgiving-navpromo-RM.jpg\"
-      border=\"0\" alt=\"Turkey, Stuffing & Pie\" /></a>\n                       <a
-      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\"><h4>Turkey,
-      Stuffing & Pie</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_navpromo\">Whether
-      you're a novice or expert, cooking for two or a crowd, going tried-and-true
-      or creating new traditions, dig in to our delicious recipes.</a>\n                        </p>\n
-      \                       <p class=\"menu-feature-links\">\n                            <a
-      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_subpromo\">see
-      Thanksgiving menus, planning advice, and more</a>&nbsp;<span>&#8250;</span>\n
-      \                       </p>\t\t\t\t\t\n\t\t\t\t\t\t\n                        <!--
+      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><img src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-RM-2011.jpg\"
+      border=\"0\" alt=\"Christmas Is Coming\" /></a>\n                       <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><h4>Christmas
+      Is Coming</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\">And
+      we've got more than 1,700 recipes and 120 menus for you, plus the ultimate edible
+      gifts.</a>\n                        </p>\n                        <p class=\"menu-feature-links\">\n
+      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_subpromo\">see
+      christmas menus, gifts, cookie recipes, and more </a>&nbsp;<span>&#8250;</span>\n
+      \                       </p>\t\t\t\t\t\n\t\t\t\n                        <!--
       \ <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div>\n                        -->            \n
@@ -3890,19 +3886,18 @@
       \                       <li><a href=\"/articlesguides/chefsexperts\">Chefs &amp;
       Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
       \                   </ul>\n\t\t\t\t\t\n\t\t\t\t\t\n                    <div
-      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/thanksgiving/2011-thanksgiving-navpromo-AG.jpg\"
-      border=\"0\" alt=\"Great American Thanksgiving\" /></a>\n                       <a
-      href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\"><h4>Great
-      American Thanksgiving</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/articlesguides/holidays/thanksgiving/thanksgiving?intcid=epi_navpromo\">Celebrate
-      with menus from Bobby Flay, Molly O'Neill, Rick Rodgers, and more. Plus, get
-      carving how-tos, planning tips, and secrets to showstopping pies.</a>\n                        </p>\n
+      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-AG-2011.jpg\"
+      border=\"0\" alt=\"'Twas the Days Before Christmas\" /></a>\n                       <a
+      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><h4>'Twas
+      the Days Before Christmas</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\">Get
+      menu inspiration from Nigella Lawson, Graham Elliot, and Mario Batali; bake
+      up a cookie swap; and find foodie gifts.</a>\n                        </p>\n
       \                       <p class=\"menu-feature-links\">\n                            <a
-      href=\"/recipesmenus/holidays/thanksgiving/recipes?intcid=epi_subpromo\">see
-      thousands of tried-and-true Thanksgiving recipes</a>&nbsp;<span>&#8250;</span>\n
-      \                       </p>\n\t\t\t\t\n\t\t\t\t\t\n                      <!--
-      \ <div class=\"menu-feature-ad\">\n                            <span>brought
+      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_subpromo\">see the
+      ultimate christmas recipes and menus</a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\t\t\t\n
+      \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div> -->\n                    </div>
       \                   \n                </div>\n                <div class=\"dropdown-end-cap\"></div>\n
@@ -3968,165 +3963,20 @@
       {sz:'728x90', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n\n           </div>\n\n
       \       </div>\n        \n\n        <script type=\"text/javascript\" language=\"JavaScript
       1.5\">roundContainer(\"primary\");</script>\n\n        <div class=\"contentContainer\"
-      id=\"secondary\">\n            \n\n\n\n\n\t\t\t\t\n\n\n\n<script language=\"javascript\"
-      src=\"/dwr/interface/NewsletterController.js\"></script>\n\n<script type=\"text/javascript\">\n//
-      ----------------------------------------------------\n// Javascript functions
-      for signing up newsletters\n// ----------------------------------------------------\n
-      \   function trackData(evnt) {\n        s.linkTrackVars=\"events\";\n        s.linkTrackEvents=evnt;\n
-      \       s.events=evnt;\n        s.tl(this,'o','AjaxCall');\n    }\n\n    function
-      validateNewsletters() {\n        var isChecked = false;\n        var email =
-      document.newslettersForm.email.value;\n\n        for (var i = 0; i < document.newslettersForm.newsletter.length;
-      i++) {\n            if (document.newslettersForm.newsletter[i].checked) {\n
-      \               isChecked = true;\n            }\n        }\n        if (! isChecked
-      && document.newslettersForm.email.value == \"\") {\n            document.getElementById(\"letter_message3\").style.display=\"block\";\n
-      \           document.getElementById(\"letter_message2\").style.display=\"block\";\n
-      \       } else {\n            if (! isChecked && document.newslettersForm.email.value
-      != \"\") {\n                document.getElementById(\"letter_message2\").style.display=\"none\";\n
-      \               document.getElementById(\"letter_message3\").style.display=\"block\";\n
-      \           }\n        }\n        return isChecked;\n    }\n    function showNewsletterError(message)
-      {\n        document.getElementById(\"letter_message2\").style.display=\"block\";\n
-      \       document.getElementById(\"letter_message3\").style.display=\"none\";\n
-      \   }\n    function showNewsletterSuccess() {\n        document.getElementById(\"letter_message1\").style.display=\"block\";\n
-      \       document.getElementById(\"newsletter_content\").style.display=\"none\";\n
-      \       document.getElementById(\"learnMore\").style.display=\"none\";\n        document.getElementById(\"letter_message2\").style.display=\"none\";\n
-      \       document.getElementById(\"letter_message3\").style.display=\"none\";\n\t
-      \ if(document.newslettersForm.newsletter[0].checked){\n             trackData('event11')\n
-      \        }\n    }\n    function signUpNewsletters() {\n        if (validateNewsletters())
-      {\n            var user = getCookie('amg_user_info');\n            var email
-      = document.newslettersForm.email.value;\n            var ids = new Array();\n
-      \           var missedIds = new Array();\n\n            for (var i = 0; i <
-      document.newslettersForm.newsletter.length; i++) {\n                if (document.newslettersForm.newsletter[i].checked)
-      {\n                    ids[ids.length] = document.newslettersForm.newsletter[i].value;\n
-      \               } else{\n                    missedIds[missedIds.length] = document.newslettersForm.newsletter[i].value;\n
-      \               }\n            }\n\n            var form = {username: user,\n
-      \                       email: email,\n                        newsletterIds:
-      ids,\n                        missedNewsLetterIds: missedIds,\n                        application:
-      'newsletter',\n                        applicationId: 'NONE PROVIDED',\n                        formName:
-      'shortForm'};\n\n              NewsletterController.signUpNewsletters(form,
-      signUpNewslettersCallback);\n        }\n    }\n    function signUpNewslettersCallback(result)
-      {\n        if (result.indexOf('Error') != -1) {\n            showNewsletterError(result);\n
-      \       } else {\n            if (isUserLoggedIn() || (result.indexOf('EmailTaken')
-      != -1)) {\n                showNewsletterSuccess();\n            } else {\n
-      \               var email = document.newslettersForm.email.value;\n                var
-      newlettersChecked;\n                if(document.newslettersForm.newsletter[0].checked
-      && document.newslettersForm.newsletter[1].checked)\n                    newslettersChecked
-      = 3;\n                else if(document.newslettersForm.newsletter[1].checked)\n
-      \                   newslettersChecked = 2;\n                else if(document.newslettersForm.newsletter[0].checked)\n
-      \                   newslettersChecked = 1;\n\n                var returnto
-      = escape(window.location.pathname + window.location.search);\n                var
-      params = '?postSignup=newsletter&appAlias=newsletter&email=' + email + '&newsletter='
-      + newslettersChecked + '&returnto=' + returnto;\n                window.location
-      = '/user/registration' + params;\n            }\n        }\n    }\n\n    //
-      ----------------------------------------------------\n    // General functions
-      for the newsletter widget\n    // ----------------------------------------------------\n\n
-      \   function isUserLoggedIn() {\n        var userId = getCookie('amg_user_info');\n\n
-      \       if (userId != null && userId.length > 0) {\n            return true;\n
-      \       }\n        return false;\n    }\n</script>\n<link rel=\"stylesheet\"
-      type=\"text/css\" href=\"/stylesheets/newletter_widget/newsletter_widget.css\"
-      />\n<script type=\"text/javascript\" src=\"/js/newsletter_widget/newsletter_widget.js\"></script>\n<!--[if
-      IE 6]>\n<style type=\"text/css\">\n    div#newsletter_content, div#rss_content,
-      div#podcast_content { margin-top: -2px; }\n    div#newsletter_content { margin-bottom:
-      -14px; }\n    div#error_area, div#error_area2 { margin-top: -2px; }\n</style>\n<![endif]-->\n\n<div
-      id=\"marketingWidgetModule\">\n    <div id=\"newsletter_section\" style=\"display:none;\">\n
-      \       <div class=\"newsletter_top\">\n            <div id=\"header\">\n                <a
-      href=\"javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();\"
-      id=\"newsletter_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('mobile_section');
-      hideMessages(); \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
-      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
-      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
-      \       <div id=\"error_area\">\n            <div id=\"letter_message1\">\n
-      \               <div align=\"right\"><img src=\"/images/newsletter_widget/xClose_icon.gif\"
-      border=\"0\" onclick=\"hideNewsletterMessage();\" /></div>\n                <span
-      class=\"thanksHead\">You've got great taste!</span><br />\n                <span
-      class=\"thanksCont\">Thank you for signing up to receive our<br />newsletters.</span>\n
-      \               <div style=\"height:10px;\"><!-- --></div>\n            </div>\n
-      \           <div id=\"letter_message2\">\n                <ul class=\"error_ul\"><li
-      class=\"error_icon\"><img src=\"/images/newsletter_widget/error_icon.gif\" height=\"0\"
-      width=\"0\" />ERROR:<br />- Please enter a valid e-mail address.</li></ul>\n
-      \           </div>\n            <div id=\"letter_message3\">\n                <ul
-      class=\"error_ul\"><li class=\"error_icon\"><img src=\"/images/newsletter_widget/error_icon.gif\"
-      height=\"0\" width=\"0\" />ERROR:<br />- Please select a newsletter preference.</li></ul>\n
-      \           </div>\n        </div>\n        <div id=\"newsletter_content\"><!--
-      action=\"/services/newsletters\" -->\n            <form id=\"newslettersForm\"
-      name=\"newslettersForm\" method=\"post\" style=\"padding: 5px 15px 0 15px;\">\n
-      \               <ul>\n                    <li style=\"padding-bottom: 2px; margin-left:
-      -4px;\"><input type=\"checkbox\" tabindex=\"30\" name=\"newsletter\" class=\"checkBox\"
-      value=\"5\" checked /><a href=\"/services/newsletters\" style=\"text-decoration:none;\"><span
-      class=\"section\">Recipe Flash:</span></a> get weekly recipes &#38; food features</li>\n
-      \                   <li style=\"padding-bottom: 2px; margin-left: -4px;\"><input
-      type=\"checkbox\" tabindex=\"31\" name=\"newsletter\" class=\"checkBox\" value=\"23\"
-      checked /><a href=\"/services/newsletters\" style=\"text-decoration:none;\"><span
-      class=\"section\">Tasting Notes:</span></a> receive monthly wine reviews &#38;
-      news<br /></li>\n                    <li>\n                        <input type=\"text\"
-      tabindex=\"32\" name=\"email\" maxlength=\"50\" value=\"enter e-mail address\"
-      onfocus=\"javascript:this.value=''\" class=\"inputBox\" /> <img src=\"/images/newsletter_widget/button_submit_newsWidget.gif\"
-      border=\"0\" onclick=\"signUpNewsletters();\" style=\"cursor:pointer; cursor:hand;
-      vertical-align: bottom; padding: 0 0 1px 2px;\" tabindex=\"33\"  onKeyDown=\"javascript:return
-      submitEnterNews(event);\" /><!-- <input name=\"submit\" value=\"\" type=\"button\"
-      class=\"submitButton\" onclick=\"\" /> -->\n                        <span id=\"learnMore\"><a
-      href=\"/services/newsletters\" class=\"learnMore\">learn more</a> &#8250;</span>\n
-      \                   </li>\n                </ul>\n            </form>\n            \n
-      \       </div>\n        <div class=\"newsletter_bottom\">\n             <p id=\"widgetLegalNote\">I
-      understand and agree that registration on or use of this site constitutes agreement
-      to its <a href=\"/services/legal/useragreement\" >User Agreement</a>, and <a
-      href=\"/services/legal/privacy\">Privacy Policy</a>.</p>\n        </div>\n    </div>\n\n
-      \   <div id=\"mobile_section\" style=\"display:block;\">\n        <div class=\"mobile_top\">\n
-      \           <div id=\"header\">\n                <a href=\"javascript:switchid('newsletter_section');
-      hideMessages(); hideNewsletterMessage();\" id=\"newsletter_Nav\"><!-- --></a>\n
-      \               <a href=\"javascript:switchid('mobile_section'); hideMessages();
-      \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
-      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
-      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
-      \       <div id=\"mobile_content\" class=\"mkt_widget_content\">\n<div class=\"rightNew\"><a
-      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicurious-apps.gif\"
-      border=\"0\" height=\"120\" width=\"133\" alt=\"epicurious apps\"/></a></div>\n<a
-      href=\"/services/mobile\"><img src=\"/images/newsletter_widget/epicurious-everywhere.gif\"
-      border=\"0\" height=\"38\" width=\"141\" alt=\"epicurious Everywhere\" style=\"margin:
-      10px 0 5px 0;\"/></a><br />\n                <a class=\"learnMoreNew\" href=\"/services/mobile\">Get
-      our award-winning<br/>food app in the kitchen<br/>or on the go &nbsp;&#8250;</a>\n\n
-      \       </div>\n        <div class=\"mkt_widget_bottom\">&nbsp;</div>\n    </div>\n\n
-      \   <div id=\"rss_section\" style=\"display:none;\">\n        <div class=\"rss_top\">\n
-      \           <div id=\"header\">\n                <a href=\"javascript:switchid('newsletter_section');
-      hideMessages(); hideNewsletterMessage();\" id=\"newsletter_Nav\"><!-- --></a>\n
-      \               <a href=\"javascript:switchid('mobile_section'); hideMessages();
-      \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
-      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');
-      hideMessages();\" id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n
-      \       <div id=\"rss_content\">\n            <ul style=\"padding: 5px 15px
-      0 15px;\">\n                <li><a href=\"/services/rss\" style=\"text-decoration:none;\"><span
-      class=\"section\">Subscribe to our free RSS feeds:</span></a><br />Get the latest
-      recipes, features, and Epicurious blog posts automatically added to your newsreader
-      or your personal My Yahoo! or My AOL page.</li>\n            </ul>\n        </div>\n
-      \       <div class=\"rss_bottom\"><span style=\"float:right; padding: 0 20px
-      0 0;\"><a href=\"/services/rss\" class=\"learnMore\">learn more</a> &#8250;</span></div>\n
-      \   </div>\n\n    <div id=\"tastebook_section\" style=\"display:none;\">\n        <div
-      class=\"tastebook_top\">\n            <div id=\"header\">\n                <a
-      href=\"javascript:switchid('newsletter_section'); hideMessages(); hideNewsletterMessage();\"
-      id=\"newsletter_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('mobile_section');
-      hideMessages(); \" id=\"mobile_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('rss_section');
-      hideMessages();\" id=\"rss_Nav\"><!-- --></a>\n                <a href=\"javascript:switchid('tastebook_section');\"
-      id=\"podcast_Nav\"><!-- --></a>\n            </div>\n        </div>\n        <div
-      id=\"tastebook_content\">\n            <img src=\"/images/newsletter_widget/tastebook_book.jpg\"
-      height=\"109\" width=\"92\" alt=\"tastebook\" align=\"left\"/>\n            <p>\n
-      \               <a href=\"/services/tastebook\">A personalized Epi cookbook!</a><br
-      />\n                <!-- Create a personalized hardcover cookbook of your favorite
-      Epi recipes.  Or, buy one half-filled with our editors' picks and complete it
-      with your own!  -->\n                Transform your favorite recipes from Epicurious.com
-      into a beautiful, hardcover 'TasteBook'.\n                <a class=\"learnMore\"
-      href=\"/services/tastebook\">learn how</a>&nbsp;&#8250;\n            </p>\n
-      \       </div>\n        <div id=\"tastebook_bottom\">&nbsp;</div>\n    </div>\n\n</div>\n\n<script>\n
-      \   \n    /*\n    if(document.URL.match(/recipes/)||document.URL.match(/menus/)||document.URL.match(/myrecipebox/))
-      {\n        document.getElementById('newsletter_section').style.display=\"none\"
-      \n        document.getElementById('tastebook_section').style.display=\"block\"\n
-      \   }else{\n        document.getElementById('newsletter_section').style.display=\"block\"
-      \n    }\n    */\n\n</script>\n\n\n<!-- <iframe id=\"giftwidget\" height=\"160\"
-      frameborder=\"0\" scrolling=\"no\" src=\"http://holidaygift.condenastdigital.com/epicurious\"
-      style=\"height: 160px; width: 310px; margin: 0; padding-bottom: 10px;\"></iframe>
-      -->\n\n\n\n\n            <div class=\"module\">\n                <div class=\"widget\"
-      id=\"ad_widget\">\n                    <h2>Advertising</h2>\n                    <div
-      id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad1347082188_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1347082188_',
+      id=\"secondary\">\n            \n\n\n\n\n\t\t\t\t\n\n\n<div id=\"marketingWidgetModule\">\n<script
+      type=\"text/javascript\">\n\njQuery(window).load(function(){\n    var hgg_widget_iframe
+      = document.createElement(\"iframe\");\n    hgg_widget_iframe.setAttribute(\"scrolling\",\"no\");\n
+      \   hgg_widget_iframe.setAttribute(\"marginwidth\",\"0\");\n    hgg_widget_iframe.setAttribute(\"marginheight\",\"0\");\n
+      \   hgg_widget_iframe.setAttribute(\"frameborder\",\"0\");\n    hgg_widget_iframe.setAttribute(\"id\",
+      \"giftwidget\");\n    hgg_widget_iframe.setAttribute(\"height\", \"160\");\n
+      \   hgg_widget_iframe.setAttribute(\"style\",\"height: 160px; width: 310px;
+      margin: 0; padding-bottom: 10px;\");\n    hgg_widget_iframe.src = \"http://holidaygift.condenastdigital.com/epicurious\";\n
+      \   document.getElementById(\"marketingWidgetModule\").appendChild(hgg_widget_iframe);\n});\n\n</script>\n</div>\n\n\n\n\n
+      \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
+      \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
+      \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"ad625569946_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad625569946_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
       class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
@@ -4143,9 +3993,9 @@
       \   </div>\n\n\n\n\n            <div class=\"module\">\n                <div
       class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1637727042_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad2021630357_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad1637727042_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad2021630357_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
       class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
@@ -4153,12 +4003,11 @@
       href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
       href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368272\"><img
-      src=\"/images/recipesmenus/2011/2011_november/368272_116.jpg\" alt=\"Cider-Brined
-      Turkey with Star Anise and Cinnamon\" /></a>\n\n                    <div id=\"rotd_details\">\n
-      \                       <h3><a href=\"/recipes/food/views/368272\">Cider-Brined
-      Turkey with Star Anise and Cinnamon</a></h3>\n                        <p>Bon
-      App&eacute;tit, November 2011</p>\n                    </div>\n                        <div
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368957\"><img
+      src=\"/images/recipesmenus/2011/2011_december/368957_116.jpg\" alt=\"Cioppino\"
+      /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
+      href=\"/recipes/food/views/368957\">Cioppino</a></h3>\n                        <p>Bon
+      App&eacute;tit, December 2011</p>\n                    </div>\n                        <div
       class=\"clear\"></div>\n                </div>\n            </div>\n\n\n<!--
       /htmlinclude/tiles/rightrailcommunityPromo_HP.html -->\n<div id=\"outerbox\"
       class=\"rounded recipeBoxPromo\">\n    <div id=\"communitypromo\">\n        <h2>join
