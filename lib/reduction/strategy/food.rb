@@ -16,7 +16,7 @@ module Reduction
       end
 
       def steps
-        [ doc.search('.directions ol li div.txt').map(&:text) ]
+        [ NamedList.new(doc.search('.directions ol li div.txt').map(&:text)) ]
       end
 
       def yields

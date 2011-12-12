@@ -12,15 +12,11 @@ module Reduction
       end
 
       def ingredients
-        [ doc.at('.ingredient-set ul').search('li').collect(&:text).collect do |item|
-          item.gsub(/\s+/, ' ').strip
-        end ]
+        [ NamedList.new(raw_ingredients.collect { |i| i.gsub(/\s+/, ' ').strip}) ]
       end
 
       def steps
-        [ doc.at('.preparation').search('li').collect(&:text).collect do |item|
-          item.gsub(/\s+/, ' ').strip
-        end ]
+        [ NamedList.new(raw_steps.collect { |i| i.gsub(/\s+/, ' ').strip }) ]
       end
 
       def yields
@@ -41,6 +37,16 @@ module Reduction
 
       def images
         absolute_img_srcs_from(doc.search('.recipe img'))
+      end
+
+      private
+
+      def raw_ingredients
+        doc.at('.ingredient-set ul').search('li').collect(&:text)
+      end
+
+      def raw_steps
+        doc.at('.preparation').search('li').collect(&:text)
       end
 
     end

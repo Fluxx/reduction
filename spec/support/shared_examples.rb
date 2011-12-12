@@ -23,9 +23,14 @@ shared_examples_for "a strategy" do
 
   list_methods.each do |method|
     it "should return an array of objects that respond to :each ##{method}" do
-      subject.send(method).should be_a(Array)
       subject.send(method).each do |element|
         element.should respond_to(:each)
+      end
+    end
+
+    it "should return an array of objects that respond to :name" do
+      subject.send(method).each do |element|
+        element.should respond_to(:name)
       end
     end
   end

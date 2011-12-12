@@ -14,12 +14,13 @@ module Reduction
       end
 
       def ingredients
-        [ doc.at('#ingredients').search('li').map(&:text).map(&:collapse_whitespace) ]
+        [ NamedList.new(doc.at('#ingredients').search('li').map(&:text).
+                        map(&:collapse_whitespace)) ]
       end
 
       def steps
-        [ doc.search('#directions ol[itemprop=recipeInstructions] li').map(&:text).
-          map(&:collapse_whitespace) ]
+        [ NamedList.new(doc.search(steps_selector).map(&:text).
+                        map(&:collapse_whitespace)) ]
       end
 
       def yields
@@ -32,6 +33,12 @@ module Reduction
 
       def images
         absolute_img_srcs_from(doc.search('img#featured_image'))
+      end
+
+      private
+
+      def steps_selector
+        '#directions ol[itemprop=recipeInstructions] li'
       end
 
     end

@@ -12,11 +12,11 @@ module Reduction
       end
 
       def ingredients
-        [recipe('.ingredients ul').text.stripped_lines]
+        [ NamedList.new(recipe('.ingredients ul').text.stripped_lines) ]
       end
 
       def steps
-        [recipe('.directions ol').text.stripped_lines]
+        [ NamedList.new(recipe('.directions ol').text.stripped_lines) ]
       end
 
       def yields

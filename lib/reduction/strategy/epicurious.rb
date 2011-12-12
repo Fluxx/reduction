@@ -26,7 +26,7 @@ module Reduction
           # out
           #
           # TODO: Move this to a method
-          [ steps.map { |l| l.gsub(/^\d\. /, '') } ]
+          [ NamedList.new(steps.map { |l| l.gsub(/^\d\. /, '') }) ]
         end
       end
 
