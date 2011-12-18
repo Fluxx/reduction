@@ -12,11 +12,18 @@ module Reduction
       end
 
       def ingredients
-        [ NamedList.new(raw_ingredients) ]
+        ingredient_sections.map do |section|
+          NamedList.new(extract_ingredients_from(section)).tap do |list|
+            name = section.at('h4')
+            list.name = name.text.chomp(':') if name
+          end
+        end
       end
 
       def steps
-        [ NamedList.new(raw_steps) ]
+        steps_sections.map do |section|
+          NamedList.new(extract_steps_from(section))
+        end
       end
 
       def yields
@@ -38,15 +45,26 @@ module Reduction
 
       private
 
-      def raw_ingredients
-        recipe.search('.recipe_ingredients p').map do |p|
+      def extract_ingredients_from(section)
+        section.search('p').map do |p|
           clean_item(p.text.collapse_whitespace)
         end
       end
 
-      def raw_steps
-        recipe.search('.recipe_steps li p').map do |p|
+      def extract_steps_from(section)
+        section.search('li p').map do |p|
           clean_item(p.text.collapse_whitespace)
+        end
+      end
+
+      def ingredient_sections
+        recipe.search('.recipe_ingredients')
+      end
+
+      def steps_sections
+        # Sometimes there are empty ingredient lists, so
+        recipe.search('.recipe_steps').select do |section|
+          section.search('li p').any?
         end
       end
 
