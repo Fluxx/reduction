@@ -3357,16 +3357,16 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Sun, 11 Dec 2011 23:11:09 GMT
+      - Sun, 18 Dec 2011 22:39:10 GMT
       date:
-      - Sun, 11 Dec 2011 23:01:09 GMT
+      - Sun, 18 Dec 2011 22:29:10 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - mobify=0; expires=Mon, 12-Dec-2011 01:01:09 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 19-Dec-2011 00:29:10 GMT; domain=epicurious.com
     body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
@@ -3526,9 +3526,10 @@
       \   //-->\n    </script>\n    \n\n\n\n\n                                \n                            </div>\n
       \                       </div>\n                    </div>\n                    <script
       type=\"text/javascript\" language=\"JavaScript\">headlineAligner();</script>\n
-      \                   \n\n\n\n\n\n\n\n\n\n\n\n    \n        \n        \n        \n
-      \       <div id=\"recipe_detail_module\" class=\"content_unit detail_page\">\n
-      \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \                   \n                    \n                    \n                    \n
+      \                       \n\n\n                    \n                    \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        \n        \n        \n        <div id=\"recipe_detail_module\"
+      class=\"content_unit detail_page\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n    \n        \n    \n\n\n\n\n    \n    \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n        \n    \n\n    \n    \n    \n    \n        \n    \n    \n
       \   \n    \n\n    \n        \n    \n\n    \n        \n    \n    \n    \n        \n
@@ -3746,9 +3747,9 @@
       target=\"new\">4x6 card</a></li>\n                    \n                    <li
       id=\"shoppinglist\"><a href=\"/recipes/shoppinglist/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\"
       target=\"new\">shopping list</a></li>\n                       \n                </ul>\n
-      \           </div>\n        \n        \n    \n</div>\n\n\n\n\n\n\n\n\n\n\n    <div
-      id=\"social-toolbar\">\n        <ul>\n            \n            <li id=\"stb-email\">\n
-      \               <a href=\"/recipes/food/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\n\n\n\n\n\n\n\n\n\nPatricia
+      \           </div>\n        \n        \n    \n</div>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <div id=\"social-toolbar\">\n        <ul>\n            \n            <li
+      id=\"stb-email\">\n                <a href=\"/recipes/food/email/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872?title=\n\n\n\n\n\n\n\n\n\nPatricia
       Wells's Cobb Salad: Iceberg, Tomato, Avocado, Bacon, and Blue Cheese Recipe\n\"
       id=\"email\">e-mail</a>\n            </li>\n            \n            <li id=\"stb-twitter\">\n
       \           <div>\n                <script src=\"//platform.twitter.com/widgets.js\"
@@ -3844,8 +3845,9 @@
       Cooking</a></li>\n                        <li><a href=\"/recipesmenus/desserts\">Desserts</a></li>\n
       \                       <li><a href=\"/recipesmenus/global/recipes\">International
       Cooking</a></li>\n                        <li><a href=\"/recipesmenus/photos\">recipe
-      slideshows</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/drinks\">Drinks</a></li>\n
-      \                       <li><a href=\"/recipesmenus/randomhouse/recipes\"><span
+      slideshows</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/drinks\">Drinks</a></li>\n\t\t\t\t\t\t<li><a
+      href=\"/cookbooks\">e<span style=\"text-transform: uppercase;\">C</span>ookbooks
+      on Epi</a></li>\t\n\t\t\t\t\t\t\n                        <li><a href=\"/recipesmenus/randomhouse/recipes\"><span
       style=\"text-transform: uppercase;\">R</span>andom<span style=\"text-transform:
       uppercase;\"> H</span>ouse on epi</a></li>\n                        <li><a href=\"/recipesmenus/bonappetit/recipes\"><span
       class=\"sub_link\">Bon App&eacute;tit</span> on Epi</a></li>\n                        <li><a
@@ -3963,9 +3965,9 @@
       {sz:'728x90', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n\n           </div>\n\n
       \       </div>\n        \n\n        <script type=\"text/javascript\" language=\"JavaScript
       1.5\">roundContainer(\"primary\");</script>\n\n        <div class=\"contentContainer\"
-      id=\"secondary\">\n            \n\n\n\n\n\t\t\t\t\n\n\n<div id=\"marketingWidgetModule\">\n<script
-      type=\"text/javascript\">\n\njQuery(window).load(function(){\n    var hgg_widget_iframe
-      = document.createElement(\"iframe\");\n    hgg_widget_iframe.setAttribute(\"scrolling\",\"no\");\n
+      id=\"secondary\">\n            \n\n\n\n    \n    \n        \n\n\n\n\n\t\t\t\t\n\n\n<div
+      id=\"marketingWidgetModule\">\n<script type=\"text/javascript\">\n\njQuery(window).load(function(){\n
+      \   var hgg_widget_iframe = document.createElement(\"iframe\");\n    hgg_widget_iframe.setAttribute(\"scrolling\",\"no\");\n
       \   hgg_widget_iframe.setAttribute(\"marginwidth\",\"0\");\n    hgg_widget_iframe.setAttribute(\"marginheight\",\"0\");\n
       \   hgg_widget_iframe.setAttribute(\"frameborder\",\"0\");\n    hgg_widget_iframe.setAttribute(\"id\",
       \"giftwidget\");\n    hgg_widget_iframe.setAttribute(\"height\", \"160\");\n
@@ -3975,14 +3977,110 @@
       \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
       \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
       \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad418610551_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad418610551_',
+      \   \n    \n        <div id=\"ad474305389_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad474305389_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
-      \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
-      class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
+      \               </div>\n            </div>\n\n\n<div id=\"eCookbooks\" class=\"modular
+      content_unit\">\r\n    <h2>recommended eCookbooks</h2>\r\n    <div id=\"see-how-rr\">\r\n
+      \       <span class=\"epi-btn epi-grn\"><a href=\"/services/ecookbooks/\">see
+      how it works</a></span>\r\n    </div>\r\n    <ul>\r\n        <li>\r\n            <div
+      class=\"cookbook-cover\">\r\n                <div class=\"cover-top\"></div>\r\n
+      \               <img src=\"/images/cookbooks/rightrail/bobby-flay-bar-americain.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307885906\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/bobby-flays-bar-americain-cookbook/9780307885906\" class=\"cookbook-title\">Bobby
+      Flay's Bar Americain Cookbook</a>\r\n                <p>by Bobby Flay</p>\r\n
+      \               <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307885906\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/peter-reinharts-artisan-breads-every-day.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9781607740865\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/peter-reinharts-artisan-breads-every-day/9781607740865\" class=\"cookbook-title\">Peter
+      Reinhart's Artisan Breads Every Day</a>\r\n                <p>by Peter Reinhart</p>\r\n
+      \               <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9781607740865\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$15.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/lidia-bastianich-italy-in-america.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307700612\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/lidias-italy-in-america/9780307700612\" class=\"cookbook-title\">Lidia's
+      Italy in America</a>\r\n                <p>by Lidia Matticchio Bastianich</p>\r\n
+      \               <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307700612\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/momofuku-milk-bar.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307953308\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/momofuku-milk-bar/9780307953308\" class=\"cookbook-title\">Momofuku
+      Milk Bar</a>\r\n                <p>by Christina Tosi</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307953308\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/neelys-celebration-cookbook.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307700629\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/the-neelys-celebration-cookbook/9780307700629\" class=\"cookbook-title\">The
+      Neelys' Celebration Cookbook</a>\r\n                <p>by Patrick Neely</p>\r\n
+      \               <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307700629\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$14.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/cook-like-a-rock-star-anne-burrell.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307953278\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/cook-like-a-rock-star/9780307953278\" class=\"cookbook-title\">Cook
+      Like a Rock Star</a>\r\n                <p>by Anne Burrell</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307953278\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$14.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/rocco-dispirito-now-eat-this.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307767530\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/now-eat-this/9780307767530\" class=\"cookbook-title\">Now
+      Eat This!</a>\r\n                <p>by Rocco DiSpirito</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307767530\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$16.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/giada-de-laurentiis-giada-at-home.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307885593\"></a></div>
+      \ \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n                <a
+      href=\"/cookbooks/giada-at-home/9780307885593\" class=\"cookbook-title\">Giada
+      at Home</a>\r\n                <p>by Giada De Laurentiis</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307885593\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <br/>\r\n    </ul>\r\n    <div id=\"cookbooks-overlay\"></div>\r\n    <div
+      id=\"see-more-rr\">\r\n        <span class=\"epi-btn epi-grn\"><a href=\"/cookbooks/\">see
+      more cookbooks</a></span>\r\n    </div>\r\n</div>\r\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n
+      \           <div id=\"recipe_of_the_day_module\" class=\"modular content_unit
+      dropshadowed\">\n                <h2>Recipe Of The Day</h2>\n\t\t\t\t\n\t\t\t\t<span
+      id=\"rotd_share\">share</span>\n\n\t\t\t\t<a href=\"http://feeds.epicurious.com/newrecipes\"
+      id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
+      id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/369050\"><img
+      src=\"/images/recipesmenus/2011/2011_november/369050_116.jpg\" alt=\"Just-as-Sweet-as-Honey
+      Cake\" /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
+      href=\"/recipes/food/views/369050\">Just-as-Sweet-as-Honey Cake</a></h3>\n                        <p><em>Vegan
+      Holiday Kitchen</em>, November 2011</p>\n                    </div>\n                        <div
+      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n\n<div
+      id=\"product-widget\" class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
       id=\"product-widget-see-store\" target=\"_blank\"><h2>popular now</h2></a>\n\n
       \   <div id=\"product-widget-carousel\" class=\"jcarousel-skin-epi\">\n        <ul></ul>\n
-      \   </div>\n</div>\n\n\n\n\n\n    <div id=\"poll_booth_module\" class=\"modular
+      \   </div>\n</div>\n\n\n\n            <div class=\"module\">\n                <div
+      class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
+      \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad713562852_300x250_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('ad713562852_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
+      \           </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\" class=\"modular
       content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\" src=\"/rd_images/poll/epi_poll_hed.jpg\"
       />\n\n        <iframe id=\"poll_booth\" height=\"200\" frameborder=\"0\" scrolling=\"no\"
       src=\"/services/poll-cache/rightrailpoll\"></iframe>\n\n        <div class=\"poll_ad\">\n
@@ -3990,48 +4088,23 @@
       \   \n    \n        <div id=\"pollBooth165x31_frame\" class=\"displayAd\"></div>\n
       \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('pollBooth',
       {sz:'165x31', kws:[]});\n    //-->\n    </script>\n    \n\n\n        </div>\n
-      \   </div>\n\n\n\n\n            <div class=\"module\">\n                <div
-      class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
-      \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad431103085_300x250_frame\"
-      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad431103085_', {sz:'300x250', kws:[\"bottom\"]});\n
-      \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
-      \           </div>\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n            <div id=\"recipe_of_the_day_module\"
-      class=\"modular content_unit dropshadowed\">\n                <h2>Recipe Of
-      The Day</h2>\n\t\t\t\t\n\t\t\t\t<span id=\"rotd_share\">share</span>\n\n\t\t\t\t<a
-      href=\"http://feeds.epicurious.com/newrecipes\" id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a
-      href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
-      id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368957\"><img
-      src=\"/images/recipesmenus/2011/2011_december/368957_116.jpg\" alt=\"Cioppino\"
-      /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
-      href=\"/recipes/food/views/368957\">Cioppino</a></h3>\n                        <p>Bon
-      App&eacute;tit, December 2011</p>\n                    </div>\n                        <div
-      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n<!--
-      /htmlinclude/tiles/rightrailcommunityPromo_HP.html -->\n<div id=\"outerbox\"
-      class=\"rounded recipeBoxPromo\">\n    <div id=\"communitypromo\">\n        <h2>join
-      now &amp; set up a recipe box</h2>\n        <div class=\"innerboxContent dropshadowed\">\n
-      \           <a href=\"/user/registration\"><img src=\"/globalimages/rightrail/joinNowAndSave.gif\"
-      alt=\"Join now &amp; set up a recipe box\" width=\"256\" height=\"130\" border=\"0\"
-      /></a>\n            <div class=\"clear\"></div>\n        </div>\n    </div>
-      \ \n</div>\n\n\n\n        </div>\n        <script type=\"text/javascript\" language=\"JavaScript
-      1.5\">roundContainer(\"secondary\");</script>\n\n        \n\n\n\n\n\n<div class=\"separator\"
-      id=\"364872\">\n    <hr/>\n</div>\n\n\n        \n\n\n\n<div id=\"breadcrumb_session\">\n
-      \   <div id=\"bc_left\">\n    \n        \n        \n            \n                <a
-      href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n                \n                \n
-      \           \n            &#8250;\n        \n            \n                \n
-      \               <a href=\"/recipesmenus\" class=\"bc_links\">recipes & menus</a>\n
-      \               \n            \n            &#8250;\n        \n            \n
-      \               \n                \n                patricia wells's cobb salad:
-      iceberg, tomato, avocado, bacon, and blue cheese\n            \n            \n
-      \       \n        \n\n        \n    \n    </div>\n    \n\n\n\n\n\n<div class=\"separator\"
-      id=\"364872\">\n    <hr/>\n</div>\n\n</div>\n\n\n        <div id=\"footerContainer\">\n
-      \           \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a rel=\"nofollow\"
-      href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/sitemap\">Site
-      Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact Us</a></li>\n\t<li><a
-      rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a rel=\"nofollow\"
-      target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
+      \   </div>\n\n\n\n\n    \n\n        </div>\n        <script type=\"text/javascript\"
+      language=\"JavaScript 1.5\">roundContainer(\"secondary\");</script>\n\n        \n\n\n\n\n\n<div
+      class=\"separator\" id=\"364872\">\n    <hr/>\n</div>\n\n\n        \n\n\n\n<div
+      id=\"breadcrumb_session\">\n    <div id=\"bc_left\">\n    \n        \n        \n
+      \           \n                <a href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n
+      \               \n                \n            \n            &#8250;\n        \n
+      \           \n                \n                <a href=\"/recipesmenus\" class=\"bc_links\">recipes
+      & menus</a>\n                \n            \n            &#8250;\n        \n
+      \           \n                \n                \n                patricia wells's
+      cobb salad: iceberg, tomato, avocado, bacon, and blue cheese\n            \n
+      \           \n        \n        \n\n        \n    \n    </div>\n    \n\n\n\n\n\n<div
+      class=\"separator\" id=\"364872\">\n    <hr/>\n</div>\n\n</div>\n\n\n        <div
+      id=\"footerContainer\">\n            \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a
+      rel=\"nofollow\" href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\"
+      href=\"/services/sitemap\">Site Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact
+      Us</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a
+      rel=\"nofollow\" target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
       rel=\"nofollow\" href=\"/services/presscenter\">Press Center</a></li>\n\t<li><a
       rel=\"nofollow\" href=\"/services/subscriptions\">Subscription Services</a></li>\t\t\n\t<li><a
       rel=\"nofollow\" href=\"/services/newsletters\">Newsletters</a></li>\n\t<li><a
@@ -4135,8 +4208,8 @@
       s_linkInternalFilters=\"javascript:,epicurious.com\";\nvar s_trackingServer=\"stats.epicurious.com\";\n//-->\n</script>\n<script
       language=\"JavaScript\" type=\"text/javascript\" src=\"/rd_scripts/stats/s_code.js\"></script>\n<script
       language=\"JavaScript\" type=\"text/javascript\"><!--\n/* You may give each
-      page an identifying name, server, and channel on\nthe next lines. */\ns.prop22=\"Cheese,Small
-      Group,Main Course,Chef,Bacon,Tomato,Quick & Easy,Blue Cheese,Avocado,Entertaining,Dinne\";\ns.prop3=\"Patricia
+      page an identifying name, server, and channel on\nthe next lines. */\ns.prop22=\"Main
+      Course,Salad,American,Entertaining,Summer,Spring,Lunch,Healthy,Small Group,Cheese,Bacon,Lettuce\";\ns.prop3=\"Patricia
       Wells\\'s Cobb Salad: Iceberg, Tomato, Avocado, Bacon, And Blue Cheese\";\ns.prop4=\"364872\";\ns.prop5=\"recipe\";\ns.prop6=\"recipes\";\ns.prop7=\"recipes:food\";\ns.prop8=\"recipes:food:views\";\ns.hier1=\"recipes,food,views\";\ns.prop9=\"\";\ns.pageName=\"http://www.epicurious.com/recipes/food/views\";\n\n/*************
       DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/\nvar s_code=s.t();if(s_code)document.write(s_code)//--></script>\n<script
       language=\"JavaScript\" type=\"text/javascript\"><!--\nif(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\\!-'+'-')\n//--></script><noscript><a

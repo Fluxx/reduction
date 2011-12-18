@@ -19,9 +19,9 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Sun, 11 Dec 2011 23:11:33 GMT
+      - Sun, 18 Dec 2011 22:39:28 GMT
       date:
-      - Sun, 11 Dec 2011 23:01:33 GMT
+      - Sun, 18 Dec 2011 22:29:28 GMT
       transfer-encoding:
       - chunked
       connection:
@@ -53,14 +53,24 @@
       'gourmet',\n            alias: 'Gourmet.com',\n            tld: 'gourmet.com',\n
       \           eventTrackingUrl: 'http://result.gourmet.com',\n            eventTrackingEnv:
       'PROD',\n            mobilecompatible: true\n        });\n\n        \n    //-->\n
-      \   </script>\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n            <script type=\"text/javascript\" src=\"/js/ecomfw.min.js\"></script>\n
-      \       \n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       \n        \n    \n\n\n        \n\n<script type=\"text/javascript\">\n//
-      <!--\n    CNP.ecom.start({host: \"magazine.gourmet.com\", cnd: true });\n//
-      -->\n</script>\n                \n                \n            \n    \n\n\n\n\n\n\n\n\n\n
-      \   \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n
-      \           <script type=\"text/javascript\" src=\"/js/gourmet_top.js\"></script>\n
+      \   </script>\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n        \n    \n\n\n        \n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n                                \n                \n\n\n
+      \   \n\n\n\n    \n\n\n\n    \n\n\n\n    \n\n\n\n    \n\n\n\n\n    \n\n\n\n    \n\n\n<script>\n\n
+      \   var _ghearst_vars = (function() {\r    var metaKeyWords = (function(){ \r
+      \   var metaKeywordContent='';\r    metaCollection = document.getElementsByTagName('meta');\r
+      \   for (i=0;i<metaCollection.length;i++) {\r        nameAttribute = metaCollection[i].name.search(/keywords/);\r
+      \       if (nameAttribute!= -1) {\r            metaKeywordContent = metaCollection[i].content;\n
+      \           metaKeywordContent = metaKeywordContent.replace(/,/g,'%2C'); //
+      to replace ,\n            metaKeywordContent = metaKeywordContent.replace(/
+      /g,''); // to replace space\r        }\r    }\r    return metaKeywordContent;
+      \r    })(); \r    return {\r    'ams_ads_script_src': 'http://ads.condenastdigital.com/ams/page-ads.js?ad_category_prefix=recipes&browser_path=%2Frecipes%2F2000s%2F2009%2F09%2Fpeppercorn-roasted-pork-with-vermouth-pan-sauce&cat_prefixes=%2Crecipes%2C2000s%2C2009%2C09%2Cpeppercorn-roasted-pork-with-vermouth-pan-sauce&keywords='+metaKeyWords+'&position_list=AMS_GMT_GLOBAL_HEADERCALLOUT%2CAMS_GMT_GLOBAL_HEADER%2CAMS_GMT_GLOBAL_RIGHTRAIL_A%2CAMS_GMT_GLOBAL_SLIDESHOW&site_prefix=gourmet&subdomain=www&url_name=peppercorn-roasted-pork-with-vermouth-pan-sauce'\r
+      \   };\r    })();\n\n</script>\n\n\n\n                \n\n                    \n
+      \               \n            \n    \n\n    \n            <script type=\"text/javascript\"
+      src=\"/js/ecomfw.min.js\"></script>\n            <script type=\"text/javascript\"
+      src=\"/js/gourmet_ecom.js\"></script>\n        \n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n            <script type=\"text/javascript\" src=\"/js/gourmet_top.js\"></script>\n
       \       \n\n\n\n\n\n\n\n\n\n\n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   <script type=\"text/javascript\" src=\"/dwr/interface/feedparser.js\"></script>\n
       \   <script type=\"text/javascript\" src=\"/dwr/engine.js\"></script>\n    <script
@@ -83,64 +93,49 @@
       class=\"recipeB s_recipes ss_2000s c_2009\">\n\n\n    \n\n\n<!-- Floating Ad
       Template -->\n<div id=\"floatingAd\" style=\"display:none;\">\n    <div id=\"floatingAd_header\">\n
       \       <a href=\"#\">Close</a>\n    </div>\n    <div id=\"floatingAd_content\">\n
-      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"popUp_floatingAd\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
-      target=\"_blank\"><img border=\"0\" src=\"/images/ecom/failsafe/GMT_floating_ad.jpg\"
-      alt=\"Subscribe to Gourmet\" title=\"Subscribe to Gourmet\" /></a></div>\n    \n\n\n
-      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
-      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'popUp_floatingAd',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_popUp_floatingAd',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
-      \   </div>\n</div>\n\n    \n\n\n\n\n\n<!-- Rollover Ad Template for instance
-      rolloverAd-->\n<div id=\"rolloverAd\" class=\"rolloverAd\" style=\"display:none;\">\n
-      \   <div id=\"rolloverAd_header\" class=\"rolloverAd_header\">\n        <a href=\"#\">Close</a>\n
-      \   </div>\n    <div id=\"rolloverAd_content\" class=\"rolloverAd_content\">\n
-      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_navBar_rollover\">\n            <div id=\"layer_offer_link\"><a
-      href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_floating_ad.jpg\"
-      alt=\"Subscribe to Gourmet\" border=\"0\" /></a></div>\n        </div>\n    \n\n\n
-      \       \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if (CNP &&
-      CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_navBar_rollover',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_navBar_rollover',\n
-      \       params:{},callafter:{func: MAGNET.ecom.rolloverAd.init,params: ['rolloverAd']}});\n\n
-      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    <div id=\"rolloverAd_footer\"
-      class=\"rolloverAd_footer\"></div>\n</div>\n\n\n\n<div id=\"wrapper\">\n    <div
-      id=\"topBannerAd\">\n        \n\n\n\n\n\n\n\n\n\n\n        <div id=\"header728x90_frame\"
-      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('header', {sz:'728x90', kws:[\"top\"]});\n    //-->\n
-      \   </script>\n    \n\n    </div>\n\n    <div id=\"header\">\n        <div id=\"logo\">\n
-      \   <a href=\"/\" title=\"Go to the gourmet.com homepage\"><img src=\"/css/i/print/printvisual-logo.gif\"
-      alt=\"Gourmet\" /></a>\n</div>\n<div id=\"subs-link\">\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_navBar\"><a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
-      target=\"_blank\" title=\"Subscribe to Gourmet magazine\">Subscribe</a></div>\n
-      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
-      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_navBar',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_navBar',\n        params:{}});\n\n
-      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n</div>\n\n        <div
-      id=\"global-nav\" title=\"Site Navigation\">\n<ul>\n    <li id=\"gnav1\"><a
-      href=\"/recipes\" title=\"Gourmet recipes past + present\">RECIPES + MENUS</a></li>\n
-      \   <li id=\"gnav2\"><a href=\"http://live.gourmet.com/about/\" title=\"Gourmet
-      Live\">GOURMET LIVE APP</a></li>\n    <li id=\"gnav3\"><a href=\"http://live.gourmet.com/\"
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n        \n            <div id=\"popUp_floatingAd\"></div>\n        \n
+      \   \n\n\n        \n            \n            \n            \n    \n    </div>\n</div>\n\n\n\n<div
+      id=\"wrapper\">\n    <div id=\"topBannerAd\">\n        \n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"header728x90_frame\" class=\"displayAd\"></div>\n    <script
+      type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('header',
+      {sz:'728x90', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n    </div>\n\n
+      \   <div id=\"header\">\n        <div id=\"logo\">\n    <a href=\"/\" title=\"Go
+      to the gourmet.com homepage\"><img src=\"/css/i/print/printvisual-logo.gif\"
+      alt=\"Gourmet\" /></a>\n</div>\n\n\n        <div id=\"global-nav\" title=\"Site
+      Navigation\">\n<ul>\n    <li id=\"gnav1\"><a href=\"/recipes\" title=\"Gourmet
+      recipes past + present\">RECIPES + MENUS</a></li>\n    <li id=\"gnav2\"><a href=\"http://live.gourmet.com/about/\"
+      title=\"Gourmet Live\">GOURMET LIVE APP</a></li>\n    <li id=\"gnav3\"><a href=\"http://live.gourmet.com/\"
       title=\"News + opinion about food politics\">GOURMET LIVE BLOG</a></li>\n    <li
       id=\"gnav4\"><a href=\"/food/sip\" title=\"News + opinion from the world of
       drink\">SPECIAL EDITIONS</a></li>\n    <li id=\"gnav5\"><a href=\"/food/products\"
       title=\"Gourmet recipes past + present\">COOKBOOKS + PRODUCTS</a></li>\n    <li
       id=\"gnav6\"><a href=\"/video\" title=\"Gourmet recipes past + present\">COOKING
-      VIDEOS</a></li>\n</ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"subs-teaser\">\n        <div id=\"global_headerCallout\">\n
-      \           <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img
+      VIDEOS</a></li>\n</ul>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"subs-teaser\">\n            <div id=\"AMS_GMT_GLOBAL_HEADERCALLOUT\">\n
+      \               <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\" target=\"_blank\"><img
       border=\"0\" src=\"/images/ecom/failsafe/GMT_header_callout.gif\" alt=\"Subscribe
-      to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n        </div>\n        </div>\n
-      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
-      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_headerCallout',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_headerCallout',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       \n        <div id=\"global_header\">\n            <h3 id=\"subs-cover\"><a
-      href=\"/food/sip\" target=\"_blank\" title=\"Subscribe to Gourmet\">Subscribe
-      to Gourmet</a></h3>\n            <div id=\"subs-nav\"><a href=\"/food/sip\"
-      target=\"_blank\" title=\"Subscribe to Gourmet\">SEE OUR </br>SPECIAL EDITIONS</a></div>\n
-      \       </div>\n        \n    \n\n\n        \n\n\n\n\n\n\n            \n    \n\n\n
-      \   </div>\n\n    \n\n    \n\n\n\n\n<div id=\"loginbx\">\n    <script type=\"text/javascript\">\n
+      to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n                \n\n\n\n\n\n\n\n\n\n<script>\n\n(function(){\n
+      \   if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_GMT_GLOBAL_HEADERCALLOUT
+      != 'undefined') && (CN.url.params('nojoy') !=1) ) {\n        var div = document.getElementById(\"AMS_GMT_GLOBAL_HEADERCALLOUT\");\n
+      \       div.innerHTML = \"\";\n        document.write(pageAds.AMS_GMT_GLOBAL_HEADERCALLOUT);\n
+      \   }\n    else { // If NO response from HEARST\n        //var failSafeArea
+      = \"\"; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display
+      = \"block\";\n    }\n\n    \n})();\n\n</script>\n\n            </div>\n        </div>\n
+      \   \n\n\n        \n            \n            \n            \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n            <div id=\"AMS_GMT_GLOBAL_HEADER\">\n                <h3
+      id=\"subs-cover\"><a href=\"/food/sip\" target=\"_blank\" title=\"Subscribe
+      to Gourmet\">Subscribe to Gourmet</a></h3>\n                <div id=\"subs-nav\"><a
+      href=\"/food/sip\" target=\"_blank\" title=\"Subscribe to Gourmet\">SEE OUR
+      </br>SPECIAL EDITIONS</a></div>\n                \n\n\n\n\n\n\n\n\n\n<script>\n\n(function(){\n
+      \   if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_GMT_GLOBAL_HEADER
+      != 'undefined') && (CN.url.params('nojoy') !=1) ) {\n        var div = document.getElementById(\"AMS_GMT_GLOBAL_HEADER\");\n
+      \       div.innerHTML = \"\";\n        document.write(pageAds.AMS_GMT_GLOBAL_HEADER);\n
+      \   }\n    else { // If NO response from HEARST\n        //var failSafeArea
+      = \"\"; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display
+      = \"block\";\n    }\n\n    \n})();\n\n</script>\n\n            </div>\n        \n
+      \   \n\n\n        \n            \n            \n            \n    \n\n    </div>\n\n
+      \   \n\n    \n\n\n\n\n<div id=\"loginbx\">\n    <script type=\"text/javascript\">\n
       \   //<!--\n    function isLoggedIn() {\n        var cookie_name=\"amg_user\";\n
       \       var nameEQ = cookie_name + \"=\";\n        var ca = document.cookie.split(';');\n
       \       for (var i=0; i<ca.length; i++) {\n            var c = ca[i];\n            while
@@ -484,27 +479,20 @@
       \   \n    \n    \n\n\n                            </div>\n                        \n\n
       \                       \n                        \n                        \n
       \                   \n                \n                \n                    <div
-      class=\"yrcomponent\">\n                        <div class=\"yrpromos\">\n                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_rightRail_A\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
+      class=\"yrcomponent\">\n                        <div class=\"yrpromos\">\n                            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       <div id=\"AMS_GMT_GLOBAL_RIGHTRAIL_A\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafe\"
       target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_rr_subscribe.gif\" border=\"0\"
-      alt=\"Subscribe to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n        </div>\n
-      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
-      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_rightRail_A',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_A',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
-      \                       </div>\n                        <br />\n                    </div>\n
-      \                   <div class=\"yrcomponent\">\n                        <div
-      class=\"yrpromos\">\n                            \r\n<div class=\"yrpromos\">\r\n\r\n</div>\r\n\r\n\r\n\r\n\n
-      \                       \n                            <div class=\"yrail_ad_wrap\">\n
-      \                           \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_rightRail_B\">\n            <a href=\"https://w1.buysub.com/loc/GMT/ATGFailsafeGift\"
-      target=\"_blank\"><img src=\"/images/ecom/failsafe/GMT_rr_gift.gif\" border=\"0\"
-      alt=\"Give the Gift of Gourmet\" title=\"Give the Gift of Gourmet\" /></a>\n
-      \       </div>\n    \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n//
-      <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_rightRail_B',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_B',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
-      \                           </div>\n                        \n                            \r\n\n
+      alt=\"Subscribe to Gourmet\" title=\"Subscribe to Gourmet\" /></a>\n            \n\n\n\n\n\n\n\n\n\n<script>\n\n(function(){\n
+      \   if((typeof pageAds != 'undefined') && (typeof pageAds.AMS_GMT_GLOBAL_RIGHTRAIL_A
+      != 'undefined') && (CN.url.params('nojoy') !=1) ) {\n        var div = document.getElementById(\"AMS_GMT_GLOBAL_RIGHTRAIL_A\");\n
+      \       div.innerHTML = \"\";\n        document.write(pageAds.AMS_GMT_GLOBAL_RIGHTRAIL_A);\n
+      \   }\n    else { // If NO response from HEARST\n        //var failSafeArea
+      = \"\"; var displayFailsafeDiv = document.getElementById(failSafeArea); displayFailsafeDiv.style.display
+      = \"block\";\n    }\n\n    \n})();\n\n</script>\n\n        </div>\n    \n\n\n
+      \       \n            \n            \n            \n    \n                        </div>\n
+      \                       <br />\n                    </div>\n                    <div
+      class=\"yrcomponent\">\n                        <div class=\"yrpromos\">\n                            \r\n<div
+      class=\"yrpromos\">\r\n\r\n</div>\r\n\r\n\r\n\r\n\n                            \r\n\n
       \                       </div>\n                    </div>\n                \n
       \           \n                \n                \n                    \n                        \n
       \                       \n                            <div class=\"yrcomponent\">\n
@@ -658,33 +646,25 @@
       \       <div id=\"yrailBottom300x250_frame\" class=\"displayAd\"></div>\n    <script
       type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('yrailBottom',
       {sz:'300x250', kws:[\"bottom\"]});\n    //-->\n    </script>\n    \n\n\n                </div>\n
-      \           </div>\n\n            <div class=\"yrcomponent\">\n                \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \       <div id=\"global_rightRail_C\"></div>\n    \n\n\n        \n\n\n\n\n<script
-      type=\"text/javascript\">\n// <!--\n    if (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n
-      \       pid:'global_rightRail_C',\n        tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_rightRail_C',\n
-      \       params:{}});\n\n    }\n// -->\n</script>\n\n\n\n            \n    \n\n
-      \           </div>\n        </div>\n    \n\n                \n\n\n\n\n\n    <div
+      \           </div>\n\n        </div>\n    \n\n                \n\n\n\n\n\n    <div
       id=\"zrail\">\n    <!-- start zrail -->\n    <div class=\"zrcomponent first\">\n
-      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \       \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \       \n        \n            <div id=\"global_zRail\"></div>\n        \n
-      \   \n\n\n        \n\n\n\n\n<script type=\"text/javascript\">\n// <!--\n    if
-      (CNP && CNP.ecom) {\n\n        CNP.ecom.request({\n        pid:'global_zRail',\n
-      \       tgt:'/atg/registry/RepositoryTargeters/GMT/GMT_global_zRail',\n        params:{}});\n\n
-      \   }\n// -->\n</script>\n\n\n\n            \n    \n\n    </div>\n    \n        \n
-      \       <div class=\"zrcomponent  last\">\n            \n            \n        </div><!--
-      End zrcomponent -->\n        \n    \n    <!-- end zrail -->\n </div>\n\n\n            \n\n
-      \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n       \n       \n
-      \  \n\n<div id=\"footer\">\n    <ul id=\"ft_1\">\r\n\t<li class=\"first\"><a
-      href=\"/services/sitemap/\" title=\"gourmet.com site map\">Site Map</a></li>\r\n\t<li><a
-      href=\"/magazine\" title=\"Archive\">Archive</a></li>\r\n\t\t<li><a href=\"/contact/contactus\"
-      title=\"Contact\">Contact Gourmet</a></li>\r\n\t<li><a href=\"/services/presscenter/pressreleases/search/\"
-      title=\"Gourmet press releases, bios, and public relations contact information\">Press
-      Center</a></li>\r\n\t<li class=\"rss\"><a href=\"/services/rss/summary\" title=\"Sign
-      up for our RSS feeds to get instant site updates\">RSS Feeds</a></li>\r\n</ul>\n
-      \   <div id=\"global-footer\">\n        <div class=\"global-footer-nav\">\n
-      \           \n            \n            \n            \n            \n            <ul>\n
-      \               \n                        <li class=\"first\" id=\"global-footer-nav-subservices\"><a
-      href=\"http://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\">Subscription
+      \   \n\n\n        \n            \n            \n            \n    \n    </div>\n
+      \   \n        \n        <div class=\"zrcomponent  last\">\n            \n            \n
+      \       </div><!-- End zrcomponent -->\n        \n    \n    <!-- end zrail -->\n
+      </div>\n\n\n            \n\n    </div>\n</div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \      \n       \n   \n\n<div id=\"footer\">\n    <ul id=\"ft_1\">\r\n\t<li
+      class=\"first\"><a href=\"/services/sitemap/\" title=\"gourmet.com site map\">Site
+      Map</a></li>\r\n\t<li><a href=\"/magazine\" title=\"Archive\">Archive</a></li>\r\n\t\t<li><a
+      href=\"/contact/contactus\" title=\"Contact\">Contact Gourmet</a></li>\r\n\t<li><a
+      href=\"/services/presscenter/pressreleases/search/\" title=\"Gourmet press releases,
+      bios, and public relations contact information\">Press Center</a></li>\r\n\t<li
+      class=\"rss\"><a href=\"/services/rss/summary\" title=\"Sign up for our RSS
+      feeds to get instant site updates\">RSS Feeds</a></li>\r\n</ul>\n    <div id=\"global-footer\">\n
+      \       <div class=\"global-footer-nav\">\n            \n            \n            \n
+      \           \n            \n            <ul>\n                \n                        <li
+      class=\"first\" id=\"global-footer-nav-subservices\"><a href=\"http://w1.buysub.com/servlet/CSGateway?cds_mag_code=GMT\">Subscription
       Services</a></li>\n                    \n                <li id=\"global-footer-nav-careers\"><a
       href=\"http://www.condenastcareers.com\">Careers</a></li>\n                <li
       id=\"global-footer-nav-store\"><a href=\"http://www.condenaststore.com/\">Cond&eacute;
