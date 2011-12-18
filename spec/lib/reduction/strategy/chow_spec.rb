@@ -65,7 +65,7 @@ module Reduction
         it_should_find 'total_time', '45 mins, plus at least 7 hrs freezing time'
 
         it_should_find 'images', [
-          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_290.jpg",
+          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_620.jpg",
           "http://www.chow.com/images/green_checkmark.png",
           "http://www.chow.com/assets/2011/04/vanilla_bar_1.jpg",
           "http://www.chow.com/assets/2011/04/vanilla_bar_2.jpg",
