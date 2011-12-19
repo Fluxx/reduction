@@ -498,7 +498,7 @@
       message: OK
     headers:
       date:
-      - Sun, 18 Dec 2011 22:29:17 GMT
+      - Mon, 19 Dec 2011 18:48:55 GMT
       server:
       - Apache/2.2.3 (Red Hat)
       x-powered-by:
@@ -506,11 +506,11 @@
       x-ua-compatible:
       - IE=Edge,chrome=1
       x-runtime:
-      - '0.675602'
+      - '0.630144'
       cache-control:
       - max-age=300, public
       set-cookie:
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMUdVL1hSbDRvL2kwS1JDRmFHVVdoUVBmbzUzNTdIbC9RMGlmcFI0TiswY3c9Ig9zZXNzaW9uX2lkIiUxNjc5YTQ2YjljZGFlYjUwNWU0YWVlYjVmODkzOTA0Zg%3D%3D--a5d2c6701cf92bb2ab159da53cb80f6e8ff82999;
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMXEvTjUwZzhhTUZBUXpVZkVndEZCRDZmUE5pOVI0ZTduWGpycnlWbkdRaVU9Ig9zZXNzaW9uX2lkIiViNjVmYjI4ZWJhNzJiYTEzOTE0YmJhYWViNGNlODdkMA%3D%3D--4bb2e1d7a319413e66cee7bafc03f0445db8045a;
         path=/; HttpOnly
       last-modified:
       - Wed, 30 Nov 2011 18:58:32 GMT
@@ -886,7 +886,7 @@
       id='flash-error'></div>\n<form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\"
       data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
       name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"GU/XRl4o/i0KRCFaGUWhQPfo5357Hl/Q0ifpR4N+0cw=\" /></div>\n<div
+      type=\"hidden\" value=\"q/N50g8aMFAQzUfEgtFBD6fPNi9R4e7nXjrryVnGQiU=\" /></div>\n<div
       class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"dish_newsletter\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
       />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
