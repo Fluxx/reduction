@@ -1,3 +1,4 @@
+require 'reduction/core_ext/array'
 require "delegate"
 require "forwardable"
 require "multi_json"
@@ -16,7 +17,6 @@ module Reduction
 
     # Forwarding to the internal Array is necessary as using a delegator causes
     # an exception on YAML.dump when it subclasses DelegateClass.
-    puts "Setting up delegators for #{(ARRAY_INSTANCE_METHODS + EQUALITY_METHODS).inspect}"
     def_delegators :@arr, *(ARRAY_INSTANCE_METHODS + EQUALITY_METHODS)
 
     attr_accessor :name

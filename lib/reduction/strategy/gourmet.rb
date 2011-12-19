@@ -1,3 +1,6 @@
+require 'reduction/strategy'
+require 'reduction/named_list'
+
 module Reduction
   class Strategy
 

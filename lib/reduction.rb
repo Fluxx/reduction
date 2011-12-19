@@ -1,7 +1,8 @@
 require 'pathname'
+require 'reduction/strategy'
 
 module Reduction
-  ROOT = Pathname.new File.expand_path('./..', File.dirname(__FILE__))
+  ROOT = Pathname.new(File.expand_path(File.dirname(__FILE__)))
 
   class << self
 
@@ -17,6 +18,4 @@ module Reduction
 
 end
 
-require 'nokogiri'
-
-Dir["#{Reduction::ROOT}/lib/**/*.rb"].each { |f| require f }
+Reduction::ROOT.join('reduction/strategy').each_child { |s| require s }

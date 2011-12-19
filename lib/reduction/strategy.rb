@@ -1,3 +1,5 @@
+require "nokogiri"
+
 module Reduction
   class Strategy
 

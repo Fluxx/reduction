@@ -7,7 +7,6 @@ module Reduction
 
   end
 
-  puts "Adding ArrayExtensions to Array"
   Array.send(:include, ArrayExtensions)
 
 end

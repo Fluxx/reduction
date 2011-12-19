@@ -141,6 +141,11 @@ module Reduction
         ]
       end
 
+      context 'multiple ingredient lists' do
+        strategy_subject_for('http://www.foodnetwork.com/recipes/paula-deen/red-velvet-cupcakes-with-cream-cheese-frosting-recipe/index.html')
+        it_should_behave_like "a strategy"
+      end
+
     end
 
   end
