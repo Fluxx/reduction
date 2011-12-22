@@ -18,4 +18,4 @@ module Reduction
 
 end
 
-Reduction::ROOT.join('reduction/strategy').each_child { |s| require s }
+Reduction::ROOT.join('reduction/strategy').each_child { |s| require s.to_s }
