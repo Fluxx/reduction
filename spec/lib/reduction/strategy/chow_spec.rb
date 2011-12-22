@@ -60,7 +60,7 @@ module Reduction
 
         it_should_find 'prep_time', nil
 
-        it_should_find 'cook_time', nil
+        it_should_find 'cook_time', '45 mins, plus at least 7 hrs freezing time'
 
         it_should_find 'total_time', '45 mins, plus at least 7 hrs freezing time'
 

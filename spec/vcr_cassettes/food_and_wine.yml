@@ -498,7 +498,7 @@
       message: OK
     headers:
       date:
-      - Mon, 19 Dec 2011 18:48:55 GMT
+      - Thu, 22 Dec 2011 08:10:31 GMT
       server:
       - Apache/2.2.3 (Red Hat)
       x-powered-by:
@@ -506,11 +506,11 @@
       x-ua-compatible:
       - IE=Edge,chrome=1
       x-runtime:
-      - '0.630144'
+      - '0.735213'
       cache-control:
       - max-age=300, public
       set-cookie:
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMXEvTjUwZzhhTUZBUXpVZkVndEZCRDZmUE5pOVI0ZTduWGpycnlWbkdRaVU9Ig9zZXNzaW9uX2lkIiViNjVmYjI4ZWJhNzJiYTEzOTE0YmJhYWViNGNlODdkMA%3D%3D--4bb2e1d7a319413e66cee7bafc03f0445db8045a;
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMUFURGZJZ3RDM0JJOE1oSWN4MUJ3a0Rjc2huS1BVdEJsS2pMNy9Vc01IbGM9Ig9zZXNzaW9uX2lkIiVmMDhhNmE4ZWUxN2I2ZmE4MGIxZWE5MzY2OGY0YjQ2NA%3D%3D--1a5d7ab6cab9496b680715839d34f6497fcb1fd9;
         path=/; HttpOnly
       last-modified:
       - Wed, 30 Nov 2011 18:58:32 GMT
@@ -538,24 +538,24 @@
       rel='shortcut icon' type='image/x-icon'>\n\n\n<title>\nSherried Mushrooms with
       Fried Eggs on Toast\n Recipe - \nCindy Pawlcyn\n | Food &amp; Wine\n</title>\n<link
       href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet'
-      type='text/css'>\n<link href=\"/stylesheets/main.css?1324065946\" media=\"screen\"
-      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/recipe.css?1324065946\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n<link href=\"/stylesheets/printer.css?1324065946\"
-      media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community.css?1324065946\"
+      type='text/css'>\n<link href=\"/stylesheets/main.css?1324395730\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/recipe.css?1324395730\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n<link href=\"/stylesheets/printer.css?1324395730\"
+      media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n<link href=\"/stylesheets/community.css?1324395730\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
-      />\n<link href=\"/stylesheets/community_new.css?1324065946\" media=\"screen\"
-      rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n<link href=\"/stylesheets/screen_newsletter.css?1324065946\"
+      />\n<link href=\"/stylesheets/community_new.css?1324395730\" media=\"screen\"
+      rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n<link href=\"/stylesheets/screen_newsletter.css?1324395730\"
       media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\"
-      />\n<link href=\"/stylesheets/screen_recipes.css?1324065946\" media=\"screen\"
+      />\n<link href=\"/stylesheets/screen_recipes.css?1324395730\" media=\"screen\"
       rel=\"stylesheet\" type=\"text/css\" />\n\n<!--[if IE 7]>\n<link href='/css/ie7.css'
       rel='stylesheet' type='text/css'>\n<link href='/css/redesign.foodandwine/_printer-ie7.css'
-      media='print' rel='stylesheet' type='text/css'>\n<![endif]-->\n<script src=\"/javascripts/jquery.min.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery_ujs.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/swfobject.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/foodandwine_new.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/privacy_popup.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.clearinput.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/community_login_check.js?1324065946\"
+      media='print' rel='stylesheet' type='text/css'>\n<![endif]-->\n<script src=\"/javascripts/jquery.min.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery_ujs.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/swfobject.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/foodandwine_new.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/privacy_popup.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/jquery.clearinput.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/community_login_check.js?1324395730\"
       type=\"text/javascript\"></script>\n<script src=\"http://img.timeinc.net/shared/static/js/tii_ads.js\"
       type=\"text/javascript\"></script>\n<script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t'
       type='text/javascript'></script>\n<script language='javascript' type='text/javascript'>\n//<![CDATA[\nMAD={getQueryVariable:function(a){var
@@ -581,18 +581,18 @@
       } -->\n<script src='https://rpxnow.com/openid/v2/widget' type='text/javascript'></script>\n<script
       type='text/javascript'>\nRPXNOW.overlay = true;\nRPXNOW.language_preference
       = 'en';\n<!-- /FB.init(\"93ac89296316efd5d316caaa90bfbde4\"); -->\n</script>\n\n<script
-      src=\"/javascripts/tabcontent.js?1324065946\" type=\"text/javascript\"></script>\n\n<script
+      src=\"/javascripts/tabcontent.js?1324395730\" type=\"text/javascript\"></script>\n\n<script
       type='text/javascript'>\njQuery.noConflict();\n</script>\n</head>\n<body>\n<script
-      src=\"/javascripts/googleAnalytics.js?1324065946\" type=\"text/javascript\"></script>\n<script
-      src=\"/javascripts/ga_social_tracking.js?1324065946\" type=\"text/javascript\"></script>\n<!--\nOMNITURE:
+      src=\"/javascripts/googleAnalytics.js?1324395730\" type=\"text/javascript\"></script>\n<script
+      src=\"/javascripts/ga_social_tracking.js?1324395730\" type=\"text/javascript\"></script>\n<!--\nOMNITURE:
       DISPLAY BEGIN\n-->\n<div id='omniture' style='display:none'>\n<script type='text/javascript'>\nvar
       s_account = \"timefoodandwine\";\nvar search_kw = \"\";\nvar channel = \"recipes\";\nvar
       sub_channel = \"\";\nvar titleNoBrand = document.title;\ntitleNoBrand = titleNoBrand.slice(0,titleNoBrand.indexOf('
       |'));\nfunction fw_linktracker(linkname)\n{\nvar titleNoChef = document.title;\ntitleNoChef
       = titleNoChef.slice(0,titleNoChef.indexOf(' -'));\ns_time=s_gi(\"timefoodandwine\");\ns_time.linkTrackVars='events,prop13';\ns_time.linkTrackEvents=
       'event5';\ns_time.events='event5';\ns_time.prop13= titleNoChef;\ns_time.tl(true,'o',linkname
-      + ' = ' + titleNoChef);\n}\n</script>\n</div>\n<script src=\"/javascripts/_fw_track.js?1324065946\"
-      type=\"text/javascript\"></script>\n<script src=\"/javascripts/omniture_vars.js?1324065946\"
+      + ' = ' + titleNoChef);\n}\n</script>\n</div>\n<script src=\"/javascripts/_fw_track.js?1324395730\"
+      type=\"text/javascript\"></script>\n<script src=\"/javascripts/omniture_vars.js?1324395730\"
       type=\"text/javascript\"></script>\n\n<!--\nBegin comScore Tag\n-->\n<script>\ndocument.write(unescape(\"%3Cscript
       src='\" + (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\")
       + \".scorecardresearch.com/beacon.js' %3E%3C/script%3E\"));\n</script>\n<script>\nCOMSCORE.beacon({\nc1:2,\nc2:6034960,\nc3:\"\",\nc4:\"\",\nc5:\"\",\nc6:\"\",\nc15:\"\"\n});\n</script>\n<noscript>\n&lt;img
@@ -886,7 +886,7 @@
       id='flash-error'></div>\n<form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\"
       data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input
       name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"q/N50g8aMFAQzUfEgtFBD6fPNi9R4e7nXjrryVnGQiU=\" /></div>\n<div
+      type=\"hidden\" value=\"ATDfIgtC3BI8MhIcx1BwkDcshnKPUtBlKjL7/UsMHlc=\" /></div>\n<div
       class='content'>\n<div class='rowtext'>\n<div class='checkbox'>\n<input id=\"dish_newsletter\"
       name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\"
       />\n</div>\n<div class='textboldlabel'>\nfood\n</div>\n<div class='righttextdetails'>\n<span
@@ -906,7 +906,7 @@
       class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text'
       value='Enter your email address'>\n<a href='http://www.foodandwine.com/newsletters'
       target='_blank'></a>\n<input alt=\"Go\" class=\"signupbtn\" name=\"submit\"
-      src=\"/images/submitForm.gif?1324065946\" type=\"image\" value=\"Sign Up\" />\n<input
+      src=\"/images/submitForm.gif?1324395730\" type=\"image\" value=\"Sign Up\" />\n<input
       id=\"newsletter_source\" name=\"newsletter[source]\" type=\"hidden\" value=\"CM
       TOUT\" />\n</div>\n<div class='clear'></div>\n<div class='privacy-info-popup-holder'>\n<div
       class='privacy-info-popup'>\n<div class='privacy-info-popup-text'>\nAmerican
@@ -973,7 +973,7 @@
       target='_blank'>Privacy Statement</a>\nof American Express Publishing Corporation.\n<br>\n<br>\nUsers
       of this site agree to be bound by the terms of the American Express Publishing\n<br>\nCorporation
       Website Terms and Conditions.\n<br>\n<br>\n<span class='cwcolor'>Copyright &copy;
-      1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>\n<br>\n3.26-ci\n</p>\n</div>\n</div>\n<!--
+      1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>\n<br>\n3.28-ci\n</p>\n</div>\n</div>\n<!--
       FOOTER SITEMAP -->\n<!-- .emailcontainer-bttm -->\n<!-- = render 'shared/newsletter_signup'
       -->\n</div>\n<div id='ad-btm'>\n<div id='ad-btm-inner'>\n<script language='javascript'
       type='text/javascript'>\n//<![CDATA[\nvar ad = adFactory.getAd(728, 90);\nad.setPosition('2');\nad.setParam(\"!c\",
@@ -1011,6 +1011,6 @@
       id='email-button'>\n<img alt='Email #{mail_title.strip}' src='/images/mail_icon.jpg'>\n</a>\n</div>\n<div
       class='share-button mini'>\n<a alt='Sherried Mushrooms with Fried Eggs on Toast&#x000A;
       Recipe - &#x000A;Cindy Pawlcyn' href='http://www.foodandwine.com/recipes/sherried-mushrooms-with-fried-eggs-on-toast/print'>\n<img
-      src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n\n<script src=\"/javascripts/universal_share_bar.js?1324065946\"
+      src='/images/print_icon.jpg'>\n</a>\n</div>\n</div>\n\n<script src=\"/javascripts/universal_share_bar.js?1324395730\"
       type=\"text/javascript\"></script>\n</div>\n</body>\n</html>\n\n"
     http_version: '1.1'
