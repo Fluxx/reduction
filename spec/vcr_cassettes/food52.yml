@@ -2735,7 +2735,7 @@
       server:
       - nginx/0.7.61
       date:
-      - Thu, 22 Dec 2011 08:10:27 GMT
+      - Mon, 26 Dec 2011 20:25:53 GMT
       content-type:
       - text/html; charset=utf-8
       connection:
@@ -2748,13 +2748,13 @@
       x-powered-by:
       - Phusion Passenger (mod_rails/mod_rack) 2.2.5
       x-runtime:
-      - '2223'
+      - '2366'
       etag:
-      - ! '"251a011cc7da06f37efc206a19a7ec06"'
+      - ! '"0d3d2375c56af11fc8d6cbde320d8824"'
       cache-control:
       - private, max-age=0, must-revalidate
       content-length:
-      - '88245'
+      - '91822'
       set-cookie:
       - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
@@ -2762,8 +2762,8 @@
       - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
-      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlNzQ4MDE2YzExMmNhNzMyZWI0MGMxNzgzNDU1MzYyNzI%3D--ff6cff58b7f7d5691d5b1307ef4d07d206f17c64;
-        path=/; expires=Sat, 22-Dec-2012 08:10:26 GMT; HttpOnly
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlNTk5MjBkM2FkZDQyODRlY2IzMjBlOWM4ZTc1ZmE2NjM%3D--852f06c2d4d3d0d354dd19e76bcc174e6362aad6;
+        path=/; expires=Wed, 26-Dec-2012 20:25:53 GMT; HttpOnly
     body: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html
       lang=\"en\">\n<head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html;
       charset=utf-8\">\n  <meta name=\"verify-v1\" content=\"lMOAF4P7f2sxMtpjVkGgQTON1Js3aD2uDielq9qdoYI=\"
@@ -2776,25 +2776,26 @@
       Butter Cookies recipe from food52</title>\n<!--[if IE]>\n        <link rel=\"stylesheet\"
       type=\"text/css\" href=\"/stylesheets/ie8.css\" />\n<![endif]-->\n  <link rel=\"stylesheet\"
       type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n  <link
-      href=\"/stylesheets/rollover.css?1324362714\" media=\"screen\" rel=\"stylesheet\"
-      type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1324362714\" media=\"screen\"
-      rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1324362714\"
+      href=\"/stylesheets/rollover.css?1324910181\" media=\"screen\" rel=\"stylesheet\"
+      type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1324910181\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1324910181\"
       media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script
       type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n
       \ <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n
-      \ <![endif]-->\n\n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1324362714\"
-      type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1324362714\"
-      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1324362714\"
+      \ <![endif]-->\n\n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1324910181\"
+      type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1324910181\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1324910181\"
       media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script
-      src=\"/javascripts/tabs.js?1324362714\" type=\"text/javascript\"></script>\n<script
-      src=\"/javascripts/widgets/tooltip.js?1324362714\" type=\"text/javascript\"></script>\n
-      \   <script src=\"/javascripts/recipes.js?1324362714\" type=\"text/javascript\"></script>\n\n
+      src=\"/javascripts/tabs.js?1324910181\" type=\"text/javascript\"></script>\n<script
+      src=\"/javascripts/widgets/tooltip.js?1324910181\" type=\"text/javascript\"></script>\n
+      \   <script src=\"/javascripts/recipes.js?1324910181\" type=\"text/javascript\"></script>\n\n
       \ <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n
       \       preload: true,\n        generatePagination: false\n      });\n    });\n
       \ </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function()
@@ -2844,20 +2845,19 @@
       href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a
       href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n
       \                         <div class=\"entries\">\n                            <div
-      class=\"recipe_right\">\n                              <a href=\"/recipes/9219_sweet_and_savory_porridge_with_almonds_and_cardamom\"><img
-      alt=\"040111f_basmatibrown_04\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/16049/original/040111F_basmatibrown_04.JPG?1302569253\"
+      class=\"recipe_right\">\n                              <a href=\"/recipes/1299_grilled_brussels_sprouts\"><img
+      alt=\"Brussel_sprouts\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/20451/original/brussel_sprouts.jpg?1312309892\"
       /></a>\n                              <div class=\"info_recipe\">\n                                <mark
       id=\"recipe_white_outline\"></mark>\n\t\t                        <a class=\"\"
-      id=\"descriptor\" href=\"/recipes/9219_sweet_and_savory_porridge_with_almonds_and_cardamom\">Recipe
-      of the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a
-      href=\"/recipes/9219_sweet_and_savory_porridge_with_almonds_and_cardamom\">Sweet
-      and Savory Porridge with Almonds and Cardamom</a></h2>\n                              </div>\n
-      \                           </div>\n                          </div>\n                      </div>\n
-      \                   </div>\n             \t</span></span>\n \t\t\t  </li>\n
-      \             <li><a href=\"/hotline\" class=\"subtitle\" false >Hotline</a><span
-      class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"foodpickle\"><span>\n
-      \                   <div class=\"hover_wrap\" id=\"foodpickle\">\n                      <div
-      class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark
+      id=\"descriptor\" href=\"/recipes/1299_grilled_brussels_sprouts\">Recipe of
+      the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a
+      href=\"/recipes/1299_grilled_brussels_sprouts\">Grilled Brussels Sprouts</a></h2>\n
+      \                             </div>\n                            </div>\n                          </div>\n
+      \                     </div>\n                    </div>\n             \t</span></span>\n
+      \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false
+      >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip'
+      id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n
+      \                     <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark
       id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n
       \                         <a href=\"/hotline\">Ask any food question. Or answer
       any food question!</a>\n                        </h3>\n                      </div>\n
@@ -2870,7 +2870,7 @@
       \           <!-- LATEST SHOP OFFER STUFF -->\n                              <a
       href=\"http://shop.food52.com\" target=\"_blank\"><img src=\"http://s3.amazonaws.com/food52_assets/shop_promo_images/15/five_col/zursun.jpg?1324312159\"/></a>\n
       \                             <div class=\"info_recipe\">\n\t\t                            <a
-      class=\"\" id=\"descriptor\" href=\"/recipes/9219_sweet_and_savory_porridge_with_almonds_and_cardamom\">Now
+      class=\"\" id=\"descriptor\" href=\"/recipes/1299_grilled_brussels_sprouts\">Now
       in the shop</a>\n                                <h2 class=\"recipe_title\"
       id=\"white\"><a href=\"http://shop.food52.com\">EXCLUSIVE LEGUME & LENTIL COLLECTIONS
       FROM ZÜRSUN HEIRLOOM BEANS</a></h2>\n                              </div>\n
@@ -2904,11 +2904,12 @@
       id=\"cooks\">\n                    <div class=\"hover_box clearfix\">\n                      <div
       class=\"entries\">\n\t\t\t\t\t\t\t          <!-- FEATURED COOK -->\n                        \n
       \                         <div class=\"recipe_right\">\n                            <a
-      href=\"/blog/2802_meganvt01\"><img alt=\"Holiday Sparkler\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/22748/nine_col/6395191641_06ca299fda_o.jpg?1322233602\"
+      href=\"/blog/2816_emiko\"><img alt=\"Carrot Gnocchi with Butter and Sage Sauce\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/14253/nine_col/carrot_gnocchi_in_pan.jpg?1299201311\"
       /></a>\n                            <div class=\"info_recipe\">\n                              <mark
-      id=\"cooks_white_outline\"></mark>\n                              <a href=\"/users/2463_meganvt01\"
+      id=\"cooks_white_outline\"></mark>\n                              <a href=\"/users/23872_emiko\"
       class=\"\" id=\"descriptor\">Featured Cook</a>\n                              <h2
-      class=\"recipe_title\" id=\"white\"><a href=\"/blog/2802_meganvt01\" class=\"username\">meganvt01</a></h2>\n
+      class=\"recipe_title\" id=\"white\"><a href=\"/blog/2816_emiko\" class=\"username\">Emiko</a></h2>\n
       \                           </div>\n                          </div>\n                         \n
       \                       </div>\n                      </div>\n                    </div>\n
       \               \t</span>\n                </span>\n              </li>\n              <li><a
@@ -2926,14 +2927,12 @@
       &amp; a Movie</a></li>\n                            <li><a href=\"/blog/category/119_videos\">Videos</a></li>\n
       \                         </ul>\n                          <div class=\"entries\">\n
       \                           <div class=\"recipe_right\">\n                              <a
-      href=\"http://www.food52.com/contests/265_your_best_onebite_party_snack\"><img
-      alt=\"Screen_shot_2011-12-15_at_12\" src=\"http://s3.amazonaws.com/food52_assets/homepage_promo_images/686/nine_col/Screen_shot_2011-12-15_at_12.50.04_PM.png?1323971484\"
+      href=\"http://www.food52.com/blog/2774\"><img alt=\"11387_clam_pan_roast\" src=\"http://s3.amazonaws.com/food52_assets/homepage_promo_images/693/nine_col/11387_clam_pan_roast.jpeg?1324572323\"
       /></a>\n                              <div class=\"info_recipe\">\n                                <mark
       id=\"recipe_white_outline\"></mark>\n\t\t                            <a class=\"\"
-      id=\"descriptor\" href=\"http://www.food52.com/contests/265_your_best_onebite_party_snack\">Featured
-      Article</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a
-      href=\"http://www.food52.com/contests/265_your_best_onebite_party_snack\">Place
-      your votes!</a></h2>\n                              </div>\n                            </div>\n
+      id=\"descriptor\" href=\"http://www.food52.com/blog/2774\">Featured Article</a>\n
+      \                               <h2 class=\"recipe_title\" id=\"white\"><a href=\"http://www.food52.com/blog/2774\">7
+      festive courses</a></h2>\n                              </div>\n                            </div>\n
       \                         </div>\n                      </div>\n                    </div>\n
       \               \t</span>\n                </span>\n              </li>\n            </ul>\n
       \         </div>\n        <div class=\"message clearfix\" id=\"newsletter\">\n
@@ -2950,18 +2949,18 @@
       \t<div class=\"container clearfix\">\n\n\n      \n    <div class=\"three_columns
       leftest\">\n      <div class=\"space_20\"></div>\n      <div class=\"data sticky
       module\" id=\"single_recipe\">\n        <ul class=\"data\">\n          <li class=\"top\">\n
-      \           <h3 class=\"activity_count\">Added 20 days ago</h3></li>\n          <li
+      \           <h3 class=\"activity_count\">Added 24 days ago</h3></li>\n          <li
       class=\"dark clearfix\" id=\"first\">\n            \n            <h3 class=\"activity_count\">\n
-      \             <span>2,226</span> views</h3>\n          </li>\n          <div
+      \             <span>2,396</span> views</h3>\n          </li>\n          <div
       id=\"rating\">\n            \n            <li class=\"dark clearfix\">\n              \n
-      \             <h3 class=\"activity_count\" id=\"left\"><span>12</span></h3>\n
+      \             <h3 class=\"activity_count\" id=\"left\"><span>13</span></h3>\n
       \             <h3 class=\"activity_count\" id=\"right\">cooks want to eat this</h3>\n
       \           </li>\n            <li class=\"button\">\n\n              <span
       class=\"arrow_down\"></span>\n              \n                  <a href=\"#signup_open\"
       class=\"green_button\" name=\"modal\">Me too!</a>\n              \n            </li>\n
       \         </div>\n          <div id=\"save\">\n            <li class=\"dark
       clearfix\">\n              \n              \n              <h3 class=\"activity_count\"
-      id=\"left\"><span>148</span></h3>\n              <h3 class=\"activity_count\"
+      id=\"left\"><span>152</span></h3>\n              <h3 class=\"activity_count\"
       id=\"right\">cooks saved this recipe</h3>\n            </li>\n            <li
       class=\"button\">\n              \n                <a href=\"#signup_open\"
       class=\"green_button\" name=\"modal\">Save this recipe</a>\n              \n
@@ -2992,7 +2991,7 @@
       \   <div class=\"icons clearfix\">\n      <mark id=\"recipe\"><span>Recipe</span></mark>\n
       \     \n    </div>\n    <h1 class=\"individual\">Peanut Butter Cookies</h1>\n
       \   \n    <div id=\"tabs\">\n    <ul class=\"nav\">\n      <li><a href=\"#recipe_tab\">Recipe</a></li>\n
-      \     \n      <li>\n        <a href=\"#comments_tab\">\n          \n              10
+      \     \n      <li>\n        <a href=\"#comments_tab\">\n          \n              11
       Comments\n          \n        </a>\n      </li>\n      \n      <li>\n        <a
       href=\"#foodpickle_tab\">\n          \n              1 Question\n          \n
       \       </a>\n      </li>\n      <!-- <li><a href=\"#cooking_view\">Cooking
@@ -3124,10 +3123,35 @@
       \               </ol>\n              </div>\n\n          \n\n\n        </div>\n
       \     </div>\n\n      \n      \n\n      \n\n          \n              \n    <div
       class=\"comment clearfix\">\n      <div class=\"user clearfix\">\n        \n
-      \       \n        <a href=\"/users/16125_cookinalong\" class=\"pie slice_5\"></a>\n
-      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/16125_cookinalong\"
+      \       \n        <a href=\"/users/48103_floobish\" class=\"pie slice_1\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/48103_floobish\"
+      class=\"username\">Floobish</a>\n\t \t \n          <span class=\"date\">added
+      3 days ago</span>\n        </div>\n        \n            <a href=\"#reply_104031\"
+      onclick='$(\"#reply_104031\").toggle();return false;' class=\"reply\"><span
+      class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">These
+      cookies are fantastic.  I chilled the dough for about 2 hours and it was a breeze
+      shaping and flattening them.  Really delicious! Will have to make a double batch
+      next timr. </p>\n    </div>\n\n    \n    \n    <div id=\"reply_104031\" name=\"reply_104031\"
+      style=\"display:none;\">\n      \n\n    <form action=\"/recipes/add_comment\"
+      method=\"post\">\n        <textarea cols=\"40\" id=\"comment_box\" name=\"comment[body]\"
+      rows=\"20\" style=\"clear:both;\"></textarea>\n        <input id=\"comment_url\"
+      name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/15242_peanut_butter_cookies#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"15242\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"104031\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n          \n              \n    <div class=\"comment
+      clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
+      href=\"/users/16125_cookinalong\" class=\"pie slice_5\"></a>\n        \n        <div
+      class=\"user_info\">\n          \n\t\t\t<a href=\"/users/16125_cookinalong\"
       class=\"username\">cookinalong</a>\n\t \t \n          <span class=\"date\">added
-      3 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103732\"
+      8 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103732\"
       onclick='$(\"#reply_103732\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">I
       mailed these to my son in Afghanistan, and just wanted to let you know they've
@@ -3152,7 +3176,7 @@
       href=\"/users/46416_kunst_liebe\" class=\"pie slice_1\"></a>\n        \n        <div
       class=\"user_info\">\n          \n\t\t\t<a href=\"/users/46416_kunst_liebe\"
       class=\"username\">Kunst_Liebe</a>\n\t \t \n          <span class=\"date\">added
-      7 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103411\"
+      11 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103411\"
       onclick='$(\"#reply_103411\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">I'm
       tasting mine right now as I type this... perfect right out of the oven.  </p>\n
@@ -3178,7 +3202,7 @@
       /></a>\n        \n        <a href=\"/users/276_mrslarkin\" class=\"pie slice_50\"></a>\n
       \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/276_mrslarkin\"
       class=\"username\">mrslarkin</a>\n\t \t \n          <span class=\"date\">added
-      9 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103262\"
+      14 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103262\"
       onclick='$(\"#reply_103262\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">Yum!
       Sconegirl and I made these last night. We added 3/4 cup Heath Bar bits, 3/4
@@ -3202,7 +3226,7 @@
       clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
       href=\"/users/36443_jmt\" class=\"pie slice_7\"></a>\n        \n        <div
       class=\"user_info\">\n          \n\t\t\t<a href=\"/users/36443_jmt\" class=\"username\">JMT</a>\n\t
-      \t \n          <span class=\"date\">added 10 days ago</span>\n        </div>\n
+      \t \n          <span class=\"date\">added 14 days ago</span>\n        </div>\n
       \       \n            <a href=\"#reply_103235\" onclick='$(\"#reply_103235\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">I make these and do a loose crosshatch
@@ -3227,7 +3251,7 @@
       clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
       href=\"/users/42769_emsbutler\" class=\"pie slice_4\"></a>\n        \n        <div
       class=\"user_info\">\n          \n\t\t\t<a href=\"/users/42769_emsbutler\" class=\"username\">Emsbutler</a>\n\t
-      \t \n          <span class=\"date\">added 12 days ago</span>\n        </div>\n
+      \t \n          <span class=\"date\">added 16 days ago</span>\n        </div>\n
       \       \n            <a href=\"#reply_103054\" onclick='$(\"#reply_103054\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">So, do you mean the supermarket peanut
@@ -3240,7 +3264,7 @@
       slice_51\"></a>\n\n              <div class=\"user_info\">\n                \n
       \                 <p class=\"specialist\"><b>Merrill</b> is a co-founder of
       <a href='http://www.food52.com' target='_blank'>food52</a>.</p>\n            \t
-      \ \n                <span class=\"date\">added 12 days ago</span>\n              </div>\n
+      \ \n                <span class=\"date\">added 16 days ago</span>\n              </div>\n
       \           \n            \n                <a href=\"#reply_103054\" onclick='$(\"#reply_103054\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n            \n\n
       \           \n          </div>\n          \n          <p class=\"comment_text\">Those
@@ -3266,7 +3290,7 @@
       href=\"/users/45276_ghettodiamond\" class=\"pie slice_2\"></a>\n        \n        <div
       class=\"user_info\">\n          \n\t\t\t<a href=\"/users/45276_ghettodiamond\"
       class=\"username\">Ghettodiamond</a>\n\t \t \n          <span class=\"date\">added
-      15 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102603\"
+      19 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102603\"
       onclick='$(\"#reply_102603\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">My
       mom, a couple of friends and I are getting together before Christmas to do a
@@ -3291,7 +3315,7 @@
       clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
       href=\"/users/4498_mcs3000\" class=\"pie slice_30\"></a>\n        \n        <div
       class=\"user_info\">\n          \n\t\t\t<a href=\"/users/4498_mcs3000\" class=\"username\">mcs3000</a>\n\t
-      \t \n          <span class=\"date\">added 20 days ago</span>\n        </div>\n
+      \t \n          <span class=\"date\">added 24 days ago</span>\n        </div>\n
       \       \n            <a href=\"#reply_102079\" onclick='$(\"#reply_102079\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">Merrill, I want to make these NOW. Will
@@ -3300,7 +3324,7 @@
       \             \n              <a href=\"/users/4498_mcs3000\" class=\"pie slice_30\"></a>\n\n
       \             <div class=\"user_info\">\n                \n\t\t\t\t          <a
       href=\"/users/4498_mcs3000\" class=\"username\">mcs3000</a>\n\t\t\t\t        \n
-      \               <span class=\"date\">added 19 days ago</span>\n              </div>\n
+      \               <span class=\"date\">added 24 days ago</span>\n              </div>\n
       \           \n            \n                <a href=\"#reply_102079\" onclick='$(\"#reply_102079\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n            \n\n
       \           \n          </div>\n          \n          <p class=\"comment_text\">Another
@@ -3326,7 +3350,7 @@
       /></a>\n        \n        <a href=\"/users/25008_sdebrango\" class=\"pie slice_50\"></a>\n
       \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/25008_sdebrango\"
       class=\"username\">sdebrango</a>\n\t \t \n          <span class=\"date\">added
-      20 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102071\"
+      24 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102071\"
       onclick='$(\"#reply_102071\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">I
       have to try these, every peanut butter cookie recipe I have made uses shortening,
@@ -3350,16 +3374,40 @@
       name=\"modal\">log in</a>) to comment on a recipe!</h4>\n      \n    </div>\n\n
       \   <div id=\"comments_tab\">\n  \n    \n    \n      \n            \n    <div
       class=\"comment clearfix\">\n      <div class=\"user clearfix\">\n        \n
-      \       \n        <a href=\"/users/16125_cookinalong\" class=\"pie slice_5\"></a>\n
-      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/16125_cookinalong\"
-      class=\"username\">cookinalong</a>\n\t \t \n          <span class=\"date\">added
-      3 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103732\"
-      onclick='$(\"#reply_c_103732\").toggle();return false;' class=\"reply\"><span
-      class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">I
-      mailed these to my son in Afghanistan, and just wanted to let you know they've
-      gotten the Marine Corps seal of approval! Thanks for sharing the recipe!</p>\n
-      \   </div>\n\n    \n    \n    <div id=\"reply_c_103732\" name=\"reply_103732\"
+      \       \n        <a href=\"/users/48103_floobish\" class=\"pie slice_1\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/48103_floobish\"
+      class=\"username\">Floobish</a>\n\t \t \n          <span class=\"date\">added
+      3 days ago</span>\n        </div>\n        \n            <a href=\"#reply_104031\"
+      onclick='$(\"#reply_c_104031\").toggle();return false;' class=\"reply\"><span
+      class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">These
+      cookies are fantastic.  I chilled the dough for about 2 hours and it was a breeze
+      shaping and flattening them.  Really delicious! Will have to make a double batch
+      next timr. </p>\n    </div>\n\n    \n    \n    <div id=\"reply_c_104031\" name=\"reply_104031\"
       style=\"display:none;\">\n      \n\n    <form action=\"/recipes/add_comment\"
+      method=\"post\">\n        <textarea cols=\"40\" id=\"comment_box\" name=\"comment[body]\"
+      rows=\"20\" style=\"clear:both;\"></textarea>\n        <input id=\"comment_url\"
+      name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/15242_peanut_butter_cookies#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"15242\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"104031\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n      \n            \n    <div class=\"comment clearfix\">\n
+      \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/16125_cookinalong\"
+      class=\"pie slice_5\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
+      href=\"/users/16125_cookinalong\" class=\"username\">cookinalong</a>\n\t \t
+      \n          <span class=\"date\">added 8 days ago</span>\n        </div>\n        \n
+      \           <a href=\"#reply_103732\" onclick='$(\"#reply_c_103732\").toggle();return
+      false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
+      \     \n      <p class=\"comment_text\">I mailed these to my son in Afghanistan,
+      and just wanted to let you know they've gotten the Marine Corps seal of approval!
+      Thanks for sharing the recipe!</p>\n    </div>\n\n    \n    \n    <div id=\"reply_c_103732\"
+      name=\"reply_103732\" style=\"display:none;\">\n      \n\n    <form action=\"/recipes/add_comment\"
       method=\"post\">\n        <textarea cols=\"40\" id=\"comment_box\" name=\"comment[body]\"
       rows=\"20\" style=\"clear:both;\"></textarea>\n        <input id=\"comment_url\"
       name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/15242_peanut_butter_cookies#comments_tab\"
@@ -3377,8 +3425,8 @@
       \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/46416_kunst_liebe\"
       class=\"pie slice_1\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
       href=\"/users/46416_kunst_liebe\" class=\"username\">Kunst_Liebe</a>\n\t \t
-      \n          <span class=\"date\">added 7 days ago</span>\n        </div>\n        \n
-      \           <a href=\"#reply_103411\" onclick='$(\"#reply_c_103411\").toggle();return
+      \n          <span class=\"date\">added 11 days ago</span>\n        </div>\n
+      \       \n            <a href=\"#reply_103411\" onclick='$(\"#reply_c_103411\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">I'm tasting mine right now as I type
       this... perfect right out of the oven.  </p>\n    </div>\n\n    \n    \n    <div
@@ -3402,7 +3450,7 @@
       /></a>\n        \n        <a href=\"/users/276_mrslarkin\" class=\"pie slice_50\"></a>\n
       \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/276_mrslarkin\"
       class=\"username\">mrslarkin</a>\n\t \t \n          <span class=\"date\">added
-      9 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103262\"
+      14 days ago</span>\n        </div>\n        \n            <a href=\"#reply_103262\"
       onclick='$(\"#reply_c_103262\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">Yum!
       Sconegirl and I made these last night. We added 3/4 cup Heath Bar bits, 3/4
@@ -3426,7 +3474,7 @@
       \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/36443_jmt\"
       class=\"pie slice_7\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
       href=\"/users/36443_jmt\" class=\"username\">JMT</a>\n\t \t \n          <span
-      class=\"date\">added 10 days ago</span>\n        </div>\n        \n            <a
+      class=\"date\">added 14 days ago</span>\n        </div>\n        \n            <a
       href=\"#reply_103235\" onclick='$(\"#reply_c_103235\").toggle();return false;'
       class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">I make these and do a loose crosshatch
@@ -3451,7 +3499,7 @@
       \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/42769_emsbutler\"
       class=\"pie slice_4\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
       href=\"/users/42769_emsbutler\" class=\"username\">Emsbutler</a>\n\t \t \n          <span
-      class=\"date\">added 12 days ago</span>\n        </div>\n        \n            <a
+      class=\"date\">added 16 days ago</span>\n        </div>\n        \n            <a
       href=\"#reply_103054\" onclick='$(\"#reply_c_103054\").toggle();return false;'
       class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">So, do you mean the supermarket peanut
@@ -3464,7 +3512,7 @@
       slice_51\"></a>\n\n              <div class=\"user_info\">\n                \n
       \                 <p class=\"specialist\"><b>Merrill</b> is a co-founder of
       <a href='http://www.food52.com' target='_blank'>food52</a>.</p>\n            \t
-      \ \n                <span class=\"date\">added 12 days ago</span>\n              </div>\n
+      \ \n                <span class=\"date\">added 16 days ago</span>\n              </div>\n
       \           \n            \n                <a href=\"#reply_103054\" onclick='$(\"#reply_c_103054\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n            \n\n
       \           \n          </div>\n          \n          <p class=\"comment_text\">Those
@@ -3489,7 +3537,7 @@
       \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/45276_ghettodiamond\"
       class=\"pie slice_2\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
       href=\"/users/45276_ghettodiamond\" class=\"username\">Ghettodiamond</a>\n\t
-      \t \n          <span class=\"date\">added 15 days ago</span>\n        </div>\n
+      \t \n          <span class=\"date\">added 19 days ago</span>\n        </div>\n
       \       \n            <a href=\"#reply_102603\" onclick='$(\"#reply_c_102603\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">My mom, a couple of friends and I are
@@ -3515,7 +3563,7 @@
       \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/4498_mcs3000\"
       class=\"pie slice_30\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
       href=\"/users/4498_mcs3000\" class=\"username\">mcs3000</a>\n\t \t \n          <span
-      class=\"date\">added 20 days ago</span>\n        </div>\n        \n            <a
+      class=\"date\">added 24 days ago</span>\n        </div>\n        \n            <a
       href=\"#reply_102079\" onclick='$(\"#reply_c_102079\").toggle();return false;'
       class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
       \     \n      <p class=\"comment_text\">Merrill, I want to make these NOW. Will
@@ -3524,7 +3572,7 @@
       \             \n              <a href=\"/users/4498_mcs3000\" class=\"pie slice_30\"></a>\n\n
       \             <div class=\"user_info\">\n                \n\t\t\t\t          <a
       href=\"/users/4498_mcs3000\" class=\"username\">mcs3000</a>\n\t\t\t\t        \n
-      \               <span class=\"date\">added 19 days ago</span>\n              </div>\n
+      \               <span class=\"date\">added 24 days ago</span>\n              </div>\n
       \           \n            \n                <a href=\"#reply_102079\" onclick='$(\"#reply_c_102079\").toggle();return
       false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n            \n\n
       \           \n          </div>\n          \n          <p class=\"comment_text\">Another
@@ -3549,7 +3597,7 @@
       /></a>\n        \n        <a href=\"/users/25008_sdebrango\" class=\"pie slice_50\"></a>\n
       \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/25008_sdebrango\"
       class=\"username\">sdebrango</a>\n\t \t \n          <span class=\"date\">added
-      20 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102071\"
+      24 days ago</span>\n        </div>\n        \n            <a href=\"#reply_102071\"
       onclick='$(\"#reply_c_102071\").toggle();return false;' class=\"reply\"><span
       class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">I
       have to try these, every peanut butter cookie recipe I have made uses shortening,
@@ -3577,7 +3625,7 @@
       \                   <a href=\"/users/20976_rachelg\" class=\"pie slice_8\"></a>\n
       \                 \n\n                  <div class=\"user_info\">\n                    \n
       \                       <a href=\"/users/20976_rachelg\" class=\"username\">RachelG</a>\n
-      \                   \n                    <span class=\"date\">added 19 days
+      \                   \n                    <span class=\"date\">added 24 days
       ago</span>\n                  </div>\n                  \n                </div>\n
       \               <p class=\"comment_text\"><a href=\"/hotline/9937-a-question-about-a-recipe-peanut-butter-cookies\">Recipe
       looks great!  It looks like step 1 calls for 2 sugars, but there's only one
@@ -3654,52 +3702,53 @@
       \           <script src=\"http://adserver.adtechus.com/?adrawdata/3.0/5108.1/2224862/0/0/ADTECH;loc=100;noperf=1;\"></script>\n
       \       </div>\n      </div>\n      \n      \n          \n            \n\n    \n<div
       class=\"recipes module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n
-      \     <a href=\"/recipes/search?ca=67\"><span class=\"bold\">Summer</span> Recipes</a>\n
-      \   </h3>\n\t<a href=\"/recipes/6727_mozzarella_and_roasted_cherry_tomato_salad\"><img
-      alt=\"Mozz_and_roasted_tomatoes\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/18497/five_col/mozz_and_roasted_tomatoes.jpg?1308345078\"
+      \     <a href=\"/recipes/search?ca=69\"><span class=\"bold\">Winter</span> Recipes</a>\n
+      \   </h3>\n\t<a href=\"/recipes/2488_tsorta_tfaya_with_couscous\"><img alt=\"040610f_863\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/14111/five_col/040610F_863.JPG?1299000876\"
       /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
-      href=\"/recipes/6727_mozzarella_and_roasted_cherry_tomato_salad\">Mozzarella
-      and Roasted Cherry Tomato Salad</a></h2></li>\n\t\n\t</ul>\n    <a href=\"/recipes/search?ca=67\"
-      class=\"view_more\">See more &raquo;</a>\n</div>\n\n          \n          \n
-      \             \n          \n      \n          \n            \n\n    \n<div class=\"recipes
+      href=\"/recipes/2488_tsorta_tfaya_with_couscous\">Tsorta Tfaya With Couscous</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=69\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      \         \n          \n      \n          \n            \n\n    \n<div class=\"recipes
+      module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n      <a
+      href=\"/recipes/search?ca=53\"><span class=\"bold\">Snack</span> Recipes</a>\n
+      \   </h3>\n\t<a href=\"/recipes/2848_wakeup_cocoa_quick_bread\"><img alt=\"121410f_336\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/14145/five_col/121410F_336.JPG?1299003685\"
+      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
+      href=\"/recipes/2848_wakeup_cocoa_quick_bread\">Wake-Up Cocoa Quick Bread</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=53\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      \         \n          \n      \n          \n            \n\n    \n<div class=\"recipes
       module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n      <a
       href=\"/recipes/search?ca=71\"><span class=\"bold\">Christmas</span> Recipes</a>\n
-      \   </h3>\n\t<a href=\"/recipes/7645_david_eyres_pancake\"><img alt=\"1966\"
-      src=\"http://s3.amazonaws.com/food52_assets/indeximages/11824/five_col/1966.jpeg?1292375470\"
+      \   </h3>\n\t<a href=\"/recipes/2038_normas_eggnog\"><img alt=\"121409f_056a\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/3729/five_col/121409F_056A.JPG?1264516423\"
       /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
-      href=\"/recipes/7645_david_eyres_pancake\">David Eyre's Pancake</a></h2></li>\n\t\n\t</ul>\n
+      href=\"/recipes/2038_normas_eggnog\">Norma's Eggnog</a></h2></li>\n\t\n\t</ul>\n
       \   <a href=\"/recipes/search?ca=71\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
       \         \n          \n      \n          \n            \n\n    \n<div class=\"recipes
       module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n      <a
-      href=\"/recipes/search?ca=43\"><span class=\"bold\">Dessert</span> Recipes</a>\n
-      \   </h3>\n\t<a href=\"/recipes/1172_double_chocolate_espresso_cookies\"><img
-      alt=\"Espresso_cookie\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/20445/five_col/espresso_cookie.jpg?1312308139\"
+      href=\"/recipes/search?ca=34\"><span class=\"bold\">Rice & Grain</span> Recipes</a>\n
+      \   </h3>\n\t<a href=\"/recipes/6334_corn_risotto_garnished_with_bacon_anchovy_sage_leaf_bite\"><img
+      alt=\"101210f_051\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/14138/five_col/101210F_051.JPG?1299003135\"
       /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
-      href=\"/recipes/1172_double_chocolate_espresso_cookies\">Double Chocolate Espresso
-      Cookies</a></h2></li>\n\t\n\t</ul>\n    <a href=\"/recipes/search?ca=43\" class=\"view_more\">See
-      more &raquo;</a>\n</div>\n\n          \n          \n      \n          \n            \n\n
-      \   \n<div class=\"recipes module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3
-      class=\"heading\">\n      <a href=\"/recipes/search?ca=59\"><span class=\"bold\">Can
-      Be Made Ahead</span> Recipes</a>\n    </h3>\n\t<a href=\"/recipes/8185_party_popcorn\"><img
-      alt=\"5179775887_5ef1eb3923_z\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/11584/five_col/5179775887_5ef1eb3923_z.jpg?1291739900\"
-      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
-      href=\"/recipes/8185_party_popcorn\">Party Popcorn</a></h2></li>\n\t\n\t</ul>\n
-      \   <a href=\"/recipes/search?ca=59\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      href=\"/recipes/6334_corn_risotto_garnished_with_bacon_anchovy_sage_leaf_bite\">Corn
+      Risotto garnished with Bacon & Anchovy Sage Leaf Bite</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=34\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
       \         \n          \n      \n          \n          \n      \n          \n
       \         \n      \n          \n          \n      \n          \n          \n
       \     \n          \n          \n      \n          \n          \n      \n          \n
-      \         \n      \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n
-      \ <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n
-      \ <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/27223_chef_michael_kiss\">Chef
-      Michael Kiss</a></h3>\n  \n\n  \n\n  <p class=\"hotliner\"><b>Chef Michael Kiss</b>
-      is the <a href='http://rockville.wholefoodsmarketcooking.com/blog/2000_chef_michael_kiss_cooking_coach'
-      target='_blank'>Cooking Coach</a> at Whole Foods Market in Rockville, Md.</p>\n
-      \ \n      \n          <div class=\"hotliner_activity clearfix\">\n              <div
-      class=\"activity_action\">\n                  <a href=\"/users/27223_chef_michael_kiss\"
-      class=\"username\">Chef Michael Kiss</a> answered Sandwiches with fried eggs
-      in them? 8 months ago\n              </div>\n          </div>\n      \n  \n</div>\n\n\n
-      \   </div>\n\n    <div id=\"lightbox_overlay\">\n      <div class=\"confirmation_modal
-      small\" id=\"email_modal_open\">\n        <!-- Match id to a above -->\n        <div
+      \         \n              \n          \n      \n\n      <div class=\"item about_editors
+      module\" id=\"border_bottom\">\n  <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet
+      our Hotliners:</h3>\n  <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/29906_steven_raichlen\">Steven
+      Raichlen</a></h3>\n  \n\n  \n\n  <p class=\"hotliner\"><b><a href='http://www.barbecuebible.com/'
+      target='_blank'>Steven</a></b> is the author of the best-selling <b><a href=\"http://www.amazon.com/Barbecue-Bible-Steven-Raichlen/dp/0761149430?tag=food52-20\"
+      target='_blank' >Barbecue Bible</a></b> and the host of two grilling TV shows:
+      The Primal Grill and Barbecue University. </p>\n  \n      \n          <div class=\"hotliner_activity
+      clearfix\">\n              <div class=\"activity_action\">\n                  <a
+      href=\"/users/29906_steven_raichlen\" class=\"username\">Steven Raichlen</a>
+      answered What are the best fish/wood chips to use in a stovetop smoker? 5 months
+      ago\n              </div>\n          </div>\n      \n  \n</div>\n\n\n    </div>\n\n
+      \   <div id=\"lightbox_overlay\">\n      <div class=\"confirmation_modal small\"
+      id=\"email_modal_open\">\n        <!-- Match id to a above -->\n        <div
       class=\"modal_header\">\n          <a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n
       \         <!-- Logged in -->\n          \n            <!-- Logged out -->\n
       \           <h3 class=\"green_caps_heading\"><span>Please</span> <a href=\"#signup_open\"
@@ -3755,49 +3804,48 @@
       - We're Hiring!</a></li>\n          <li><a href=\"http://saymedia.com/advertisers.php\">Advertise
       with Us</a></li>\n\t\t\t\t\t<li><a href=\"/home/contact_us\">Contact Us</a></li>\n\t\t\t\t\t<!--
       <li><a href=\"/home/advertise\">Advertise on Food52</a></li> -->\n\t\t\t\t</ul>\n\t\t\t\t<ul
-      class=\"logos\">\n                    \n                    \n                    \n
-      \                   \n                    \n\t\t\t\t\t    <li><a target=\"_blank\"
-      href=\"http://live.gourmet.com/2011/05/app-exclusive-50-women-game-changers/#more-7158\"><img
+      class=\"logos\">\n                    \n                    \n                        <li><a
+      target=\"_blank\" href=\"http://abclocal.go.com/wabc/story?section=news/local/new_york&id=7803768\"><img
+      src=\"/images/footer_abc.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t\t<li><a
+      target=\"_blank\" href=\"http://www.dailycandy.com/all-cities/article/75467/Project+Mayhem\"><img
+      src=\"/images/footer_dailycandy.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t
+      \   <li><a target=\"_blank\" href=\"http://goop.com/newsletter/55/en/\"><img
+      src=\"/images/footer_goop.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t
+      \   <li><a target=\"_blank\" href=\"http://live.gourmet.com/2011/05/app-exclusive-50-women-game-changers/#more-7158\"><img
       src=\"/images/footer_gourmet.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t
       \   <li><a target=\"_blank\" href=\"http://lifehacker.com/5662269/food52s-editors-on-making-sense-of-recipes\"><img
       src=\"/images/footer_lifehacker.jpg\" /></a></li>\n\t\t\t\t\t\n                    \n
-      \                     <li><a target=\"_blank\" href=\"http://www.marthastewart.com/show/the-martha-stewart-show/handmade-holiday-ideas\"><img
-      src=\"/images/footer_MStew.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t<li><a
-      target=\"_blank\" href=\"http://theradioblog.marthastewart.com/2011/02/amanda-hesser-and-merrill-stubbs-on-the-essential-ny-times-cookbook-and-food52.html\"><img
-      src=\"/images/footer_MStewLive.jpg\" /></a></li>\n\t\t\t\t\t\n                    \n
-      \                     <li><a target=\"_blank\" href=\"http://thedianerehmshow.org/shows/2010-10-28/amanda-hesser-essential-new-york-times-cookbook-classic-recipes-new-century-w-w-nor\"><img
-      src=\"/images/footer_npr.jpg\" /></a></li>\n\t\t\t\t\t\n                    \n
       \                   \n                    \n                    \n                    \n
-      \                   \n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"unbulleted\">\n\t\t\t\t\t<li><h5
+      \                   \n                    \n                    \n                    \n
+      \                   \n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"unbulleted\">\n\t\t\t\t\t<li><h5
       class=\"second_header\">5 Popular Recipes:</h5></li>\n                    \n
-      \                       <li><a href=\"/recipes/12535_salvadoran_breakfast_cake_aka_quesadillas\">Salvadoran
-      Breakfast Cake (a.k.a. Quesadillas)</a></li>\n                    \n                        <li><a
-      href=\"/recipes/7015_roasted_cauliflower_with_gremolata_bread_crumbs\">Roasted
-      Cauliflower with Gremolata Bread Crumbs</a></li>\n                    \n                        <li><a
-      href=\"/recipes/5383_zuccaghetti\">Zuccaghetti</a></li>\n                    \n
-      \                       <li><a href=\"/recipes/9628_burnt_caramel_pudding\">Burnt
-      Caramel Pudding</a></li>\n                    \n                        <li><a
-      href=\"/recipes/2105_ancho_chilicinnamon_chocolate_bark\">Ancho Chili-Cinnamon
-      Chocolate Bark</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"unbulleted\">\n\t\t\t\t\t<li><h5
+      \                       <li><a href=\"/recipes/11612_fried_calamari\">Fried
+      Calamari</a></li>\n                    \n                        <li><a href=\"/recipes/12330_mexican_street_fair_corn\">Mexican
+      Street Fair Corn</a></li>\n                    \n                        <li><a
+      href=\"/recipes/5748_suya_swordfish\">Suya Swordfish</a></li>\n                    \n
+      \                       <li><a href=\"/recipes/9769_carrot_and_parsnip_fettuccine\">Carrot
+      and Parsnip Fettuccine</a></li>\n                    \n                        <li><a
+      href=\"/recipes/14735_new_years_day_fresh_ham\">New Year's Day Fresh Ham</a></li>\n
+      \                   \n\t\t\t\t</ul>\n\t\t\t\t<ul class=\"unbulleted\">\n\t\t\t\t\t<li><h5
       class=\"second_header\">5 Popular Articles:</h5></li>\n                    \n
-      \                       <li><a href=\"/blog/2178_editors_picks_street_food\">Editors'
-      Picks — Street Food</a></li>\n                    \n                        <li><a
-      href=\"/blog/1289_update_david_eyres_pancake_1966\">UPDATE David Eyre's Pancake:
-      1966</a></li>\n                    \n                        <li><a href=\"/blog/697_editors_picks_week_45\">Editors'
-      Picks -- Week 45</a></li>\n                    \n                        <li><a
-      href=\"/blog/2607_the_new_food52\">The New Food52</a></li>\n                    \n
-      \                       <li><a href=\"/blog/554_editors_picks_week_38\">Editors'
-      Picks -- Week 38</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul
+      \                       <li><a href=\"/blog/657_editors_picks_week_43\">Editors'
+      Picks -- Week 43</a></li>\n                    \n                        <li><a
+      href=\"/blog/2531_procuring_bees_and_honey_cake\">Procuring Bees and Honey Cake</a></li>\n
+      \                   \n                        <li><a href=\"/blog/917_the_best_lime_ice_cream\">The
+      Best Lime Ice Cream</a></li>\n                    \n                        <li><a
+      href=\"/blog/1775_a_day_in_the_life\">A Day in the Life</a></li>\n                    \n
+      \                       <li><a href=\"/blog/1418_spatchcocked_and_braiseroasted_chicken\">Spatchcocked
+      and Braise-Roasted Chicken</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul
       class=\"unbulleted\" id=\"hide_small\">\n                  \t<li><h5 class=\"second_header\">5
       Popular Contests:</h5></li>\n                    \n                        <li><a
-      href=\"/contests/207_your_best_salad_with_apples\">Your Best Salad with Apples</a></li>\n
-      \                   \n                        <li><a href=\"/contests/238_your_best_spring_vegetable_recipe\">Your
-      Best Spring Vegetable Recipe</a></li>\n                    \n                        <li><a
-      href=\"/contests/216_your_best_recipe_with_citrus_olives\">Your Best Recipe
-      with Citrus & Olives</a></li>\n                    \n                        <li><a
-      href=\"/contests/213_your_best_recipe_with_cardamom\">Your Best Recipe with
-      Cardamom</a></li>\n                    \n                        <li><a href=\"/contests/265_your_best_onebite_party_snack\">Your
-      Best One-Bite Party Snack</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n
+      href=\"/contests/243_your_best_glutenfree_baked_good\">Your Best Gluten-Free
+      Baked Good</a></li>\n                    \n                        <li><a href=\"/contests/264_your_best_holiday_breakfast_ii\">Your
+      Best Holiday Breakfast II</a></li>\n                    \n                        <li><a
+      href=\"/contests/159_your_best_recipe_using_fresh_mozzarella\">Your Best Recipe
+      Using Fresh Mozzarella</a></li>\n                    \n                        <li><a
+      href=\"/contests/244_your_best_picnic_dish\">Your Best Picnic Dish</a></li>\n
+      \                   \n                        <li><a href=\"/contests/234_your_best_mushrooms\">Your
+      Best Mushrooms</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n
       \ <script type=\"text/javascript\">\nvar gaJsHost = ((\"https:\" == document.location.protocol)
       ? \"https://ssl.\" : \"http://www.\");\ndocument.write(unescape(\"%3Cscript
       src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<script

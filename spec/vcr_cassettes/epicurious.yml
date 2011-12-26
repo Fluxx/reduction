@@ -3340,6 +3340,919 @@
 - !ruby/struct:VCR::HTTPInteraction
   request: !ruby/struct:VCR::Request
     method: :get
+    uri: http://www.epicurious.com:80/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085
+    body: !!null 
+    headers: !!null 
+  response: !ruby/struct:VCR::Response
+    status: !ruby/struct:VCR::ResponseStatus
+      code: 200
+      message: OK
+    headers:
+      server:
+      - Apache
+      content-language:
+      - en-US
+      content-type:
+      - text/html; charset=iso-8859-1
+      cache-control:
+      - private, max-age=600
+      expires:
+      - Thu, 22 Dec 2011 08:31:55 GMT
+      date:
+      - Thu, 22 Dec 2011 08:21:55 GMT
+      transfer-encoding:
+      - chunked
+      connection:
+      - keep-alive
+      - Transfer-Encoding
+      set-cookie:
+      - mobify=0; expires=Thu, 22-Dec-2011 10:21:55 GMT; domain=epicurious.com
+    body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
+      \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
+      xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
+      itemtype=\"http://schema.org/\">\n\n\n<head>\n        \n    \n    \n\n    \n
+      \   \n        \n        \n        \n        \n        \n        \n            <title>\n\n\n\n\n\n\n\n\n\nCaramel-Dark
+      Chocolate Truffles with Fleur de Sel Recipe\n at Epicurious.com</title>\n            <meta
+      itemprop=\"name\" content=\"\n\n\n\n\n\n\n\n\n\nCaramel-Dark Chocolate Truffles
+      with Fleur de Sel Recipe\n at Epicurious.com\">\n            <meta property=\"og:title\"
+      content=\"\n\n\n\n\n\n\n\n\n\nCaramel-Dark Chocolate Truffles with Fleur de
+      Sel Recipe\n at Epicurious.com\" />\n        \n        \n        \n    \n    \n
+      \   \n\n\n\n\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\"
+      />\n<meta http-equiv=\"PRAGMA\" content=\"NO-CACHE\" />\n<meta http-equiv=\"Content-Language\"
+      content=\"en-us\" />\n<meta name=\"MSSmartTagsPreventParsing\" content=\"true\"
+      />\n<meta name=\"author\" content=\"CondeNet\" />\n<meta name=\"Copyright\"
+      content=\"Copyright (c) 2011 CondeNet\" />\n\n\n<meta property=\"og:type\" content=\"food\"
+      />\n<meta property=\"og:url\" content=\"http://www.epicurious.com:80/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      />\n\n    \n    \n        <meta property=\"og:image\" content=\"http://www.epicurious.com:80/images/recipesmenus/2004/2004_january/109085_116.jpg\"/>\n
+      \   \n    \n\n<meta property=\"og:site_name\" content=\"Epicurious\"/>\n<meta
+      property=\"fb:admins\" content=\"648235154,789168297,688620285\"/>\n<meta property=\"fb:page_id\"
+      content=\"12770210203\"/>\n\n    <link rel=\"stylesheet\" type=\"text/css\"
+      media=\"screen\" href=\"/styles/main.css\" />\n    <link rel=\"stylesheet\"
+      type=\"text/css\" media=\"screen\" href=\"/styles/secondary.css\" />\n    \n\n
+      \   <link rel=\"stylesheet\" href=\"/css/recipe-detail.css\" type=\"text/css\"
+      media=\"screen\">\n\n\n<link rel=\"stylesheet\" type=\"text/css\" media=\"print\"
+      href=\"/styles/print.css\" />\n<link rel=\"Shortcut Icon\" href=\"/favicon.ico\"
+      type=\"image/x-icon\" />\n\n\n\n\n\n<script type=\"text/javascript\">var documentQueryString=window.location.search.replace(/\\?/,\"\");
+      </script>\n<script type=\"text/javascript\" src=\"/scripts/jquery-1.3.2.min.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/js/cn-fe-common/cn.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/js/cn-fe-ads/cn.dart.js\"></script>\n<script type=\"text/javascript\">\n
+      \   CN.site.init({\n        code: 'EPI',\n        title: 'Epicurious',\n        name:
+      'epicurious.com'\n    });\n</script>\n<script type=\"text/javascript\" src=\"/js/cn-fe-ads/cn.ad.modifiers.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/js/cn-fe-ads/cn.ad.lotame.js\"></script>\n\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/main.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/scripts/recipeAdUtils.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/ecom/ecomfw.min.js\"></script>\n\n\n\n<script type=\"text/javascript\">\n
+      \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
+      \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'epi.dart',
+      zone: 'recipedetail;', kws:[ \"Cocktail+Party\",\"Edible+Gift\",\"Advanced+Cooking\",\"Engagement+Party\",\"views\",\"Winter\",\"rid=109085&Chocolate&Dessert&Milk/Cream&Shower&Engagement+Party&Advanced+Cooking&Christmas&Cocktail+Party&Edible+Gift&American&Advance&Winter&Candy&ba&ad=N&recipes&food&views&Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\",\"Shower\",\"food\",\"Milk/Cream\",\"recipes\",\"Chocolate\",\"American\",\"Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\",\"Candy\",\"Christmas\",\"Dessert\",\"rid=109085\",\"ba\",\"ad=N\",\"Advance\"],
+      charmap : {}, embed: true});\n    //-->\n    </script>\n        \n    \n\n\n\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/popMaster.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/subscription.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/scripts/registration.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/rd_scripts/rounder2.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/dwr/engine.js\"></script>\n<script type=\"text/javascript\"
+      src=\"/rd_scripts/json2.js\"></script>\n\n\n<script type=\"text/javascript\"
+      src=\"/scripts/prototype-1.4.0.js\"></script>\n\n    <script type=\"text/javascript\"
+      src=\"/dynjs/recipedetailhome.javascript.js\" language=\"javascript1.2\"></script>\n\n\n
+      \   <script type=\"text/javascript\" src=\"/rd_scripts/recipe_detail/detailPageFunctions2.js\"></script>\n\n\n<link
+      rel=\"stylesheet\" type=\"text/css\" media=\"screen\" href=\"/styles/rounder2.css\"
+      />\n<link rel=\"stylesheet\" href=\"/styles/modules/Slider.css\" type=\"text/css\"
+      media=\"screen\">\n<script type=\"text/javascript\" src=\"/rd_scripts/modules/Slider.js\"></script>\n<link
+      rel=\"alternate\" type=\"application/rss+xml\" title=\"Epicurious.com: New Recipes\"
+      href=\"/services/rss/feeds/newrecipes.xml\"/>\n<link rel=\"alternate\" type=\"application/rss+xml\"
+      title=\"Epicurious.com: Latest Features\" href=\"/services/rss/feeds/LatestFeatures.xml\"/>\n\n\n\n\n
+      \n\n <!-- supp: dartAd -->\n\n\n\n \n\n\n\n   \n   \n\n\n\n\n\n\n\n\n\n\n\n\n
+      \ \n    \n      \n      \n        \n          \n          \n            <meta
+      name=\"description\" content=\"Find the recipe for Caramel-Dark Chocolate Truffles
+      with Fleur de Sel and other milk/cream recipes at Epicurious.com\">\n          \n
+      \       \n      \n    \n  \n  \n  \n  \n\n\n\n</head>\n<body class=\"recipesmenus\"
+      id=\"epicuriousBody\">\n<div id=\"fb-root\"></div>\n<script>(function(d, s,
+      id) {\n  var js, fjs = d.getElementsByTagName(s)[0];\n  if (d.getElementById(id))
+      {return;}\n  js = d.createElement(s); js.id = id;\n  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n
+      \ fjs.parentNode.insertBefore(js, fjs);\n}(document, 'script', 'facebook-jssdk'));</script>\n<div
+      id=\"dash-header\" style=\"display: none;\">\n    <div id=\"dash-cobrand-container\">\n
+      \       <a href=\"http://www.dashmagazine.com\"><img src=\"/rd_images/cobranding/dash.gif\"/></a>\n
+      \   </div>\n</div>\n\n\n\n\n\n\n\n\n\n<!-- begin stats call -->\n<script>\n
+      \   var epi_stats = \"\";\n </script>\n<!-- end stats call -->\n\n    <div id=\"pageWrapper\">\n
+      \       <ul class=\"user-session\" id=\"loggedin\">\r\n        <li id=\"hi-user\">Hi
+      <a href=\"/community/myepi/myprofile\" id=\"sessionUserName\">epicurious user</a>\r\n
+      \           <ul id=\"user-utilities\">\r\n                <li><a href=\"/community/myepi/myprofile\">my
+      epi profile</a></li>\r\n                <li><a href=\"/community/myepi/profile/mynetwork\">network</a></li>\r\n
+      \               <li><a href=\"/community/myepi/profile/mycomments\">fridge door</a></li>\r\n
+      \               <li><a href=\"/community/myepi/profile/submittedrecipes\">activity</a></li>\r\n
+      \               <li><a href=\"/user/preferences/\">settings</a></li>\r\n            </ul>\r\n
+      \       </li>\r\n        <li id=\"para-recipe-box-counter\"><a href=\"/community/myepi/myrecipebox\"
+      id=\"myRecipeBox\">my recipe box</a> <a href=\"/members/recipe_box/results\"
+      id=\"recipeBoxCount\"></a></li>\r\n        <li id=\"upload-recipe\"><a href=\"/community/memberrecipes/submitarecipe\">upload
+      a recipe</a></li>\r\n        <li id=\"sign-out\"><a href=\"javascript:logout();\">sign
+      out</a></li>\r\n    </ul>\r\n    \r\n    <ul class=\"user-session\" id=\"notlogged\">\r\n
+      \       <li><a href=\"/user/registration\"><span>Become a member!</span></a>
+      \ Save, rate, and review your favorite recipes!  <span>Already a member?</span>
+      \ <a href=\"/user/login\">sign in</a></li>\r\n    </ul>     \r\n    <script
+      type=\"text/javascript\" src=\"/rd_scripts/session.js\" language=\"JavaScript1.2\"></script>\r\n
+      \   <ul id=\"social-mobile\">\r\n         <li id=\"get-app\"><a href=\"/services/mobile\">Get
+      the app</a></li>\r\n         <li id=\"twit-follow\"><a href=\"http://twitter.com/epicurious\"
+      class=\"twitter-follow-button\">Follow @epicurious</a>\r\n         <script src=\"http://platform.twitter.com/widgets.js\"
+      type=\"text/javascript\"></script></li>\r\n         <li id=\"fb-like\"><iframe
+      src=\"http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fepicurious&amp;send=false&amp;layout=button_count&amp;width=84&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=lucida+grande&amp;height=21\"
+      scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:84px;
+      height:21px;\" allowTransparency=\"true\"></iframe></li>\r\n    </ul>\r\n\n
+      \   \n    <div id=\"headerSpace\"></div>\n     \n     \n     <style>\ndiv#promotion_heading
+      {\nbackground:transparent url(/images/articlesguides/holidays/christmas/christmas-tbar-2011-sponsor-electrolux.png)
+      no-repeat scroll 0 0;}\ndiv#promotion_heading a.see_it_all {display:block; height:53px;
+      margin:0 10px; width:970px;}\n.sponsor {position: absolute;top: 1px; left: 971px;
+      width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<div id=\"promotion_heading\">\n<!--
+      div class=\"sponsor\"><a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\"
+      \ntitle=\"Have Yourselves a Merry Christmas\"></a></div -->\n<div class=\"promotion_heading\"><a
+      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\" \ntitle=\"Have
+      Yourselves a Merry Christmas\" class=\"see_it_all\"><IMG SRC=\"http://ad.doubleclick.net/ad/N1974.Epicurious/B5547358.39;sz=1x1;ord=[timestamp]?\"
+      BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"Advertisement\"></a></div>\n</div>\n     \n
+      \    \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
+      \       \n\n\n\n\n\n\n    \n\n\n    </div>\n    <a id=\"epiAppStorePromo\" class=\"appStorePromoHidden\"
+      href=\"itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&mt=8&s=143441\">get
+      the epicurious iPhone app</a>\n    <script type=\"text/javascript\" language=\"JavaScript\">detectPushdownAd();displayEpiAppStorePromo();</script>\n\n
+      \       <div class=\"contentContainer\" id=\"primary\">\n            <img id=\"printer_friendly_global\"
+      src=\"/rd_images/printer_friendly/printer_friendly_epi_logo.gif\"/>\n             \n\n\n\n\n\n\n\n
+      \       <script type=\"text/javascript\" language=\"JavaScript 1.5\" src=\"/rd_scripts/ecom/ecom_forms.js\"></script>\n
+      \       <div id=\"BNA_recipeDetails_form_wrapper\" style=\"display:none;\">\n
+      \           <div id=\"BNA_recipeDetails_form_header\">\n                <a href=\"#\">Close</a>\n
+      \           </div>\n            <div id=\"ecom_form_wrapper_content\">\n                <div
+      id=\"BNA_recipeDetails_form\"></div>\n                <script type=\"text/javascript\">\n
+      \               //<!--\n                    CNP.ecom.request({\n                        pid:'BNA_recipeDetails_form',\n
+      \                       tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_form',\n
+      \                       params:{},callafter:{func: initEcomRecipeDetailsForm}\n
+      \                   });\n                //-->\n                </script>\n
+      \           </div>\n            <div id=\"ecom_form_wrapper_footer\"></div>\n
+      \       </div>\n        <div id=\"BNA_recipeDetails_banner\"></div>\n\n        <script
+      type=\"text/javascript\">\n        //<!--\n            CNP.ecom.request({\n
+      \               pid:'BNA_recipeDetails_banner',\n                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_BNA_recipeDetails_banner',\n
+      \               params:{}\n            });\n        //-->\n        </script>\n\n\n
+      \           \n            \n                <!-- back to links -->\n\n<div id=\"backToSearchResultsText\">\n</div>\n\n
+      \               \n                <div id=\"primary_content\" class=\"hrecipe\">\n
+      \                   \n                    \n\n                    <div id=\"pc_extra_info\"></div>\n
+      \                   <div id=\"pc_top\">\n                        <div id=\"pc_top1\"></div>\n
+      \                       <div id=\"pc_top2\">\n                            \n\n\n\n\n\n\n\n<div
+      id=\"headline\">\n    \n    \n    <a href=\"\" class=\"clipping\"></a>\n    \n
+      \   \n        \n        \n\n        \n        \n\n        \n        \n        \n
+      \       \n        \n        \n        \n        \n        \n        \n        \n
+      \       \n        \n        \n        \n        \n        \n\n        \n        \n\n
+      \       \n\n        \n            \n            \n\n\n\n\n\n\n\n\n    \n    \n
+      \   \n    \n    \n    \n    <a href='/articlesguides/holidays/christmas/christmas?intcid=epi_holidaypkg'
+      id='christmas' class='seeOurGuide'>see our Christmas guide</a>\n\n\n            \n\n
+      \           \n            \n\n            \n            \n            \n                \n
+      \                   <h1 class=\"fn\">Caramel-Dark Chocolate Truffles with Fleur
+      de Sel</h1>\n                \n                \n            \n        \n        \n
+      \       \n\n        \n        \n\n        \n        \n\n        \n\n        \n
+      \       \n\n    \n\n    \n    \n    \n\n   \n    \n    \n\n    \n    \n\n    \n\n
+      \   \n    \n    \n        \n    \n    \n        \n    \n\n    <p class=\"source\"
+      \ id=\"mag_info\">\n\n    \n        \n            \n\n            \n\n                \n
+      \           \n                \n            \n                <a href=\"/recipesmenus/bonappetit/recipes\">Bon
+      App&eacute;tit</a>\n            \n            \n            \n                \n
+      \           \n            \n            \n        \n    \n\n    \n    \n        \n
+      \           \n                \n            \n        \n        \n    \n\n    &nbsp;&#124;&nbsp;January
+      2004\n    </p>\n\n    \n\n    \n\n    \n\n\n\n\n    \n\n\n    \n\n    \n    \n
+      \       \n        \n\n            \n            \n                \n            \n
+      \       \n    \n    \n\n</div>\n\n                            \n                            <div
+      class=\"sponsorAd\">\n                                \n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"sponsorAd120x60_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('sponsorAd',
+      {sz:'120x60', kws:[]});\n    //-->\n    </script>\n    \n\n\n\n\n                                \n
+      \                           </div>\n                        </div>\n                    </div>\n
+      \                   <script type=\"text/javascript\" language=\"JavaScript\">headlineAligner();</script>\n
+      \                   \n                    \n                    \n                    \n
+      \                       \n\n\n                    \n                    \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        \n        \n        \n        <div id=\"recipe_detail_module\"
+      class=\"content_unit detail_page\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n        \n    \n\n\n\n\n    \n    \n    \n    \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n\n    \n    \n    \n    \n        \n    \n    \n    \n    \n\n    \n
+      \       \n    \n\n    \n        \n    \n    \n    \n        \n    \n    \n       \n
+      \         \n       \n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        \n
+      \       \n        \n        <div id=\"recipe_nav\" class=\"empty\">\n              \n
+      \               \n              \n\n\n\n\n\t\t\t\t\n\n\n\n<ul>\n        <li>\n
+      \           <a href=\"/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"recipe_tab\" class=\"current\">recipe</a>\n        </li>\n    \n        <li>\n
+      \           <a href=\"/recipes/food/reviews/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"reviews_tab\" >reviews (<span id=\"reviews_tab.numReviews\"><span itemprop=\"count\">65</span></span>)</a>\n
+      \       </li>\n    \n    \n        <li>\n            <a href=\"/recipes/food/photo/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"photo_tab\" >photo</a>\n        </li>\n    \n    \n        <li>\n            <a
+      href=\"/recipes/food/video/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"video_tab\" >video</a>\n        </li>\n    \n    \n        <li>\n            <a
+      href=\"/recipes/food/wine-pairings/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"wines_tab\" >wine pairings</a>\n        </li>\n    \n    \n        <li>\n
+      \           <a href=\"javascript:void(0);\" id=\"notes_tab\" >my notes</a>\n
+      \           <script type=\"text/javascript\">\n                new LoginRequiredLink('109085','notes_tab','/recipes/food/notes/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085','recipeBox');\n
+      \           </script>\n        </li>\n    \n    \n        <li>\n            <a
+      href=\"/recipes/food/more/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"more_tab\" >find out more</a>\n        </li>\n    \n</ul>\n<script type=\"text/javascript\"
+      language=\"javascript\" src=\"/rd_scripts/recipe_detail/recipe_tabs.js\"></script>\n\n\n\n\n
+      \       </div>\n        \n    \n        \n        \n        \n        <div id=\"unit_col1\"
+      class=\"empty\">\n              \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n<div
+      class=\"rounded\">\n    \n\n    \n    \n    <div id=\"user_interactions\">\n
+      \       <h3>user rating</h3>\n        \n            \n            \n                \n
+      \               <!-- given rating, returns proper ratingImage -->\n\n\n\n\n\n\n\n
+      \   \n    \n    \n    \n    \n    \n    \n    \n        \n        \n    \n\n\n\n\n
+      \               \n                \n                    <p id=\"prepare_again_rating\">\n
+      \                       <strong>95&#37;</strong> would make it again\n                    </p>\n
+      \               \n                \n                    \n                    <img
+      \ class=\"forks_img\" src=\"/images/recipes/recipe_search/4_forks.gif\"/ alt=\"user
+      rating\"/>\n                    <p id=\"fork_rating\" class=\"review hreview-aggregate\">user
+      rating: <br />\n                        <span class=\"item\"><span class=\"fn\">Caramel-Dark
+      Chocolate Truffles with Fleur de Sel</span></span>\n                        <strong><span
+      class=\"rating\"><span class=\"average\">4 forks<span class=\"value-title\"
+      title=\"3.6753247\"></span></span><span class=\"best\"><span class=\"value-title\"
+      title=\"4\"></span></span></span></strong>\n                        <span class=\"count\"><span
+      class=\"value-title\" title=\"65\"></span></span>\n                    </p>\n
+      \               \n            \n        \n        <span id=\"rate\"><button
+      id=\"rateReviewLink\" class=\"rate_review_btn \">rate this recipe</button></span>\n
+      \       <span id=\"review\"><button id=\"reviewRecipeLink\" class=\"rate_review_btn
+      \">review this recipe</button></span>\n\n        <script type=\"text/javascript\">\n
+      \           EventBroker.rateRecipeBox = new RateRecipeBox('109085', '/images/recipes/recipe_search/rate_forks',
+      'fork', 'fork', 'forks');\n            function createReviewBox(){\n                if
+      (EventBroker.reviewRecipeBox == undefined) {\n                    EventBroker.reviewRecipeBox
+      = new ReviewRecipeBox('reviewRecipeLink',\n                    '109085','/recipes/food/reviews/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?cached=F',\n
+      \                   '/recipes/food/review/preview/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085',
+      '/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085',\n
+      \                   '/images/recipes/recipe_search/rate_forks', 'fork', 'fork',
+      'forks');\n                } else {\n                    EventBroker.reviewRecipeBox.addOpenLink('reviewRecipeLink');\n
+      \               }\n            }\n            runOnLoad(createReviewBox);\n
+      \       </script>\n    </div>\n    \n    \n        <div id=\"at_a_glance\">\n
+      \           <h3>at a glance</h3>\n            \n                <p><span>main
+      ingredients</span>\n                    \n                        <a href=\"/tools/searchresults?att=86&type=advanced\">Chocolate</a>,&nbsp;\n
+      \                   \n                        <a href=\"/tools/searchresults?att=49&type=advanced\">Milk/Cream</a>\n
+      \                   \n                </p>\n            \n            \n                <p><span>cuisine</span>\n
+      \                   \n                        <a href=\"/tools/searchresults?att=2&type=advanced\">American</a>\n
+      \                   \n                </p>\n            \n            \n                <p><span>type</span>\n
+      \                   \n                    \n                        \n                    \n
+      \                   \n\n                    \n                    \n                        <a
+      href=\"/tools/searchresults?att=660&type=advanced\">Edible Gift</a>\n                        ,&nbsp;\n
+      \                   \n                        <a href=\"/tools/searchresults?att=29&type=advanced\">Candy</a>\n
+      \                       \n                    \n                    \n                    \n
+      \               </p>\n            \n            \n\n            \n\n            \n
+      \           \n                <p>\n                    <span>appears in this
+      menu</span>\n                    \n                        <a href=\"/recipes/menu/views/best2004\">Best
+      Desserts of the Year</a>,&nbsp;\n                    \n                        <a
+      href=\"/recipes/menu/views/romanticmenurackoflamb\">Rack of Lamb Feast for Two</a>\n
+      \                   \n                </p>\n            \n            \n\n            \n
+      \       </div>\n    \n\n    <div id=\"cooks-tools\">\n        <h3>cooks&#8217;
+      tools</h3>\n        <a id=\"icon-conv-chart\" href=\"/tools/conversions\">conversion
+      chart</a>\n        <a id=\"icon-tech-video\" href=\"/video\">technique videos</a>\n
+      \       <div class=\"clear\"></div>\n    </div>\n\n\n    \n\n    \n\n    <script
+      language=\"javascript\" type=\"text/javascript\">\n    //instantiate userIsOwnerListener
+      to change right rail when the owner is viewing the recipe\n    EventBroker.registerLoginBox
+      = new RegisterLoginBox({recipeId: '109085', returnToUrl: '/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085',
+      shoppingListUrl: '/recipes/shoppinglist/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085'});\n
+      \   Event.observe(window, 'load', recipeDetailsInit);\n    function recipeDetailsInit()
+      {\n        EventBroker.userIsOwnerListener = new UserIsOwnerListener('109085');\n
+      \       ClientLoginManager.initialize('109085');\n        DWREngine.beginBatch();\n
+      \       \n        \n        \n            EventBroker.searchLayer = new SearchLayer(document.referrer,
+      109085);\n        \n        \n        CacheableDWR.makeBatchCacheable();\n        DWREngine.endBatch();\n
+      \   }\n\n    \n    </script>\n\n</div>\n\n\n\n\n\n        </div>\n        \n
+      \   \n        \n        \n        \n        <div id=\"unit_col2\" class=\"empty\">\n
+      \             \n                \n              \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<script
+      language=\"javascript\">\n        addLoadEvent(function() { setBackToRecipe(encodeURIComponent('Caramel-Dark
+      Chocolate Truffles with Fleur de Sel'), document.URL) });\n</script>\n\n\n<div
+      id=\"introBlock\">\n    \n    \n    <div id=\"recipe_thumb\">\n        <a href=\"/recipes/food/photo/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\">\n
+      \           \n            <img src=\"/images/recipesmenus/2004/2004_january/109085_116.jpg\"
+      class=\"photo scale_down\" alt=\"Caramel-Dark Chocolate Truffles with Fleur
+      de Sel\" />\n        </a>\n        <a href=\"/recipes/food/photo/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"enlarge_image\">enlarge image</a>\n    </div>\n    \n    \n    <div id=\"recipe_summary\">\n
+      \       \n        \n        \n            <p class=\"summary_data\"><strong>yield:</strong><span
+      class=\"yield\"> Makes about 32</span></p>\n        \n        \n        \n        \n
+      \           \n            \n        \n        \n            \n                \n
+      \           \n            \n\n\n\n\n\n\n\n\n\n\n    \n\n<div class=\"truncatedTextModule
+      summary padTop14\" id=\"recipeIntroText\">\n    <span class=\"truncatedTextModuleText\">Salt
+      and caramel are longstanding companions, but many chefs are playing with the
+      balance to heighten intensity. Begin making these treats one day ahead to allow
+      time for chilling.</span>\n</div>\n\n    <script>\n    if (Epi.text.truncatedVersion)
+      {\n        Epi.text.truncatedVersion(\"recipeIntroText\", \"Salt and caramel
+      are longstanding companions, but many chefs are playing with the balance to
+      heighten intensity. Begin making these treats one day...\");\n    } else {\n
+      \       jQuery(function() {\n            Epi.text.truncatedVersion(\"recipeIntroText\",
+      \"Salt and caramel are longstanding companions, but many chefs are playing with
+      the balance to heighten intensity. Begin making these treats one day...\");\n
+      \       });\n    }\n    </script>\n\n        \n    </div>\n    <div class=\"clrLeft\"></div>\n</div>\n\n
+      \   <div class=\"detail_division\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_buckets_divider.gif\"
+      border=\"0\"/> </div>\n \n\n\n\n\n    <div id=\"ingredients\">\n        <div
+      id=\"ingredients_headline_wrapper\">\n            \n\n\n\n    \n        <div
+      id=\"recipeDetails_textOffer_BNA\">\n<a href=\"https://w1.buysub.com/loc/BNA/ATGFailsafeEpi\"
+      target=\"_blank\" class=\"subLnk\">subscribe to Bon App&eacute;tit</a>\n</div>\n<script
+      type=\"text/javascript\">\r\n    CNP.ecom.request({\r    pid:'recipeDetails_textOffer_BNA',\r
+      \   tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_recipeDetails_textOffer_BNA',\r
+      \   params:{}});\n</script>\r\n\r\n<!--alias link is https://w1.buysub.com/loc/BNA/ba_recipe_link-->\n
+      \   \n    \n\n    \n    \n    \n\n\n            <h2>Ingredients</h2>\n        </div>\n
+      \       \n            \n            \n            <ul class=\"ingredientsList\">\n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\">20 ounces bittersweet or semisweet chocolate, finely chopped,
+      divided</li>\n                   \n                \n                   \n                      \n
+      \                     <li class=\"ingredient\">1/3 cup sugar</li>\n                   \n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\">2 tablespoons water</li>\n                   \n                \n
+      \                  \n                      \n                      <li class=\"ingredient\">2/3
+      cup whipping cream</li>\n                   \n                \n                   \n
+      \                     \n                      <li class=\"ingredient\">1/4 teaspoon
+      fleur de sel</li>\n                   \n                \n            </ul>\n
+      \       \n            <br />\n            \n            <ul class=\"ingredientsList\">\n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\">1/2 cup unsweetened cocoa powder</li>\n                   \n
+      \               \n                   \n                      \n                      <li
+      class=\"ingredient\">Additional fleur de sel</li>\n                   \n                \n
+      \           </ul>\n        \n\n        \n            <a href=\"/recipes/shoppinglist/custom/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      target=\"_blank\" id=\"printShoppingList\">print a shopping list for this recipe</a>\n
+      \       \n        \n            <a href=\"/recipes/food/wine-pairings/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      class=\"lnkWinePairing\"><span></span>view wine pairings</a>\n        \n        <div
+      class=\"clrLeft\"></div>\n    </div>\n    \n    \n        <div class=\"detail_division\"><img
+      src=\"/rd_images/primaryContent/recipe_detail/rd_buckets_divider.gif\" border=\"0\"/></div>\n
+      \   \n\n\n\n<div id=\"preparation\" class=\"instructions\">\n    <h2>Preparation</h2>\n
+      \   \n        \n            \n            <p class=\"instruction\">\n                \n
+      \               Place 8 ounces chocolate in metal bowl over saucepan of barely
+      simmering water (do not allow bottom of bowl to touch water); stir until chocolate
+      is smooth. Remove chocolate from over water.\n            </p>\n        \n            \n
+      \           <p class=\"instruction\">\n                \n                Combine
+      sugar and 2 tablespoons water in small saucepan. Stir over medium heat until
+      sugar dissolves, occasionally brushing sides of pan with wet pastry brush. Increase
+      heat; boil until syrup is deep amber color, brushing down sides and swirling
+      pan occasionally, about 4 minutes. Add cream (mixture will bubble). Stir over
+      very low heat until caramel is smooth. Mix caramel and 1/4 teaspoon fleur de
+      sel into melted chocolate. Chill until truffle filling is firm, at least 3 hours.\n
+      \           </p>\n        \n            \n            <p class=\"instruction\">\n
+      \               \n                Place cocoa in bowl. Using 1 tablespoon truffle
+      filling for each truffle, roll into balls, then roll in cocoa. Arrange on baking
+      sheet. Cover; chill overnight.\n            </p>\n        \n            \n            <p
+      class=\"instruction\">\n                \n                Line 13x9x2-inch baking
+      sheet with foil. Place remaining 12 ounces chocolate in medium metal bowl over
+      saucepan of barely simmering water (do not allow bottom of bowl to touch water);
+      stir until chocolate is melted and smooth and thermometer inserted into chocolate
+      registers 115&#176;F. Remove bowl from over water. Working quickly, submerge
+      1 truffle in melted chocolate. Using fork, lift out truffle and tap fork against
+      side of bowl to allow excess coating to drip off. Transfer truffle to prepared
+      sheet. Repeat with remaining truffles. Sprinkle truffles lightly with additional
+      fleur de sel. Let stand until coating sets, at least 1 hour. (Can be made 1
+      week ahead. Cover and chill. Bring to room temperature before serving.)\n            </p>\n
+      \       \n    \n    \n        <p id=\"chefNotes\">\n            <span>Test-kitchen
+      tip:</span>\n            Submerge the bulb of a candy thermometer or the sensor
+      on the stem of an instant-read thermometer in the chocolate for an accurate
+      reading. \r\n\n        </p>\n    \n    <a href=\"/recipes/food/notes/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"addnoteLnk\">add your own note</a>\n</div>\n<div class=\"detail_division
+      bottomDivider\"><img border=\"0\" src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"></div>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n        <div class=\"topDivider\"><img border=\"0\" alt=\"\" src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\"></div>\n\n
+      \       <div id=\"find-more\">\n            <h2>find more...</h2>\n\n            <div
+      id=\"featuredin\" class=\"rounded-border\">\n                \n\n                \n
+      \                   \n                        \n                        \n                        \n
+      \                       <div class=\"featureItem\">\n                            <a
+      href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">\n
+      \                               <img src=\"/images/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday_116.jpg\"
+      alt=\"Favorite Recipes for Cooking with Chocolate\"/>\n                            </a>\n
+      \                           <span><a href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">Favorite
+      Recipes for Cooking with Chocolate</a></span>\n                        </div>\n
+      \                   \n                        \n                        \n                        \n
+      \                       <div class=\"featureItem\">\n                            <a
+      href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">\n
+      \                               <img src=\"/images/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday_116.jpg\"
+      alt=\"Favorite Recipes for Cooking with Chocolate\"/>\n                            </a>\n
+      \                           <span><a href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">Favorite
+      Recipes for Cooking with Chocolate</a></span>\n                        </div>\n
+      \                   \n                        \n                        \n                        \n
+      \                       <div class=\"featureItem\">\n                            <a
+      href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">\n
+      \                               <img src=\"/images/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday_116.jpg\"
+      alt=\"Favorite Recipes for Cooking with Chocolate\"/>\n                            </a>\n
+      \                           <span><a href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">Favorite
+      Recipes for Cooking with Chocolate</a></span>\n                        </div>\n
+      \                   \n                        \n                        \n                        \n
+      \                       <div class=\"featureItem\">\n                            <a
+      href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">\n
+      \                               <img src=\"/images/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday_116.jpg\"
+      alt=\"Favorite Recipes for Cooking with Chocolate\"/>\n                            </a>\n
+      \                           <span><a href=\"/articlesguides/holidays/valentinesday/favoritechocolaterecipesvalentinesday\">Favorite
+      Recipes for Cooking with Chocolate</a></span>\n                        </div>\n
+      \                   \n                \n\n                \n\n                \n
+      \               <div class=\"clrLeft\"></div>\n            </div>\n        </div>\n\n
+      \       <div class=\"detail_division bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
+      border=\"0\"/></div>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n        <div class=\"tallTopDivider\"><img
+      src=\"/rd_images/primaryContent/recipe_detail/rd_top_bucket_divider.gif\" alt=\"\"
+      border=\"0\"></div>\n        <div id=\"review_teaser\">\n        <h2>Comment
+      & Share</h2>\n        <div>\n            <ul>\n            \n                \n
+      \                  <li><a href=\"/recipes/food/reviews/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\">see
+      all 65 reviews &amp; comments</a>&nbsp;&#8250;</li>\n                   <li><button
+      id=\"writeCommentBtn\">write your own</button></li>\n                \n                \n
+      \           \n            </ul>\n\n            <div id=\"review_fb_like\"><fb:like
+      send=\"false\" width=\"286\" show_faces=\"true\" font=\"lucida grande\"></fb:like></div>\n\n
+      \           <div class=\"clrLeft\"></div>\n        </div>\n        </div>\n
+      \       <div class=\"detail_division bottomDivider\"><img src=\"/rd_images/primaryContent/recipe_detail/rd_bottom_bucket_divider.gif\"
+      border=\"0\"/></div>\n        <script type=\"text/javascript\">\n            function
+      createReviewBox2(){\n                if (EventBroker.reviewRecipeBox == undefined)
+      {\n                    EventBroker.reviewRecipeBox = new ReviewRecipeBox('writeCommentBtn',\n
+      \                           '109085', '/recipes/food/reviews/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?cached=F',\n
+      \                           '/recipes/food/review/preview/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085',
+      '/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085',\n
+      \                           '/images/recipes/recipe_search/rate_forks', 'fork',
+      'fork', 'forks');\n                } else {\n                    EventBroker.reviewRecipeBox.addOpenLink('writeCommentBtn');\n
+      \               }\n            }\n            runOnLoad(createReviewBox2);\n
+      \       </script>\n    \n\n\n\n\n\n\n\n\n\n\n\n\n<div id=\"print-options\">\n
+      \   \n        \n            \n            <a href=\"/recipes/food/printerfriendly/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      id=\"print\" target=\"new\">print</a>\n            <div id=\"pf_dropdown\">\n
+      \              <div></div>\n               <ul id=\"printmenu\">\n                    <li><a
+      href=\"/recipes/food/printerfriendly/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      target=\"new\">full page</a></li>\n                     \n                        <li><a
+      href=\"/recipes/food/printerfriendly/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?printFormat=photo\"
+      target=\"new\">full page w/ photo</a></li>\n                    \n                    <li><a
+      href=\"/recipes/food/printerfriendly/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?printFormat=3x5\"
+      target=\"new\">3x5 card</a></li>\n                    <li id=\"fourbysix\" ><a
+      href=\"/recipes/food/printerfriendly/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?printFormat=4x6\"
+      target=\"new\">4x6 card</a></li>\n                    \n                    <li
+      id=\"shoppinglist\"><a href=\"/recipes/shoppinglist/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085\"
+      target=\"new\">shopping list</a></li>\n                       \n                </ul>\n
+      \           </div>\n        \n        \n    \n</div>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   <div id=\"social-toolbar\">\n        <ul>\n            \n            <li
+      id=\"stb-email\">\n                <a href=\"/recipes/food/email/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085?title=\n\n\n\n\n\n\n\n\n\nCaramel-Dark
+      Chocolate Truffles with Fleur de Sel Recipe\n\" id=\"email\">e-mail</a>\n            </li>\n
+      \           \n            <li id=\"stb-twitter\">\n            <div>\n                <script
+      src=\"//platform.twitter.com/widgets.js\" type=\"text/javascript\"></script>\n
+      \               <a href=\"https://twitter.com/share?count=vertical\" class=\"twitter-share-button\">Tweet</a>\n
+      \          </div>\n           </li>\n           <li id=\"stb-facebook\">\n           <div>\n
+      \               <fb:like send=\"false\" layout=\"box_count\" width=\"55\" show_faces=\"false\"
+      font=\"lucida grande\"></fb:like>\n           </div>\n           </li>\n           <li
+      id=\"stb-googleplus\">\n           <div id=\"gp-container\">\n               <g:plusone
+      size=\"tall\"></g:plusone>\n               <script type=\"text/javascript\">\n
+      \                (function() {\n                   var po = document.createElement('script');
+      po.type = 'text/javascript'; po.async = true;\n                   po.src = 'https://apis.google.com/js/plusone.js';\n
+      \                  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po,
+      s);\n                 })();\n               </script>\n            </div>\n
+      \           </li>\n            \n            <script type=\"text/javascript\">\n
+      \           jQuery(window).load(function()\n            {\n                var
+      imagePath = \"/images/recipesmenus/2004/2004_january/109085.jpg\";\n                jQuery(\"#stb-pinit
+      div\").html(\"<a href='http://pinterest.com/pin/create/button/?url=\" + encodeURIComponent(location.href)
+      + \"&media=\" + encodeURIComponent(location.protocol + location.host + imagePath)
+      + \"' class='pin-it-button' count-layout='vertical'>Pin It</a>\");\n\n            });\n
+      \           </script>\n            <li id=\"stb-pinit\">\n            <div>\n
+      \           </div>\n            </li>\n            <script type=\"text/javascript\"
+      src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n            \n       </ul>\n
+      \   </div>\n\n\n\n\n\n        </div>\n        \n    \n        \n        \n        \n
+      \       <div id=\"col4\" class=\"separator\">\n              \n                \n
+      \             \n\n\n\n\n\t\t\t\t\n\n<hr/>\n\n\n\n\n        </div>\n        \n
+      \   \n\n\n\n\n        </div>\n        \n    \n        \n        \n        \n
+      \       <div id=\"col2\" class=\"empty\">\n              \n                \n
+      \             \n\n\n\n\n\t\t\t\t\n\n\n\n\n\n        </div>\n        \n    \n\n
+      \                   <div class=\"clear\"></div>\n                    \n\n\n\n\n\n\n\n\n\n\n<div
+      id=\"addToRbox\" class=\"epiRecipe\">\n    \n        \n        \n            <a
+      href=\"javascript:void(0);\" id=\"addRecipeButton\">save to recipe box</a>\n
+      \           <script type=\"text/javascript\">new LoginRequiredLink('109085','addRecipeButton','/user/recipebox/save?id=109085&returnto=/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085','recipeBox',
+      'addToRbox');</script>\n        \n    \n</div>\n\n    \n    \n        <div id=\"joinRecipeBox\"
+      class=\"rounded-border\">\n            <a href=\"javascript:void(0);\" id=\"joinNowLink\">Join
+      now to set up a FREE recipe box to save all your favorite recipes!</a>\n            <script
+      type=\"text/javascript\">new LoginRequiredLink('109085','joinNowLink','/user/recipebox/save?id=109085&returnto=/recipes/food/views/Caramel-Dark-Chocolate-Truffles-with-Fleur-de-Sel-109085','recipeBox',
+      'addToRbox');</script>\n        </div>\n    \n\n<a id=\"goToRbox\" href=\"/community/myepi/myrecipebox\"
+      >go to my recipe box &rsaquo;</a>\n\n                    <div id=\"pc_bottom\"></div>\n
+      \                   \n                </div>\n            \n\n            \n\n\n\n\n\n\n\n\n\n
+      \   \n    \n    \n    \n    \n        \n    \n    \n    \n\n\n\n<div class=\"module\"
+      id=\"section_search\">\n<form action=\"/tools/searchresults\" name=\"section_search_form\">\n
+      \   <h2>search:</h2>\n   \n    <input type=\"text\" id=\"section_search_box\"
+      name=\"search\" maxlength=\"100\"  value=\"\" />\n    <select id=\"section_search_select\"
+      name=\"section_search_select\" onchange=\"document.forms['section_search_form'].action
+      = this.options[this.selectedIndex].value; return false;\">\n        <option
+      value=\"/tools/searchresults\" selected=\"selected\" >food recipes</option>\n
+      \       <option value=\"/tools/searchresults/drinks\"  >drink recipes</option>\n
+      \       <option value=\"/tools/searchresults/members\"  >member recipes</option>\n
+      \       <option value=\"/tools/searchresults/all\"  >all recipes</option>\n
+      \       \n        <option value=\"/tools/searchresults/articles\"  >articles
+      &amp; guides</option>\n    </select>\n    <a id=\"section_search_button\" href=\"javascript:
+      document.forms['section_search_form'].submit();\">go</a>\n</form>\n<div class=\"clear\"></div>\n</div>\n\n
+      \       </div>\n        \n        <div id=\"headerContainer\" style=\"\">\n
+      \              <div id=\"site_heading\">\r\n        <a id=\"site_name\" href=\"/\"><span
+      class=\"seo\">Epicurious, for people who love to eat</span></a>\r\n        \r\n
+      \       <ul id=\"home_magazine_nav\">\r\n            \r\n\t\t\t\r\n\t\t\t<li>\r\n
+      \               <a id=\"hmn_part_recipes\"><span class=\"seo\">Parner Recipes</span></a>\r\n
+      \           </li>\r\n\t\t\t\r\n\t\t\t<li>\r\n                <a id=\"hmn_bonappetit2\"
+      href=\"http://www.bonappetit.com\" target=\"_blank\"><span class=\"seo\">Bon
+      Appetit</span></a>\r\n                <ul id=\"hmn_ba_lnks\" style=\"color:#eee;\">\r\n
+      \                   \r\n                    <li>\n                        <div
+      id=\"global_header_subscribeLink\"><a style=\"color: rgb(238, 238, 238); font-size:
+      10px;\" href=\"https://w1.buysub.com/loc/BNA/ATGFailsafeEpi\" target=\"_blank\"><span>subscribe</span></a></div>\n
+      \                       <script type=\"text/javascript\">\r\n                                CNP.ecom.request({\r
+      \                               pid:'global_header_subscribeLink',\r                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_header_subscribeLink',\r
+      \                               params:{}});\n                        </script>\n
+      \                   </li>\n                    <li>&nbsp;&middot;&nbsp;</li>\n
+      \                   <li><a href=\"/recipesmenus/bonappetit/recipes\" target=\"_blank\"
+      style=\"color:#eee;font-size:10px;\">view recipes</a></li>\r\n                </ul>\r\n
+      \           </li>\r\n\t\t\n            <li>\r\n                <a id=\"hmn_gourmet2\"
+      href=\"http://www.gourmet.com\" target=\"_blank\"><span class=\"seo\">Gourmet</span></a>\r\n
+      \               <ul id=\"hmn_gmt_lnks\" style=\"color:#eee;\">\r\n                    <li><a
+      href=\"/recipesmenus/gourmet/recipes?browseByAtt=&sort=1\" target=\"_blank\"
+      style=\"color:#eee;font-size:10px;\">view recipes</a></li>\r\n                </ul>\r\n
+      \           </li>\n\t\r\n        </ul>\r\n    </div>\r\n\n            <!-- /tiles/header/navigation_area.html
+      -->\n \n    <div id=\"navigation_area\">      \n        <div id=\"primary_navigation\">\n
+      \           <ul>\n                <li><a id=\"recipesandmenus\" href=\"/recipesmenus/\"><span
+      class=\"seo\">Recipes &amp; Menus</span></a></li>         \n                <li><a
+      id=\"articlesandguides\" href=\"/articlesguides/\"><span class=\"seo\">Articles</span></a></li>\n
+      \               <li><a id=\"community_rgn\" href=\"/community/\"><span class=\"seo\">Community
+      &amp; MyEpi</span></a></li>\n                <li id=\"pnav_video\"><a href=\"/video\"><span
+      class=\"seo\">Video</span></a></li>\n                <li id=\"pnav_shop\"><a
+      href=\"http://shop.epicurious.com/?CCAID=EPPTSHTB\" target=\"_blank\"><span
+      class=\"seo\">Shop</span></a></a></li>\n            </ul>\n        </div>\n\n
+      \       <div id=\"primary_navigation_dropdowns\">\n            <div id=\"recipesandmenus_dropdown\">\n
+      \               <div class=\"dropdown-content\">\n                    <ul>\n
+      \                       <li><a href=\"/articlesguides/bestof/toprecipes/\">top-rated
+      recipes</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/holidays\">Holidays
+      &amp; Celebrations</a></li>\n                        <li><a href=\"/recipesmenus/quickeasy/recipes\">Quick
+      &amp; Easy</a></li>\n                        <li><a href=\"/recipesmenus/healthy/recipes\">Healthy</a></li>\n
+      \                       <li><a href=\"/recipesmenus/seasonal/recipes\">Seasonal
+      Cooking</a></li>\n                        <li><a href=\"/recipesmenus/desserts\">Desserts</a></li>\n
+      \                       <li><a href=\"/recipesmenus/global/recipes\">International
+      Cooking</a></li>\n                        <li><a href=\"/recipesmenus/photos\">recipe
+      slideshows</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/drinks\">Drinks</a></li>\n\t\t\t\t\t\t<li><a
+      href=\"/cookbooks\">e<span style=\"text-transform: uppercase;\">C</span>ookbooks
+      on Epi</a></li>\t\n\t\t\t\t\t\t\n                        <li><a href=\"/recipesmenus/randomhouse/recipes\"><span
+      style=\"text-transform: uppercase;\">R</span>andom<span style=\"text-transform:
+      uppercase;\"> H</span>ouse on epi</a></li>\n                        <li><a href=\"/recipesmenus/bonappetit/recipes\"><span
+      class=\"sub_link\">Bon App&eacute;tit</span> on Epi</a></li>\n                        <li><a
+      href=\"/recipesmenus/gourmet/recipes\"><span class=\"sub_link\">Gourmet</span>
+      on Epi</a></li>\n                        <li><a href=\"/recipesmenus/gourmetlive/recipes\"><span
+      class=\"sub_link\">Gourmet Live</span> on Epi</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/self/recipes\"><span
+      class=\"sub_link\">SELF</span> on Epi</a></li>\n                        <li><a
+      href=\"/recipesmenus/whatsnew/recipes\">What's New</a></li>\n\t\t\t\t\t\t<li><a
+      href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n
+      \                   <div class=\"menu-feature-content\">\n                        <a
+      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><img src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-RM-2011.jpg\"
+      border=\"0\" alt=\"Christmas Is Coming\" /></a>\n                       <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><h4>Christmas
+      Is Coming</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\">And
+      we've got more than 1,700 recipes and 120 menus for you, plus the ultimate edible
+      gifts.</a>\n                        </p>\n                        <p class=\"menu-feature-links\">\n
+      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_subpromo\">see
+      christmas menus, gifts, cookie recipes, and more </a>&nbsp;<span>&#8250;</span>\n
+      \                       </p>\t\t\t\t\t\n\t\t\t\n                        <!--
+      \ <div class=\"menu-feature-ad\">\n                            <span>brought
+      to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
+      alt=\"\" />\n                        </div>\n                        -->            \n
+      \                   </div>                    \n                </div>\n                <div
+      class=\"dropdown-end-cap\"></div>\n            </div>\n\n            <div id=\"articlesandguides_dropdown\">\n
+      \               <div class=\"dropdown-content\">\n                    <ul>\n
+      \                       <li><a href=\"/articlesguides/bestof\">the best of epicurious</a></li>\n\t\t\t\t\t\t<li><a
+      href=\"/articlesguides/blogs/editor\">The Epi-Log</a></li>\n                        <li><a
+      href=\"/articlesguides/blogs/80dishes\">80 global dishes</a></li>\n                        <li><a
+      href=\"/articlesguides/holidays\">Holidays &amp; Parties</a></li>\n                        <li><a
+      href=\"/articlesguides/everydaycooking\">Everyday Cooking</a></li>\n                        <li><a
+      href=\"/articlesguides/healthy\">Healthy Cooking</a></li>\n                        <li><a
+      href=\"/articlesguides/seasonalcooking\">Seasonal Cooking</a></li>\n                        <li><a
+      href=\"/articlesguides/howtocook\">How To Cook</a></li>\n                        <li><a
+      href=\"/articlesguides/cuisines\">Cuisines</a></li>\n                        <li><a
+      href=\"/articlesguides/entertaining\">Entertaining</a></li>\t\t\t\t\n                        <li><a
+      href=\"/articlesguides/diningtravel\">Dining &amp; Travel</a></li>\n                        <li><a
+      href=\"/articlesguides/kitchenequipment\">Kitchen &amp; Equipment</a></li>\n
+      \                       <li><a href=\"/articlesguides/chefsexperts\">Chefs &amp;
+      Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
+      \                   </ul>\n\t\t\t\t\t\n\t\t\t\t\t\n                    <div
+      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-AG-2011.jpg\"
+      border=\"0\" alt=\"'Twas the Days Before Christmas\" /></a>\n                       <a
+      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><h4>'Twas
+      the Days Before Christmas</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\">Get
+      menu inspiration from Nigella Lawson, Graham Elliot, and Mario Batali; bake
+      up a cookie swap; and find foodie gifts.</a>\n                        </p>\n
+      \                       <p class=\"menu-feature-links\">\n                            <a
+      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_subpromo\">see the
+      ultimate christmas recipes and menus</a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\t\t\t\n
+      \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
+      to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
+      alt=\"\" />\n                        </div> -->\n                    </div>
+      \                   \n                </div>\n                <div class=\"dropdown-end-cap\"></div>\n
+      \           </div>\n\n            <ul id=\"community_dropdown\">\n\t\t\t<li><a
+      href=\"/community/myepi/myprofile\">my epi profile</a></li>\n\t\t\t<li><a href=\"/community/memberrecipes/submitarecipe\">add
+      your own recipes</a></li>\n\t\t\t<li><a href=\"/community/myepi/profile/findmembers\">find
+      members</a></li>\n\t\t\t<li><a href=\"/community/memberrecipes\">member recipes</a></li>\n\t\t\t<li><a
+      href=\"/community/forums\">forums</a></li>\n\t\t\t<li><a href=\"/community/chat\">epi
+      chat</a></li>\n\t\t\t<li><a href=\"/community\">member groups</a></li>\n\t\t\t<!--
+      <li><a href=\"/community/events/winedinedonate\">events</a></li> -->\n            </ul>\n
+      \       </div>\n         \n        <div id=\"primary_navigation_supplement\">\n
+      \           <ul id=\"recipesandmenus_supplement\">\n                <li><a href=\"/recipesmenus/advancedsearch\">Advanced
+      Search</a>&nbsp;&middot;</li>\n                <li><a href=\"/recipesmenus/browse\">Browse</a></li>\n
+      \           </ul>\n\t\t\t\n            <ul id=\"articlesandguides_supplement\">\n
+      \               <li><a href=\"/articlesguides/healthy/news/eathealthyweightloss\">healthy
+      eating guide</a></li>\n            </ul>\n\n            <ul id=\"community_supplement\">\n
+      \               <li><a href=\"/community/myepi/myrecipebox\">My Recipe Box</a>&nbsp;&middot;</li>\n
+      \               <li><a href=\"/community/myepi/myprofile\">my profile</a></li>\n
+      \           </ul>\n            \n            <ul id=\"video-shop_supplement\">\n
+      \               <li><a id=\"seasonal-food-map\" href=\"/articlesguides/seasonalcooking/farmtotable/farmtotable\">seasonal
+      food map</a></li>\n            </ul>\n        </div>  \n\t                      \n
+      \       <div id=\"auxiliary_navigation\">    \n        <!-- EPI-48 : Add this
+      item back when we want the promo unit -->   \n        <!-- <ul id=\"auxiliary_list\">\n
+      \              <li><a href=\"/promo/index\" id=\"aux_promotions\"><span class=\"seo\">Promotions</span></a></li>
+      \n            </ul> -->\n        \n            <div id=\"global_search\">\n
+      \           <form action=\"/tools/searchresults\" name=\"global_search\" onsubmit=\"return
+      expireSearchLnksCookies();\">\n                <input id=\"selected_search_section\"
+      type=\"hidden\" value=\"\" />\n                <!-- input type=\"hidden\" name=\"type\"
+      value=\"food\" / -->\n                <span id=\"gs_dropdown\" onclick=\"toggleDisplayById('search_section_droplist');
+      return false;\"></span>\n                <input type=\"text\" name=\"search\"
+      id=\"global_search_box\" maxlength=\"100\" value=\"search all of epicurious\"
+      />\n                <ul id=\"search_section_droplist\">\n                    <li><img
+      src=\"/rd_images/global_images/nav/gs_dropdown_active.gif\" border=\"0\" alt=\"\"
+      onclick=\"toggleDisplayById('search_section_droplist')\" /></li>\n                    <li><a
+      id=\"food\">food recipes</a></li>\n                    <li><a id=\"drinks\">drink
+      recipes</a></li>\n                    <li><a id=\"members\">member recipes</a></li>\n
+      \                   <li><a id=\"all\">all recipes</a></li>\n                    <!--
+      li><a id=\"menus\">menus</a></li -->\n                    <li><a id=\"articles\">articles
+      &amp; guides</a></li>\n                </ul>\n                <input type=\"image\"
+      src=\"/rd_images/header/global/btn_go.gif\" id=\"submit\" value=\"search\" />\n
+      \           </form>\n            <script>initSearchDropDown()</script>\n            </div>\n
+      \       \n            <div id=\"magazine_nav\">            \n                <ul>\n
+      \                   <li><a id=\"bonappetit\" href=\"http://www.bonappetit.com/\"
+      target=\"_blank\"><span class=\"seo\">Bon App&eacute;tit Magazine</span></a></li>\n
+      \                   <li>\n                        <div id=\"global_navBar\"><a
+      class=\"subscribe\" href=\"https://w1.buysub.com/loc/BNA/ATGFailsafeEpi\" target=\"_blank\"></a></div>\n
+      \                       <script type=\"text/javascript\">\n                                CNP.ecom.request({\n
+      \                               pid:'global_navBar',\n                                tgt:'/atg/registry/RepositoryTargeters/EPI/EPI_global_navBar',\n
+      \                               params:{}});\n                        </script>\n
+      \                   </li>\n                    <li><a class=\"viewbaRecipe\"
+      href=\"/recipesmenus/bonappetit/recipes\"><span class=\"seo\">view recipes</span></a></li>\n
+      \                   <li><a class=\"visit\" href=\"http://www.bonappetit.com/\"
+      target=\"_blank\"><span class=\"seo\">visit site</span></a></li>\n                </ul>
+      \       \n            </div>\n        </div>\n\n        <!--secondary_clickdown_navigation:
+      'supernav'-->\n        <!-- IFRAME name=\"supernav_iframe\" id=\"supernav_html\"
+      src='/nav/07redesign/supernav.html' scrolling=\"no\" frameborder=\"0\" width=\"990\"></IFRAME
+      -->\n        <!--end secondary_clickdown_navigation-->\n        \n    </div><!--
+      end navigation area -->  \n<script type=\"text/javascript\" language=\"JavaScript\"
+      src=\"/rd_scripts/header/epi_navigation.js\"></script>\n\n\n\n\n\n           <div
+      id=\"banner_container\">\n               \n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"topBannerAd728x90_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('topBannerAd',
+      {sz:'728x90', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n\n           </div>\n\n
+      \       </div>\n        \n\n        <script type=\"text/javascript\" language=\"JavaScript
+      1.5\">roundContainer(\"primary\");</script>\n\n        <div class=\"contentContainer\"
+      id=\"secondary\">\n            \n\n\n\n    \n    \n        \n\n\n\n\n\t\t\t\t\n\n\n<div
+      id=\"marketingWidgetModule\">\n<script type=\"text/javascript\">\n\njQuery(window).load(function(){\n
+      \   var hgg_widget_iframe = document.createElement(\"iframe\");\n    hgg_widget_iframe.setAttribute(\"scrolling\",\"no\");\n
+      \   hgg_widget_iframe.setAttribute(\"marginwidth\",\"0\");\n    hgg_widget_iframe.setAttribute(\"marginheight\",\"0\");\n
+      \   hgg_widget_iframe.setAttribute(\"frameborder\",\"0\");\n    hgg_widget_iframe.setAttribute(\"id\",
+      \"giftwidget\");\n    hgg_widget_iframe.setAttribute(\"height\", \"160\");\n
+      \   hgg_widget_iframe.setAttribute(\"style\",\"height: 160px; width: 310px;
+      margin: 0; padding-bottom: 10px;\");\n    hgg_widget_iframe.src = \"http://holidaygift.condenastdigital.com/epicurious\";\n
+      \   document.getElementById(\"marketingWidgetModule\").appendChild(hgg_widget_iframe);\n});\n\n</script>\n</div>\n\n\n\n\n
+      \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
+      \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
+      \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"ad278551052_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad278551052_',
+      {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
+      \               </div>\n            </div>\n\n\n<div id=\"eCookbooks\" class=\"modular
+      content_unit\">\r\n    <h2>recommended eCookbooks</h2>\r\n    <div id=\"see-how-rr\">\r\n
+      \       <span class=\"epi-btn epi-grn\"><a href=\"/services/ecookbooks/\">see
+      how it works</a></span>\r\n    </div>\r\n    <ul>\r\n        <li>\r\n            <div
+      class=\"cookbook-cover\">\r\n                <div class=\"cover-top\"></div>\r\n
+      \               <img src=\"/images/cookbooks/rightrail/bobby-flay-bar-americain.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307885906\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/bobby-flays-bar-americain-cookbook/9780307885906\"
+      class=\"cookbook-title\">Bobby Flay's Bar Americain Cookbook</a>\r\n                <p>by
+      Bobby Flay</p>\r\n                <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307885906\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/peter-reinharts-artisan-breads-every-day.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9781607740865\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/peter-reinharts-artisan-breads-every-day/9781607740865\"
+      class=\"cookbook-title\">Peter Reinhart's Artisan Breads Every Day</a>\r\n                <p>by
+      Peter Reinhart</p>\r\n                <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9781607740865\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$15.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/lidia-bastianich-italy-in-america.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307700612\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/lidias-italy-in-america/9780307700612\"
+      class=\"cookbook-title\">Lidia's Italy in America</a>\r\n                <p>by
+      Lidia Matticchio Bastianich</p>\r\n                <span class=\"buy-save\"><a
+      href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307700612\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/momofuku-milk-bar.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307953308\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/momofuku-milk-bar/9780307953308\" class=\"cookbook-title\">Momofuku
+      Milk Bar</a>\r\n                <p>by Christina Tosi</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307953308\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/neelys-celebration-cookbook.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307700629\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/the-neelys-celebration-cookbook/9780307700629\"
+      class=\"cookbook-title\">The Neelys' Celebration Cookbook</a>\r\n                <p>by
+      Patrick Neely</p>\r\n                <span class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307700629\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$14.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/cook-like-a-rock-star-anne-burrell.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307953278\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/cook-like-a-rock-star/9780307953278\" class=\"cookbook-title\">Cook
+      Like a Rock Star</a>\r\n                <p>by Anne Burrell</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307953278\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$14.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/rocco-dispirito-now-eat-this.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307767530\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/now-eat-this/9780307767530\" class=\"cookbook-title\">Now
+      Eat This!</a>\r\n                <p>by Rocco DiSpirito</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307767530\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$16.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <li>\r\n            <div class=\"cookbook-cover\">\r\n                <div
+      class=\"cover-top\"></div>\r\n                <img src=\"/images/cookbooks/rightrail/giada-de-laurentiis-giada-at-home.jpg\"
+      />\r\n                <div class=\"cover-bottom\"><a href=\"http://ecookbooks.epicurious.com/cookbook_reader/9780307885593\"
+      target=\"_blank\"></a></div>  \r\n            </div>\r\n            <div class=\"cookbook-info\">\r\n
+      \               <a href=\"/cookbooks/giada-at-home/9780307885593\" class=\"cookbook-title\">Giada
+      at Home</a>\r\n                <p>by Giada De Laurentiis</p>\r\n                <span
+      class=\"buy-save\"><a href=\"http://ecookbooks.epicurious.com/cart/create?isbn=9780307885593\">SAVE
+      TO RECIPE BOX</a></span>\r\n                <span class=\"cookbook-price\">$18.99</span>\r\n
+      \           </div>\r\n            <div class=\"clear\"></div>\r\n        </li>\r\n
+      \       <br/>\r\n    </ul>\r\n    <div id=\"cookbooks-overlay\"></div>\r\n    <div
+      id=\"see-more-rr\">\r\n        <span class=\"epi-btn epi-grn\"><a href=\"/cookbooks/\">see
+      more cookbooks</a></span>\r\n    </div>\r\n</div>\r\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n
+      \           <div id=\"recipe_of_the_day_module\" class=\"modular content_unit
+      dropshadowed\">\n                <h2>Recipe Of The Day</h2>\n\t\t\t\t\n\t\t\t\t<span
+      id=\"rotd_share\">share</span>\n\n\t\t\t\t<a href=\"http://feeds.epicurious.com/newrecipes\"
+      id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
+      id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368689\"><img
+      src=\"/images/recipesmenus/2011/2011_december/368689_116.jpg\" alt=\"Bourbon
+      Bread Pudding\" /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
+      href=\"/recipes/food/views/368689\">Bourbon Bread Pudding</a></h3>\n                        <p><em>The
+      Neelys' Celebration Cookbook</em>, December 2011</p>\n                    </div>\n
+      \                       <div class=\"clear\"></div>\n                </div>\n
+      \           </div>\n\n\n\n<div id=\"product-widget\" class=\"modular content_unit
+      dropshadowed\">\n    <a href=\"http://shop.epicurious.com\" id=\"product-widget-see-store\"
+      target=\"_blank\"><h2>popular now</h2></a>\n\n    <div id=\"product-widget-carousel\"
+      class=\"jcarousel-skin-epi\">\n        <ul></ul>\n    </div>\n</div>\n\n\n\n
+      \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
+      \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
+      \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"ad846592717_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad846592717_',
+      {sz:'300x250', kws:[\"bottom\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
+      \               </div>\n            </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\"
+      class=\"modular content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\"
+      src=\"/rd_images/poll/epi_poll_hed.jpg\" />\n\n        <iframe id=\"poll_booth\"
+      height=\"200\" frameborder=\"0\" scrolling=\"no\" src=\"/services/poll-cache/rightrailpoll\"></iframe>\n\n
+      \       <div class=\"poll_ad\">\n            \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n    \n        <div id=\"pollBooth165x31_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('pollBooth',
+      {sz:'165x31', kws:[]});\n    //-->\n    </script>\n    \n\n\n        </div>\n
+      \   </div>\n\n\n\n\n    \n\n        </div>\n        <script type=\"text/javascript\"
+      language=\"JavaScript 1.5\">roundContainer(\"secondary\");</script>\n\n        \n\n\n\n\n\n<div
+      class=\"separator\" id=\"109085\">\n    <hr/>\n</div>\n\n\n        \n\n\n\n<div
+      id=\"breadcrumb_session\">\n    <div id=\"bc_left\">\n    \n        \n        \n
+      \           \n                <a href=\"/\" id=\"bc_homeicon\"><span>home</span></a>\n
+      \               \n                \n            \n            &#8250;\n        \n
+      \           \n                \n                <a href=\"/recipesmenus\" class=\"bc_links\">recipes
+      & menus</a>\n                \n            \n            &#8250;\n        \n
+      \           \n                \n                \n                caramel-dark
+      chocolate truffles with fleur de sel\n            \n            \n        \n
+      \       \n\n        \n    \n    </div>\n    \n\n\n\n\n\n<div class=\"separator\"
+      id=\"109085\">\n    <hr/>\n</div>\n\n</div>\n\n\n        <div id=\"footerContainer\">\n
+      \           \n<ul id=\"utilities\" class=\"autoclassed\">\n\t<li><a rel=\"nofollow\"
+      href=\"/services/help\">Help</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/sitemap\">Site
+      Map</a></li>\n\t<li><a rel=\"nofollow\" href=\"/services/help\">Contact Us</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/masthead\">Masthead</a></li>\n\t<li><a rel=\"nofollow\"
+      target=\"_new\" href=\"http://condenet.com/mediakits/epicurious/\">Advertising</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/presscenter\">Press Center</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/subscriptions\">Subscription Services</a></li>\t\t\n\t<li><a
+      rel=\"nofollow\" href=\"/services/newsletters\">Newsletters</a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/tastebook\">Tastebook</a></li>\t\t\n\t<li><a
+      rel=\"nofollow\" href=\"/services/podcasts\">Podcasts</a></li>\n\t<li><a rel=\"nofollow\"
+      href=\"/services/rss\" id=\"rss_img\"><img src=\"/images/global/rssFooterIcon.gif\"
+      style=\"padding-right:0px; vertical-align: middle; text-decoration:none;\"></a></li>\n\t<li><a
+      rel=\"nofollow\" href=\"/services/rss\" id=\"rss_lnk\">RSS feeds</a></li>\n</ul>\n<div
+      id=\"footerContent\">\t \n\t<ul class=\"condenastLinks\">\n\t\t<li><A href=\"/services/subscriptions\">SUBSCRIPTION
+      SERVICES</a></li>\n\t\t<li><A href=\"http://www.condenastcareers.com/\">CAREERS</a></li>\n\t\t<li><A
+      href=\"http://www.condenaststore.com/\">COND&Eacute; NAST STORE</a></li>  \n\t\t<li><A
+      href=\"mailto:permissions@condenast.com\">REPRINTS/PERMISSIONS</a></li>\n\t</ul>\n<div
+      class=\"clear\"> </div>\n\t<div id=\"topquad\">\n\t\t<div class=\"footerLogo\"><img
+      src=\"/images/global/condenastdigitalLogo.gif\" width=\"159\" height=\"37\"><h3>Cond&eacute;
+      Nast Digital</h3></div>\n\t\t<span class=\"vertRule\"> </span>\n\t\t<div class=\"recipesNews\">
+      \n\t\t\t For more great recipes &<br /> food news, visit:<br />\n\t\t     <ul
+      class=\"news\">\n\t\t\t\t <li><a href=\"http://www.facebook.com/epicurious\">Epicurious
+      on<br />Facebook</a></li>\n\t\t\t\t <li><a href=\"http://www.twitter.com/epicurious\">Epicurious
+      on<br />Twitter</a></li>\n\t\t\t\t <li><a href=\"http://youtube.com/epicurious\">Epicurious
+      on<br />YouTube</a></li>\n\t\t\t</ul> \n\t\t    <ul class=\"recipes\">\n\t\t\t\t
+      <li><a href=\"http://www.bonappetit.com/\">Bon App&eacute;tit</a></li>\n\t\t\t\t
+      <li><a href=\"http://www.self.com/\">Self</a></li>\n\t\t\t\t <li><a href=\"http://www.nutritiondata.com/\">Nutrition
+      Data</a></li> \n\t\t\t</ul>\n\t\t</div>  \n\t\t\n\t\t<span class=\"vertRule\">
+      </span>\n\t\t<div id=\"subscribe\">Subscribe to a magazine:\n\t\t        <form
+      name=\"footer_sub_links\" id=\"footer_sub_links\" action=\"\"> \n\t\t          <select
+      name=\"sub_link_selector\">\n\t\t            <option selected=\"selected\">Subscribe
+      to a magazine:</option>\n\t\t            <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&storeId=10001&catalogId=10001&activeLink=Home&source=oldstore\">View
+      Special Offers</option>\n\t\t            <option value=\"https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/TopCategoriesDisplay?langId=-1&storeId=10001&catalogId=10001&activeLink=Home&source=oldstore\">View
+      All Titles</option>\n\t\t            <option disabled=\"disabled\">------------</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/ALL/self.jsp?cds_page_id=1209&cds_mag_code=ALL&id=1214935921477&lsid=81831312014050755&vid=1&cds_response_key=ILDN51UD&cds_mag_code=ALL\">Allure</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/ARD/self.jsp?cds_page_id=405&cds_mag_code=ARD&id=1214935989714&lsid=81831312014050755&vid=2&cds_response_key=ILDN51UD&cds_mag_code=ARD\">Architectural
+      Digest</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/BNA/self_control_split.jsp?cds_page_id=100&cds_mag_code=BNA&id=1214936059635&lsid=81831312014050755&vid=5&cds_response_key=ILDN51UD&cds_mag_code=BNA\">Bon
+      App&#233;tit</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/BRI/self.jsp?cds_page_id=633&cds_mag_code=BRI&id=1214936029399&lsid=81831312014050755&vid=4&cds_response_key=ILDN51UD&cds_mag_code=BRI\">Brides</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/TVL/self.jsp?cds_page_id=811&cds_mag_code=TVL&id=1214937677509&lsid=81831341174053863&vid=1&cds_response_key=ILDN51UD&cds_mag_code=TVL\">Conde
+      Nast Traveler</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/DET/self.jsp?cds_page_id=1253&cds_mag_code=DET&id=1214939061052&lsid=81831404210056322&vid=1&cds_response_key=ILDN51UD&cds_mag_code=DET\">Details</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GQM/self.jsp?cds_page_id=976&cds_mag_code=GQM&id=1214941035871&lsid=81831436363038277&vid=4&cds_response_key=ILDN51UD&cds_mag_code=GQM\">GQ</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GLM/self.jsp?cds_page_id=956&cds_mag_code=GLM&id=1214941632523&lsid=81831436363038277&vid=5&cds_response_key=ILDN51UD&cds_mag_code=GLM\">Glamour</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/GLF/renewself.jsp?cds_page_id=17303&cds_mag_code=GLF&id=1214941694516&lsid=81831436363038277&vid=6&cds_response_key=ILDN51UD&cds_mag_code=GLF\">Golf
+      Digest</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/GWD/self.jsp?cds_page_id=17323&cds_mag_code=GWD&id=1214941710048&lsid=81831436363038277&vid=7&cds_response_key=ILDN51UD&cds_mag_code=GWD\">Golf
+      World</option>\n\t\t           <option value=\"https://w1.buysub.com/pubs/N3/LKY/self_control_split.jsp?cds_page_id=799&cds_mag_code=LKY&id=1214941757850&lsid=81831436363038277&vid=10&cds_response_key=ILDN51UD&cds_mag_code=LKY\">Lucky</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/SLF/self.jsp?cds_page_id=1231&cds_mag_code=SLF&id=1214941810166&lsid=81831436363038277&vid=13&cds_response_key=ILDN51UD&cds_mag_code=SLF\">Self</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/TNV/self_makeUpPallete_060914.jsp?cds_page_id=26982&cds_mag_code=TNV&id=1214941824141&lsid=81831436363038277&vid=14&cds_response_key=IRDNMUDD&cds_mag_code=TNV\">Teen
+      Vogue</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/NYR/self_1for1.jsp?cds_page_id=12454&cds_mag_code=NYR&id=1214941836477&lsid=81831436363038277&vid=15&cds_response_key=ILDN51UD&cds_mag_code=NYR\">The
+      New Yorker</option>\n\t\t            <option value=\"https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=VYF&cds_page_id=2367&cds_response_key=ILDN51UD\">Vanity
+      Fair</option>\n\t\t            <option value=\"https://w1.buysub.com/pubs/N3/VOG/self_073007.jsp?cds_page_id=1242&cds_mag_code=VOG&id=1214941864708&lsid=81831436363038277&vid=17&cds_response_key=ILDN51UD&cds_mag_code=VOG\">Vogue</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/WMG/self_control_split.jsp?cds_page_id=3158&cds_mag_code=WMG&id=1214941723577&lsid=81831448435050861&vid=1&cds_response_key=ILDN51UD&cds_mag_code=WMG\">W</option>\n\t\t
+      \           <option value=\"https://w1.buysub.com/pubs/N3/WIR/digital_self_wiredtest.jsp?cds_page_id=22463&cds_mag_code=WIR&id=1214941895098&lsid=81831436363038277&vid=18&cds_response_key=I2DNWTUD&cds_mag_code=WIR\">Wired</option>\n\t\t
+      \         </select>\n\t\t        </form>\n\t\t</div>\n\t\n\t\t<span class=\"vertRule\">
+      </span>\t\t\n\t\t<div id=\"sister\">View our sister sites:\t      \n\t\t\t\t<form
+      id=\"condenet_sites_dropdown\" name=\"condenet_sites_dropdown\">\n\t\t            <select
+      id=\"mag_list\" onchange=\"if(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value
+      != '') window.open(document.condenet_sites_dropdown.mag_list.options[document.condenet_sites_dropdown.mag_list.selectedIndex].value)\"
+      size=\"1\" name=\"mag_list\">\n\t\t                <option value=\"\" selected=\"selected\">Cond&#233;
+      Nast Web sites:</option>\n\t\t\t\t\t\t<option value=\"\"></option>\n\t\t                 <option
+      value=\"http://www.allure.com/\">Allure</option>\n\t\t                <option
+      value=\"http://www.architecturaldigest.com/\">Architectural Digest</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.ArsTechnica.com/\">Ars Technica</option>\t\t\n\t\t                <option
+      value=\"http://www.bonappetit.com/\">Bon App&eacute;tit</option>\t\t\t\t\n\t\t
+      \               <option value=\"http://www.brides.com/\">Brides.com</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.CNTraveler.com/\">Cond&eacute; Nast  Traveler</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.concierge.com/\">Concierge.com</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Details.com/\">Details</option>\n\t\t                <option
+      value=\"http://www.glamour.com/\">Glamour</option>\n\t\t\t\t\t\t<option value=\"http://www.GolfDigest.com/\">Golf
+      Digest</option>\n\t\t\t\t\t\t<option value=\"http://www.GolfWorld.com/\">Golf
+      World</option>\n\t\t\t\t\t\t<option value=\"http://www.GQ.com/\">GQ</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.HotelChatter.com/\">Hotel Chatter</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Jaunted.com/\">Jaunted</option>\n\t\t                <option
+      value=\"http://www.luckymag.com/\">Lucky</option>\n\t\t\t\t\t\t<option value=\"http://www.NutritionData.com/\">Nutrition
+      Data</option>\n\t\t\t\t\t\t<option value=\"http://www.Reddit.com/\">Reddit</option>\n\t\t
+      \               <option value=\"http://www.self.com/\">Self</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Style.com/\">Style.com</option>\n\t\t                <option
+      value=\"http://www.teenvogue.com/\">Teen Vogue</option>\n\t\t                <option
+      value=\"http://www.newyorker.com/\">The New Yorker</option>\n\t\t                <option
+      value=\"http://www.vanityfair.com/\">Vanity Fair</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Vogue.com/\">Vogue</option>\n\t\t\t\t\t\t<option value=\"http://www.Webmonkey.com/\">Webmonkey</option>\n\t\t\t\t\t\t<option
+      value=\"http://www.Wired.com/\">Wired.com</option>\n\t\t                <option
+      value=\"http://www.wmagazine.com/\">W</option>\n\t\t            </select>\n\t\t
+      \       </form>\n\t\t     <div class=\"clear\"></div>\n\t\t </div>\n\t</div>\t
+      \n\t\t <!-- End related-sites -->\n     <div id=\"legalquad\">\n            <p>\n
+      \                Registration on or use of this site constitutes acceptance
+      of our <a href=\"http://www.condenast.com/services/privacy/\" onclick=\"window.open(this.href);return
+      false;\">User Agreement</a> and <a href=\"http://www.condenast.com/services/privacy/\"
+      onclick=\"window.open(this.href);return false;\">Privacy Policy</a> <span class=\"revision-date\">
+      (Revised 08/01/2011)</span>.  Epicurious &copy; 2011 Cond&eacute; Nast Digital.
+      All rights reserved.   The material on this site may not be reproduced, distributed,
+      transmitted, cached or otherwise used, except with the prior written permission
+      of Cond&eacute; Nast Digital.\n             </p>\n            <div class=\"add-choice\">\n
+      \               <div class=\"add-choice-text\">\n                    <a href=\"http://www.condenast.com/services/privacy#optout\"
+      onclick=\"window.open(this.href);return false;\">Ad Choices\n\t\t    </a>\n
+      \               </div>\n\t\t<div class=\"add-choice-img\">\n\t\t    <a href=\"http://www.condenast.com/services/privacy#optout\"
+      onclick=\"window.open(this.href);return false;\">\n\t\t\t<img width=\"10\" height=\"10\"
+      border=\"0\" src=\"/images/footer/common/ad_choices_arrow.png\">\n\t\t    </a>\n\t\t</div>\n
+      \           </div>\n     </div>\n</div> \n\t \n\t <!-- End #disclaimers -->\n
+      \ <script>dynamicWrapperByTagAndClass('div','typeAorB-child','dynamic-wrapper',3);</script>\n\n
+      \           <script src=\"http://www.google-analytics.com/urchin.js\" type=\"text/javascript\">\n</script>\n<script
+      type=\"text/javascript\">\n_uacct = \"UA-2624365-1\";\nurchinTracker();\n</script>\n\n
+      \       </div>\n\n    </div><!-- End pageWrapper -->\n\n\n\n\n\n\n\n\n\n\n\n\n\n<!--
+      omniture stats -->\n\n\n\n\n\n\n\n\n<!-- SiteCatalyst code version: H.15.1.\nCopyright
+      1997-2008 Omniture, Inc. More info available at\nhttp://www.omniture.com -->\n\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\nvar s_account=\"condenet-epicurious\";\nvar
+      s_linkInternalFilters=\"javascript:,epicurious.com\";\nvar s_trackingServer=\"stats.epicurious.com\";\n//-->\n</script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\" src=\"/rd_scripts/stats/s_code.js\"></script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\n/* You may give each
+      page an identifying name, server, and channel on\nthe next lines. */\ns.prop22=\"American,Engagement
+      Party,Chocolate,Shower,Christmas,Edible Gift,Winter,Advanced Cooking,Cocktail
+      Pa\";\ns.prop3=\"Caramel-dark Chocolate Truffles With Fleur De Sel\";\ns.prop4=\"109085\";\ns.prop5=\"recipe\";\ns.prop6=\"recipes\";\ns.prop7=\"recipes:food\";\ns.prop8=\"recipes:food:views\";\ns.hier1=\"recipes,food,views\";\ns.prop9=\"\";\ns.pageName=\"http://www.epicurious.com/recipes/food/views\";\n\n/*************
+      DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/\nvar s_code=s.t();if(s_code)document.write(s_code)//--></script>\n<script
+      language=\"JavaScript\" type=\"text/javascript\"><!--\nif(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\\!-'+'-')\n//--></script><noscript><a
+      href=\"http://www.omniture.com\" title=\"Web Analytics\"><img\nsrc=\"http://condenast.112.2o7.net/b/ss/condenet-epicurious/1/H.15.1--NS/0\"\nheight=\"1\"
+      width=\"1\" border=\"0\" alt=\"\" /></a></noscript><!--/DO NOT REMOVE/-->\n<!--
+      End SiteCatalyst code version: H.15.1. -->\n\n<!-- end stats call -->\n\n\n<script>\ndeleteDartZoneCookie();\n</script>\n\n\n<script
+      type=\"text/javascript\" src=\"/scripts/ecom/magnet.popups.js\"></script>\n\n\n\n\n\n<script
+      type=\"text/javascript\">tyntVariables = {\"ap\":\"Read More\"};</script> <script
+      type=\"text/javascript\" src=\"http://tcr.tynt.com/javascripts/Tracer.js?user=cdozgy3G8r3R3Eab7jrHtB&s=112\"></script>\n\n\n\n\n
+      \   <script type=\"text/javascript\">\n        /* setting cookie that turns
+      off exitpop monitor on contest pages\n           to preserve cc upsell window
+      on top.\n        */\n        var contest = \"\";\n        if (contest != \"\")
+      {\n            document.cookie = \"exitpop=false;path=/user/\" + contest;\n
+      \       }\n\n        MAGNET.popups.excludeExitDomain(\"local\");\n        MAGNET.popups.excludeExitDomain(\"localhost\");\n
+      \       MAGNET.popups.excludeExitDomain(\"conde-dev.com\");\n        MAGNET.popups.excludeExitDomain(\"epicurious.com\");\n
+      \       MAGNET.popups.setArriving(false);\n        MAGNET.popups.setExiting(true,
+      {\n                name: 'exitingpop',\n                cookie: 'ExitingCookie',\n
+      \               path: '/scripts/exitpop.html',\n                width: 460,\n
+      \               height: 295,\n                top: (screen.height/2)-(295/2),\n
+      \               left:(screen.width/2)-(460/2),\n                args: {\n                    scrollbars:
+      0,\n                    toolbar: 0\n                }\n            });\n       MAGNET.popups.init();\n
+      \   </script>\n\n\n<script type=\"text/javascript\" src=\"/rd_scripts/cobranding/render_cobrand_header.js\"></script>\n<script
+      type=\"text/javascript\" src=\"/js/cn-fe-common/jquery.jcarousel.js\"></script>\n\n\n</body>\n</html>"
+    http_version: '1.1'
+- !ruby/struct:VCR::HTTPInteraction
+  request: !ruby/struct:VCR::Request
+    method: :get
     uri: http://www.epicurious.com:80/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872
     body: !!null 
     headers: !!null 
@@ -3357,16 +4270,16 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Thu, 22 Dec 2011 08:20:20 GMT
+      - Mon, 26 Dec 2011 20:35:44 GMT
       date:
-      - Thu, 22 Dec 2011 08:10:20 GMT
+      - Mon, 26 Dec 2011 20:25:44 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - mobify=0; expires=Thu, 22-Dec-2011 10:10:20 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 26-Dec-2011 22:25:44 GMT; domain=epicurious.com
     body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
@@ -3406,7 +4319,7 @@
       \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
       \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'epi.dart',
-      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Healthy&Salad&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
+      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Salad&Healthy&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
       charmap : {}, embed: true});\n    //-->\n    </script>\n        \n    \n\n\n\n<script
       type=\"text/javascript\" src=\"/rd_scripts/popMaster.js\"></script>\n<script
       type=\"text/javascript\" src=\"/rd_scripts/subscription.js\"></script>\n<script
@@ -3460,16 +4373,15 @@
       scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:84px;
       height:21px;\" allowTransparency=\"true\"></iframe></li>\r\n    </ul>\r\n\n
       \   \n    <div id=\"headerSpace\"></div>\n     \n     \n     <style>\ndiv#promotion_heading
-      {\nbackground:transparent url(/images/articlesguides/holidays/christmas/christmas-tbar-2011-sponsor-electrolux.png)
+      {\nbackground:transparent url(/images/articlesguides/holidays/newyearseve/newyear-2012-tbar-promo.png)
       no-repeat scroll 0 0;}\ndiv#promotion_heading a.see_it_all {display:block; height:53px;
       margin:0 10px; width:970px;}\n.sponsor {position: absolute;top: 1px; left: 971px;
       width: 1px; height: 53px; padding-top: 4px; z-index:10}\n</style>\n\n<div id=\"promotion_heading\">\n<!--
-      div class=\"sponsor\"><a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\"
-      \ntitle=\"Have Yourselves a Merry Christmas\"></a></div -->\n<div class=\"promotion_heading\"><a
-      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_promobar\" \ntitle=\"Have
-      Yourselves a Merry Christmas\" class=\"see_it_all\"><IMG SRC=\"http://ad.doubleclick.net/ad/N1974.Epicurious/B5547358.39;sz=1x1;ord=[timestamp]?\"
-      BORDER=0 WIDTH=1 HEIGHT=1 ALT=\"Advertisement\"></a></div>\n</div>\n     \n
-      \    \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
+      div class=\"sponsor\"><a href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_promobar\"
+      \ntitle=\"Welcome, 2012! The party's here\"></a></div -->\n<div class=\"promotion_heading\"><a
+      href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_promobar\"
+      \ntitle=\"Welcome, 2012! The party's here\" class=\"see_it_all\"></a></div>\n</div>\n
+      \    \n     \n     <span id=\"navspacer\">&nbsp;</span>\n    \n    <div id=\"pushDownAd\">\n
       \       \n\n\n\n\n\n\n    \n\n\n    </div>\n    <a id=\"epiAppStorePromo\" class=\"appStorePromoHidden\"
       href=\"itms://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=312101965&mt=8&s=143441\">get
       the epicurious iPhone app</a>\n    <script type=\"text/javascript\" language=\"JavaScript\">detectPushdownAd();displayEpiAppStorePromo();</script>\n\n
@@ -3856,49 +4768,49 @@
       class=\"sub_link\">Gourmet Live</span> on Epi</a></li>\n\t\t\t\t\t\t<li><a href=\"/recipesmenus/self/recipes\"><span
       class=\"sub_link\">SELF</span> on Epi</a></li>\n                        <li><a
       href=\"/recipesmenus/whatsnew/recipes\">What's New</a></li>\n\t\t\t\t\t\t<li><a
-      href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n
+      href=\"/recipesmenus/buzzbox/recipes\">buzz box</a></li>\n                    </ul>\n\t\t\t\t\t\n\n
       \                   <div class=\"menu-feature-content\">\n                        <a
-      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><img src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-RM-2011.jpg\"
-      border=\"0\" alt=\"Christmas Is Coming\" /></a>\n                       <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\"><h4>Christmas
-      Is Coming</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_navpromo\">And
-      we've got more than 1,700 recipes and 120 menus for you, plus the ultimate edible
-      gifts.</a>\n                        </p>\n                        <p class=\"menu-feature-links\">\n
-      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_subpromo\">see
-      christmas menus, gifts, cookie recipes, and more </a>&nbsp;<span>&#8250;</span>\n
-      \                       </p>\t\t\t\t\t\n\t\t\t\n                        <!--
-      \ <div class=\"menu-feature-ad\">\n                            <span>brought
+      href=\"/recipesmenus/holidays/newyearseve/recipes?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/newyearseve/newyears-navpromo-RM.jpg\"
+      border=\"0\" alt=\"Ring in the New\" /></a>\n                       <a href=\"/recipesmenus/holidays/newyearseve/recipes?intcid=epi_navpromo\"><h4>Ring
+      in the New</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/recipesmenus/holidays/newyearseve/recipes?intcid=epi_navpromo\">Make
+      2012 your most delicious year yet: Party snacks, cocktail recipes, and menus
+      for every kind of New Year's get-together, from decadent to down-home</a>\n
+      \                       </p>\n                        <p class=\"menu-feature-links\">\n
+      \                           <a href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_subpromo\">plus:
+      our guide to new year's entertaining</a>&nbsp;<span>&#8250;</span>\n                        </p>\t\t\t\t\t\n
+      \t\n                        <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div>\n                        -->            \n
       \                   </div>                    \n                </div>\n                <div
-      class=\"dropdown-end-cap\"></div>\n            </div>\n\n            <div id=\"articlesandguides_dropdown\">\n
-      \               <div class=\"dropdown-content\">\n                    <ul>\n
-      \                       <li><a href=\"/articlesguides/bestof\">the best of epicurious</a></li>\n\t\t\t\t\t\t<li><a
-      href=\"/articlesguides/blogs/editor\">The Epi-Log</a></li>\n                        <li><a
-      href=\"/articlesguides/blogs/80dishes\">80 global dishes</a></li>\n                        <li><a
-      href=\"/articlesguides/holidays\">Holidays &amp; Parties</a></li>\n                        <li><a
-      href=\"/articlesguides/everydaycooking\">Everyday Cooking</a></li>\n                        <li><a
-      href=\"/articlesguides/healthy\">Healthy Cooking</a></li>\n                        <li><a
-      href=\"/articlesguides/seasonalcooking\">Seasonal Cooking</a></li>\n                        <li><a
-      href=\"/articlesguides/howtocook\">How To Cook</a></li>\n                        <li><a
-      href=\"/articlesguides/cuisines\">Cuisines</a></li>\n                        <li><a
-      href=\"/articlesguides/entertaining\">Entertaining</a></li>\t\t\t\t\n                        <li><a
-      href=\"/articlesguides/diningtravel\">Dining &amp; Travel</a></li>\n                        <li><a
-      href=\"/articlesguides/kitchenequipment\">Kitchen &amp; Equipment</a></li>\n
-      \                       <li><a href=\"/articlesguides/chefsexperts\">Chefs &amp;
-      Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
-      \                   </ul>\n\t\t\t\t\t\n\t\t\t\t\t\n                    <div
-      class=\"menu-feature-content\">\n                        <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><img
-      src=\"/images/articlesguides/holidays/christmas/christmas-navpromo-AG-2011.jpg\"
-      border=\"0\" alt=\"'Twas the Days Before Christmas\" /></a>\n                       <a
-      href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\"><h4>'Twas
-      the Days Before Christmas</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
-      \                           <a href=\"/articlesguides/holidays/christmas/christmas?intcid=epi_navpromo\">Get
-      menu inspiration from Nigella Lawson, Graham Elliot, and Mario Batali; bake
-      up a cookie swap; and find foodie gifts.</a>\n                        </p>\n
+      class=\"dropdown-end-cap\"></div>\n            </div>\n\t\t\t\n            <div
+      id=\"articlesandguides_dropdown\">\n                <div class=\"dropdown-content\">\n
+      \                   <ul>\n                        <li><a href=\"/articlesguides/bestof\">the
+      best of epicurious</a></li>\n\t\t\t\t\t\t<li><a href=\"/articlesguides/blogs/editor\">The
+      Epi-Log</a></li>\n                        <li><a href=\"/articlesguides/blogs/80dishes\">80
+      global dishes</a></li>\n                        <li><a href=\"/articlesguides/holidays\">Holidays
+      &amp; Parties</a></li>\n                        <li><a href=\"/articlesguides/everydaycooking\">Everyday
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/healthy\">Healthy
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/seasonalcooking\">Seasonal
+      Cooking</a></li>\n                        <li><a href=\"/articlesguides/howtocook\">How
+      To Cook</a></li>\n                        <li><a href=\"/articlesguides/cuisines\">Cuisines</a></li>\n
+      \                       <li><a href=\"/articlesguides/entertaining\">Entertaining</a></li>\t\t\t\t\n
+      \                       <li><a href=\"/articlesguides/diningtravel\">Dining
+      &amp; Travel</a></li>\n                        <li><a href=\"/articlesguides/kitchenequipment\">Kitchen
+      &amp; Equipment</a></li>\n                        <li><a href=\"/articlesguides/chefsexperts\">Chefs
+      &amp; Experts</a></li>\n                        <li><a href=\"/articlesguides/drinking\">Drinking</a></li>\n
+      \                   </ul>\n\t\t\t\n\t\t\t\t\t\n                    <div class=\"menu-feature-content\">\n
+      \                       <a href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_navpromo\"><img
+      src=\"/images/articlesguides/holidays/newyearseve/newyears-navpromo-AG.jpg\"
+      border=\"0\" alt=\"Happy Days Are Here\" /></a>\n                       <a href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_navpromo\"><h4>Happy
+      Days Are Here</h4></a>\n                        <p class=\"menu-feature-copylinks\">\n
+      \                           <a href=\"/articlesguides/holidays/newyearseve/newyearseve?intcid=epi_navpromo\">Celebrate
+      the new year with a fabulous menu by Gina and Patrick Neely, a buyer's guide
+      to bubbly, tips for beating a hangover, and foods for a lucky 2012</a>\n                        </p>\n
       \                       <p class=\"menu-feature-links\">\n                            <a
-      href=\"/recipesmenus/holidays/christmas/recipes?intcid=epi_subpromo\">see the
-      ultimate christmas recipes and menus</a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\t\t\t\n
+      href=\"/recipesmenus/holidays/newyearseve/recipes?intcid=epi_subpromo\">plus:
+      hundreds of new year's recipe ideas</a>&nbsp;<span>&#8250;</span>\n                        </p>\n\t\t\t\t\n
       \                     <!--  <div class=\"menu-feature-ad\">\n                            <span>brought
       to you by</span>\n                            <img src=\"/rd_images/header/default/placeholder-120x60.gif\"
       alt=\"\" />\n                        </div> -->\n                    </div>
@@ -3977,8 +4889,8 @@
       \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
       \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
       \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad1374808615_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1374808615_',
+      \   \n    \n        <div id=\"ad1119278028_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1119278028_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n<div id=\"eCookbooks\" class=\"modular
       content_unit\">\r\n    <h2>recommended eCookbooks</h2>\r\n    <div id=\"see-how-rr\">\r\n
@@ -4065,27 +4977,27 @@
       id=\"rotd_share\">share</span>\n\n\t\t\t\t<a href=\"http://feeds.epicurious.com/newrecipes\"
       id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368689\"><img
-      src=\"/images/recipesmenus/2011/2011_december/368689_116.jpg\" alt=\"Bourbon
-      Bread Pudding\" /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
-      href=\"/recipes/food/views/368689\">Bourbon Bread Pudding</a></h3>\n                        <p><em>The
-      Neelys' Celebration Cookbook</em>, December 2011</p>\n                    </div>\n
-      \                       <div class=\"clear\"></div>\n                </div>\n
-      \           </div>\n\n\n\n<div id=\"product-widget\" class=\"modular content_unit
-      dropshadowed\">\n    <a href=\"http://shop.epicurious.com\" id=\"product-widget-see-store\"
-      target=\"_blank\"><h2>popular now</h2></a>\n\n    <div id=\"product-widget-carousel\"
-      class=\"jcarousel-skin-epi\">\n        <ul></ul>\n    </div>\n</div>\n\n\n\n
-      \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
-      \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
-      \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad408112073_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad408112073_',
-      {sz:'300x250', kws:[\"bottom\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
-      \               </div>\n            </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\"
-      class=\"modular content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\"
-      src=\"/rd_images/poll/epi_poll_hed.jpg\" />\n\n        <iframe id=\"poll_booth\"
-      height=\"200\" frameborder=\"0\" scrolling=\"no\" src=\"/services/poll-cache/rightrailpoll\"></iframe>\n\n
-      \       <div class=\"poll_ad\">\n            \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/369112\"><img
+      src=\"/images/recipesmenus/2011/2011_december/369112_116.jpg\" alt=\"Five-Spice
+      Pecan\" /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
+      href=\"/recipes/food/views/369112\">Five-Spice Pecan</a></h3>\n                        <p>SELF,
+      December 2011</p>\n                    </div>\n                        <div
+      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n\n<div
+      id=\"product-widget\" class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
+      id=\"product-widget-see-store\" target=\"_blank\"><h2>popular now</h2></a>\n\n
+      \   <div id=\"product-widget-carousel\" class=\"jcarousel-skin-epi\">\n        <ul></ul>\n
+      \   </div>\n</div>\n\n\n\n            <div class=\"module\">\n                <div
+      class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
+      \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad2088989246_300x250_frame\"
+      class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
+      \       \n        CN.dart.call('ad2088989246_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
+      \           </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\" class=\"modular
+      content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\" src=\"/rd_images/poll/epi_poll_hed.jpg\"
+      />\n\n        <iframe id=\"poll_booth\" height=\"200\" frameborder=\"0\" scrolling=\"no\"
+      src=\"/services/poll-cache/rightrailpoll\"></iframe>\n\n        <div class=\"poll_ad\">\n
+      \           \n                \n            \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n        <div id=\"pollBooth165x31_frame\" class=\"displayAd\"></div>\n
       \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('pollBooth',
       {sz:'165x31', kws:[]});\n    //-->\n    </script>\n    \n\n\n        </div>\n
