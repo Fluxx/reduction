@@ -64,6 +64,38 @@ module Reduction
 
       end
 
+      describe 'with titled ingredient lists' do
+        strategy_subject_for('http://allrecipes.com/recipe/ricotta-gnocchi/detail.aspx')
+
+        it_should_behave_like 'a strategy'
+
+        it_should_find 'ingredients', [
+          [
+            "1 (8 ounce) container ricotta cheese",
+            "2 eggs",
+            "1/2 cup freshly grated Parmesan cheese",
+            "1 teaspoon salt",
+            "1 teaspoon pepper",
+            "1 teaspoon garlic powder",
+            "1 cup all-purpose flour, or as needed"
+          ],
+          [
+            "3 tablespoons olive oil",
+            "1 tablespoon minced garlic",
+            "1 (15.5 ounce) can diced tomatoes",
+            "1 dash crushed red pepper flakes (optional)",
+            "6 basil leaves, finely shredded",
+            "Salt and pepper to taste",
+            "8 ounces fresh mozzarella cheese, cut into small chunks"
+          ]
+        ]
+
+        it 'finds the right list names' do
+          subject.ingredients[0].name.should == 'Gnocchi'
+          subject.ingredients[1].name.should == 'Sauce'
+        end
+      end
+
     end
 
   end

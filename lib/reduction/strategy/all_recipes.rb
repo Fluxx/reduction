@@ -16,7 +16,11 @@ module Reduction
       end
 
       def ingredients
-        [ NamedList.new(recipe('.ingredients ul').text.stripped_lines) ]
+        zipped_ingredients.map do |list, title|
+          NamedList.new(list).tap do |l|
+            l.name = title if title
+          end
+        end
       end
 
       def steps
@@ -40,6 +44,34 @@ module Reduction
       end
 
       private
+
+      def zipped_ingredients
+        ingredient_lists.zip(ingredient_titles)
+      end
+
+      def ingredient_titles
+        ingredients_is_title(true).flatten.map do |title|
+          title.chomp(':')
+        end
+      end
+
+      def ingredient_lists
+        ingredients_is_title(false)
+      end
+
+      def ingredients_is_title(is_list)
+        chunked_ingredients.select { |i| i.first == is_list }.map(&:last)
+      end
+
+      def chunked_ingredients
+        raw_ingredient_lines.chunk { |line| !! line.match(/:$/) }
+      end
+
+      def raw_ingredient_lines
+        recipe('.ingredients ul').text.stripped_lines.select do |i|
+          !i.chop.empty?
+        end
+      end
 
       def recipe(further)
         doc.at('.recipe-details-content').at(further)
