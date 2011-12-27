@@ -58,7 +58,7 @@ module Reduction
 
         it_should_find 'prep_time', nil
 
-        it_should_find 'cook_time', nil
+        it_should_find 'cook_time', '35 min'
 
         it_should_find 'total_time', '35 min'
 

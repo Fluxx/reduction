@@ -31,6 +31,10 @@ module Reduction
         doc.at('#time-servings strong').text.collapse_whitespace + ' servings'
       end
 
+      def cook_time
+        total_time
+      end
+
       def total_time
         doc.at('#time-total strong').text.collapse_whitespace.downcase
       end
