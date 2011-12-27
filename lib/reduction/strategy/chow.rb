@@ -31,7 +31,6 @@ module Reduction
       end
 
       def cook_time
-        total_time
       end
 
       def total_time
