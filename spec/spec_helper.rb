@@ -2,13 +2,18 @@ require 'reduction'
 require 'rspec'
 require 'ruby-debug'
 require 'open-uri'
+require 'iconv'
 
 Dir['./spec/support/**/*.rb'].each { |f| require f }
 
 module StrategyMacros
 
   def strategy_subject_for(url)
-    subject { described_class.new(open(url).read, url) }
+    subject do
+      raw_body = open(url).read
+      body = Iconv.new('UTF-8//IGNORE', 'UTF-8').iconv(raw_body + ' ')[0..-2]
+      described_class.new(body, url)
+    end
   end
   
 end
