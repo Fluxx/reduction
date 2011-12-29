@@ -40,6 +40,9 @@ module Reduction
         doc.search('div.image img.medium').map { |i| i['src'] }
       end
 
+      def notes
+      end
+
       private
 
       def cleaned_steps

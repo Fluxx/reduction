@@ -50,6 +50,9 @@ module Reduction
       def cook_time
       end
 
+      def notes
+      end
+
       def images
         absolute_img_srcs_from(normalized_images)
       end

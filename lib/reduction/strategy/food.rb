@@ -43,6 +43,9 @@ module Reduction
       def images
         absolute_img_srcs_from(doc.search('.recipe-item .smallPageImage'))
       end
+
+      def notes
+      end
       
       private
       

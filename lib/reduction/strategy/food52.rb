@@ -47,6 +47,9 @@ module Reduction
         absolute_img_srcs_from(recipe.search('.image_container img'))
       end
 
+      def notes
+      end
+
       private
 
       def extract_ingredients_from(section)

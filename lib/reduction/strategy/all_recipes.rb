@@ -39,6 +39,9 @@ module Reduction
         recipe('h5[2] span[3]').text
       end
 
+      def notes
+      end
+
       def images
         absolute_img_srcs_from(doc.search('#recipemasthead img.rec-image.photo'))
       end

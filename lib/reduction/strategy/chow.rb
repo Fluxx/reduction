@@ -42,6 +42,9 @@ module Reduction
         absolute_img_srcs_from(relevent_images)
       end
 
+      def notes
+      end
+
       private
 
       def relevent_images
