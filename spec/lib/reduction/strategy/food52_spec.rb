@@ -59,6 +59,8 @@ module Reduction
           "http://s3.amazonaws.com/food52_assets/indeximages/22863/nine_col/Food52_11-22-11-0899.jpg?1322800208"
         ]
 
+        it_should_find 'notes', 'My mother used to make these cookies regularly when I was growing up, and they continue to be the standard to which I compare all other peanut butter cookies. This recipe is adapted from one of my favorite cookbooks, The Fannie Farmer Cookbook (First Edition).'
+
       end
 
       context 'multiple ingredient lists' do
@@ -144,6 +146,14 @@ module Reduction
           ]
         ]
 
+      end
+
+      context 'with multiple notes' do
+        strategy_subject_for('http://food52.com/recipes/10579_best_boston_baked_beans')
+
+        it 'only pulls the cooks notes' do
+          subject.notes.should == 'As a native Bostonian living on the West Coast, I sometimes get homesick for baked beans. This is a recipe I made for an heirloom variety called Ireland Creek Annie beans, a lovely golden legume that hold up well during cooking, but this dish would work well with a number of beans including small navy beans or anasazi. The key for creating a rich, syrupy dish is to bake the beans on low heat in the oven, and then raise the temperature and removing the lid for the last half hour so the liquid reduces and the beans develop some charred flavors. - Fairmount_market'
+        end
       end
         
     end

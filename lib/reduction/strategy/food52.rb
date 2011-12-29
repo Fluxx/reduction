@@ -48,6 +48,7 @@ module Reduction
       end
 
       def notes
+        doc.at('.recipe_notes mark#cooks + p span.long_desc').text
       end
 
       private
