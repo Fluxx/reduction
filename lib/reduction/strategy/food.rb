@@ -29,7 +29,8 @@ module Reduction
       end
 
       def prep_time
-        doc.at('.recipe-item p.preptime').text
+        res = doc.at('.recipe-item').search('p.preptime', 'p.prepTime')
+        res.first.text if res.any?
       end
 
       def cook_time
