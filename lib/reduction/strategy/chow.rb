@@ -31,11 +31,19 @@ module Reduction
       end
 
       def cook_time
-        total_time
+        total_time || active_time
       end
 
       def total_time
-        doc.at('time[itemprop=totalTime]').text.collapse_whitespace
+        if tt = doc.at('time[itemprop=totalTime]')
+          tt.text.collapse_whitespace
+        end
+      end
+
+      def active_time
+        if at = doc.at('time[itemprop=activeTime]')
+          at.text.collapse_whitespace
+        end
       end
 
       def images

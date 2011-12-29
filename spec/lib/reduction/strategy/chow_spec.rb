@@ -170,12 +170,12 @@ module Reduction
 
       end
 
-      context 'another' do
+      context 'a different layout with active time' do
         strategy_subject_for('http://www.chow.com/recipes/14271-olive-parsley-dip-with-crudites')
         it_should_behave_like 'a strategy'
 
-        it 'should be okay' do
-          subject.yields
+        it 'returns the active time for cook time' do
+          subject.cook_time.should == '20 mins'
         end
       end
 
