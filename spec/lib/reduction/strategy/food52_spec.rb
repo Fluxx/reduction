@@ -155,6 +155,25 @@ module Reduction
           subject.notes.should == 'As a native Bostonian living on the West Coast, I sometimes get homesick for baked beans. This is a recipe I made for an heirloom variety called Ireland Creek Annie beans, a lovely golden legume that hold up well during cooking, but this dish would work well with a number of beans including small navy beans or anasazi. The key for creating a rich, syrupy dish is to bake the beans on low heat in the oven, and then raise the temperature and removing the lid for the last half hour so the liquid reduces and the beans develop some charred flavors. - Fairmount_market'
         end
       end
+
+      context 'with the notes expanded via javascript' do
+        let(:html) { File.read('spec/fixtures/food52.html') }
+        let(:url)  { 'http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios' }
+        let(:subject) { described_class.new(html, url) }
+
+        it 'finds all the notes' do
+          subject.notes.should == <<-TEXT.chop
+When you just can't look another zucchini in the face, put it on a pedestal. Raw zucchini can be spongy, bitter and strangely sticky, so pamper it like Patricia Wells does here, by shaving it into delicate ribbons, then bathing them in a lemony marinade.
+
+A trusted mandoline makes a big difference here -- and if you don't have one, you're better off opting for a vegetable peeler than a sharp knife. You want planks as thin as flower petals.
+
+There will be leftover lemon salt. Swirl it into buttered pasta; dust it on blanched green beans; put a pinch on a dark chocolate cookie.
+
+Adapted slightly from Salad as a Meal: Healthy Main-Dish Salads for Every Season.
+TEXT
+        end
+
+      end
         
     end
 

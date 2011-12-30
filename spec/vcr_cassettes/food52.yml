@@ -4775,3 +4775,892 @@
       border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n    </div>\n  </noscript>\n
       \ <!-- End Quantcast tag -->\n\n\t</body>\n</html>\n"
     http_version: '1.1'
+- !ruby/struct:VCR::HTTPInteraction
+  request: !ruby/struct:VCR::Request
+    method: :get
+    uri: http://food52.com:80/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios
+    body: !!null 
+    headers: !!null 
+  response: !ruby/struct:VCR::Response
+    status: !ruby/struct:VCR::ResponseStatus
+      code: 200
+      message: OK
+    headers:
+      server:
+      - nginx/0.7.61
+      date:
+      - Fri, 30 Dec 2011 00:22:23 GMT
+      content-type:
+      - text/html; charset=utf-8
+      connection:
+      - keep-alive
+      vary:
+      - Accept-Encoding
+      - Accept-Encoding
+      status:
+      - '200'
+      x-powered-by:
+      - Phusion Passenger (mod_rails/mod_rack) 2.2.5
+      x-runtime:
+      - '3261'
+      etag:
+      - ! '"5dfa041fbdf5f7de6af99b1105560bda"'
+      cache-control:
+      - private, max-age=0, must-revalidate
+      content-length:
+      - '71799'
+      set-cookie:
+      - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - label=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlNzdkZTVhNDQ3YmJhYTY5Y2RjODk1ZWRmZDg4ZmIyNDY%3D--5de2c6aa272c5b16f0ff41d9d2b119f01ef072d9;
+        path=/; expires=Sun, 30-Dec-2012 00:22:23 GMT; HttpOnly
+    body: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<html
+      lang=\"en\">\n<head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html;
+      charset=utf-8\">\n  <meta name=\"verify-v1\" content=\"lMOAF4P7f2sxMtpjVkGgQTON1Js3aD2uDielq9qdoYI=\"
+      />\n  <meta name=\"google-site-verification\" content=\"3hxp5oA8CYuqgtPrXrz0LmDSGYTIe2jQK9ToV1gwurI\"
+      />\n  <meta property=\"og:site_name\" content=\"Food52\" />\n  <meta property=\"og:type\"
+      content=\"article\" />\n  <meta property=\"og:url\" content=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios\"
+      />\n\n  <meta property=\"og:title\" content=\"Patricia Wells' Zucchini Carpaccio
+      with Avocado and Pistachios\" />\n  <meta property=\"og:image\" content=\"http://s3.amazonaws.com/food52_assets/indeximages/21470/large/Food5209-06-065888-Zucchini3.jpeg?1315460389\"
+      />\n  <meta created_date=\"2011-09-08 01:26:22 -0400\" />\n\n\n\n\n  <title>Patricia
+      Wells' Zucchini Carpaccio with Avocado and Pistachios recipe from food52</title>\n<!--[if
+      IE]>\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"/stylesheets/ie8.css\"
+      />\n<![endif]-->\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n
+      \ <link href=\"/stylesheets/rollover.css?1325116450\" media=\"screen\" rel=\"stylesheet\"
+      type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1325116450\" media=\"screen\"
+      rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script
+      type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n
+      \ <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n
+      \ <![endif]-->\n\n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1325116450\"
+      type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1325116450\"
+      media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1325116450\"
+      media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script
+      src=\"/javascripts/tabs.js?1325116450\" type=\"text/javascript\"></script>\n<script
+      src=\"/javascripts/widgets/tooltip.js?1325116450\" type=\"text/javascript\"></script>\n
+      \   <script src=\"/javascripts/recipes.js?1325116450\" type=\"text/javascript\"></script>\n\n
+      \ <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n
+      \       preload: true,\n        generatePagination: false\n      });\n    });\n
+      \ </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function()
+      {\n      $.ajax({\n        url: \"/recipes/check_if_editable/14318\",\n        dataType:
+      'html',\n        timeout: 3000,\n        error: function() { \n          //alert(\"Error
+      talking to server.\");\n        },\n        success: function(data) {\n          $(\"#edit-box\").html(data);\n
+      \       }\n      });\n    });\n  </script>\n\n    \n\n\n\n  <script type=\"text/javascript\">\n
+      \   window.onload = function() {\n      \n    }\n  </script>\n\n  <script type=\"text/javascript\">\n
+      \ $(document).ready(function()\n  {\n    $(\"input#search\").focus(function(event)
+      {\n       $(this).val(\"\");\n    });\n  });\n  </script>\n\n</head>\n<body>\n
+      \t<div class=\"outer_container\" id=\"header\">\n\t\t<div class=\"header\">\n
+      \         \t<div class=\"header_top\">\n\t\t\t<div class=\"user\">\n\t            \t<div
+      id='logged_out'>\n\t\t                <ul id=\"login\">\n\t\t                  <li><a
+      href=\"#signup_open\" name=\"modal\">Log In</a></li>\n\t\t                  <li
+      id=\"no_line\" class=\"last\"><a href=\"#signup_open\" name=\"modal\">Sign Up</a></li>\n\t\t
+      \               </ul>\n\t\t              </div>\n\t\t            <div id='logged_in'
+      style=\"display: none;\">\n\t\t              <ul id=\"login\">\n\t\t                <li
+      id=\"message\">Hi, <a href=\"#\" id=\"profile_link\" class=\"username\"><span
+      id=\"user_short_name\">User</span>!</a></li>\n\t\t                <li id=\"left_line\"><a
+      href=\"#\" id=\"recipe_link\"><span id=\"user_recipes\">My Recipes</span></a></li>\n\t\t
+      \               <li id=\"no_line\" class=\"last\"><a href=\"/logout\" >Log Out</a></li>\n\t\t
+      \             </ul>\n\t\t            </div>\n\t\t            <script type=\"text/javascript\"
+      charset=\"utf-8\">\n\t\t              handle_cached_user();\n\t\t            </script>\n\t
+      \        </div>\n\t          <h5 class=\"logo\"><a href=\"/\"><span>Food52</span></a></h5>\n\t
+      \         <div class=\"header_search\">\n\t            <ul>\n\t              <form
+      action=\"/home/search\">\n\t                  <li id=\"search\">\n\t                    <input
+      id=\"search\" type=\"text\" name=\"search\" value=\"Enter Search Term(s)\" />\n\t
+      \                       <select class=\"select\" name=\"option\" title=\"Recipes\">\n\t
+      \                         <option value=\"recipes\">Recipes</option>\n\t                          <option
+      value=\"foodpickle\">Hotline</option>\n\t                          <option value=\"shop\">Shop</option>\n\t
+      \                         \n\t                          <option value=\"cooks\">Cooks</option>\n\t
+      \                         <option value=\"articles\">Articles</option>\n\t                        </select>\n\t
+      \                 </li>\n\t                  <li id=\"submit\">\n\t                    <input
+      type=\"submit\" id=\"submit\" value=\"\" />\n\t                  </li>\n\t              </form>\n\t\t\t\t\t
+      \ <li>\n\t\t\t\t\t\t  <div class=\"cookbook_header\">\n\t\t\t\t\t\t\t  <h2><a
+      href=\"/blog/cookbook\">The Food52 Cookbook!</a></h2>\n\t\t\t\t\t\t  </div>\n\t\t\t\t\t
+      \ </li>\n\t            </ul>\n\t          </div>\n        </div>\n\t\t<div id=\"navigation\">\n
+      \           <ul class=\"clearfix\">\n              <li>\n\t\t\t\t<a href=\"/recipes\"
+      class=\"subtitle\" id='selected' >Recipes</a><span class=\"bullet\">&bull;</span>\n
+      \               <span class='tooltip' id=\"recipes\"><span>\n                    <div
+      class=\"hover_wrap\" id=\"recipes\">\n                      <div class=\"hover_box
+      clearfix\">\n                          <ul>\n                            <li><a
+      href=\"/recipes/new\" id=\"bold\">Add a Recipe &raquo;</a></li>\n                            <li><a
+      href=\"/recipes/search?ca=84\">Top Recipes</a></li>\n                            <li><a
+      href=\"/recipes/search?ca=85\">Community Picks</a></li>\n                            <li><a
+      href=\"/recipes/search?ca=88\">Contest Winners</a></li>\n                            <li><a
+      href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a
+      href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n
+      \                         <div class=\"entries\">\n                            <div
+      class=\"recipe_right\">\n                              <a href=\"/recipes/15143_meta_givens_pumpkin_pie\"><img
+      alt=\"Food52_11-15-11-8518\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/22706/original/food52_11-15-11-8518.jpg?1321930286\"
+      /></a>\n                              <div class=\"info_recipe\">\n                                <mark
+      id=\"recipe_white_outline\"></mark>\n\t\t                        <a class=\"\"
+      id=\"descriptor\" href=\"/recipes/15143_meta_givens_pumpkin_pie\">Recipe of
+      the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a
+      href=\"/recipes/15143_meta_givens_pumpkin_pie\">Meta Given's Pumpkin Pie</a></h2>\n
+      \                             </div>\n                            </div>\n                          </div>\n
+      \                     </div>\n                    </div>\n             \t</span></span>\n
+      \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false
+      >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip'
+      id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n
+      \                     <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark
+      id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n
+      \                         <a href=\"/hotline\">Ask any food question. Or answer
+      any food question!</a>\n                        </h3>\n                      </div>\n
+      \                   </div>\n                \t</span>\n                </span>\n
+      \             </li>\n              <li><a href=\"http://shop.food52.com\" class=\"subtitle\"
+      >Shop</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip'
+      id=\"shop\"><span>\n                    <div class=\"hover_wrap\" id=\"shop\">\n
+      \                     <div class=\"hover_box clearfix\">\n\t\t\t\t\t\t            <div
+      class=\"entries\">\n                          <div class=\"recipe_right\">\n\t\t\t\t\t\t\t\t
+      \           <!-- LATEST SHOP OFFER STUFF -->\n                              <a
+      href=\"http://shop.food52.com\" target=\"_blank\"><img src=\"http://s3.amazonaws.com/food52_assets/shop_promo_images/15/five_col/zursun.jpg?1324312159\"/></a>\n
+      \                             <div class=\"info_recipe\">\n\t\t                            <a
+      class=\"\" id=\"descriptor\" href=\"/recipes/15143_meta_givens_pumpkin_pie\">Now
+      in the shop</a>\n                                <h2 class=\"recipe_title\"
+      id=\"white\"><a href=\"http://shop.food52.com\">EXCLUSIVE LEGUME & LENTIL COLLECTIONS
+      FROM ZÜRSUN HEIRLOOM BEANS</a></h2>\n                              </div>\n
+      \                           </div>\n                          </div>\n                      </div>\n
+      \                   </div>\n                \t</span>\n                </span>\n
+      \             </li>\n              <li><a href=\"/contests\" class=\"subtitle\"
+      false>Contests</a><span class=\"bullet\">&bull;</span>\n                <span
+      class='tooltip' id=\"contests\"><span>\n                    <div class=\"hover_wrap\">\n
+      \                       <div class=\"hover_box clearfix\">\n                            <ul>\n
+      \                             <li><a href=\"/contests/266_your_best_charcuterie_the_charcutepalooza_grand_prize_challenge\"
+      id=\"bold\">The Current Contest &raquo;</a></li>\n                              <li><a
+      href=\"/recipes/14725_porcini_and_rosemary_crusted_beef_tenderloin_with_port_wine_sauce\">The
+      Latest Winner</a></li>\n                              <li><a href=\"/recipes/search?ca=88\">Past
+      Winners</a></li>\n                              <li><a href=\"/blog/2616_winner_of_your_best_root_vegetable_side\">Latest
+      Winners Q&A</a></li>\n                              <li><a href=\"/blog/2637_the_food52_cookbook_is_here\">The
+      First Food52 Cookbook!</a></li>\n                              <li id=\"last\"><a
+      href=\"/home/about_contests\">About the Contests</a></li>\n                            </ul>\n
+      \                           <div class=\"entries\">\n                              <div
+      class=\"recipe_right\">\n                                <a href=\"/contests/266_your_best_charcuterie_the_charcutepalooza_grand_prize_challenge\"><img
+      alt=\"Img_6601\" src=\"http://s3.amazonaws.com/food52_assets/contests/266/original/IMG_6601.jpg?1323975084\"
+      /></a>\n                                <div class=\"info_recipe\">\n                                  <mark
+      id=\"contest_white_outline\"></mark>\n\t\t                              <a href=\"/contests/266_your_best_charcuterie_the_charcutepalooza_grand_prize_challenge\"
+      class=\"\" id=\"descriptor\">finalists</a>\n                                  <h2
+      class=\"recipe_title\" id=\"white\"><a href=\"/contests/266_your_best_charcuterie_the_charcutepalooza_grand_prize_challenge\">Your
+      Best Charcuterie / The Charcutepalooza Grand Prize Challenge</a></h2>\n                                </div>\n
+      \                             </div>\n                            </div>\n                        </div>\n
+      \                   </div>\n\t\t\t\t\t      </span>\n              </span>\n
+      \             </li>\n              <li><a href=\"/cooks\" class=\"subtitle\"
+      false >Cooks</a><span class=\"bullet\">&bull;</span>\n                <span
+      class='tooltip' id=\"cooks\"><span>\n                  <div class=\"hover_wrap\"
+      id=\"cooks\">\n                    <div class=\"hover_box clearfix\">\n                      <div
+      class=\"entries\">\n\t\t\t\t\t\t\t          <!-- FEATURED COOK -->\n                        \n
+      \                         <div class=\"recipe_right\">\n                            <a
+      href=\"/blog/2816_emiko\"><img alt=\"Carrot Gnocchi with Butter and Sage Sauce\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/14253/nine_col/carrot_gnocchi_in_pan.jpg?1299201311\"
+      /></a>\n                            <div class=\"info_recipe\">\n                              <mark
+      id=\"cooks_white_outline\"></mark>\n                              <a href=\"/users/23872_emiko\"
+      class=\"\" id=\"descriptor\">Featured Cook</a>\n                              <h2
+      class=\"recipe_title\" id=\"white\"><a href=\"/blog/2816_emiko\" class=\"username\">Emiko</a></h2>\n
+      \                           </div>\n                          </div>\n                         \n
+      \                       </div>\n                      </div>\n                    </div>\n
+      \               \t</span>\n                </span>\n              </li>\n              <li><a
+      href=\"/blog\" class=\"subtitle\" false>Articles</a>\n                <span
+      class='tooltip' id=\"cooks\"><span>\n                    <div class=\"hover_wrap\"
+      id=\"articles\">\n                      <div class=\"hover_box clearfix\">\n
+      \                         <ul>\n\t\t\t\t\t\t\t              <!-- NEED LINKS,
+      may also need to ask a&m about the categories they want here, AND IMAGE -->\n
+      \                           <li><a href=\"/blog/category/114_site_update\">Food52
+      Site Updates</a></li>\n                            <li><a href=\"/blog/category/123_jennys_in_the_kitchen\">Jenny's
+      in the Kitchen</a></li>\n                            <li><a href=\"/blog/category/103_cooking_from_every_angle\">Cooking
+      from Every Angle</a></li>\n                            <li><a href=\"/blog/category/141_on_a_farm_in_indiana\">On
+      A Farm in Indiana</a></li>\n                            <li><a href=\"/blog/category/140_front_burner\">Front
+      Burner</a></li>\n                            <li><a href=\"/blog/category/130_dinner_and_a_movie\">Dinner
+      &amp; a Movie</a></li>\n                            <li><a href=\"/blog/category/119_videos\">Videos</a></li>\n
+      \                         </ul>\n                          <div class=\"entries\">\n
+      \                           <div class=\"recipe_right\">\n                              <a
+      href=\"http://www.food52.com/blog/2822_best_of_food52_2011\"><img alt=\"2469_what_comes_after_52\"
+      src=\"http://s3.amazonaws.com/food52_assets/homepage_promo_images/701/nine_col/2469_what_comes_after_52.png?1325097494\"
+      /></a>\n                              <div class=\"info_recipe\">\n                                <mark
+      id=\"recipe_white_outline\"></mark>\n\t\t                            <a class=\"\"
+      id=\"descriptor\" href=\"http://www.food52.com/blog/2822_best_of_food52_2011\">Featured
+      Article</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a
+      href=\"http://www.food52.com/blog/2822_best_of_food52_2011\">We've been busy!</a></h2>\n
+      \                             </div>\n                            </div>\n                          </div>\n
+      \                     </div>\n                    </div>\n                \t</span>\n
+      \               </span>\n              </li>\n            </ul>\n          </div>\n
+      \       <div class=\"message clearfix\" id=\"newsletter\">\n          <h5 class=\"message_text\"
+      id=\"grey\">HUNGRY FOR MORE? SIGN UP FOR OUR SURPRISE-FILLED, CAN'T-LIVE-WITHOUT-THEM
+      EMAILS!</h5>\n          <a href=\"#\" class=\"dismiss\" onclick=\"hideAndSetCookie();\"></a>\n
+      \         \n          <form action=\"/newsletters\" method=\"post\" onsubmit=\"jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray()),
+      dataType:'script', type:'post', url:'/newsletters'}); return false;\">\n            \n
+      \           <input id=\"search\" name=\"newsletter[email_address]\" onfocus=\"if(this.value=='Email
+      address')this.value=''\" size=\"30\" type=\"text\" value=\"Enter your email
+      address\" />\n            <input id=\"green_button\" name=\"commit\" type=\"submit\"
+      value=\"Subscribe &raquo;\" />\n          </form>\n        </div>\n        <script>\n
+      \         displayNewsletterMessage();\n        </script>\n        </div>\n\n\t</div>\n
+      \t<div class=\"container clearfix\">\n\n\n      \n    <div class=\"three_columns
+      leftest\">\n      <div class=\"space_20\"></div>\n      <div class=\"data sticky
+      module\" id=\"single_recipe\">\n        <ul class=\"data\">\n          <li class=\"top\">\n
+      \           <h3 class=\"activity_count\">Added 3 months ago</h3></li>\n          <li
+      class=\"dark clearfix\" id=\"first\">\n            \n            <h3 class=\"activity_count\">\n
+      \             <span>1,124</span> views</h3>\n          </li>\n          <div
+      id=\"rating\">\n            \n            <li class=\"dark clearfix\">\n              \n
+      \             <h3 class=\"activity_count\" id=\"left\"><span>5</span></h3>\n
+      \             <h3 class=\"activity_count\" id=\"right\">cooks want to eat this</h3>\n
+      \           </li>\n            <li class=\"button\">\n\n              <span
+      class=\"arrow_down\"></span>\n              \n                  <a href=\"#signup_open\"
+      class=\"green_button\" name=\"modal\">Me too!</a>\n              \n            </li>\n
+      \         </div>\n          <div id=\"save\">\n            <li class=\"dark
+      clearfix\">\n              \n              \n              <h3 class=\"activity_count\"
+      id=\"left\"><span>139</span></h3>\n              <h3 class=\"activity_count\"
+      id=\"right\">cooks saved this recipe</h3>\n            </li>\n            <li
+      class=\"button\">\n              \n                <a href=\"#signup_open\"
+      class=\"green_button\" name=\"modal\">Save this recipe</a>\n              \n
+      \           </li>\n          </div>\n          <li class=\"clearfix\">\n            \n
+      \           \n            <a href=\"/users/31034_genius_recipes\" class=\"pie
+      slice_50\"></a>\n            <span class=\"date\">by <a href=\"/users/31034_genius_recipes\"
+      class=\"username\">Genius Recipes</a></span>\n            \n            \n                <a
+      href=\"/cooks/31034_genius_recipes?t=recipes-added-tab\" class=\"action\">View\n
+      \                 my 22 other recipes &raquo;</a>\n            \n          </li>\n
+      \         <li>\n            <h3 class=\"heading\" id=\"small\">Share the deliciousness</h3>\n
+      \           <ul class=\"social_data\">\n              <li>\n                <iframe
+      src=\"http://www.facebook.com/plugins/like.php?app_id=174162069306426&amp;href=http://www.food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios&amp;send=false&amp;layout=button_count&amp;width=180&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21\"
+      scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:180px;
+      height:21px;\" allowTransparency=\"true\"></iframe>\n              </li>\n              <li
+      class=\"clearfix\">\n                <a href=\"http://twitter.com/share?url=http://www.food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios\"
+      class=\"twitter-share-button\" data-count=\"horizontal\">Tweet</a>\n                <script
+      type=\"text/javascript\" src=\"http://platform.twitter.com/widgets.js\"></script>\n
+      \               <a class=\"jump\" href=\"#\" id=\"email\" onclick=\"openModal(&quot;#email_modal_open&quot;);;
+      return false;\"></a>\n                <a href=\"/recipes/print/14318\" target=\"_blank\"
+      class=\"jump\" id=\"print\"></a>\n              </li>\n            </ul>\n          </li>\n
+      \         <li class=\"clearfix\" id=\"last\">\n\n            <a class=\"jump\"
+      href=\"#\" id=\"flag\" onclick=\"openModal(&quot;#modal_flag_recipe&quot;);;
+      return false;\"><span class=\"date\">Flag this recipe for inappropriate content</span></a>\n
+      \         </li>\n        </ul>\n      </div>\n    </div>\n    <div class=\"nine_columns\">\n
+      \   <!-- SINGLE RECIPE -->\n    <div class=\"single_recipe\">\n    <div class=\"recipe_viewer\">\n
+      \   <div class=\"icons clearfix\">\n      <mark id=\"recipe\"><span>Recipe</span></mark>\n
+      \     \n    </div>\n    <h1 class=\"individual\">Patricia Wells' Zucchini Carpaccio
+      with Avocado and Pistachios</h1>\n    \n    <div id=\"tabs\">\n    <ul class=\"nav\">\n
+      \     <li><a href=\"#recipe_tab\">Recipe</a></li>\n      \n      <li>\n        <a
+      href=\"#comments_tab\">\n          \n              4 Comments\n          \n
+      \       </a>\n      </li>\n      \n      <li>\n        <a href=\"#foodpickle_tab\">\n
+      \         \n              No Questions Yet\n          \n        </a>\n      </li>\n
+      \     <!-- <li><a href=\"#cooking_view\">Cooking View</a></li> -->\n    </ul>\n
+      \   <div id=\"recipe_tab\">\n      <div class=\"recipe\">\n        <div id=\"recipe_slides\">\n
+      \         <div class=\"slides_container\">\n            \n                \n
+      \                   \n\n                        \n\n                        <div
+      class=\"slide\">\n                          <div class=\"image_container\">\n
+      \                           <img alt=\"Patricia Wells' Zucchini Carpaccio with
+      Avocado and Pistachios\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/21470/nine_col/Food5209-06-065888-Zucchini3.jpeg?1315460389\"
+      />\n                          </div>\n                          <div class=\"caption\"
+      style='bottom:0;' >\n                            <p>Photo 1 of 2 <br/>by Joseph
+      De Leo\n                            </p>\n                          </div>\n
+      \                       </div>\n                    \n\n                        \n\n
+      \                       <div class=\"slide\">\n                          <div
+      class=\"image_container\">\n                            <img alt=\"Patricia
+      Wells' Zucchini Carpaccio with Avocado and Pistachios\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/21469/nine_col/Food5209-06-065878-Zucchini1.jpeg?1315460387\"
+      />\n                          </div>\n                          <div class=\"caption\"
+      \ >\n                            <p>Photo 2 of 2 <br/>by Joseph De Leo\n                            </p>\n
+      \                         </div>\n                        </div>\n                    \n
+      \               \n            \n\n          </div>\n          \n              <a
+      href=\"#\" class=\"prev\"><span></span></a>\n              <a href=\"#\" class=\"next\"><span></span></a>\n
+      \         \n          \n          \n\n        </div>\n      </div>\n      <div
+      class=\"recipe_content\">\n        <ul>\n              <li class=\"recipe_notes
+      clearfix\" id=\"enter\">\n                <div id=\"edit-box\"></div>\n                \n
+      \             </li>\n          \n          <li class=\"recipe_notes clearfix\">\n
+      \           <mark id=\"cooks\"><span>Chef</span></mark>\n            <p><a href=\"/users/31034_genius_recipes\"
+      class=\"username\">Genius Recipes</a>'s\n              <strong>Notes</strong>:\n
+      \             \n                  <span class=\"expand_collapse short_desc\">When
+      you just can't look another zucchini in the face, put it on a pedestal. Raw
+      zucchini can be spongy, bitter and strangely sticky, so pamper it like Patricia
+      Wells does here, by shaving...</span>\n                  <span class=\"expand_collapse
+      long_desc\" style=\"display:none;\"><p class=\"expand_collapse long_desc\" style=\"display:none;\">When
+      you just can't look another zucchini in the face, put it on a pedestal. Raw
+      zucchini can be spongy, bitter and strangely sticky, so pamper it like Patricia
+      Wells does here, by shaving it into delicate ribbons, then bathing them in a
+      lemony marinade.</p>\n\n<p class=\"expand_collapse long_desc\" style=\"display:none;\">A
+      trusted mandoline makes a big difference here -- and if you don't have one,
+      you're better off opting for a vegetable peeler than a sharp knife. You want
+      planks as thin as flower petals.</p>\n\n<p class=\"expand_collapse long_desc\"
+      style=\"display:none;\">There will be leftover lemon salt. Swirl it into buttered
+      pasta; dust it on blanched green beans; put a pinch on a dark chocolate cookie.</p>\n\n<p
+      class=\"expand_collapse long_desc\" style=\"display:none;\">Adapted slightly
+      from <a href='http://www.amazon.com/Salad-Meal-Healthy-Main-Dish-Salads/dp/006123883X?tag=food52-20'
+      target='_blank'><strong>Salad as a Meal: Healthy Main-Dish Salads for Every
+      Season</strong></a>.</p></span>\n              \n\n            </p>\n            \n
+      \               <a href=\"#\" class=\"expand_collapse\" id=\"expand\">Expand<span></span></a>\n
+      \               <a href=\"#\" class=\"expand_collapse\" id=\"collapse\" style=\"display:none;\">Collapse<span></span></a>\n
+      \           \n          </li>\n        </ul>\n\n        <div class=\"recipe_info
+      clearfix\">\n          <h3 class=\"activity_count\">Serves 4 (as a meal)</h3>\n
+      \         \n          \n              <div class=\"recipe_ingredients\">\n                \n
+      \                   <h4 class=\"medium_italic\">Lemon Zest Salt:</h4>\n                \n
+      \               \n                    <p>\n                       \n                      \n
+      \                     \n                          \n                          \n
+      \                             1 tablespoon lemon zest, preferably organic\n
+      \                         \n                      \n                      <span
+      class='tooltip'>\n                          <span><a href=\"/fp/rnew/0?ingredient_id=558915\"
+      class=\"foodpickle\">Ask the<br /> hotline about <br />this ingredient!</a></span>\n
+      \                     </span>\n                    </p>\n                \n
+      \                   <p>\n                       \n                      \n                      \n
+      \                         \n                          \n                              1
+      tablespoon fine sea salt\n                          \n                      \n
+      \                     <span class='tooltip'>\n                          <span><a
+      href=\"/fp/rnew/0?ingredient_id=558916\" class=\"foodpickle\">Ask the<br />
+      hotline about <br />this ingredient!</a></span>\n                      </span>\n
+      \                   </p>\n                \n              </div>\n                \n
+      \                 \n\t\t\t\t<div class=\"hotline clearfix\">\n\t\t\t\t\t<a href=\"/fp/rnew/0?rid=14318\"><img
+      src=\"/images/ask_hotline.png\"></a>\n\t\t\t\t</div>\n                \n              <div
+      class=\"recipe_steps clearfix\">\n                <ol>\n                  \n
+      \                     <li><p>Combine the lemon zest and salt in a spice grinder,
+      and grind into a fine powder. Transfer to a small jar and close the lid. (Store,
+      sealed in the jar, in the refrigerator for up to 1 week. After that the lemon
+      flavor will begin to fade.)\n                        </p>\n                        <span
+      class='tooltip'><span>\n                          <a href=\"/fp/rnew/300300\"
+      class=\"foodpickle\">Ask the hotline about this step!</a>\n                        </span></span>\n
+      \                     </li>\n                  \n                </ol>\n              </div>\n\n
+      \         \n              <div class=\"recipe_ingredients\">\n                \n
+      \                   <h4 class=\"medium_italic\">Salad:</h4>\n                \n
+      \               \n                    <p>\n                       \n                      \n
+      \                     \n                          \n                          \n
+      \                             1 tablespoon freshly squeezed lemon juice\n                          \n
+      \                     \n                      <span class='tooltip'>\n                          <span><a
+      href=\"/fp/rnew/0?ingredient_id=558917\" class=\"foodpickle\">Ask the<br />
+      hotline about <br />this ingredient!</a></span>\n                      </span>\n
+      \                   </p>\n                \n                    <p>\n                       \n
+      \                     \n                      \n                          \n
+      \                         \n                              1/4 teaspoon Lemon
+      Zest Salt\n                          \n                      \n                      <span
+      class='tooltip'>\n                          <span><a href=\"/fp/rnew/0?ingredient_id=558918\"
+      class=\"foodpickle\">Ask the<br /> hotline about <br />this ingredient!</a></span>\n
+      \                     </span>\n                    </p>\n                \n
+      \                   <p>\n                       \n                      \n                      \n
+      \                         \n                          \n                              3
+      tablespoons best-quality pistachio oil (such as Leblanc) or extra-virgin olive
+      oil\n                          \n                      \n                      <span
+      class='tooltip'>\n                          <span><a href=\"/fp/rnew/0?ingredient_id=558919\"
+      class=\"foodpickle\">Ask the<br /> hotline about <br />this ingredient!</a></span>\n
+      \                     </span>\n                    </p>\n                \n
+      \                   <p>\n                       \n                      \n                      \n
+      \                         \n                          \n                              <a
+      href=\"/recipes/ingredient/4-small\" style=\"text-decoration: none;\">4 small,
+      fresh zucchini (about 4 ounces each), rinsed and trimmed at both ends</a>\n
+      \                         \n                      \n                      <span
+      class='tooltip'>\n                          <span><a href=\"/fp/rnew/0?ingredient_id=558920\"
+      class=\"foodpickle\">Ask the<br /> hotline about <br />this ingredient!</a></span>\n
+      \                     </span>\n                    </p>\n                \n
+      \                   <p>\n                       \n                      \n                      \n
+      \                         \n                          \n                              1
+      large ripe avocado\n                          \n                      \n                      <span
+      class='tooltip'>\n                          <span><a href=\"/fp/rnew/0?ingredient_id=558921\"
+      class=\"foodpickle\">Ask the<br /> hotline about <br />this ingredient!</a></span>\n
+      \                     </span>\n                    </p>\n                \n
+      \                   <p>\n                       \n                      \n                      \n
+      \                         \n                          \n                              1/2
+      cup salted pistachios\n                          \n                      \n
+      \                     <span class='tooltip'>\n                          <span><a
+      href=\"/fp/rnew/0?ingredient_id=558922\" class=\"foodpickle\">Ask the<br />
+      hotline about <br />this ingredient!</a></span>\n                      </span>\n
+      \                   </p>\n                \n                    <p>\n                       \n
+      \                     \n                      \n                          \n
+      \                         \n                              Leaves from 4 fresh
+      lemon thyme or regular thyme sprigs, with flowers if possible\n                          \n
+      \                     \n                      <span class='tooltip'>\n                          <span><a
+      href=\"/fp/rnew/0?ingredient_id=558923\" class=\"foodpickle\">Ask the<br />
+      hotline about <br />this ingredient!</a></span>\n                      </span>\n
+      \                   </p>\n                \n                    <p>\n                       \n
+      \                     \n                      \n                          \n
+      \                         \n                              <a href=\"/recipes/ingredient/Fleur-de-sel\"
+      style=\"text-decoration: none;\">Fleur de sel</a>\n                          \n
+      \                     \n                      <span class='tooltip'>\n                          <span><a
+      href=\"/fp/rnew/0?ingredient_id=558924\" class=\"foodpickle\">Ask the<br />
+      hotline about <br />this ingredient!</a></span>\n                      </span>\n
+      \                   </p>\n                \n              </div>\n                \n
+      \             <div class=\"recipe_steps clearfix\">\n                <ol>\n
+      \                 \n                      <li><p>In a small jar with a lid,
+      combine the lemon juice and 1/4 teaspoon Lemon Zest Salt. Cover with the lid
+      and shake to blend. Add the oil and shake to blend.\n                        </p>\n
+      \                       <span class='tooltip'><span>\n                          <a
+      href=\"/fp/rnew/300301\" class=\"foodpickle\">Ask the hotline about this step!</a>\n
+      \                       </span></span>\n                      </li>\n                  \n
+      \                     <li><p>With a mandoline, vegetable peeler, or very sharp
+      chef's knife slice the zucchini lengthwise as thin as possible. Arrange the
+      slices on a platter and pour the dressing over them. Tilt the platter back and
+      forth to coat the slices evenly. Cover with plastic wrap and let marinate at
+      room temperature for 30 minutes, so the zucchini absorbs the dressing and does
+      not dry out.\n                        </p>\n                        <span class='tooltip'><span>\n
+      \                         <a href=\"/fp/rnew/300302\" class=\"foodpickle\">Ask
+      the hotline about this step!</a>\n                        </span></span>\n                      </li>\n
+      \                 \n                      <li><p>Halve, pit, and peel the avocado,
+      and cut it lengthwise into very thin slices. Carefully arrange the slices of
+      marinated zucchini on individual salad plates, alternating with the avocado
+      slices, slightly overlapping them. Sprinkle with the pistachio nuts. Garnish
+      with the thyme leaves and flowers and fleur de sel. Serve.\n                        </p>\n
+      \                       <span class='tooltip'><span>\n                          <a
+      href=\"/fp/rnew/300303\" class=\"foodpickle\">Ask the hotline about this step!</a>\n
+      \                       </span></span>\n                      </li>\n                  \n
+      \               </ol>\n              </div>\n\n          \n\n\n        </div>\n
+      \     </div>\n\n      \n      \n\n      \n\n          \n              \n    <div
+      class=\"comment clearfix\">\n      <div class=\"user clearfix\">\n        \n
+      \       \n        <a href=\"/users/24049_the_urban_baker\" class=\"pie slice_4\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/24049_the_urban_baker\"
+      class=\"username\">the urban baker</a>\n\t \t \n          <span class=\"date\">added
+      2 months ago</span>\n        </div>\n        \n            <a href=\"#reply_97719\"
+      onclick='$(\"#reply_97719\").toggle();return false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n
+      \       \n      </div>\n      \n      <p class=\"comment_text\">i love patricia
+      wells and her recipes/food inspiration</p>\n    </div>\n\n    \n    \n    <div
+      id=\"reply_97719\" name=\"reply_97719\" style=\"display:none;\">\n      \n\n
+      \   <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"97719\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n          \n              \n    <div class=\"comment
+      clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
+      href=\"/users/16744_greenstuff\" class=\"pie slice_45\"></a>\n        \n        <div
+      class=\"user_info\">\n          \n\t\t\t<a href=\"/users/16744_greenstuff\"
+      class=\"username\">Greenstuff</a>\n\t \t \n          <span class=\"date\">added
+      2 months ago</span>\n        </div>\n        \n            <a href=\"#reply_96947\"
+      onclick='$(\"#reply_96947\").toggle();return false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n
+      \       \n      </div>\n      \n      <p class=\"comment_text\">An old technology
+      plug!  I wanted to make this over the weekend--it was the weekend of of the
+      FOOD52 relaunch, and there was no way I could get the site to get me to the
+      recipe.  Then I remembered...I had Patricia Wells' book, Salad as a Meal right
+      on the bookshelf.  The recipe was right there, just minus the gorgeous Joseph
+      De Leo photos.  \r<br />\r<br />Meal saved!  And it really was delicious.  Like
+      Patricia Wells, I'm going to make this again and again.</p>\n    </div>\n\n
+      \   \n    \n    <div id=\"reply_96947\" name=\"reply_96947\" style=\"display:none;\">\n
+      \     \n\n    <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"96947\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n          \n              \n    <div class=\"comment
+      clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n            <a
+      href=\"/users/5167_dymnyno\" class=\"avatar\"><img alt=\"186003_1004761561_1198459_n\"
+      class=\"avatar\" src=\"http://s3.amazonaws.com/food52_assets/users/5167/medium/186003_1004761561_1198459_n.jpg?1323791636\"
+      /></a>\n        \n        <a href=\"/users/5167_dymnyno\" class=\"pie slice_49\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/5167_dymnyno\"
+      class=\"username\">dymnyno</a>\n\t \t \n          <span class=\"date\">added
+      3 months ago</span>\n        </div>\n        \n            <a href=\"#reply_91158\"
+      onclick='$(\"#reply_91158\").toggle();return false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n
+      \       \n      </div>\n      \n      <p class=\"comment_text\">After being
+      gone for 10days, I am sure my zucchini will be lined up and waiting for me,</p>\n
+      \   </div>\n\n    \n    \n    <div id=\"reply_91158\" name=\"reply_91158\" style=\"display:none;\">\n
+      \     \n\n    <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"91158\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n          \n              \n    <div class=\"comment
+      clearfix\">\n      <div class=\"user clearfix\">\n        \n        \n        <a
+      href=\"/users/21417_familydinners\" class=\"pie slice_23\"></a>\n        \n
+      \       <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/21417_familydinners\"
+      class=\"username\">familydinners</a>\n\t \t \n          <span class=\"date\">added
+      3 months ago</span>\n        </div>\n        \n            <a href=\"#reply_90887\"
+      onclick='$(\"#reply_90887\").toggle();return false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n
+      \       \n      </div>\n      \n      <p class=\"comment_text\">This looks so
+      good...can't wait to try it.  I bet even the zucchini haters will love it!</p>\n
+      \   </div>\n\n    \n    \n    <div id=\"reply_90887\" name=\"reply_90887\" style=\"display:none;\">\n
+      \     \n\n    <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"90887\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n          \n\n      \n\n      \n        <h4 class=\"signup\">\n
+      \       Please <a href=\"#signup_open\" name=\"modal\">Sign up</a> (or <a href=\"#signup_open\"
+      name=\"modal\">log in</a>) to comment on a recipe!</h4>\n      \n    </div>\n\n
+      \   <div id=\"comments_tab\">\n  \n    \n    \n      \n            \n    <div
+      class=\"comment clearfix\">\n      <div class=\"user clearfix\">\n        \n
+      \       \n        <a href=\"/users/24049_the_urban_baker\" class=\"pie slice_4\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/24049_the_urban_baker\"
+      class=\"username\">the urban baker</a>\n\t \t \n          <span class=\"date\">added
+      2 months ago</span>\n        </div>\n        \n            <a href=\"#reply_97719\"
+      onclick='$(\"#reply_c_97719\").toggle();return false;' class=\"reply\"><span
+      class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">i
+      love patricia wells and her recipes/food inspiration</p>\n    </div>\n\n    \n
+      \   \n    <div id=\"reply_c_97719\" name=\"reply_97719\" style=\"display:none;\">\n
+      \     \n\n    <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"97719\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n      \n            \n    <div class=\"comment clearfix\">\n
+      \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/16744_greenstuff\"
+      class=\"pie slice_45\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
+      href=\"/users/16744_greenstuff\" class=\"username\">Greenstuff</a>\n\t \t \n
+      \         <span class=\"date\">added 2 months ago</span>\n        </div>\n        \n
+      \           <a href=\"#reply_96947\" onclick='$(\"#reply_c_96947\").toggle();return
+      false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
+      \     \n      <p class=\"comment_text\">An old technology plug!  I wanted to
+      make this over the weekend--it was the weekend of of the FOOD52 relaunch, and
+      there was no way I could get the site to get me to the recipe.  Then I remembered...I
+      had Patricia Wells' book, Salad as a Meal right on the bookshelf.  The recipe
+      was right there, just minus the gorgeous Joseph De Leo photos.  \r<br />\r<br
+      />Meal saved!  And it really was delicious.  Like Patricia Wells, I'm going
+      to make this again and again.</p>\n    </div>\n\n    \n    \n    <div id=\"reply_c_96947\"
+      name=\"reply_96947\" style=\"display:none;\">\n      \n\n    <form action=\"/recipes/add_comment\"
+      method=\"post\">\n        <textarea cols=\"40\" id=\"comment_box\" name=\"comment[body]\"
+      rows=\"20\" style=\"clear:both;\"></textarea>\n        <input id=\"comment_url\"
+      name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"96947\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n      \n            \n    <div class=\"comment clearfix\">\n
+      \     <div class=\"user clearfix\">\n        \n        \n            <a href=\"/users/5167_dymnyno\"
+      class=\"avatar\"><img alt=\"186003_1004761561_1198459_n\" class=\"avatar\" src=\"http://s3.amazonaws.com/food52_assets/users/5167/medium/186003_1004761561_1198459_n.jpg?1323791636\"
+      /></a>\n        \n        <a href=\"/users/5167_dymnyno\" class=\"pie slice_49\"></a>\n
+      \       \n        <div class=\"user_info\">\n          \n\t\t\t<a href=\"/users/5167_dymnyno\"
+      class=\"username\">dymnyno</a>\n\t \t \n          <span class=\"date\">added
+      3 months ago</span>\n        </div>\n        \n            <a href=\"#reply_91158\"
+      onclick='$(\"#reply_c_91158\").toggle();return false;' class=\"reply\"><span
+      class=\"date\">Reply</span></a>\n        \n      </div>\n      \n      <p class=\"comment_text\">After
+      being gone for 10days, I am sure my zucchini will be lined up and waiting for
+      me,</p>\n    </div>\n\n    \n    \n    <div id=\"reply_c_91158\" name=\"reply_91158\"
+      style=\"display:none;\">\n      \n\n    <form action=\"/recipes/add_comment\"
+      method=\"post\">\n        <textarea cols=\"40\" id=\"comment_box\" name=\"comment[body]\"
+      rows=\"20\" style=\"clear:both;\"></textarea>\n        <input id=\"comment_url\"
+      name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"91158\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n      \n            \n    <div class=\"comment clearfix\">\n
+      \     <div class=\"user clearfix\">\n        \n        \n        <a href=\"/users/21417_familydinners\"
+      class=\"pie slice_23\"></a>\n        \n        <div class=\"user_info\">\n          \n\t\t\t<a
+      href=\"/users/21417_familydinners\" class=\"username\">familydinners</a>\n\t
+      \t \n          <span class=\"date\">added 3 months ago</span>\n        </div>\n
+      \       \n            <a href=\"#reply_90887\" onclick='$(\"#reply_c_90887\").toggle();return
+      false;' class=\"reply\"><span class=\"date\">Reply</span></a>\n        \n      </div>\n
+      \     \n      <p class=\"comment_text\">This looks so good...can't wait to try
+      it.  I bet even the zucchini haters will love it!</p>\n    </div>\n\n    \n
+      \   \n    <div id=\"reply_c_90887\" name=\"reply_90887\" style=\"display:none;\">\n
+      \     \n\n    <form action=\"/recipes/add_comment\" method=\"post\">\n        <textarea
+      cols=\"40\" id=\"comment_box\" name=\"comment[body]\" rows=\"20\" style=\"clear:both;\"></textarea>\n
+      \       <input id=\"comment_url\" name=\"comment[url]\" type=\"hidden\" value=\"http://food52.com/recipes/14318_patricia_wells_zucchini_carpaccio_with_avocado_and_pistachios#comments_tab\"
+      />\n\t\t<div class=\"options\">\n        <input name=\"comment[do_not_email]\"
+      type=\"hidden\" value=\"0\" /><input id=\"comment_do_not_email\" name=\"comment[do_not_email]\"
+      type=\"checkbox\" value=\"1\" /> <span class=\"action\">Please don't email me
+      responses to<br /> my comment -- I'll check the site periodically.</span>\n\t\t</div>\n
+      \       <input id=\"commentable_commentable\" name=\"commentable[commentable]\"
+      type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\"
+      name=\"commentable[commentable_id]\" type=\"hidden\" value=\"14318\" />\n\n
+      \       \n              <input id=\"comment_parent\" name=\"comment[parent]\"
+      type=\"hidden\" value=\"90887\" />\n        \n\n        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n
+      \   </div>\n\n\n\n\n\n\n      \n    \n    \n       <h4 class=\"signup\">Please
+      <a href=\"#signup_open\" onclick=\"scrollTo(0,0);\" name=\"modal\">Sign up</a>
+      (or <a href=\"#signup_open\" name=\"modal\">log in</a>) to add a comment!</h4>\n
+      \   \n</div>\n\n\n\n\n    <div id=\"foodpickle_tab\">\n\n      \n      \n                                \n\t\t\t\t\t<div
+      class=\"hotline clearfix\">\n\t\t\t\t\t\t<a href=\"/fp/rnew/0?rid=14318\"><img
+      src=\"/images/ask_hotline.png\"></a>\n\t\t\t\t\t</div>\n      \n\n\n    </div>\n
+      \   <!-- <div id=\"cooking_view\">\n      \n      <div class=\"cooking_ingredients\"
+      id=\"hide\">\n        <h3 class=\"large_green\"><a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close
+      Ingredients<span></span></a>\n        </h3>\n\n        <div class=\"tool_tip\">\n
+      \         <span class=\"arrow\"></span>\n\n          <div class=\"tool_tip_wrap
+      clearfix\">\n            <p>Click to close ingredients</p>\n          </div>\n
+      \       </div>\n\n        <div class=\"ingredients\">\n          <h4 class=\"servings\">Serves
+      4 (as a meal)</h4>\n\n              \n                  <h4 class=\"medium_italic\">Lemon
+      Zest Salt:</h4>\n              \n\n              \n\n                  <p>\n
+      \                    \n\n                    \n                    \n                        \n
+      \                       \n                            1 tablespoon lemon zest,
+      preferably organic\n                        \n                    \n                  </p>\n\n
+      \             \n\n                  <p>\n                     \n\n                    \n
+      \                   \n                        \n                        \n                            1
+      tablespoon fine sea salt\n                        \n                    \n                  </p>\n\n
+      \             \n\n\n        </div>\n        <h3 class=\"large_green\" id=\"black\">\n
+      \         <a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close Ingredients<span></span></a></h3>\n
+      \     </div>\n      <div id=\"show\" class=\"cooking_ingredients\">\n        <h3
+      class=\"large_green\">\n          <a href=\"#\" onclick=\"swap_visibility('show','hide');\">Expand
+      Ingredients<span></span></a></h3>\n      </div>\n\n      <div class=\"cooking_instructions\">\n
+      \       \n            <h4 class=\"medium_italic\">Lemon Zest Salt:</h4>\n        \n
+      \       <ol>\n          \n              <li><p>Combine the lemon zest and salt
+      in a spice grinder, and grind into a fine powder. Transfer to a small jar and
+      close the lid. (Store, sealed in the jar, in the refrigerator for up to 1 week.
+      After that the lemon flavor will begin to fade.)\n              </p>\n              </li>\n
+      \         \n        </ol>\n\n      </div>\n      \n      <div class=\"cooking_ingredients\"
+      id=\"hide\">\n        <h3 class=\"large_green\"><a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close
+      Ingredients<span></span></a>\n        </h3>\n\n        <div class=\"tool_tip\">\n
+      \         <span class=\"arrow\"></span>\n\n          <div class=\"tool_tip_wrap
+      clearfix\">\n            <p>Click to close ingredients</p>\n          </div>\n
+      \       </div>\n\n        <div class=\"ingredients\">\n          <h4 class=\"servings\">Serves
+      4 (as a meal)</h4>\n\n              \n                  <h4 class=\"medium_italic\">Salad:</h4>\n
+      \             \n\n              \n\n                  <p>\n                     \n\n
+      \                   \n                    \n                        \n                        \n
+      \                           1 tablespoon freshly squeezed lemon juice\n                        \n
+      \                   \n                  </p>\n\n              \n\n                  <p>\n
+      \                    \n\n                    \n                    \n                        \n
+      \                       \n                            1/4 teaspoon Lemon Zest
+      Salt\n                        \n                    \n                  </p>\n\n
+      \             \n\n                  <p>\n                     \n\n                    \n
+      \                   \n                        \n                        \n                            3
+      tablespoons best-quality pistachio oil (such as Leblanc) or extra-virgin olive
+      oil\n                        \n                    \n                  </p>\n\n
+      \             \n\n                  <p>\n                     \n\n                    \n
+      \                   \n                        \n                        \n                            <a
+      href=\"/recipes/ingredient/4-small\" style=\"text-decoration: none;\">4 small,
+      fresh zucchini (about 4 ounces each), rinsed and trimmed at both ends</a>\n
+      \                       \n                    \n                  </p>\n\n              \n\n
+      \                 <p>\n                     \n\n                    \n                    \n
+      \                       \n                        \n                            1
+      large ripe avocado\n                        \n                    \n                  </p>\n\n
+      \             \n\n                  <p>\n                     \n\n                    \n
+      \                   \n                        \n                        \n                            1/2
+      cup salted pistachios\n                        \n                    \n                  </p>\n\n
+      \             \n\n                  <p>\n                     \n\n                    \n
+      \                   \n                        \n                        \n                            Leaves
+      from 4 fresh lemon thyme or regular thyme sprigs, with flowers if possible\n
+      \                       \n                    \n                  </p>\n\n              \n\n
+      \                 <p>\n                     \n\n                    \n                    \n
+      \                       \n                        \n                            <a
+      href=\"/recipes/ingredient/Fleur-de-sel\" style=\"text-decoration: none;\">Fleur
+      de sel</a>\n                        \n                    \n                  </p>\n\n
+      \             \n\n\n        </div>\n        <h3 class=\"large_green\" id=\"black\">\n
+      \         <a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close Ingredients<span></span></a></h3>\n
+      \     </div>\n      <div id=\"show\" class=\"cooking_ingredients\">\n        <h3
+      class=\"large_green\">\n          <a href=\"#\" onclick=\"swap_visibility('show','hide');\">Expand
+      Ingredients<span></span></a></h3>\n      </div>\n\n      <div class=\"cooking_instructions\">\n
+      \       \n            <h4 class=\"medium_italic\">Salad:</h4>\n        \n        <ol>\n
+      \         \n              <li><p>In a small jar with a lid, combine the lemon
+      juice and 1/4 teaspoon Lemon Zest Salt. Cover with the lid and shake to blend.
+      Add the oil and shake to blend.\n              </p>\n              </li>\n          \n
+      \             <li><p>With a mandoline, vegetable peeler, or very sharp chef's
+      knife slice the zucchini lengthwise as thin as possible. Arrange the slices
+      on a platter and pour the dressing over them. Tilt the platter back and forth
+      to coat the slices evenly. Cover with plastic wrap and let marinate at room
+      temperature for 30 minutes, so the zucchini absorbs the dressing and does not
+      dry out.\n              </p>\n              </li>\n          \n              <li><p>Halve,
+      pit, and peel the avocado, and cut it lengthwise into very thin slices. Carefully
+      arrange the slices of marinated zucchini on individual salad plates, alternating
+      with the avocado slices, slightly overlapping them. Sprinkle with the pistachio
+      nuts. Garnish with the thyme leaves and flowers and fleur de sel. Serve.\n              </p>\n
+      \             </li>\n          \n        </ol>\n\n      </div>\n      \n    </div>
+      -->\n    </div>\n    </div>\n    </div>\n    <!-- END SINGLE RECIPE -->\n    </div>\n
+      \   <div class=\"six_columns\">\n      <div class=\"ads module\">\n        <div
+      id=\"FOOD52_HOMEPAGE_AD\">\n            <script src=\"http://adserver.adtechus.com/?adrawdata/3.0/5108.1/2224862/0/0/ADTECH;loc=100;noperf=1;\"></script>\n
+      \       </div>\n      </div>\n      \n      \n          \n            \n\n    \n<div
+      class=\"recipes module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n
+      \     <a href=\"/recipes/search?ca=35\"><span class=\"bold\">Vegetable</span>
+      Recipes</a>\n    </h3>\n\t<a href=\"/recipes/9065_linguine_with_sardines_fennel_tomato\"><img
+      alt=\"020111f_397\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/13318/five_col/020111F_397.JPG?1296752512\"
+      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
+      href=\"/recipes/9065_linguine_with_sardines_fennel_tomato\">Linguine with Sardines,
+      Fennel & Tomato</a></h2></li>\n\t\n\t</ul>\n    <a href=\"/recipes/search?ca=35\"
+      class=\"view_more\">See more &raquo;</a>\n</div>\n\n          \n          \n
+      \     \n          \n            \n\n    \n<div class=\"recipes module\">\n\t<mark
+      id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=64\"><span
+      class=\"bold\">Vegan</span> Recipes</a>\n    </h3>\n\t<a href=\"/recipes/6726_white_gazpacho_with_cantaloupe\"><img
+      alt=\"Food52_06-09-11-880\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/19467/five_col/food52_06-09-11-880.jpg?1309966662\"
+      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
+      href=\"/recipes/6726_white_gazpacho_with_cantaloupe\">White Gazpacho with Cantaloupe</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=64\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      \         \n          \n              \n          \n      \n          \n            \n\n
+      \   \n<div class=\"recipes module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3
+      class=\"heading\">\n      <a href=\"/recipes/search?ca=62\"><span class=\"bold\">That
+      Serve a Crowd</span> Recipes</a>\n    </h3>\n\t<a href=\"/recipes/4037_flax_seed_potato_bread\"><img
+      alt=\"040111f__goldenflax_03\" src=\"http://s3.amazonaws.com/food52_assets/indeximages/16097/five_col/040111F__goldenflax_03.JPG?1302575650\"
+      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
+      href=\"/recipes/4037_flax_seed_potato_bread\">Flax Seed Potato Bread</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=62\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      \         \n          \n      \n          \n            \n\n    \n<div class=\"recipes
+      module\">\n\t<mark id=\"recipes\"></mark>\n\n\t<h3 class=\"heading\">\n      <a
+      href=\"/recipes/search?ca=65\"><span class=\"bold\">Vegetarian</span> Recipes</a>\n
+      \   </h3>\n\t<a href=\"/recipes/8902_caramelized_onion_dip\"><img alt=\"012511f_313\"
+      src=\"http://s3.amazonaws.com/food52_assets/indeximages/12972/five_col/012511F_313.JPG?1296147996\"
+      /></a>\n\t<ul class=\"recipes_list\">\n  \t\n\t    <li><h2 class=\"medium_title\"><a
+      href=\"/recipes/8902_caramelized_onion_dip\">Caramelized Onion Dip</a></h2></li>\n\t\n\t</ul>\n
+      \   <a href=\"/recipes/search?ca=65\" class=\"view_more\">See more &raquo;</a>\n</div>\n\n
+      \         \n          \n      \n          \n          \n      \n          \n
+      \         \n      \n          \n          \n      \n          \n          \n
+      \     \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n
+      \ <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n
+      \ <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/35723_ken_oringer\">Ken
+      Oringer</a></h3>\n  \n\n  \n\n  <p class=\"hotliner\"><b><a href='http://twitter.com/#!/kenoringer'
+      target='_blank'>Ken</a></b> is an award-winning <b><a href='http://www.kenoringer.com'
+      target='_blank'>executive chef</a></b> and owner of seven Boston area restaurants:
+      Clio, Toro, Uni, Coppa, KO Prime, La Verdad and Earth.  </p>\n  \n      \n  \n</div>\n\n\n
+      \   </div>\n\n    <div id=\"lightbox_overlay\">\n      <div class=\"confirmation_modal
+      small\" id=\"email_modal_open\">\n        <!-- Match id to a above -->\n        <div
+      class=\"modal_header\">\n          <a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n
+      \         <!-- Logged in -->\n          \n            <!-- Logged out -->\n
+      \           <h3 class=\"green_caps_heading\"><span>Please</span> <a href=\"#signup_open\"
+      name=\"modal\" class=\"username\">Sign Up</a> <span>or</span> <a href=\"#signup_open\"
+      name=\"modal\" class=\"username\">Log In</a></h3>\n          \n        </div>\n\n
+      \       <span id=\"email_form_body\">\n            \n        </span>\n      </div>\n
+      \     <!-- Mask to cover the whole screen -->\n      <div id=\"mask\"></div>\n
+      \   </div>\n\n    <div id=\"lightbox_overlay\">\n  <div class=\"confirmation_modal
+      small\" id=\"modal_flag_recipe\">\n\t\t<div class=\"modal_header\">\n\t\t\t<a
+      href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n\t\t\t<h3 class=\"green_caps_heading\"
+      id=\"flag\">Flag This Recipe</h3>\n\t\t</div>\n    <div id=\"flag_as_inappropriate_form_recipe\">\n\t\t
+      \ <form action=\"/recipes/flag/14318\" class=\"flag_form\" method=\"post\" onsubmit=\"jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray()),
+      dataType:'script', type:'post', url:'/recipes/flag/14318'}); return false;\">\n\t\t
+      \   <ul>\n\t\t\t    <li>\n\t\t\t\t    <p class=\"note\">Let us know if you've
+      seen this recipe before (if so, where) or if it contains any inappropriate content:</p>\n\t\t\t
+      \   </li>\n\t\t\t    <li>\n\t\t        <textarea cols=\"40\" id=\"flag_comment\"
+      name=\"flag[comment]\" rows=\"20\"></textarea>\n\t\t\t    </li>\n\t\t\t    <li
+      class=\"clearfix\">\n\t\t\t\t    <input class=\"green_button\" id=\"flag_submit\"
+      name=\"commit\" type=\"submit\" value=\"Submit\" />\n\t\t\t    </li>\n\t\t    </ul>\n\t\t
+      \ </form>\n    </div>\n  </div>\n</div>\n\n    \n    \n\n\n\n<div id=\"lightbox_overlay\">\n
+      \ <div class=\"confirmation_modal signin\" id=\"signup_open\">\n\n  </div>\n
+      \ <!-- Mask to cover the whole screen -->\n  <div id=\"mask\" onclick=\"closeModal();
+      return false;\"></div>\n</div>\n  </div>\n\t<div class=\"outer_container\">\n\t\t<div
+      class=\"footer\">\n\t\t\t<div class=\"inner clearfix\">\n\t\t\t\t<ul class=\"top_row
+      clearfix\">\n\t\t\t\t\t<li id=\"one\"><img src=\"/images/food52_white.png\"
+      /></li>\n\t\t\t\t\t<li id=\"two\"><h5 class=\"footer_head\">Categories</h5></li>\n\t\t\t\t\t<li
+      id=\"three\"><h5 class=\"footer_head\">Company</h5></li>\n\t\t\t\t\t<li id=\"four\"><h5
+      class=\"footer_head\">Press</h5></li>\n\t\t\t\t\t<li id=\"five\"><h5 class=\"footer_head\">FOOD52's
+      THE BEST OF THE BEST</h5></li>\n\t\t\t\t\t<li id=\"six\"><a href=\"http://www.facebook.com/pages/food52/133148554015\"
+      id=\"facebook\"><span>facebook</span></a></li>\n\t\t\t\t\t<li id=\"seven\"><a
+      href=\"http://twitter.com/food52\" id=\"twitter\"><span>twitter</span></a></li>\n\t\t\t\t\t<li
+      id=\"eight\"><a href=\"http://feeds.feedburner.com/food52-TheAandMBlog\" id=\"rss\"><span>rss</span></a></li>\n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"left_column\">\n\n                    <h5 class=\"green_italic\">Hungry
+      for more?</h5>\n\t\t\t\t\t<h5 class=\"small_white\">Sign up for our surprise-filled,
+      <br />\n\t\t\t\t\tnot-at-all-annoying emails for <br />\n                    great
+      recipes and products<br />\n                    selected by us!</h5>\n                    <form
+      action=\"/newsletters\" method=\"post\" onsubmit=\"jQuery.ajax({data:jQuery.param(jQuery(this).serializeArray()),
+      dataType:'script', type:'post', url:'/newsletters'}); return false;\">\n                        <input
+      id=\"newsletter_email_address\" name=\"newsletter[email_address]\" onfocus=\"if(this.value=='Enter
+      your email address')this.value=''\" size=\"30\" type=\"text\" value=\"Enter
+      your email address\" />\n                        <input id=\"green_button\"
+      name=\"commit\" type=\"submit\" value=\"Subscribe &raquo;\" />\n                    </form>\n\t\t\t\t\t<a
+      href=\"/home/tos\" class=\"dark_arial\">Terms |</a><a href=\"/home/privacy_policy\"
+      class=\"dark_arial\">Privacy</a>\n\t\t\t\t\t<span class=\"dark_arial\">&copy;
+      2009 - 2011 Food52</span>\n\t\t\t\t\t<span class=\"small_white\">Made in NYC</span>\n\t\t\t\t\t<a
+      href=\"http://avec.us\" class=\"small_white\">Designed by: //Avec</a>\n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"bulleted\" id=\"two\">\n\t\t\t\t\t<li><a href=\"/recipes\">Recipes</a></li>\n\t\t\t\t\t<li><a
+      href=\"/contests\">Contests</a></li>\n\t\t\t\t\t<li><a href=\"/cooks\">Cooks</a></li>\n\t\t\t\t\t<li><a
+      href=\"/hotline\">Hotline</a></li>\n\t\t\t\t\t\n\t\t\t\t\t<li><a href=\"http://shop.food52.com\">Shop</a></li>\n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"bulleted\" id=\"three\">\n\t\t\t\t\t<li><a href=\"/home/about_food52\">About
+      Food52</a></li>\n          <li><a href=\"/home/faq\">FAQ</a></li>\n\t\t\t\t\t<li><a
+      href=\"/blog/press\">Press</a></li>\n\t\t\t\t\t<li><a href=\"/home/jobs\">Jobs
+      - We're Hiring!</a></li>\n          <li><a href=\"http://saymedia.com/advertisers.php\">Advertise
+      with Us</a></li>\n\t\t\t\t\t<li><a href=\"/home/contact_us\">Contact Us</a></li>\n\t\t\t\t\t<!--
+      <li><a href=\"/home/advertise\">Advertise on Food52</a></li> -->\n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"logos\">\n                    \n                    \n                        <li><a
+      target=\"_blank\" href=\"http://abclocal.go.com/wabc/story?section=news/local/new_york&id=7803768\"><img
+      src=\"/images/footer_abc.jpg\" /></a></li>\n                    \n                    \n\t\t\t\t\t\t<li><a
+      target=\"_blank\" href=\"http://www.dailycandy.com/all-cities/article/75467/Project+Mayhem\"><img
+      src=\"/images/footer_dailycandy.jpg\" /></a></li>\n                    \n                    \n
+      \                   \n                    \n                    \n                    \n
+      \                   \n                    \n                    \n                    \n
+      \                   \n                    \n                      <li><a target=\"_blank\"
+      href=\"http://today.msnbc.msn.com/id/33899111\"><img src=\"/images/footer_todayshow.jpg\"
+      /></a></li>\n\t\t\t\t\t\n                    \n                      <li><a
+      target=\"_blank\" href=\"http://tastingtable.com/ecs/1226.htm%29--and\"><img
+      src=\"/images/footer_ttable.jpg\" /></a></li>\n\t\t\t\t\t\n                    \n
+      \                     <li><a target=\"_blank\" href=\"http://blogs.laweekly.com/squidink/2009/08/food_52_when_american_idol_and.php\"><img
+      src=\"/images/footer_weekly.jpg\" /></a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"unbulleted\">\n\t\t\t\t\t<li><h5 class=\"second_header\">5 Popular Recipes:</h5></li>\n
+      \                   \n                        <li><a href=\"/recipes/13568_watermelon_chili_sliders\">Watermelon
+      chili sliders</a></li>\n                    \n                        <li><a
+      href=\"/recipes/7020_red_lentil_and_cauliflower_soup\">Red Lentil and Cauliflower
+      Soup</a></li>\n                    \n                        <li><a href=\"/recipes/13055_simply_raspberry_muffins\">Simply
+      Raspberry Muffins</a></li>\n                    \n                        <li><a
+      href=\"/recipes/1374_lazy_marys_lemon_tart\">Lazy Mary's Lemon Tart </a></li>\n
+      \                   \n                        <li><a href=\"/recipes/9769_carrot_and_parsnip_fettuccine\">Carrot
+      and Parsnip Fettuccine</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"unbulleted\">\n\t\t\t\t\t<li><h5 class=\"second_header\">5 Popular Articles:</h5></li>\n
+      \                   \n                        <li><a href=\"/blog/1598_gingers_kitchen\">Ginger's
+      Kitchen</a></li>\n                    \n                        <li><a href=\"/blog/1789_editors_picks_carrots\">Editors'
+      Picks — Carrots</a></li>\n                    \n                        <li><a
+      href=\"/blog/228_the_tournament_of_cookbooks\">The Tournament of Cookbooks</a></li>\n
+      \                   \n                        <li><a href=\"/blog/1814_hit_the_bulk_bins\">Hit
+      the bulk bins!</a></li>\n                    \n                        <li><a
+      href=\"/blog/147_preview_of_next_weeks_themes_vote_on_future_themes\">Preview
+      of Next Week's Themes + Vote on Future Themes</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t\t<ul
+      class=\"unbulleted\" id=\"hide_small\">\n                  \t<li><h5 class=\"second_header\">5
+      Popular Contests:</h5></li>\n                    \n                        <li><a
+      href=\"/contests/235_your_best_recipe_with_coffee\">Your Best Recipe with Coffee</a></li>\n
+      \                   \n                        <li><a href=\"/contests/255_your_best_pears\">Your
+      Best Pears</a></li>\n                    \n                        <li><a href=\"/contests/166_your_best_recipe_using_heirloom_tomatoes\">Your
+      Best Recipe Using Heirloom Tomatoes</a></li>\n                    \n                        <li><a
+      href=\"/contests/264_your_best_holiday_breakfast_ii\">Your Best Holiday Breakfast
+      II</a></li>\n                    \n                        <li><a href=\"/contests/211_your_best_seafood_pasta\">Your
+      Best Seafood Pasta</a></li>\n                    \n\t\t\t\t</ul>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n\n
+      \ <script type=\"text/javascript\">\nvar gaJsHost = ((\"https:\" == document.location.protocol)
+      ? \"https://ssl.\" : \"http://www.\");\ndocument.write(unescape(\"%3Cscript
+      src='\" + gaJsHost + \"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E\"));\n</script>\n<script
+      type=\"text/javascript\">\ntry {\nvar pageTracker = _gat._getTracker(\"UA-9081548-1\");\npageTracker._trackPageview();\n}
+      catch(err) {}\n</script>\n<script type=\"text/javascript\">\nfunction recordOutboundLink(link,
+      category, action) {\ntry {\nvar pageTracker=_gat._getTracker(\"UA-9081548-1\");\npageTracker._trackEvent(category,
+      action);\nwindow.open (link.href,\"x\");\n}catch(err){}}\n</script>\n\n\n  <script
+      type=\"text/javascript\">\n    var cbjspath = \"static.chartbeat.com/js/chartbeat.js?uid=2344&domain=food52.com\";\n
+      \   var cbjsprotocol = ((\"https:\" == document.location.protocol) ? \"https://s3.amazonaws.com/\"
+      : \"http://\");\n    document.write(unescape(\"%3Cscript src='\"+cbjsprotocol+cbjspath+\"'
+      type='text/javascript'%3E%3C/script%3E\"))\n  </script>\n\n  <script type=\"text/javascript\">\n
+      \       function action(action) {\n            var pageTracker = _gat._getTracker(\"UA-9081548-1\");\n\n
+      \           pageTracker._trackEvent('Top Navigation', action, 'recipes');\n
+      \       }\n  </script>\n\n  <!-- Begin comScore Tag -->\n  <script>\n    var
+      _comscore = _comscore || [];\n    _comscore.push({ c1: \"2\", c2: \"6036036\"
+      });\n    (function() {\n      var s = document.createElement(\"script\"), el
+      = document.getElementsByTagName(\"script\")[0]; s.async = true;\n      s.src
+      = (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\")
+      + \".scorecardresearch.com/beacon.js\";\n      el.parentNode.insertBefore(s,
+      el);\n    })();\n  </script>\n\n  <noscript>\n    <img src=\"http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1\"
+      />\n  </noscript>\n  <!-- End comScore Tag -->\n\n  <!-- Quantcast Tag -->\n
+      \ <script type=\"text/javascript\">\n      var _qevents = _qevents || [];\n
+      \     (function() {\n          var elem = document.createElement('script');\n
+      \         elem.src = (document.location.protocol == \"https:\" ? \"https://secure\"
+      : \"http://edge\") + \".quantserve.com/quant.js\";\n          elem.async = true;\n
+      \         elem.type = \"text/javascript\";\n          var scpt = document.getElementsByTagName('script')[0];\n
+      \         scpt.parentNode.insertBefore(elem, scpt);\n      })();\n\n      _qevents.push({\n
+      \         qacct:\"p-abhYEve3ZZl2E\"\n      });\n  </script>\n\n  <noscript>\n
+      \   <div style=\"display:none;\">\n      <img src=\"//pixel.quantserve.com/pixel/p-abhYEve3ZZl2E.gif\"
+      border=\"0\" height=\"1\" width=\"1\" alt=\"Quantcast\"/>\n    </div>\n  </noscript>\n
+      \ <!-- End Quantcast tag -->\n\n\t</body>\n</html>\n"
+    http_version: '1.1'

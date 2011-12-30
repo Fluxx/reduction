@@ -48,7 +48,8 @@ module Reduction
       end
 
       def notes
-        doc.at('.recipe_notes mark#cooks + p span.long_desc').text
+        doc.at('.recipe_notes mark#cooks').parent.search('p.long_desc').
+          map(&:text).join("\n\n")
       end
 
       private
