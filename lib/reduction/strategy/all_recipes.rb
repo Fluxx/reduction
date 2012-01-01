@@ -16,9 +16,9 @@ module Reduction
       end
 
       def ingredients
-        zipped_ingredients.map do |list, title|
-          NamedList.new(list).tap do |l|
-            l.name = title if title
+        ingredient_lists.map do |array|
+          NamedList.new(array).tap do |nl|
+            nl.name = nl.shift.chomp(':') if nl.first =~ /:$/
           end
         end
       end
@@ -52,36 +52,18 @@ module Reduction
 
       private
 
-      def zipped_ingredients
-        ingredient_lists.zip(ingredient_titles)
-      end
-
-      def ingredient_titles
-        ingredients_is_title(true).flatten.map do |title|
-          title.chomp(':')
-        end
-      end
-
       def ingredient_lists
-        ingredients_is_title(false)
+        chunked_ingredient_lists.select { |empty, l| !empty }.map(&:last)
       end
 
-      def ingredients_is_title(is_list)
-        chunked_ingredients.select { |i| i.first == is_list }.map(&:last)
-      end
-
-      def chunked_ingredients
-        raw_ingredient_lines.chunk { |line| !! line.match(/:$/) }
-      end
-
-      def raw_ingredient_lines
-        recipe('.ingredients ul').text.stripped_lines.select do |i|
-          !i.chop.empty?
+      def chunked_ingredient_lists
+        recipe('.ingredients ul li').map(&:text).map(&:strip).chunk do |item|
+          !!(item.empty? || item =~ /^\W+$/)
         end
       end
 
       def recipe(further)
-        doc.at('.recipe-details-content').at(further)
+        doc.at('.recipe-details-content').search(further)
       end
 
     end

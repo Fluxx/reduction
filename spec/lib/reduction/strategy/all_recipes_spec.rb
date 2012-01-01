@@ -98,6 +98,35 @@ module Reduction
         end
       end
 
+      context 'separated ingredient lists' do
+        strategy_subject_for('http://allrecipes.com/recipe/clone-of-a-cinnabon/')
+
+        it_should_find 'ingredients', [
+          [
+            "1 cup warm milk (110 degrees F/45 degrees C)",
+            "2 eggs, room temperature",
+            "1/3 cup margarine, melted",
+            "4 1/2 cups bread flour",
+            "1 teaspoon salt",
+            "1/2 cup white sugar",
+            "2 1/2 teaspoons bread machine yeast"
+          ],
+          [
+            "1 cup brown sugar, packed",
+            "2 1/2 tablespoons ground cinnamon",
+            "1/3 cup butter, softened"
+          ],
+          [
+            "1 (3 ounce) package cream cheese, softened",
+            "1/4 cup butter, softened",
+            "1 1/2 cups confectioners' sugar",
+            "1/2 teaspoon vanilla extract",
+            "1/8 teaspoon salt"
+          ]
+        ]
+
+      end
+
     end
 
   end
