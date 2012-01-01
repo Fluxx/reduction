@@ -50,18 +50,7 @@ module Reduction
       end
 
       def body
-        distilled = Distillery.distill(@doc.to_s, images: true)
-        whitewashed = Loofah.scrub_fragment(distilled, Scrubber.new).to_s
-
-        doc = Nokogiri::HTML(whitewashed)
-
-        doc.search('a', 'img').each do |e|
-          %w[href src].each do |attr|
-            e[attr] = make_absolute(e[attr]) if e[attr]
-          end
-        end
-
-        doc.at('body').inner_html
+        processed_body.inner_html
       end
 
       def title
@@ -97,10 +86,29 @@ module Reduction
       end
 
       def images
-        []
+        processed_body.search('img').map do |img|
+          make_absolute(img['src'])
+        end
       end
 
       private
+
+      def processed_body
+        @processed_body || begin
+          distilled = Distillery.distill(@doc.to_s, images: true)
+          whitewashed = Loofah.scrub_fragment(distilled, Scrubber.new).to_s
+
+          doc = Nokogiri::HTML(whitewashed)
+
+          doc.search('a', 'img').each do |e|
+            %w[href src].each do |attr|
+              e[attr] = make_absolute(e[attr]) if e[attr]
+            end
+          end
+
+          doc.at('body')
+        end
+      end
 
       def host_uri
         @host_url ||= URI.parse(@url)

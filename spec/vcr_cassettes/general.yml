@@ -677,4 +677,610 @@ http_interactions:
       </html>"
     http_version: "1.1"
   recorded_at: Sun, 01 Jan 2012 19:57:11 GMT
+- request: 
+    method: get
+    uri: http://www.nytimes.com/2008/10/07/health/nutrition/07recipehealth.html
+    body: ""
+    headers: 
+      accept: 
+      - "*/*"
+      user-agent: 
+      - Ruby
+  response: 
+    status: 
+      code: 200
+      message: OK
+    headers: 
+      server: 
+      - nginx/0.7.59
+      date: 
+      - Sun, 01 Jan 2012 20:06:10 GMT
+      content-type: 
+      - text/html
+      transfer-encoding: 
+      - chunked
+      connection: 
+      - keep-alive
+      set-cookie: 
+      - RMID=0186419018d94f00bcb17611; expires=Monday, 31-Dec-2012 20:06:09 GMT; path=/; domain=.nytimes.com
+      - adxcs=-; path=/; domain=.nytimes.com
+      - adxcs=s*2814e=0:1; path=/; domain=.nytimes.com
+      expires: 
+      - Thu, 01 Dec 1994 16:00:00 GMT
+      cache-control: 
+      - no-cache
+      pragma: 
+      - no-cache
+    body: "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+      <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"> \n\
+      <html>\n\
+      <head>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\
+      <script src=\"http://graphics8.nytimes.com/js/common.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/article/articleShare.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/Tacoda_AMS_DDC_Header.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/fileit.js\"></script>\n\
+      <script type=\"text/javascript\" language=\"JavaScript\" src=\"http://graphics8.nytimes.com/js/common/screen/DropDown.js\"></script>\n\
+      <script type=\"text/javascript\" language=\"JavaScript\" src=\"http://graphics8.nytimes.com/js/common/screen/modifyNavigationDisplay.js\"></script>\n\
+      <script type=\"text/javascript\" language=\"JavaScript\" src=\"http://graphics8.nytimes.com/js/common/screen/altClickToSearch.js\"></script>\n\
+      <script type=\"text/javascript\" language=\"JavaScript\" src=\"http://graphics8.nytimes.com/js/util/tooltip.js\"></script>\n\n\n\
+      <LINK rel=\"stylesheet\" type=\"text/css\" href=\"http://graphics8.nytimes.com/css/common/global.css\" />\n\
+      <style type=\"text/css\">\n\
+      \t\t\t@import url(http://graphics8.nytimes.com/css/common/screen/article.css);\n\
+      \t\t\t@import url(http://graphics8.nytimes.com/css/section/health/screen/200705/article.css);\n\
+      \t\t</style>\n\
+      <!--[if IE 7]>\n\
+      \t\t<style type=\"text/css\">\n\
+      \t\t\t@import url(http://graphics8.nytimes.com/css/common/screen/ie7.css); \n\
+      \t\t\t\n\
+      \t\t</style>\n\
+      \t\t<![endif]-->\n\n\n\
+      <title>Recipes for Health - Greek Swiss Chard Pie - NYTimes.com</title>\n\
+      <meta  name=\"description\" content=\"In a dish similar to Spanakopita, chard retains its dark green color and fresh flavor.\">\n\n\
+      <meta  name=\"keywords\" content=\"Cooking and Cookbooks,Chard (Vegetable),Recipes,Diet and Nutrition\">\n\n\
+      <meta  name=\"misspelling\" content=\"\">\n\n\
+      <meta  http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n\n\
+      <meta  name=\"ROBOTS\" content=\"NOARCHIVE\">\n\n\
+      <meta  name=\"DISPLAYDATE\" content=\"October 7, 2008\">\n\n\
+      <meta  name=\"hdl\" content=\"Greek Swiss Chard Pie\">\n\n\
+      <meta  name=\"hdl_p\" content=\"Greek Swiss Chard Pie\">\n \n\
+      <meta  name=\"byl\" content=\"By MARTHA ROSE SHULMAN\">\n\n\
+      <meta  name=\"lp\" content=\"In a dish similar to Spanakopita, chard retains its dark green color and fresh flavor.\">\n\n\
+      <meta  name=\"cre\" content=\"The New York Times\">\n\n\
+      <meta  name=\"edt\" content=\"The New York Times on the Web\">\n\n\
+      <meta  name=\"pdate\" content=\"20081007\">\n\n\
+      <meta  name=\"ttl\" content=\"\">\n \n\
+      <meta  name=\"virtloc\" content=\"\">\n\n\
+      <meta  name=\"des\" content=\"Cooking and Cookbooks;Chard (Vegetable);Recipes;Diet and Nutrition\">\n\n\
+      <meta  name=\"per\" content=\"\">\n\n\
+      <meta  name=\"org\" content=\"\">\n\n\
+      <meta  name=\"geo\" content=\"\">\n\n\
+      <meta  name=\"ticker\" content=\"\">\n\n\
+      <meta  name=\"dat\" content=\"October 7, 2008\">\n\n\
+      <meta  name=\"tom\" content=\"News\">\n\n\
+      <meta  name=\"cat\" content=\"\">\n\n\
+      <meta  name=\"col\" content=\"Recipes for Health\">\n\n\
+      <meta  name=\"dsk\" content=\"Health / Fitness & Nutrition\">\n\n\
+      <meta  name=\"articleid\" content=\"1194822305346\">\n\n\
+      <meta  name=\"CG\" content=\"health\"/>\n\n\
+      <meta  name=\"SCG\" content=\"nutrition\"/>\n\n\
+      <meta  name=\"PT\" content=\"Article\"/>\n\n\
+      <meta  name=\"PST\" content=\"\"/>\n\n\
+      <meta  name=\"hdr_img\" content=\"/images/article/header/sect_health.gif\">\n\n\
+      <meta  name=\"thumbnail\" content=\"images/2008/10/07/health/nutrition/pie75.jpg\"/>\n\n\
+      <meta  name=\"thumbnail_height\" content=\"75\"/>\n\n\
+      <meta  name=\"thumbnail_width\" content=\"75\"/>\n\n\n\n\n\n\n\n\
+      <meta   name=\"xlarge\" content=\"images/2008/10/07/health/nutrition/pic600.jpg\"/>\n\n\
+      <meta   name=\"xlarge_height\" content=\"449\"/>\n\n\
+      <meta   name=\"xlarge_width\" content=\"600\"/>\n\n\
+      <meta  NAME=\"ARTICLE_TEMPLATE_VERSION\" CONTENT=\"600\">\n\n\
+      <meta  name=\"sec\" content=\"\">\n\n\
+      <meta  name=\"pg\" content=\"\">\n\n\n\
+      <script type=\"text/JavaScript\">\n\
+      \tvar google_hints = \"Cooking+and+Cookbooks,Chard+(Vegetable),Recipes,Diet+and+Nutrition\";\n\
+      \tvar google_ad_channel = \"ar_health\";\n\
+      </script>\n\n\
+      <LINK rel=\"alternate\" media=\"handheld\" href=\"http://mobile.nytimes.com/2008/10/07/health/nutrition/07recipehealth.xml\" />\n\
+      </head>\n\n    \n\n\n\
+      <body >\n\n\n\
+      <a name=\"top\"></a>\n\
+      <!--Hat -->\n\
+      <NYT_HEADER>\n\n\
+      </NYT_HEADER>\n\
+      <a href=\"#articleBodyLink\" class=\"jumpLink\">Skip to article</a>\n\
+      <!--New call for topnav stuff. -->\n\
+      <div id=\"shell\" class=\"\">\n\n\
+      <div id=\"login\">\n\
+      <ul id=\"memberTools\">\n\n\
+      <!-- start text link -->\n\
+      <li class=\"cColumn-TextAdsHeader\">Subscribe:\n\
+      <a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Bar1&sn2=6b387d4d/9d1ca2ee&sn1=b40a0f68/25a41e6a&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW47AF%26CMP%3D3847Q\" target=\"_blank\">\n\
+      Home Delivery</a> / <a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Bar1&sn2=6b387d4d/9d1ca2ee&sn1=baec058e/381f84b2&camp=nyt2011-circ-bar1-dbl-test-side-x-side-non-hp&ad=052711-bar1-hd-digi-h3847Q-d3847R&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D162578%26adxa%3D267522%26page%3Dwww.nytimes.com/yr/mo/day/health/nutrition/07recipehealth.html%26pos%3DBar1%26campaignId%3D3847R\" target=\"_blank\">Digital</a>\n\
+      </li>\n\
+      <!-- end text link -->\n\n\
+      \t\t\t<li><a href=\"http://www.nytimes.com/auth/login?URI=http://\">Log In</a></li> \n\
+      \t\t\t<li><a href=\"http://www.nytimes.com/gst/regi.html\">Register Now</a></li>\n\
+      \t\t\t\n\n\n\
+      </ul>\n\
+      <ul class=\"tabs\">\n\
+      <li><a href=\"http://www.nytimes.com\">Home Page</a></li>\n\
+      <li><a href=\"http://my.nytimes.com\">My Times</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/todayspaper/index.html\">Today's Paper</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/video\">Video</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/mostpopular\">Most Popular</a></li>\n\
+      <li><a href=\"http://topics.nytimes.com/top/reference/timestopics/\">Times Topics</a></li>\n\
+      </ul>\n\
+      </div>\n\n\
+      <div id=\"page\">\n\n\
+      <div id=\"masthead\">\n\n\
+      <div id=\"Middle1\">\n\
+      <!-- ADXINFO classification=\"Button88x31\" campaign=\"ING_DirectSiteSearch12-1786280-nyt1\"--><A HREF=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Middle1C&sn2=96248121/fbcb11b9&sn1=facc780b/b59f6e47&camp=ING_DirectSiteSearch12-1786280-nyt1&ad=DirectSiteSearch12.ROS.dart88x31&goto=http://ad.doubleclick.net/jump/N3282.nytimes.comSD6440/B6188947;sz=88x31;pc=nyt176128A288112;ord=2012.01.01.20.06.10?\" TARGET=\"_blank\">\n\
+      <IMG SRC=\"http://ad.doubleclick.net/ad/N3282.nytimes.comSD6440/B6188947;sz=88x31;pc=nyt176128A288112;ord=2012.01.01.20.06.10?\"\n BORDER=0 WIDTH=88 HEIGHT=31\n ALT=\"Click Here\"></A>\n\
+      </div>\n\n\
+      <form id=\"searchForm\" name=\"searchForm\" method=\"get\" \n\
+      \t\t\taction=\"http://query.nytimes.com/search/sitesearch\" \n\
+      \t\t\tenctype=\"application/x-www-form-urlencoded\">\n\
+      <div id=\"nytSearchWidget\">\n\
+      <label for=\"searchQuery\">Search All NYTimes.com</label>\n\
+      <INPUT type=\"text\" name=\"query\" id=\"searchQuery\"/>\n\
+      <input id=\"searchSubmit\" title=\"Search\" alt=\"Go\" type=\"image\" src=\"http://graphics8.nytimes.com/images/global/buttons/go.gif\">\n\
+      <INPUT type=\"hidden\" id=\"searchAll\" name=\"type\" value=\"nyt\"/>\n\
+      </div>\n\
+      </form>\n\
+      <a href=\"http://www.nytimes.com\"><IMG id=\"NYTLogo\" alt=\"New York Times\" title=\"New York Times\" src=\"http://graphics8.nytimes.com/images/misc/nytlogo153x23.gif\" /></a>\n\
+      <div id=\"Bar3\">\n\n\
+      </div>\n\
+      <div id=\"date\">\n\
+      </div>\n\
+      <h1>\n\
+      <a href=\"http://health.nytimes.com/pages/health/nutrition/index.html\">Fitness & Nutrition</a>\n\
+      </h1>\n\
+      </div>\n\n\n\
+      <div id=\"navigation\" >\n\
+      <ul class=\"tabs\">\n\
+      <li id=\"navWorld\" ><a href=\"http://www.nytimes.com/pages/world/index.html\">World</a>\n\
+      </li>\n\
+      <li id=\"navUS\" ><a href=\"http://www.nytimes.com/pages/national/index.html\">U.S.</a>\n\
+      </li>\n\
+      <li id=\"navNYRegion\" ><a href=\"http://www.nytimes.com/pages/nyregion/index.html\">N.Y. / Region</a>\n\
+      </li>\n\
+      <li id=\"navBusiness\" ><a href=\"http://www.nytimes.com/pages/business/index.html\">Business</a>\n\
+      </li>\n\
+      <li id=\"navTechnology\" ><a href=\"http://www.nytimes.com/pages/technology/index.html\">Technology</a>\n\
+      </li>\n\
+      <li id=\"navScience\" ><a href=\"http://www.nytimes.com/pages/science/index.html\">Science</a>\n\
+      </li>\n\
+      <li id=\"navHealth\" class=\"selected\"><a href=\"http://health.nytimes.com/pages/health/index.html\">Health</a>\n\
+      <ul id=\"subnavHealth\">\n\
+      <li  ><a href=\"http://health.nytimes.com/pages/health/research/index.html\">Research</a>\n\
+      </li>\n\
+      <li  class=\"selected nochildren\"><a href=\"http://health.nytimes.com/pages/health/nutrition/index.html\">Fitness & Nutrition</a>\n\
+      </li>\n\
+      <li  ><a href=\"http://health.nytimes.com/pages/health/policy/index.html\">Money & Policy</a>\n\
+      </li>\n\
+      <li  ><a href=\"http://health.nytimes.com/pages/health/views/index.html\">Views</a>\n\
+      </li>\n\
+      <li  ><a href=\"http://health.nytimes.com/health/guides/index.html\">Health Guide</a>\n\
+      </li>\n\
+      </ul>\n\
+      </li>\n\
+      <li id=\"navSports\" ><a href=\"http://www.nytimes.com/pages/sports/index.html\">Sports</a>\n\
+      </li>\n\
+      <li id=\"navOpinion\" ><a href=\"http://www.nytimes.com/pages/opinion/index.html\">Opinion</a>\n\
+      </li>\n\
+      <li id=\"navArts\" ><a href=\"http://www.nytimes.com/pages/arts/index.html\">Arts</a>\n\
+      </li>\n\
+      <li id=\"navStyle\" ><a href=\"http://www.nytimes.com/pages/style/index.html\">Style</a>\n\
+      </li>\n\
+      <li id=\"navTravel\" ><a href=\"http://travel.nytimes.com/pages/travel/index.html\">Travel</a>\n\
+      </li>\n\
+      <li id=\"navJobs\" ><a href=\"http://www.nytimes.com/pages/jobs/index.html\">Jobs</a>\n\
+      </li>\n\
+      <li id=\"navRealestate\" ><a href=\"http://www.nytimes.com/pages/realestate/index.html\">Real Estate</a>\n\
+      </li>\n\
+      <li id=\"navAutos\" ><a href=\"http://www.nytimes.com/pages/automobiles/index.html\">Autos</a>\n\
+      </li>\n\
+      </ul>\n\
+      </div><!--#navigation -->\n\
+      <script type=\"text/javascript\">modifyNavigationDisplay();</script>\n\n\
+      <!--space holder for tool bar -->\n\
+      <div id=\"adxLeaderboard\"><!-- ADXINFO classification=\"leaderboard_728\" campaign=\"Bloomberg_Philanthropies_1783229-nyt13\"--><SCRIPT type=\"text/javascript\" SRC=\"http://ad.doubleclick.net/adj/N5778.6440.6522877293621/B6166088.4;sz=728x90;pc=nyt176017A287516;ord=2012.01.01.20.06.10?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=TopAd&camp=Bloomberg_Philanthropies_1783229-nyt13&ad=728x90-BloombergPhilanthopies-B6166088.4-Dart&sn2=7a3705eb/87d5dde1&snr=doubleclick&snx=1325447179&sn1=4d045cad/419b4f7b&goto=\">\n\
+      </SCRIPT>\n\
+      <NOSCRIPT>\n\
+      <A HREF=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=TopAd&sn2=7a3705eb/87d5dde1&sn1=b1ef41fb/3165c417&camp=Bloomberg_Philanthropies_1783229-nyt13&ad=728x90-BloombergPhilanthopies-B6166088.4-Dart&goto=http://ad.doubleclick.net/jump/N5778.6440.6522877293621/B6166088.4;sz=728x90;pc=nyt176017A287516;ord=2012.01.01.20.06.10?\" TARGET=\"_blank\">\n\
+      <IMG SRC=\"http://ad.doubleclick.net/ad/N5778.6440.6522877293621/B6166088.4;sz=728x90;pc=nyt176017A287516;ord=2012.01.01.20.06.10?\"\n BORDER=0 WIDTH=728 HEIGHT=90\n ALT=\"Click Here\"></A>\n\
+      </NOSCRIPT></div>\n\
+      <a name=\"articleBodyLink\"></a>\n\
+      <div id=\"main\">\n\n\
+      <div id=\"aColumn\">\n\
+      <div id=\"article\">\n\n\
+      <script src=\"http://graphics8.nytimes.com/js/section/health/autocomplete/suggest.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/common/autocomplete/prototype.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/common/autocomplete/scriptaculous.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/common/autocomplete/effects.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/common/autocomplete/dragdrop.js\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://graphics8.nytimes.com/js/section/health/autocomplete/controls.js\" type=\"text/javascript\"></script>\n\
+      <div id=\"header_search\" class=\"clearfix\">\n\
+      <div class=\"searchContent\">\n\
+      <form enctype=\"application/x-www-form-urlencoded\" name=\"mainFormBottom\" method=\"GET\" action=\"http://health.nytimes.com/gst/health/healthsearch.html?\">\n\
+      <div class=\"clearfix\"><label for=\"term\">Search Health<span class=\"searchNotes\"><a href=\"http://health.nytimes.com/health/guides/index.html\">3,000+ Topics</a></span></label></div>\n\
+      <div class=\"srchField\">\n\
+      <INPUT id=\"query_all\" name=\"term\" type=\"text\" autocomplete=\"off\"> \n\
+      <div class=\"auto_complete\" id=\"query_suggestions\"></div>\n\
+      <input align=\"absbottom\" class=\"GoButton\" title=\"Go\" alt=\"Go\" type=\"image\" src=\"http://graphics8.nytimes.com/images/global/buttons/go.gif\"> \n\
+      </div>\n\
+      <script type=\"text/javascript\">\n\
+      \t\t\t\tif (navigator.userAgent.match('Opera') == null) {\n\
+      \t\t\t\t\tvar oSuggest = new Autocompleter.Local('query_all', 'query_suggestions', suggestions, {minChars:3,choices:15,partialSearch:true});\n\
+      \t\t\t\t\toSuggest.serverType = 'production';\n\
+      \t\t\t\t}\n\
+      \t\t\t</script>\n\
+      </form>\n\
+      </div>\n\
+      <div id=\"HESearchSpon2\">\n\n\
+      </div>\n\
+      </div>\n\n\n\
+      <div class=\"kicker\"><NYT_KICKER >Recipes for Health</NYT_KICKER></div>\n\
+      <h1>\n\
+      <NYT_HEADLINE  version=\"1.0\" type=\" \">\n\
+      Greek Swiss Chard Pie\n\
+      </NYT_HEADLINE>\n\
+      </h1>\n \n\
+      <div class=\"image\" id=\"wideImage\">\n\
+      <IMG src=\"http://graphics8.nytimes.com/images/2008/10/07/health/nutrition/pic600.jpg\" width=\"600\" height=\"449\" alt=\"\" border=\"0\">\n\
+      <div class=\"credit\">Andrew Scrivani for The New York Times</div>\n\
+      <p class=\"caption\">\n\
+      </p>\n\
+      </div>\n \n\n\n\
+      <script language='JavaScript' type='text/JavaScript'>function getSharePasskey() { return 'ex=1381204800&en=c8c1bd2aaa96c7a9&ei=5124';}</script>\n\
+      <script language=\"JavaScript\" type=\"text/JavaScript\">\n\
+      function getShareURL() {\n\
+      \treturn encodeURIComponent('http://www.nytimes.com/2008/10/07/health/nutrition/07recipehealth.html');\n\
+      }\n\
+      function getShareHeadline() {\n\
+      \treturn encodeURIComponent('Greek Swiss Chard Pie');\n\
+      }\n\
+      function getShareDescription() { \n\n\
+      \treturn encodeURIComponent('In a dish similar to Spanakopita, chard retains its dark green color and fresh flavor.');\n\
+      }\n\
+      function getShareKeywords() {\n\
+      \treturn encodeURIComponent('Cooking and Cookbooks,Chard (Vegetable),Recipes,Diet and Nutrition');\n\
+      }\n\
+      function getShareSection() {\n\
+      \treturn encodeURIComponent('health');\n\
+      }\n\
+      function getShareSectionDisplay() {\n\n\
+      \treturn encodeURIComponent('Recipes for Health');\n\
+      }\n\
+      function getShareSubSection() {\n\
+      \treturn encodeURIComponent('nutrition');\n\
+      }\n\
+      function getShareByline() {\n\
+      \treturn encodeURIComponent('By MARTHA ROSE SHULMAN');\n\
+      }\n\
+      function getSharePubdate() {\n\
+      \treturn encodeURIComponent('October 7, 2008');\n\
+      }\n\
+      </script>\n\
+      <div id=\"toolsRight\">\n\
+      <script language=\"javascript\">\n\
+      \t\t\t<!-- \n\
+      \t\t\tfunction submitCCCForm(){\n\
+      \t\t\t\tPopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');\n\
+      \t\t\t\tthis.document.cccform.submit();\n\
+      \t\t\t}\n\
+      \t\t\t// -->\n\
+      \t\t\t</script>\n\
+      <form name=\"cccform\" action=\"https://s100.copyright.com/CommonApp/LoadingApplication.jsp\" target=\"_Icon\"><INPUT type=\"hidden\" name=\"Title\" value=\"Greek Swiss Chard Pie\"><INPUT type=\"hidden\" name=\"Author\" value=\"By MARTHA ROSE SHULMAN\"><INPUT type=\"hidden\" name=\"ContentID\" value=\"http://www.nytimes.com/2008/10/07/health/nutrition/07recipehealth.html\"><INPUT type=\"hidden\" name=\"FormatType\" value=\"default\"><INPUT type=\"hidden\" name=\"PublicationDate\" value=\"OCT 07 2008\"><INPUT type=\"hidden\" name=\"PublisherName\" value=\"The New York Times\"><INPUT type=\"hidden\" name=\"Publication\" value=\"nytimes.com\"><INPUT type=\"hidden\" name=\"wordCount\" value=\"611\"></form>\n\
+      <div class=\"articleTools\">\n\
+      <div class=\"toolsContainer\">\n\
+      <ul class=\"toolsList\" id=\"toolsList\">\n\
+      <li class=\"email\">\n\n\
+      <a id=\"emailThis\" onClick=\"s_code_linktrack('Article-Tool-EmailSignIn');\" \n           href=\"http://www.nytimes.com/auth/login?URI=http://www.nytimes.com/2008/10/07/health/nutrition/07recipehealth.html\">Sign In to E-Mail or Save This</a>\n\
+      </li>\n\
+      <li class=\"print\">\n\
+      <A HREF=\"/2008/10/07/health/nutrition/07recipehealth.html?pagewanted=print\">Print</a>\n\
+      </li>\n\n\
+      <A HREF=\"/2008/10/07/health/nutrition/07recipehealth.html?pagewanted=all\"></a>\n\n\
+      <li class=\"reprints\"><a href=\"#\" onClick=\"javascript:submitCCCForm();\">Reprints</a></li>\n\n\
+      </ul>\n\
+      <script language=\"JavaScript\" type=\"text/javascript\">writePost();</script>\n\
+      <div id=\"adxToolSponsor\"><!-- ADXINFO classification=\"Button120x60\" campaign=\"FSL2012_ArticleTools_120x60_1787487b_nyt5\"--><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Frame4A&sn2=23125bc6/556845ab&sn1=2ffc95e7/74d375d6&camp=FSL2012_ArticleTools_120x60_1787487b_nyt5&ad=120x60_descendents_dec16_GGnom&goto=http%3A%2F%2Fwww%2Efoxsearchlight%2Ecom%2Fthedescendants\" target=\"_blank\">\n\
+      <img src=\"http://graphics8.nytimes.com/adx/images/ADS/28/73/ad.287346/Descendants120x60_12-15.gif\" width=\"120\" height=\"60\" border=\"0\"></a>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\n\
+      <NYT_BYLINE  version=\"1.0\" type=\" \">\n\
+      <div class=\"byline\">By MARTHA ROSE SHULMAN</div>\n\
+      </NYT_BYLINE>\n\
+      <div class=\"timestamp\">Published: October 7, 2008 </div>\n\
+      <div id=\"articleBody\">\n\n\n\n\n\n\n\
+      <NYT_TEXT >\n\n\n\
+      \t <p> You may be familiar with Spanakopita, the Greek spinach pie; this dish is very similar. I prefer a sturdier green like chard to spinach, because it retains its dark green color and fresh flavor better when cooked for a long time in the phyllo dough. </p> \n\
+      <div id=\"articleInline\" class=\"inlineLeft\">\n\
+      <div id=\"inlineBox\"><a href=\"#secondParagraph\" class=\"jumpLink\">Skip to next paragraph</a>\n  \n  \n\
+      <div id=\"sectionPromo\">\n\
+      <div class=\"doubleRule\"></div><div class=\"story\">\r\n\
+      <h3 class=\"promo\">Recipes for Health</h3>\r\n\
+      <p class=\"summary\">This series offers recipes with an eye towards empowering you to cook healthy meals every day. Produce, seasonal and locally grown when possible, and a well-stocked pantry are the linchpins of a good diet, and accordingly, each week\x92s recipes will revolve around a particular type of produce or a pantry item. This is food that is vibrant and light, full of nutrients but by no means ascetic, fun to cook and a pleasure to eat.</p>\r\n\
+      <a href=\"http://topics.nytimes.com/top/news/health/series/recipes_for_health/index.html\" class=\"more\">See previous recipes \xBB</a></div>\r\n\
+      </div>\n\
+      <div id=\"sidebarArticles\">\n\
+      <h4>Related</h4>\n\
+      <h2>\n\n\n\n\n\
+      <a href=\"http://www.nytimes.com/2008/10/06/health/nutrition/06recipehealth.html?ref=fitnessandnutrition\" >Recipes for Health: Chard: Spinach\x92s Sturdier Cousin</a> \n\n\
+      (October 6, 2008)\n\
+      </h2>\n\
+      </div>\n\
+      <!--RSS Feed Markup -->\r\n\
+      <h4>RSS Feed</h4>\r\n\
+      <style type=\"text/css\" media=\"screen\">\r\n  #articleInline ul { \r\n      margin: .5em 0 1.2em 0; \r\n  }\r\n  #articleInline ul li { \r\n      margin-bottom: .5em; \r\n      padding: 0; \r\n      background-image: none; \r\n      font-size: 81.5%; \r\n      font-family: Arial, Helvetica, sans-serif; \r\n      line-height: 1.4em; \r\n  }\r\n  #articleInline li a { \r\n      padding: .2em 0 .2em 4.5em; \r\n      background: transparent url(http://graphics8.nytimes.com/images/global/icons/rss.gif) no-repeat 0 0; \r\n  }\r\n  </style>\r\n\
+      <ul>\r\n\
+      <li><a href=\"http://www.nytimes.com/services/xml/rss/nyt/Health.xml\">Get Health News From The New York Times &raquo;</a></li>\r\n\
+      </ul>\r\n\
+      <div class=\"doubleRule lastRule\"></div>\r\n\
+      <!--end RSS Feed Markup -->\n    \n\
+      </div>\n\
+      </div><a name=\"secondParagraph\"></a>\n <p> 2 to 2 1/2 pounds Swiss chard, stemmed and washed thoroughly</p><p> Salt</p><p> 2 tablespoons extra virgin olive oil</p><p> 1 large onion, chopped</p><p> 2 large garlic cloves, minced or pressed</p><p> 1/4 cup chopped fresh herbs, preferably a combination of dill and parsley, or 1 teaspoon each dried thyme and oregano</p><p> 3 large eggs, beaten</p><p> 4 ounces feta cheese, crumbled</p><p> Freshly ground pepper</p><p> 12 sheets phyllo pastry plus 1/4 cup extra-virgin olive oil or 2 tablespoons each melted butter and extra-virgin olive oil, combined, for brushing </p><p> 1. Bring a large pot of generously salted water to a boil while you stem and wash the greens. Wash them in 2 changes of water, lifting them from the water so that the dirt stays behind. Fill a bowl with ice water. When the water comes to a boil, add the chard and blanch for 1 minute. Using a slotted spoon or a skimmer, transfer to the ice water. Let sit just until cool, a few minutes, then drain and squeeze out excess water by taking up bunches of the greens, making a fist around them and squeezing. Chop coarsely and set aside.</p><p> 2. Preheat the oven to 375&#186;F. Oil or butter a 10-inch tart or cake pan (I like to use a ceramic dish for this). Heat the olive oil in a large skillet over medium heat and add the onions. Cook, stirring often, until tender but not browned, about 5 minutes. Add the garlic and cook, stirring, for another 30 seconds to a minute, until the garlic is fragrant. Stir in the greens, herbs, and 1/2 teaspoon salt, and stir the mixture for a minute, until the greens are coated with oil. Remove from the heat.</p><p> 3. Beat the eggs in a large bowl or the bowl of a food processor fitted with the steel blade. Crumble or blend in the feta. Stir in the greens, and season to taste with salt and pepper.</p><p> 4. Line the pie dish with 7 pieces of phyllo, lightly brushing each piece with butter or oil and turning the dish after each addition so that the edges of the phyllo drape evenly over the pan. Fill with the greens mixture. If using phyllo, fold the draped edges in over the filling, lightly brushing the folded in sheets of phyllo ,then layer the remaining 5 pieces on top, brushing each piece with butter or olive oil. Stuff the edges into the sides of the pan. Brush the top with the butter or oil, and make a few slashes so that steam can escape as the pie bakes.</p><p> 5. Bake 40 to 50 minutes in the preheated oven, until the crust is golden. Serve hot, warm, or room temperature.</p><p> <span class=\"bold\">Yield:</span> Serves 6</p><p> <span class=\"bold\">Advance preparation</span>: The blanched greens will keep in the refrigerator in a covered bowl for 3 or 4 days. The dish can be prepared through Step 2 up to a day ahead. Keep the cooked greens in a covered bowl in the refrigerator. You can assemble the pie several hours before baking and keep it in the refrigerator, or freezer. Transfer directly from the freezer to the preheated oven, and increase the baking time by about 10 minutes. The finished tart keeps for a few days, but you must re-crisp the phyllo in a low oven (300&#186; to 325&#186;F) for 10 to 20 minutes. </p><NYT_UPDATE_BOTTOM>\n\
+      </NYT_UPDATE_BOTTOM>\n\
+      </NYT_TEXT>\n\
+      <div class=\"nextArticleLink clearfix\">\n\
+      <a onClick=\"s_code_linktrack('Article-MoreArticlesBottom');\"\n\
+      \t\t\t\thref=\"http://www.nytimes.com/pages/health/index.html\">More Articles in \n\
+      \t\t\t\tHealth &#x00bb;</a>\n\
+      </div>\t\t\n\
+      </div>\n\
+      </div>\n\
+      <!--story end -->\n\
+      <div id=\"articleExtras\">\n\n\
+      <div id=\"adxCircBottom\"><!-- ADXINFO classification=\"text_ad\" campaign=\"nyt2012-circ-sf-bottom1-3844L\"--><table width=\"468\" border=\"0\">\n\
+      <tr>\n\
+      <td width=\"84\"><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Bottom1&sn2=45ae1301/b2156403&sn1=22bec303/af4d35c5&camp=nyt2012-circ-sf-bottom1-3844L&ad=050511-sf-bottom1-3844L&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F150%3FMediaCode%3DW16AK%26CMP%3D3844L\"><img src=\"http://graphics8.nytimes.com/adx/images/ADS/24/26/ad.242614/90x79_newspaper.gif\" width=\"90\" height=\"70\" border=\"0\"></a></td>\n\
+      <td width=\"381\">\n\
+      <p align=\"left\">\n\
+      <font size=\"-1\" class=\"nav\" color=\"#000066\"><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Bottom1&sn2=45ae1301/b2156403&sn1=22bec303/af4d35c5&camp=nyt2012-circ-sf-bottom1-3844L&ad=050511-sf-bottom1-3844L&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F150%3FMediaCode%3DW16AK%26CMP%3D3844L\">The New York Times and the Bay Area -- save 50% on home delivery plus FREE All Digital Access.\n\
+      </a></font>\n\
+      </td>\n\
+      </tr>\n\
+      </table>\n\
+      <br></div>\n\n\n\
+      <!--Google ads placeholder -->\n\
+      <div id=\"adxSponLink\"></div>\n\n\
+      <div id=\"relatedArticles\" class=\"list\"><h3>Past Coverage</h3><ul><li><span class=\"headlineWrapper\"><a onClick=\"s_code_linktrack('Article-RelatedArticles-searchFree');\" href=\"http://www.nytimes.com/2008/10/06/health/nutrition/06recipehealth.html?fta=y\">RECIPES FOR HEALTH; Chard: Spinach\xE2\x80\x99s Sturdier Cousin</a></span>&nbsp;(October 6, 2008)</li><li><span class=\"headlineWrapper\"><a onClick=\"s_code_linktrack('Article-RelatedArticles-searchFree');\" href=\"http://query.nytimes.com/gst/fullpage.html?res=9E0DE7DF1539F930A25750C0A9649C8B63&fta=y\">Chard Puts on a Party Dress</a></span>&nbsp;(March 13, 2002)</li></ul></div>\n\
+      <!--related blogs promo -->\n\
+      <!--related blogs promo end -->\n\n\
+      <div id=\"relatedTopics\">\n\
+      <h3>Related Searches</h3>\n\
+      <form ACTION=\"/mem/tnt.html\" METHOD=\"GET\" ENCTYPE=\"application/x-www-form-urlencoded\">\n\
+      <ul>\n\
+      <INPUT type=\"hidden\" name=\"retA\" value=\"http://www.nytimes.com2008/10/07/health/nutrition/07recipehealth.html\"/>\n\
+      <INPUT type=\"hidden\" name=\"retT\" value=\"\"/>\n\
+      <INPUT type=\"hidden\" name=\"module\" value=\"call\"/>\n\
+      <INPUT type=\"hidden\" name=\"alert_context\" value=\"1\"/>\t    \n\
+      <INPUT type=\"hidden\" name=\"topic1\" value=\"Cooking and Cookbooks\"/>\n\
+      <INPUT type=\"hidden\" name=\"topic_field1\" value=\"des\"/>\t\t\t\t\t\n\
+      <li>\n\
+      <span><a href=\"http://query.nytimes.com/search/query&#063;ppds=des&#038;v1=COOKING+AND+COOKBOOKS&#038;fdq=19960101&#038;td=sysdate&#038;sort=newest&#038;ac=COOKING+AND+COOKBOOKS&#038;rt=1%2Cdes%2Corg%2Cper%2Cgeo\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics');\">Cooking and Cookbooks</a></span>\n\
+      <span class=\"alert\">\n\
+      <a href=\"http://select.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=COOKING+AND+COOKBOOKS&topic_field1=des&topic1_check=y&retA=&retT=&cskey=\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');\">\n\
+      Get E-Mail Alerts</a>\n\
+      </span>\n\
+      </li>\n\
+      <INPUT type=\"hidden\" name=\"topic2\" value=\"Chard (Vegetable)\"/>\n\
+      <INPUT type=\"hidden\" name=\"topic_field2\" value=\"des\"/>\t\t\t\t\t\n\
+      <li>\n\
+      <span><a href=\"http://query.nytimes.com/search/query&#063;ppds=des&#038;v1=CHARD+%28VEGETABLE%29&#038;fdq=19960101&#038;td=sysdate&#038;sort=newest&#038;ac=CHARD+%28VEGETABLE%29&#038;rt=1%2Cdes%2Corg%2Cper%2Cgeo\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics');\">Chard (Vegetable)</a></span>\n\
+      <span class=\"alert\">\n\
+      <a href=\"http://select.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=CHARD+%28VEGETABLE%29&topic_field1=des&topic1_check=y&retA=&retT=&cskey=\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');\">\n\
+      Get E-Mail Alerts</a>\n\
+      </span>\n\
+      </li>\n\
+      <INPUT type=\"hidden\" name=\"topic3\" value=\"Recipes\"/>\n\
+      <INPUT type=\"hidden\" name=\"topic_field3\" value=\"des\"/>\t\t\t\t\t\n\
+      <li>\n\
+      <span><a href=\"http://query.nytimes.com/search/query&#063;ppds=des&#038;v1=RECIPES&#038;fdq=19960101&#038;td=sysdate&#038;sort=newest&#038;ac=RECIPES&#038;rt=1%2Cdes%2Corg%2Cper%2Cgeo\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics');\">Recipes</a></span>\n\
+      <span class=\"alert\">\n\
+      <a href=\"http://select.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=RECIPES&topic_field1=des&topic1_check=y&retA=&retT=&cskey=\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');\">\n\
+      Get E-Mail Alerts</a>\n\
+      </span>\n\
+      </li>\n\
+      <INPUT type=\"hidden\" name=\"topic4\" value=\"Diet and Nutrition\"/>\n\
+      <INPUT type=\"hidden\" name=\"topic_field4\" value=\"des\"/>\t\t\t\t\t\n\
+      <li>\n\
+      <span><a href=\"http://query.nytimes.com/search/query&#063;ppds=des&#038;v1=DIET+AND+NUTRITION&#038;fdq=19960101&#038;td=sysdate&#038;sort=newest&#038;ac=DIET+AND+NUTRITION&#038;rt=1%2Cdes%2Corg%2Cper%2Cgeo\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics');\">Diet and Nutrition</a></span>\n\
+      <span class=\"alert\">\n\
+      <a href=\"http://select.nytimes.com/mem/tnt.html?module=call&alert_context=1&topic1=DIET+AND+NUTRITION&topic_field1=des&topic1_check=y&retA=&retT=&cskey=\" onClick=\"javascript:s_code_linktrack('Article-RelatedTopics'); dcsMultiTrack('DCS.dcssip','www.nytimes.com','DCS.dcsuri','/newstracker/add.html','WT.ti','Newstracker Add','WT.z_nta','Add','WT.pers','Per','WT.z_dcsm','1');\">\n\
+      Get E-Mail Alerts</a>\n\
+      </span>\n\
+      </li>\n\
+      </ul>\n\
+      </form>\n\
+      </div>\n\n\
+      </div>\n\
+      <div class=\"clear\"></div>\n\
+      </div>\n\
+      <div id=\"bColumn\">\n\
+      <div class=\"columnGroup\">\n\n\
+      <div class=\"relatedStories well\">\n\
+      <h3 class=\"sectionHeader\"><a href=\"http://well.blogs.nytimes.com/\" alt=\"Well\" title=\"Well\">Well</a></h3>\n\
+      <div class=\"story\">\n\
+      <h5><a href=\"http://well.blogs.nytimes.com/2011/12/31/a-d-h-d-drug-shortage-has-patients-scrambling/\" target=\"_blank\">A.D.H.D. Drug Shortage Has Patients Scrambling</a></h5>\n\
+      <p class=\"date\">December 31, 2011</p>\n\
+      </div>\n\
+      <div class=\"story\">\n\
+      <h5><a href=\"http://well.blogs.nytimes.com/2011/12/30/new-years-recipes-to-bring-good-fortune/\" target=\"_blank\">New Year&#39;s Recipes to Bring Good Fortune</a></h5>\n\
+      <p class=\"date\">December 30, 2011</p>\n\
+      </div>\n\
+      <div class=\"story\">\n\
+      <h5><a href=\"http://well.blogs.nytimes.com/2011/12/29/the-provider-will-see-you-now/\" target=\"_blank\">The Provider Will See You Now</a></h5>\n\
+      <p class=\"date\">December 29, 2011</p>\n\
+      </div>\n\
+      <div class=\"story\">\n\
+      <h5><a href=\"http://well.blogs.nytimes.com/2011/12/29/what-we-can-learn-from-old-animals/\" target=\"_blank\">What We Can Learn From Old Animals</a></h5>\n\
+      <p class=\"date\">December 29, 2011</p>\n\
+      </div>\n\
+      <div class=\"story\">\n\
+      <h5><a href=\"http://well.blogs.nytimes.com/2011/12/28/why-lost-pounds-come-back/\" target=\"_blank\">Why Lost Pounds Come Back</a></h5>\n\
+      <p class=\"date\">December 28, 2011</p>\n\
+      </div>\n\
+      </div>\n\
+      \r\n\
+      \r\n\n\
+      </div>\n\n\n\
+      <div class=\"columnGroup\"><!-- ADXINFO classification=\"feature_squares\" campaign=\"nyt2011-regilite-P2-ticketwatch\"--><IFRAME title=\"regilite\" src=\"https://myaccount.nytimes.com/regilite?product=TR\" width=\"336\" height=\"90\" marginheight=\"0\" marginwidth=\"0\" frameborder=\"0\" vspace=\"0\" hspace=\"0\" scrolling=\"no\"></IFRAME> \n\
+      </div>\n\n\n\
+      <div id=\"adxBigAd\" class=\"columnGroup\"><!-- ADXINFO classification=\"bigad\" campaign=\"Bloomberg_Philanthropies_1783204-nyt13\"--><div align=\"center\">\n\
+      <SCRIPT type=\"text/javascript\" SRC=\"http://ad.doubleclick.net/adj/N5778.6440.6522877293621/B6166088.3;sz=300x250;pc=nyt176019A287466;ord=2012.01.01.20.06.10?;click=http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=MiddleRight&camp=Bloomberg_Philanthropies_1783204-nyt13&ad=300x250-BloombergPhilan-Health-B6166088.3-Dart&sn2=8d098f55/b3146a9e&snr=doubleclick&snx=1325447179&sn1=671a82c2/b18e4f26&goto=\">\n\
+      </SCRIPT>\n\
+      <NOSCRIPT>\n\
+      <A HREF=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=MiddleRight&sn2=8d098f55/b3146a9e&sn1=9c3ab70e/5fcc727a&camp=Bloomberg_Philanthropies_1783204-nyt13&ad=300x250-BloombergPhilan-Health-B6166088.3-Dart&goto=http://ad.doubleclick.net/jump/N5778.6440.6522877293621/B6166088.3;sz=300x250;pc=nyt176019A287466;ord=2012.01.01.20.06.10?\" TARGET=\"_blank\">\n\
+      <IMG SRC=\"http://ad.doubleclick.net/ad/N5778.6440.6522877293621/B6166088.3;sz=300x250;pc=nyt176019A287466;ord=2012.01.01.20.06.10?\"\n BORDER=0 WIDTH=300 HEIGHT=250\n ALT=\"Click Here\"></A>\n\
+      </NOSCRIPT>\n\
+      </div></div>\n\n\n\n\
+      <div class=\"columnGroup\">\n\n\
+      <div class=\"clearfix\" id=\"health_fit_tools\">\r\n\
+      <h3 class=\"promo\">Health & Fitness Tools</h3>\r\n\
+      <a href=\"http://www.nytimes.com/ref/health/bmi.html\"><IMG src=\"http://graphics8.nytimes.com/images/2007/04/30/health/health_tool.gif\" alt=\"\" class=\"callout\" border=\"0\" height=\"75\" hspace=\"0\" vspace=\"0\" width=\"75\"></a>\r\n\
+      <h5><a href=\"http://www.nytimes.com/ref/health/bmi.html\">BMI Calculator</a></h5>\r\n\
+      <a href=\"http://www.nytimes.com/ref/health/bmi.html\" class=\"more\">What's your score? \xBB</a>\r\n\
+      <h5><a href=\"http://www.nytimes.com/ref/health/caloriecounter.html\">Calorie Calculator for Goal Weight</a></h5>\r\n\
+      <a href=\"http://www.nytimes.com/ref/health/caloriecounter.html\" class=\"more\">What's your limit? \xBB</a>\r\n\
+      \r\n\
+      <div id=\"Frame5A\">\r\n\
+      <!-- HEALTH PROMO -->\n\
+      <div style=\"border:solid #333; border-width:10px 1px; font-family:Arial,sans-serif; text-align:left; width:334px; background:#fff;position: relative;\"><div style=\"float:left; text-align:left; width: 120px;\"><a target=\"_new\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Frame5A&sn2=23125be6/6d6845ab&sn1=1380a6a2/43bdb6a9&camp=NYT2011-Health-MarketingModule-Frame5A&ad=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL&goto=http://health.nytimes.com/health/guides/nutrition/cholesterol/overview.html%3FWT.mc_id=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL%26WT.mc_ev=click%26mkt=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL\"><img src=\"http://graphics8.nytimes.com/ads/marketing/mm08/image-cholesterol.gif\" width=\"120\" height=\"123\" border=\"0\"></a></div><div style=\"float:right; width:214px;\"><h2 style=\"margin:0;padding:11px 5px 1px 10px;font-size:22px;\"><a style=\"color:#660000;\" target=\"_new\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Frame5A&sn2=23125be6/6d6845ab&sn1=1380a6a2/43bdb6a9&camp=NYT2011-Health-MarketingModule-Frame5A&ad=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL&goto=http://health.nytimes.com/health/guides/nutrition/cholesterol/overview.html%3FWT.mc_id=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL%26WT.mc_ev=click%26mkt=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL\">Tips to lower<br />your cholesterol.</a></h2>     <h3 style=\"margin:0;padding: 0 0 15px 11px;font-size:11px;\"><a style=\"color:#333333;\" target=\"_new\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Frame5A&sn2=23125be6/6d6845ab&sn1=1380a6a2/43bdb6a9&camp=NYT2011-Health-MarketingModule-Frame5A&ad=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL&goto=http://health.nytimes.com/health/guides/nutrition/cholesterol/overview.html%3FWT.mc_id=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL%26WT.mc_ev=click%26mkt=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL\">LEARN MORE &raquo;</a></h3><a style=\"color:#333333;\" target=\"_new\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Frame5A&sn2=23125be6/6d6845ab&sn1=2b0da048/cfd6001e&camp=NYT2011-Health-MarketingModule-Frame5A&ad=HL-D-I-NYT-MOD-FP-CM1-HL-0308-CHOL&goto=http://www.nytimes.com/pages/health/index.html%3FWT.mc_id=HL-D-I-NYT-MOD-FP-CM1-HL-0308-L1%26WT.mc_ev=click%26mkt=HL-D-I-NYT-MOD-FP-CM1-HL-0308-L1\"><img src=\"http://graphics8.nytimes.com/ads/marketing/mm08/health-url.gif\" alt=\"nytimes.com/health\" width=\"166\" height=\"17\" longdesc=\"http://www.nytimes.com/pages/health/index.html\" border=\"0\" style=\"margin-left: 9px;\" /></a></div><div style=\"clear: both;\"></div></div>  \n <!-- /HEALTH PROMO -->\r\n\
+      </div>\r\n\
+      \r\n\
+      </div>\n\n\
+      </div>\n\
+      <div class=\"columnGroup\" id=\"mostPopWidget\">\n\n      <!-- MOST POPULAR MODULE STARTS -->\n      <h4>MOST POPULAR - HEALTH</h4>\n         <div id=\"tabsContainer\">\n         <ul class=\"tabs\">\n            <li class=\"selected\"><a href=\"#\">E-Mailed</a></li>\n            <li><a href=\"#\">Blogged</a></li>\n            \n            <li><a href=\"#\">Viewed</a></li>\n            \n         </ul>\n         </div>\n            <!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\"><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\"></HEAD><div class=\"tabContent tabContentActive\" id=\"mostEmailed\"><ol>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2012/01/01/us/JP-DRUG/JP-DRUG-thumbStandard.jpg\"  kicker=\"\"><a href=\"http://www.nytimes.com/2012/01/01/health/policy/fda-is-finding-attention-drugs-in-short-supply.html?src=me&amp;ref=health\" title=\"Click to go to this article\">F.D.A. Is Finding Attention Drugs in Short Supply</a></li>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2011/12/27/science/27BROD/27BROD-thumbStandard.jpg\"  kicker=\"Personal Health\"><a href=\"http://www.nytimes.com/2011/12/27/health/high-sodium-to-potassium-ratio-in-diet-is-a-major-heart-risk.html?src=me&amp;ref=health\" title=\"Click to go to this article\">Personal Health: Sodium-Saturated Diet Is a Threat for All</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/29/what-we-can-learn-from-old-animals/?src=me&amp;ref=health\" title=\"Click to go to this article\">Well: What We Can Learn From Old Animals</a></li>\n\
+      <li kicker=\"\"><a href=\"http://www.nytimes.com/2011/12/27/health/new-drugs-raise-hope-for-patients-with-ms.html?src=me&amp;ref=health\" title=\"Click to go to this article\">New Drugs Raise Hope for Patients With M.S.</a></li>\n\
+      <li kicker=\"The New Old Age\"><a href=\"http://newoldage.blogs.nytimes.com/2011/12/30/when-doctors-face-death/?src=me&amp;ref=health\" title=\"Click to go to this article\">The New Old Age: When Doctors Face Death</a></li>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2011/12/27/science/30recipehealth/30recipehealth-thumbStandard.jpg\"  kicker=\"Recipes for Health\"><a href=\"http://www.nytimes.com/2011/12/30/health/nutrition/soba-with-black-eyed-peas-and-spinach-recipes-for-health.html?src=me&amp;ref=health\" title=\"Click to go to this article\">Recipes for Health: Soba With Black-Eyed Peas and Spinach</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/08/is-generosity-better-than-sex/?src=me&amp;ref=health\" title=\"Click to go to this article\">Well: The Generous Marriage</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/31/a-d-h-d-drug-shortage-has-patients-scrambling/?src=me&amp;ref=health\" title=\"Click to go to this article\">Well: A.D.H.D. Drug Shortage Has Patients Scrambling</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/21/for-older-runners-good-news-and-bad/?src=me&amp;ref=health\" title=\"Click to go to this article\">Well: For Older Runners, Good News and Bad</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/28/the-year-in-fitness/?src=me&amp;ref=health\" title=\"Click to go to this article\">Well: The Year in Fitness</a></li>\n\
+      </ol>\n        <a class=\"more\" href=\"http://www.nytimes.com/gst/mostemailed.html\">Go to Complete List &#x00bb;</a>\n        </div><!-- #most emailed top10 -->\n\n            <div class=\"tabContent\" id=\"mostBlogged\">\n\
+      <ol>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/new-drugs-raise-hope-for-patients-with-ms.html?bl\" title=\"Click to go to this article\">New Drugs Raise Hope for Patients With M.S.</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/research/scholars-retract-another-study-linking-xmrv-to-chronic-fatigue-syndrome.html?bl\" title=\"Click to go to this article\">Scholars Retract Another Study Linking XMRV to Chronic Fatigue Syndrome</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2012/01/01/health/policy/fda-is-finding-attention-drugs-in-short-supply.html?bl\" title=\"Click to go to this article\">F.D.A. Is Finding Attention Drugs in Short Supply</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/research/blood-pressure-changes-in-middle-age-can-affect-heart-risk.html?bl\" title=\"Click to go to this article\">Blood Pressure Changes in Middle Age Can Affect Heart Risk</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/who-reports-25-percent-drop-in-malaria-deaths-in-a-decade.html?bl\" title=\"Click to go to this article\">W.H.O. Reports 25 Percent Drop in Malaria Deaths in a Decade</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/more-americans-died-of-poisoning-than-in-car-crashes-in-2008.html?bl\" title=\"Click to go to this article\">More Americans Died of Poisoning Than in Car Crashes in 2008</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/2011/12/27/health/high-sodium-to-potassium-ratio-in-diet-is-a-major-heart-risk.html?bl\" title=\"Click to go to this article\">High Sodium-to-Potassium Ratio in Diet Is a Major Heart Risk</a></li>\n\
+      </ol>\n\
+      <a class=\"more\" href=\"http://www.nytimes.com/gst/mostblogged.html\">Go to Complete List &#x00bb;</a>\n\
+      </div><!-- #most blogged top10 -->\n\n            \n            <div class=\"tabContent\" id=\"mostViewed\"><ol>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2012/01/01/us/JP-DRUG/JP-DRUG-thumbStandard.jpg\"  kicker=\"\"><a href=\"http://www.nytimes.com/2012/01/01/health/policy/fda-is-finding-attention-drugs-in-short-supply.html?src=mv&amp;ref=health\" title=\"Click to go to this article\">F.D.A. Is Finding Attention Drugs in Short Supply</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/29/what-we-can-learn-from-old-animals/?src=mv&amp;ref=health\" title=\"Click to go to this article\">Well: What We Can Learn From Old Animals</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/28/why-lost-pounds-come-back/?src=mv&amp;ref=health\" title=\"Click to go to this article\">Well: Why Lost Pounds Come Back</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/31/a-d-h-d-drug-shortage-has-patients-scrambling/?src=mv&amp;ref=health\" title=\"Click to go to this article\">Well: A.D.H.D. Drug Shortage Has Patients Scrambling</a></li>\n\
+      <li kicker=\"Well\"><a href=\"http://well.blogs.nytimes.com/2011/12/30/new-years-recipes-to-bring-good-fortune/?src=mv&amp;ref=health\" title=\"Click to go to this article\">Well: New Year's Recipes to Bring Good Fortune</a></li>\n\
+      <li kicker=\"The New Old Age\"><a href=\"http://newoldage.blogs.nytimes.com/2011/12/30/when-doctors-face-death/?src=mv&amp;ref=health\" title=\"Click to go to this article\">The New Old Age: When Doctors Face Death</a></li>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2011/12/27/science/30recipehealth/30recipehealth-thumbStandard.jpg\"  kicker=\"Recipes for Health\"><a href=\"http://www.nytimes.com/2011/12/30/health/nutrition/soba-with-black-eyed-peas-and-spinach-recipes-for-health.html?src=mv&amp;ref=health\" title=\"Click to go to this article\">Recipes for Health: Soba With Black-Eyed Peas and Spinach</a></li>\n\
+      <li kicker=\"The New Old Age\"><a href=\"http://newoldage.blogs.nytimes.com/2011/12/29/the-unspoken-diagnosis-old-age/?src=mv&amp;ref=health\" title=\"Click to go to this article\">The New Old Age: The Unspoken Diagnosis: Old Age</a></li>\n\
+      <li kicker=\"The New Old Age\"><a href=\"http://newoldage.blogs.nytimes.com/2011/12/12/when-pap-smears-are-no-longer-needed/?src=mv&amp;ref=health\" title=\"Click to go to this article\">The New Old Age: When Pap Smears Are No Longer Needed</a></li>\n\
+      <li img=\"http://graphics8.nytimes.com/images/2011/12/27/science/27BROD/27BROD-thumbStandard.jpg\"  kicker=\"Personal Health\"><a href=\"http://www.nytimes.com/2011/12/27/health/high-sodium-to-potassium-ratio-in-diet-is-a-major-heart-risk.html?src=mv&amp;ref=health\" title=\"Click to go to this article\">Personal Health: Sodium-Saturated Diet Is a Threat for All</a></li>\n\
+      </ol>\n        </div><!-- #most viewed top10 -->\n\n            \n         <script type=\"text/javascript\">new Accordian(\"mostPopWidget\");</script>\n      <!-- MOST POPULAR MODULE ENDS -->\n   \n\n\
+      </div>\n\
+      <div id=\"adxMiddle\" class=\"columnGroup\"><!-- ADXINFO classification=\"Module\" campaign=\"nyt2012_module_TMag_Photographers_hp_ros_db\"-->\n\n\
+      <!-- MARKETING MODULE -->\n\
+      <div style=\"border:solid #999;border-width:1px;font-family:Arial,sans-serif;text-align:left; width:334px;background:#fff;\" class=\"clearfix wrap\">\n  <a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=247d2bf/9fe7c207&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://tmagazine.blogs.nytimes.com/2011/12/28/photographers-without-borders/%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-PH%26WT.mc_ev=click%26WT.mc_c=176934\" target=\"_blank\"><img src=\"http://graphics8.nytimes.com/ads/marketing/mm12/tmagazine_010112.jpg\" width=\"334\" height=\"154\" border=\"0\" alt=\"\"></a> \n  <div style=\"padding:7px 9px 0;background:#fff\">\n      <h2 style=\"font-size:21px;line-height:23px; margin:0;padding:0 0 4px;\"><a style=\"color:#000000;\" target=\"_blank\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=247d2bf/9fe7c207&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://tmagazine.blogs.nytimes.com/2011/12/28/photographers-without-borders/%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-HDR%26WT.mc_ev=click%26WT.mc_c=176934\">Photographers without borders</a></h2>\n\n      <p style=\"margin:0 0 3px; padding:0;font-size: 11px;\"><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=9f37575f/a54e4c7e&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://www.nytimes.com/pages/t-magazine/index.html%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-URL%26WT.mc_ev=click%26WT.mc_c=176934\" target=\"_blank\" style=\"font-size:11px;margin:3px 0;padding:0;font-family:Arial,sans-serif;  color:#000; text-transform:uppercase;\">ALSO IN T MAGAZINE &raquo;</a></p>\n      <ul style=\"font-size:12px;margin:0; padding-bottom: 10px; border-bottom:1px solid #ccc;\" class=\"refer\">\n        <li style=\"font-size:12px\"><a target=\"_blank\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=9f37575f/a54e4c7e&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://www.nytimes.com/interactive/2011/12/29/t-magazine/29best-mensfashion.html%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-L1%26WT.mc_ev=click%26WT.mc_c=176934\" style=\"color: #004276\">2011: The best in men's fashion</a></li>\n        <li style=\"font-size:12px\"><a target=\"_blank\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=247d2bf/9fe7c207&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://tmagazine.blogs.nytimes.com/2011/12/28/the-best-in-womens/%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-L2%26WT.mc_ev=click%26WT.mc_c=176934\" style=\"color: #004276\">2011: The best in women's fashion</a></li>\n      </ul>\n    </div>\n \n <div style=\"padding:5px 9px; float:left; width:316px; background:#fff\"> <a style=\"float:left\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=c7119f83/8a9fe2ce&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://nytimes.com/%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-LOGO%26WT.mc_ev=click%26WT.mc_c=176934\" target=\"_blank\"><img src=\"http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/nytimes.gif\" alt=\"nytimes.com\" width=\"116\" height=\"18\" border=\"0\"></a><a style=\"float:right\" href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Box1&sn2=bf9e9d9d/c4d1895b&sn1=9f37575f/a54e4c7e&camp=nyt2012_module_TMag_Photographers_hp_ros_db&ad=TM-D-I-NYT-MOD-MOD-M234-ROS-0112&goto=http://www.nytimes.com/pages/t-magazine/index.html%3FWT.mc_id=TM-D-I-NYT-MOD-MOD-M234-ROS-0112-VRT%26WT.mc_ev=click%26WT.mc_c=176934\" target=\"_blank\"><img src=\"http://graphics8.nytimes.com/ads/marketing/mm09/verticalst/verticals_tmagazine.gif\" alt=\"T Magazine\" width=\"120\" height=\"18\" border=\"0\"></a></div><br clear=\"all\">\n\n\
+      </div>\n  <!-- /MARKETING MODULE -->\n\
+      </div>\n\
+      <div id=\"adxSponLink\" class=\"columnGroup\"><script language=\"JavaScript\" type=\"text/javascript\">\n    // Sponlink_A_Short\n\n     if (document.getElementById(\"MiddleRight\")) { google_targeting = 'content'; }\n     NYTD.GoogleAds.getGoogleAds(\"AFC\", { \n        google_ad_client:'nytimes_article_var',\n        ad_target_list:'sponLinkA'\n     });\n\n\
+      </script></div>\n\n\
+      <div class=\"columnGroup advertisementColumnGroup\">\n\
+      <h4>Advertisements</h4>\n\
+      <table cellpadding=\"0\" cellspacing=\"0\"><tr><td class=\"cColumn\">\n\
+      <div class=\"cColumn-TextAdsBox\">\n\n\
+      <div class=\"cColumn-TextAdsLeft\">\n\
+      <div class=\"cColumn-TextAd\"><!-- ADXINFO classification=\"SiteForADay\" campaign=\"NYT2011-Mktg-NeediestCases-S4D-ROS\"--><div style=\"width:320px; height:60px;\"> \n\n\
+      <a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Right5A&sn2=e7466100/e89a039c&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F\" target=\"_blank\"> \n\
+      <img style=\"float:left; margin-right:10px;\" src=\"http://graphics8.nytimes.com/adx/images/ADS/28/26/ad.282606/11-1929_NeediestCasses_86x60.jpg\" width=\"86\" height=\"60\" border=\"0\" style=\"vertical-align:text-top;\"></a>\n\n\
+      <a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Right5A&sn2=e7466100/e89a039c&sn1=83a259e6/49fd2187&camp=NYT2011-Mktg-NeediestCases-S4D-ROS&ad=Mtkg_NeediestCases_S4D_2011&goto=https%3A%2F%2Fnytneediestcases%2Ecom%2F\" target=\"_blank\">  <br />Help New Yorkers in need.<br />Donate Today.</a>\n\
+      </div>\n\
+      </div>\n\n\n\n\
+      </div>\n\n\n\
+      </div>\n\
+      </td></tr></table>\n\
+      </div>\n\n\
+      <div id=\"adxMiddle5\" class=\"columnGroup\"><!-- ADXINFO classification=\"feature_position\" campaign=\"nyt2012-circ-middle5_weekender-36H3R-38R9U-AK\"--><a href=\"http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/yr/mo/day/health/nutrition&pos=Middle5&sn2=f2c46281/12402f7a&sn1=ea749d1f/77be5dc2&camp=nyt2012-circ-middle5_weekender-36H3R-38R9U-AK&ad=100511-middle5_weekender-38R9U&goto=https%3A%2F%2Fwww%2Enytimesathome%2Ecom%2Fhd%2F142%3FMediaCode%3DW42CS%26CMP%3D36H3R\" target=\"_blank\">\n\
+      <img src=\"http://graphics8.nytimes.com/adx/images/ADS/27/90/ad.279007/11-0920_HDWeekender2_336x79_AK.gif\" width=\"336\" height=\"79\" border=\"0\"></a><div class='kj_cx'></div>\n\
+      <script type='text/javascript'>\n\
+      var kjData = {akin: 'NYT-IP-4d0abbb3b1871-j6k', adWidth: 336, adHeight: 79, btnStyle: 2, crnr: 'bl'};\n\
+      if(!kjG){var kjG=[]}kjG.push(kjData);if(!kjLdr){var kjLdr={ld:function(){var b=document; var a=b.createElement('script');a.type='text/javascript';a.src='http://a.akncdn.com/adkeeper.1.0.js'; (b.getElementsByTagName('body')[0]||b.getElementsByTagName('head')[0]).appendChild(a) },init:function(){var a=window,b=document;if(b.addEventListener){a.addEventListener('load',this.ld,false) }else{if(a.attachEvent){a.attachEvent('onload',this.ld)}}}};kjLdr.init()}; </script>\n\n\
+      </div>\n\n\n\n\
+      <br/>\n\
+      <!--Google ads placeholder -->\n\
+      <div id=\"adxSponLinkA\" class=\"columnGroup\"></div>\n\
+      <!-- ADXINFO classification=\"feature_squares\" campaign=\"ARTICLE_GOOGLE_SPONLINK\"--><script language=\"JavaScript\" type=\"text/javascript\">\n    \n    // Sponlink_short\n\n    NYTD.GoogleAds.getGoogleAds(\"AFC\", { \n        google_ad_client:'nytimes_article_var',\n\
+      \tgoogle_ad_channel:'left',\n        ad_target_list:'sponLink'\n    });\n\
+      </script>\n\n\
+      </div><!--end #bColumn -->\n\n\
+      <!--MOTHS -->\n\n  <!-- start MOTH -->\n  \t<div id=\"insideNYTimes\" class=\"doubleRule\">\n            <script type=\"text/javascript\" src=\"http://js.nyt.com/js/app/moth/moth.js\"></script>\n        <div id=\"insideNYTimesHeader\">\n                    <div class=\"navigation\"><span id=\"leftArrow\"><img id=\"mothReverse\" src=\"http://i1.nyt.com/images/global/buttons/moth_reverse.gif\" /></span>&nbsp;<span id=\"rightArrow\"><img id=\"mothForward\" src=\"http://i1.nyt.com/images/global/buttons/moth_forward.gif\" /></span></div>\n                <h4>\n            Inside NYTimes.com        </h4>\n    </div>\n    \n        \n    <div id=\"insideNYTimesScrollWrapper\">\n        <table id=\"insideNYTimesBrowser\" cellspacing=\"0\">\n            <tbody>\n                <tr>\n                                                <td class=\"first\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://movies.nytimes.com/pages/movies/index.html\">Movies &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://movies.nytimes.com/pages/movies/awardsseason/index.html\"><img src=\"http://i1.nyt.com/images/2012/01/01/movies/01MOTH_OSCARS/01MOTH_OSCARS-moth.jpg\" alt=\"Awards Season\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://movies.nytimes.com/pages/movies/awardsseason/index.html\">Awards Season</a></h6>\n        </div>\n    </td>\n                                                <td>\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/nyregion/index.html\">N.Y. / Region &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/nyregion/at-52-a-prostitute-still-working-the-streets.html\"><img src=\"http://i1.nyt.com/images/2012/01/01/nyregion/01MOTH_CHARACTER/01MOTH_CHARACTER-moth.jpg\" alt=\"Working the Streets and Feeding a Family\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/nyregion/at-52-a-prostitute-still-working-the-streets.html\">Working the Streets and Feeding a Family</a></h6>\n        </div>\n    </td>\n                                                <td>\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/opinion/index.html\">Sunday Review &raquo;</a>                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/opinion/sunday/the-joy-of-quiet.html\"><img src=\"http://i1.nyt.com/images/2012/01/01/sunday-review/01COVER/01COVER-moth.jpg\" alt=\"Pico Iyer: The Joy of Quiet\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/opinion/sunday/the-joy-of-quiet.html\">Pico Iyer: The Joy of Quiet</a></h6>\n        </div>\n    </td>\n                                                <td>\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/travel/index.html\">Travel &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://travel.nytimes.com/2012/01/01/travel/taking-it-off-just-like-tv.html\"><img src=\"http://i1.nyt.com/images/2012/01/01/travel/01MOTH_COVER/01MOTH_COVER-moth.jpg\" alt=\"My Week at the Biggest Loser Fat Camp\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://travel.nytimes.com/2012/01/01/travel/taking-it-off-just-like-tv.html\">My Week at the Biggest Loser Fat Camp</a></h6>\n        </div>\n    </td>\n                                                    <td>\n            <div class=\"story\">\n                <h6 class=\"kicker\"><a href=\"http://www.nytimes.com/pages/opinion/index.html\">Sunday Review &raquo;</a></h6>\n                <h3><a href=\"http://www.nytimes.com/2012/01/01/opinion/sunday/how-great-was-2012.html\">Loose Ends: How Great Was 2012!</a></h3>\n                <p class=\"summary\">Thank God for the oral tradition! And meanwhile, enjoy your electricity, 2012!</p>\n            </div>\n        </td>\n                                                <td>\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/arts/music/index.html\">Music &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/arts/music/rock-in-2011-hot-chelle-rae-foster-the-people-chevelle.html\"><img src=\"http://i1.nyt.com/images/2012/01/01/arts/music/01MOTH_ROCK/01MOTH_ROCK-moth-v2.jpg\" alt=\"The Year When Rock Just Spun Its Wheels\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/arts/music/rock-in-2011-hot-chelle-rae-foster-the-people-chevelle.html\">The Year When Rock Just Spun Its Wheels</a></h6>\n        </div>\n    </td>\n                                                <td class=\"hidden\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/magazine/index.html\">Magazine &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/magazine/tara-parker-pope-fat-trap.html\"><span class=\"img\" src=\"http://i1.nyt.com/images/2012/01/01/magazine/01cover/01cover-moth.jpg\" alt=\"The Fat Trap\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/magazine/tara-parker-pope-fat-trap.html\">The Fat Trap</a></h6>\n        </div>\n    </td>\n                                                <td class=\"hidden\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/opinion/index.html\">Sunday Review &raquo;</a>                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/interactive/2011/12/31/opinion/global/20120101_McFadden_cartoon.html\"><span class=\"img\" src=\"http://i1.nyt.com/images/2012/01/01/sunday-review/01COMICS/01COMICS-moth.jpg\" alt=\"The Strip: Know Your Iowa Caucus Safety\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/interactive/2011/12/31/opinion/global/20120101_McFadden_cartoon.html\">The Strip: Know Your Iowa Caucus Safety</a></h6>\n        </div>\n    </td>\n                                                <td class=\"hidden\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/fashion/index.html\">Fashion & Style &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/pages/fashion/weddings/index.html\"><span class=\"img\" src=\"http://i1.nyt.com/images/2012/01/01/fashion/01MOTH_VOWS/01MOTH_VOWS-moth.jpg\" alt=\"Weddings &amp; Celebrations\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/pages/fashion/weddings/index.html\">Weddings &amp; Celebrations</a></h6>\n        </div>\n    </td>\n                                                    <td class=\"hidden\">\n            <div class=\"story\">\n                <h6 class=\"kicker\"><a href=\"http://www.nytimes.com/pages/opinion/index.html\">Sunday Review &raquo;</a></h6>\n                <h3><a href=\"http://www.nytimes.com/2012/01/01/opinion/sunday/scientific-answers-to-the-mysteries-of-childrens-literature.html\">Gray Matter: Story Time, Debunked</a></h3>\n                <p class=\"summary\">There is value in applying scientific research to some of the classic mysteries of children&rsquo;s literature.</p>\n            </div>\n        </td>\n                                                <td class=\"hidden\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/books/index.html\">Books &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/books/review/haiti-the-aftershocks-of-history-by-laurent-dubois-book-review.html\"><span class=\"img\" src=\"http://i1.nyt.com/images/2012/01/01/books/01moth_bkr-rothschild-t/01moth_bkr-rothschild-t-moth.jpg\" alt=\"Haiti&rsquo;s Tragic History\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/books/review/haiti-the-aftershocks-of-history-by-laurent-dubois-book-review.html\">Haiti&rsquo;s Tragic History</a></h6>\n        </div>\n    </td>\n                                                <td class=\"hidden\">\n        <div class=\"story\">\n            <h6 class=\"kicker\">\n                                    <a href=\"http://www.nytimes.com/pages/arts/design/index.html\">Art & Design &raquo;</a>\n                            </h6>\n            <div class=\"mothImage\">\n                <a href=\"http://www.nytimes.com/2012/01/01/arts/design/richard-prince-lawsuit-focuses-on-limits-of-appropriation.html\"><span class=\"img\" src=\"http://i1.nyt.com/images/2012/01/01/arts/design/01MOTH_PRINCE/01MOTH_PRINCE-moth.jpg\" alt=\"Apropos Appropriation\" width=\"151\" height=\"151\" /></a>\n            </div>\n            <h6 class=\"headline\"><a href=\"http://www.nytimes.com/2012/01/01/arts/design/richard-prince-lawsuit-focuses-on-limits-of-appropriation.html\">Apropos Appropriation</a></h6>\n        </div>\n    </td>\n                                    </tr>\n            </tbody>\n        </table>\n    </div>\n    \n    </div><!-- end #insideNYTimes -->\n\n\n\
+      </div>\n\
+      <!--Footer -->\n\n\
+      <NYT_FOOTER>\t \n\
+      <NYT_COPYRIGHT>\n\n\
+      <div id=\"footer\">\n\
+      <div class=\"footerRow\">\n\
+      <a href=\"http://www.nytimes.com/\">Home</a>\n\
+      <ul>\n\
+      <li><a href=\"http://www.nytimes.com/pages/world/index.html\">World</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/national/index.html\">U.S.</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/nyregion/index.html\">N.Y. / Region</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/business/index.html\">Business</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/technology/index.html\">Technology</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/science/index.html\">Science</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/health/index.html\">Health</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/sports/index.html\">Sports</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/opinion/index.html\">Opinion</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/arts/index.html\">Arts</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/style/index.html\">Style</a></li>\n\
+      <li><a href=\"http://travel.nytimes.com/pages/travel/index.html\">Travel</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/jobs/index.html\">Jobs</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/realestate/index.html\">Real Estate</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/pages/automobiles/index.html\">Automobiles</a></li>\n\
+      <li><a href=\"#top\">Back to Top</a></li>\n\
+      </ul>\n\
+      </div>\n\
+      <a href=\"http://www.nytimes.com/ref/membercenter/help/copyright.html\">Copyright 2008</a> \n\
+      <a href=\"http://www.nytco.com/\">The New York Times Company</a>\n\
+      <ul>\n\
+      <li><a href=\"http://www.nytimes.com/privacy\">Privacy Policy</a></li>\n\
+      <li><a href=\"http://query.nytimes.com/gst/sitesearch_selector.html?query=&date_select=full&type=nyt\">Search</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/corrections.html\">Corrections</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/rss\" class=\"rssButton\">RSS</a></li>\n\
+      <li><a href=\"http://firstlook.nytimes.com\">First Look</a></li>\n\
+      <li><a href=\"http://www.nytimes.com/membercenter/sitehelp.html\">Help</a></li>\n\
+      <li><a href=\"http://nytimes.com/ref/membercenter/help/infoservdirectory.html\">Contact Us</a></li>\n\
+      <li><a href=\"https://careers.nytco.com/TAM/nyt_docs/TAM/candidate.html\">Work for Us</a></li>\n\
+      <li><a href=\"http://spiderbites.nytimes.com/\">Site Map</a></li>\n\
+      </ul>\n\
+      </div>\n\n\
+      </NYT_COPYRIGHT>\n\
+      </NYT_FOOTER>  \n\n\
+      </div>\n\
+      </div>\n\n\
+      \t\t\t\n\
+      \t\t<!-- Start UPT call -->\n\
+      \t\t<img height=\"1\" width=\"3\" border=0 src=\"http://up.nytimes.com/?d=0/18/20&t=6&s=0&ui=&r=&u=www%2enytimes%2ecom%2f2008%2f10%2f07%2fhealth%2fnutrition%2f07recipehealth%2ehtml%3f\">\n\
+      \t\t<!-- End UPT call -->\n\
+      \t\n\
+      \t\t\n        <script language=\"JavaScript\"><!--\n          var dcsvid=\"\";\n          var regstatus=\"non-registered\";\n        //--></script>\n        <script src=\"http://graphics8.nytimes.com/js/app/analytics/trackingTags_v1.1.js\" type=\"text/javascript\"></script>\n        <noscript>\n          <div><img alt=\"DCSIMG\" id=\"DCSIMG\" width=\"1\" height=\"1\" src=\"http://wt.o.nytimes.com/dcsym57yw10000s1s8g0boozt_9t1x/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=1.0.7\"/></div>\n        </noscript>\n   \n\n\n\
+      \t\t<script language=\"Javascript\">Tacoda_AMS_DDC_addPair(\"t_section\",\"Health, Nutrition\")</script>\n\
+      \t\t<script language=\"Javascript\">Tacoda_AMS_DDC_addPair(\"site\",\"nytimes.com\")</script>\n\
+      \t\t<script language=\"JavaScript\">Tacoda_AMS_DDC(\"http://te.nytimes.com/tte/blank.gif\",\"1.0\")</script>\t\n\
+      \t\t\n\
+      <IMG SRC=\"/adx/bin/clientside/78020916Q2FoeQ2A.e_Q24uooouleuVVVQ7CVQ207lVVQ7En_gVVi_7lQ20L7\" height=\"1\" width=\"3\">\n\n\n\
+      </body>\n\n\n\n\n\
+      </html>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    http_version: "1.1"
+  recorded_at: Sun, 01 Jan 2012 20:06:11 GMT
 recorded_with: VCR 2.0.0.rc1

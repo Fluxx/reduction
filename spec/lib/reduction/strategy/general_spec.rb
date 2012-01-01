@@ -19,22 +19,22 @@ module Reduction
 
       it_should_find 'title', 'Earl Grey Latte + Poor Man’s Milk Foam « All Things Simple'
 
-      describe '#body' do
+      let(:image_srcs) do
+        [
+          # These values came from the HTML doc/VCR cassette
+          "http://lbrisbo.files.wordpress.com/2011/11/earl-grey5.jpg?w=490&h=367",
+          "http://lbrisbo.files.wordpress.com/2011/11/earlgrey3.jpg?w=490&h=326",
+          "http://lbrisbo.files.wordpress.com/2011/11/earlgrey2.jpg?w=490&h=326",
+          "http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg?w=490&h=326",
+          "http://lbrisbo.files.wordpress.com/2011/11/earl-grey8.jpg?w=490&h=367",
+          "http://lbrisbo.files.wordpress.com/2011/11/earl-grey10.jpg?w=490&h=367",
+          "http://0.gravatar.com/avatar/06455523222946a07e7cd5a76532c0a6?s=30&d=identicon&r=G",
+          "http://0.gravatar.com/avatar/6e680aa6d539cd762b87583cb921781c?s=30&d=identicon&r=G",
+          "http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=30&d=identicon&r=G"
+        ]
+      end
 
-        let(:image_srcs) {
-          [
-            # These values came from the HTML doc/VCR cassette
-            "http://lbrisbo.files.wordpress.com/2011/11/earl-grey5.jpg?w=490&h=367",
-            "http://lbrisbo.files.wordpress.com/2011/11/earlgrey3.jpg?w=490&h=326",
-            "http://lbrisbo.files.wordpress.com/2011/11/earlgrey2.jpg?w=490&h=326",
-            "http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg?w=490&h=326",
-            "http://lbrisbo.files.wordpress.com/2011/11/earl-grey8.jpg?w=490&h=367",
-            "http://lbrisbo.files.wordpress.com/2011/11/earl-grey10.jpg?w=490&h=367",
-            "http://0.gravatar.com/avatar/6e680aa6d539cd762b87583cb921781c?s=30&d=identicon&r=G",
-            "http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=30&d=identicon&r=G",
-            "http://0.gravatar.com/avatar/06455523222946a07e7cd5a76532c0a6?s=30&d=identicon&r=G"
-          ]
-        }
+      describe '#body' do
 
         it 'returns a string' do
           subject.body.should be_a(String)
@@ -76,7 +76,6 @@ module Reduction
           let(:url) { 'http://www.nytimes.com/2008/10/07/health/nutrition/07recipehealth.html' }
 
           it 'preserves those elements' do
-            pending 'upgrade to VCR 2.0'
             subject.body.should include('You may be familiar with Spanakopita')
             subject.body.should include('4 ounces feta cheese')
             subject.body.should include('for 10 to 20 minutes.')
@@ -106,7 +105,9 @@ module Reduction
       end
 
       describe '#images' do
-        it 
+        it 'returns all images in the distilled doc' do
+          subject.images.should == image_srcs
+        end
       end
 
     end
