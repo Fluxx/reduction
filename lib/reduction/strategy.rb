@@ -5,6 +5,9 @@ module Reduction
 
     attr_reader :doc, :url
 
+    INTERFACE_METHODS = %w[ingredients steps prep_time cook_time 
+                           total_time yields]
+
     def initialize(html_doc, url)
       @doc = Nokogiri::HTML(html_doc.to_s)
       @url = url
@@ -23,20 +26,18 @@ module Reduction
         possible_class.is_a?(Class) && possible_class < self
       end
     end
-
-    %w[
-      title
-      ingredients
-      steps
-      yields
-      prep_time
-      cook_time
-      total_time
-      for_url?
-    ].each do |method|
+    
+    INTERFACE_METHODS.each do |method|
       define_method method do
         raise RuntimeError, "#{method} not implemented"
       end
+    end
+
+    def body
+      INTERFACE_METHODS.map do |method|
+        key = method.split('_').map(&:capitalize).join(' ')
+        "#{key}: #{self.send(method)}"
+      end.join("\n")
     end
 
     private

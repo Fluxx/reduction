@@ -11,7 +11,7 @@ module Reduction
     class General < Strategy
 
       def self.for_url?(url)
-        true
+        !!(url.to_s.match(/^https?:\/\//))
       end
 
       # Custom version of the whitewash scrubber that basically does the same

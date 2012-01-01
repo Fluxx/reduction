@@ -18,8 +18,8 @@ describe Reduction do
   		described_class.supports?('http://www.example.com').should be_true
   	end
 
-  	it 'returns false if no URL matches' do
-  		described_class.supports?('http://www.google.com').should be_false
+  	it 'suport any arbitrary URL' do
+  		described_class.supports?('http://www.google.com').should be_true
   	end
 
   	it 'returns false for missing or incorrectly formatted URLs' do
