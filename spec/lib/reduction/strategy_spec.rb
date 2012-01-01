@@ -14,6 +14,16 @@ module Reduction
       described_class.priority.should == 1
     end
 
+    describe '#url' do
+      it 'is the URL passed in to the contructor' do
+        subject.url.should == page_url
+      end
+
+      it 'is aliased to source_url' do
+        subject.source_url.should == subject.url
+      end
+    end
+
     describe '#doc' do
 
       it 'is a nokogiri doc' do

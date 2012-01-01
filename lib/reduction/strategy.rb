@@ -44,6 +44,10 @@ module Reduction
       end.join("\n")
     end
 
+    def source_url
+      @url
+    end
+
     private
 
     def absolute_img_srcs_from(images)
