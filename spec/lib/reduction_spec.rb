@@ -29,4 +29,29 @@ describe Reduction do
   	end
 
   end
+
+  describe '.reduce' do
+    let(:url) { 'http://www.google.com' }
+    let(:html) { 'html' }
+    let(:supporting) { mock(:strategy) }
+
+    before(:each) { described_class::Strategy.stub(for_url: supporting) }
+
+    it 'returns an instance of the strategy for the URL' do
+      supporting.should_receive(:new).with(html, url).and_return(:strat)
+      described_class.reduce(html, url).should == :strat
+    end
+
+    context 'when no strategy exists' do
+      before(:each) { described_class::Strategy.stub(for_url: nil) }
+
+      it 'raises an unsupported URI exception' do
+        expect {
+          described_class.reduce(html, url)  
+        }.to raise_error(described_class::UnsupportedURI)
+      end
+    end
+
+  end
+
 end

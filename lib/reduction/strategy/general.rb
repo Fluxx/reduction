@@ -14,6 +14,10 @@ module Reduction
         !!(url.to_s.match(/^https?:\/\//))
       end
 
+      def self.priority
+        100
+      end
+
       # Custom version of the whitewash scrubber that basically does the same
       # thing, but preserves hrefs in <a> tags and srcs.
       class Scrubber < Loofah::Scrubbers::Whitewash

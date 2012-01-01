@@ -14,7 +14,7 @@ module Reduction
     end
 
     def self.all
-      subclasses
+      subclasses.sort_by(&:priority)
     end
 
     def self.for_url(url)
@@ -25,6 +25,10 @@ module Reduction
       constants.map { |c| const_get(c) }.select do |possible_class|
         possible_class.is_a?(Class) && possible_class < self
       end
+    end
+
+    def self.priority
+      1
     end
     
     INTERFACE_METHODS.each do |method|

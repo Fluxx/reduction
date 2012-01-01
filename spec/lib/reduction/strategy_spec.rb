@@ -10,6 +10,10 @@ module Reduction
 
     METHODS = %w[title ingredients steps yields prep_time cook_time total_time for_url?]
 
+    it 'has a high priority' do
+      described_class.priority.should == 1
+    end
+
     describe '#doc' do
 
       it 'is a nokogiri doc' do
@@ -54,7 +58,15 @@ BODY
     describe '.all' do
 
       it 'returns all subclasses inside the Strategy namespace' do
-        described_class.subclasses.should == described_class.all
+        described_class.subclasses.should =~ described_class.all
+      end
+
+      it 'orders the subclasses by priority' do
+        described_class.all.should_not be_empty
+        described_class.all.inject(0) do |priority, strategy|
+          strategy.priority.should be >= priority
+          strategy.priority
+        end
       end
 
     end
