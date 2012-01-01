@@ -28,7 +28,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('ruby-debug19')
   s.add_development_dependency('rb-fsevent')
   s.add_development_dependency('growl')
-  s.add_development_dependency('vcr')
+  s.add_development_dependency('vcr', '>= 2.0.rc1')
   s.add_development_dependency('fakeweb')
   s.add_development_dependency('shotgun')
   s.add_development_dependency('compass')
