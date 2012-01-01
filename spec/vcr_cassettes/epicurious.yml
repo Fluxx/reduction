@@ -4270,16 +4270,16 @@
       cache-control:
       - private, max-age=600
       expires:
-      - Mon, 26 Dec 2011 20:35:44 GMT
+      - Sun, 01 Jan 2012 00:09:49 GMT
       date:
-      - Mon, 26 Dec 2011 20:25:44 GMT
+      - Sat, 31 Dec 2011 23:59:49 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - mobify=0; expires=Mon, 26-Dec-2011 22:25:44 GMT; domain=epicurious.com
+      - mobify=0; expires=Sun, 01-Jan-2012 01:59:49 GMT; domain=epicurious.com
     body: ! "\n\n\n\n\n\n\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n
       \   \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html xmlns=\"http://www.w3.org/1999/xhtml\"
       xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope
@@ -4319,7 +4319,7 @@
       \   CNP.ecom.start({host: \"magazine.epicurious.com\", cnd: false});\n</script>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
       \   \n    \n    \n    \n    \n    \n    \n    \n\n    \n        \n        \n
       \           <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.init({site:'epi.dart',
-      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Salad&Healthy&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
+      zone: 'recipedetail;', kws:[ \"Small+Group\",\"Entertaining\",\"Spring\",\"recipes\",\"Blue+Cheese\",\"rid=364872&Cheese&Small+Group&Main+Course&Chef&Bacon&Tomato&Quick+&+Easy&Blue+Cheese&Avocado&Entertaining&Dinner&Lunch&American&Lettuce&Spring&Summer&Healthy&Salad&ad=N&recipes&food&views&Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"Bacon\",\"Main+Course\",\"Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872\",\"ad=N\",\"Lettuce\",\"views\",\"Healthy\",\"Chef\",\"Summer\",\"food\",\"Salad\",\"Lunch\",\"Dinner\",\"American\",\"Tomato\",\"Cheese\",\"Avocado\",\"rid=364872\",\"Quick+&+Easy\"],
       charmap : {}, embed: true});\n    //-->\n    </script>\n        \n    \n\n\n\n<script
       type=\"text/javascript\" src=\"/rd_scripts/popMaster.js\"></script>\n<script
       type=\"text/javascript\" src=\"/rd_scripts/subscription.js\"></script>\n<script
@@ -4889,8 +4889,8 @@
       \           <div class=\"module\">\n                <div class=\"widget\" id=\"ad_widget\">\n
       \                   <h2>Advertising</h2>\n                    <div id=\"ads-a\">\n
       \                          \n\n\n\n\n\n\n\n\n\n\n\n    \n\n\n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n    \n        <div id=\"ad1119278028_300x250_frame\" class=\"displayAd\"></div>\n
-      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad1119278028_',
+      \   \n    \n        <div id=\"ad607007430_300x250_frame\" class=\"displayAd\"></div>\n
+      \   <script type=\"text/javascript\">\n    //<!--\n        \n        CN.dart.call('ad607007430_',
       {sz:'300x250', kws:[\"top\"]});\n    //-->\n    </script>\n    \n\n\n                    </div>\n
       \               </div>\n            </div>\n\n\n<div id=\"eCookbooks\" class=\"modular
       content_unit\">\r\n    <h2>recommended eCookbooks</h2>\r\n    <div id=\"see-how-rr\">\r\n
@@ -4977,21 +4977,22 @@
       id=\"rotd_share\">share</span>\n\n\t\t\t\t<a href=\"http://feeds.epicurious.com/newrecipes\"
       id=\"rotd_rss\" target=\"_blank\"></a>\n\n\t\t\t\t<a href=\"http://apps.facebook.com/recipeday/?action=start&&_fb_fromhash=012a8d1f39b37a2e4ca768185653aba4\"
       id=\"rotd_fb\" target=\"_blank\"></a>\n\t\t\t\t\n                <div id=\"recipe_of_the_day_content\">\n\n
-      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/369112\"><img
-      src=\"/images/recipesmenus/2011/2011_december/369112_116.jpg\" alt=\"Five-Spice
-      Pecan\" /></a>\n\n                    <div id=\"rotd_details\">\n                        <h3><a
-      href=\"/recipes/food/views/369112\">Five-Spice Pecan</a></h3>\n                        <p>SELF,
-      December 2011</p>\n                    </div>\n                        <div
-      class=\"clear\"></div>\n                </div>\n            </div>\n\n\n\n<div
-      id=\"product-widget\" class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
+      \                   <a id=\"rotd_linkable_image\" href=\"/recipes/food/views/368291\"><img
+      src=\"/images/recipesmenus/2011/2011_november/368291_116.jpg\" alt=\"Citrus
+      Salad with Mint Sugar\" /></a>\n\n                    <div id=\"rotd_details\">\n
+      \                       <h3><a href=\"/recipes/food/views/368291\">Citrus Salad
+      with Mint Sugar</a></h3>\n                        <p>Bon App&eacute;tit, November
+      2011</p>\n                    </div>\n                        <div class=\"clear\"></div>\n
+      \               </div>\n            </div>\n\n\n\n<div id=\"product-widget\"
+      class=\"modular content_unit dropshadowed\">\n    <a href=\"http://shop.epicurious.com\"
       id=\"product-widget-see-store\" target=\"_blank\"><h2>popular now</h2></a>\n\n
       \   <div id=\"product-widget-carousel\" class=\"jcarousel-skin-epi\">\n        <ul></ul>\n
       \   </div>\n</div>\n\n\n\n            <div class=\"module\">\n                <div
       class=\"widget\" id=\"ad_widget\">\n                    <h2>Advertising</h2>\n
       \                   <div id=\"ads-a\">\n                           \n\n\n\n\n\n\n\n\n\n\n\n
-      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad2088989246_300x250_frame\"
+      \   \n\n\n\n\n\n\n\n\n\n\n\n\n\n    \n    \n        <div id=\"ad1509963650_300x250_frame\"
       class=\"displayAd\"></div>\n    <script type=\"text/javascript\">\n    //<!--\n
-      \       \n        CN.dart.call('ad2088989246_', {sz:'300x250', kws:[\"bottom\"]});\n
+      \       \n        CN.dart.call('ad1509963650_', {sz:'300x250', kws:[\"bottom\"]});\n
       \   //-->\n    </script>\n    \n\n\n                    </div>\n                </div>\n
       \           </div>\n\n\n\n\n\n\n    <div id=\"poll_booth_module\" class=\"modular
       content_unit dropshadowed hslider\">\n\n        <img class=\"poll_hed\" src=\"/rd_images/poll/epi_poll_hed.jpg\"

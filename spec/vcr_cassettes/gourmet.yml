@@ -17,11 +17,11 @@
       content-type:
       - text/html; charset=ISO-8859-1
       cache-control:
-      - private, max-age=600
+      - private, max-age=599
       expires:
-      - Mon, 26 Dec 2011 20:36:09 GMT
+      - Sun, 01 Jan 2012 00:10:18 GMT
       date:
-      - Mon, 26 Dec 2011 20:26:09 GMT
+      - Sun, 01 Jan 2012 00:00:19 GMT
       transfer-encoding:
       - chunked
       connection:

@@ -3028,11 +3028,11 @@
       x-powered-by:
       - Phusion Passenger (mod_rails/mod_rack) 3.0.7
       etag:
-      - ! '"fb133e12f9a6a2bf1af3869cc4fb4c8c"'
+      - ! '"8bf213c914c70e6f7ea4095f4e228c45"'
       x-ua-compatible:
       - IE=Edge,chrome=1
       x-runtime:
-      - '1.242309'
+      - '0.485021'
       status:
       - '200'
       cneonction:
@@ -3041,19 +3041,17 @@
       - text/html; charset=utf-8
       cache-control:
       - private, must-revalidate, max-age=0
-      expires:
-      - Mon, 26 Dec 2011 20:25:38 GMT
       date:
-      - Mon, 26 Dec 2011 20:25:38 GMT
+      - Sat, 31 Dec 2011 23:59:43 GMT
       transfer-encoding:
       - chunked
       connection:
       - keep-alive
       - Transfer-Encoding
       set-cookie:
-      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Mon, 09-Jan-2012
-        20:25:37 GMT
-      - _chow_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiIlMTM3Yjk2ZmMwZjU1MmRiMzA5NTE3MjYzYTVmODVmNmZJIhBfY3NyZl90b2tlbgY7AEZJIjF4QkhOTXdnVFMwdmFhNXVTNXV6Y1lQckp4c25UOGtkRGJVMllPc0RxQ3RvPQY7AEY%3D--44edb0bf470d38a15bdfe30dc6dd273205db9c73;
+      - recent_viewed_recipes=29576; domain=.chow.com; path=/; expires=Sat, 14-Jan-2012
+        23:59:42 GMT
+      - _chow_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRiIlYWVhNzMwYWUwODNkYTAyY2U0MmQ1NTlmNmJkMWY3MDRJIhBfY3NyZl90b2tlbgY7AEZJIjF1eTV3UWlnTXE1S29qZ3BFM0Vhc2ZUWTY4WS8zNnBMSUNRWUZ0bEw3akFrPQY7AEY%3D--9ec7b9f66163edb4a861b5a2b84bbec0b78c1967;
         domain=.chow.com; path=/; HttpOnly
     body: ! "\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
       xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\"
@@ -3150,12 +3148,12 @@
       href=\"http://www.chow.com/recipesmenus/christmas-and-hanukkah-recipes\" class=\"\">holiday</a></li>\n
       \               </ul> \n    \t</div>\n\n</div> <div id=\"holiday_eyebrow\">\n
       \ <div id=\"holiday_eyebrow_content\">\n   <a class=\"holiday_eyebrow_link\"
+      href=\"http://www.chow.com/food-news/101198/how-to-make-the-perfect-jell-o-shot/\"><span
+      class=\"chevron\">»</span> How to Make the Perfect Jell-O Shot</a>\n   <a class=\"holiday_eyebrow_link\"
       href=\"http://www.chow.com/food-news/100585/our-2011-trend-report-is-better-than-yours/\"><span
       class=\"chevron\">»</span> CHOW 2011 Trend Report</a>\n   <a class=\"holiday_eyebrow_link\"
       href=\"http://www.chow.com/recipesmenus/cocktail-party-recipes-and-tips\"><span
       class=\"chevron\">»</span> Cocktail Party Recipes & Tips</a>\n   <a class=\"holiday_eyebrow_link\"
-      href=\"http://www.chow.com/food-news/97848/how-we-made-the-turducken-of-cheese-balls/\"><span
-      class=\"chevron\">»</span> The Turducken of Cheese Balls</a>\n   <a class=\"holiday_eyebrow_link\"
       href=\"http://www.chow.com/food-news/100426/drinks-from-san-francisco-s-sleazy-past/\"><span
       class=\"chevron\">»</span> Drinks from San Francisco’s Sleazy Past</a>\n    </div>\n</div>\n\n\n
       \ <div id=\"mantle_skin\">\n  \n\n    <div id=\"leaderboard_wrapper\">\n      <div
@@ -3427,7 +3425,7 @@
       action=\"/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars/reviews.js\"
       class=\"new_review\" data-remote=\"true\" id=\"review_form\" method=\"post\"><div
       style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\"
-      value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"xBHNMwgTS0vaa5uS5uzcYPrJxsnT8kdDbU2YOsDqCto=\"
+      value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"uy5wQigMq5KojgpE3EasfTY68Y/36pLICQYFtlL7jAk=\"
       /></div>\n\n    <div class=\"review_box new_review clearfix\">\n      <span
       class=\"review_box_tail review_graphic\"></span>\n\n      <div class=\"instructions\">\n
       \       <label class=\"bold f11 fl pr10 caps\" for=\"review_body\">Review &amp;
@@ -3514,7 +3512,7 @@
       data-submit-btn-id=\"getNewsForm_submit\" data-submit-handler=\"newsletterSignup.submit_sidebar_form()\"
       id=\"getNewsForm\" method=\"post\" name=\"getNewsForm\"><div style=\"margin:0;padding:0;display:inline\"><input
       name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\"
-      type=\"hidden\" value=\"xBHNMwgTS0vaa5uS5uzcYPrJxsnT8kdDbU2YOsDqCto=\" /></div>\n
+      type=\"hidden\" value=\"uy5wQigMq5KojgpE3EasfTY68Y/36pLICQYFtlL7jAk=\" /></div>\n
       \                   <input id=\"newsEmail\" class=\"validate_email has_default_text\"
       data-insert-error-after=\"getNewsForm_submit\" type=\"text\" data-default-text=\"Email
       address\" value=\"Email address\" />\n                    <input type=\"submit\"
@@ -3615,31 +3613,31 @@
       class=\"chevron\">&raquo;</span> Salted Peanut Toffee Cookies</a></li>\n      </ul>\n
       \ </div>\n    \n    <div id=\"ft_col2\">\n        <ul class=\"footer_column\">\n
       \     <li class=\"col_heading\"><a href=\"http://chowhound.chow.com/boards\"><span
-      class=\"chevron\">&raquo;</span> Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/824008\"><span
-      class=\"chevron\">&raquo;</span> Knive set for non foodie MIL?</a></li>\n      <li><a
-      href=\"http://chowhound.chow.com/topics/824726\"><span class=\"chevron\">&raquo;</span>
-      Top Chef Really Important Things To Do Before You Start the Show</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/825021\"><span class=\"chevron\">&raquo;</span>
-      What to do with CSA veggies?</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/825026\"><span
-      class=\"chevron\">&raquo;</span> Cleveland-area CSA experiences?</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/825011\"><span class=\"chevron\">&raquo;</span>
-      Mercer Street Grill in Hightstown - anyone try it yet? (with fun backstory!)</a></li>\n
-      \     <li><a href=\"http://chowhound.chow.com/topics/824975\"><span class=\"chevron\">&raquo;</span>
-      any ideas for smoking something new/unusual?</a></li>\n      </ul>\n  </div>\n\n
-      \ <div id=\"ft_col3\">\n    <ul class=\"footer_column\">\n      <li class=\"col_heading\"><a
-      href=\"http://www.chow.com/food-news/\"><span class=\"chevron\">&raquo;</span>
-      Stories</a></li>\n      <li><a href=\"/food-news/100992/new-siggis-ripoff-yogurt/\"><span
-      class=\"chevron\">&raquo;</span> New Siggi's Ripoff Yogurt</a></li>\n      <li><a
-      href=\"/food-news/101989/howd-those-2011-predictions-turn-out/\"><span class=\"chevron\">&raquo;</span>
-      How'd Those 2011 Predictions Turn Out?</a></li>\n      <li><a href=\"/food-news/101304/tasting-for-chemicals-in-meat/\"><span
-      class=\"chevron\">&raquo;</span> Taste Test: Chemicals in Factory-Farmed Meat</a></li>\n
-      \     <li><a href=\"/food-news/101351/the-best-new-spirits-of-2011/\"><span
-      class=\"chevron\">&raquo;</span> The Best New Spirits of 2011</a></li>\n      <li><a
-      href=\"/food-news/101760/the-most-obnoxious-chefs-of-2011/\"><span class=\"chevron\">&raquo;</span>
-      The Most Obnoxious Chefs of 2011</a></li>\n      <li><a href=\"/food-news/100985/new-vlasics-artisanal-washing/\"><span
-      class=\"chevron\">&raquo;</span> New Vlasics: Artisanal-Washing?</a></li>\n
-      \     </ul>\n  </div>\n\n  <div id=\"ft_col4\">\n    <ul class=\"footer_column
-      last\">\n      <li class=\"col_heading rc-tr\"><a href=\"http://www.chow.com/videos\"><span
+      class=\"chevron\">&raquo;</span> Discussion</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/825217\"><span
+      class=\"chevron\">&raquo;</span> Is Shanghai #1 Seafood Village the SGV's Next
+      Great Chinese Restaurant?</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/392056\"><span
+      class=\"chevron\">&raquo;</span> Knife Sharpening in Rye Brook area</a></li>\n
+      \     <li><a href=\"http://chowhound.chow.com/topics/747413\"><span class=\"chevron\">&raquo;</span>
+      Judy Fu Snappy Dragon</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/825660\"><span
+      class=\"chevron\">&raquo;</span> good eats ideas for La Porte, Seabrook area</a></li>\n
+      \     <li><a href=\"http://chowhound.chow.com/topics/825886\"><span class=\"chevron\">&raquo;</span>
+      Put on yer reading glasses! It's Kukubura's trip report! (Mr. B's, Commander's,
+      Gal's, Dante's, Dizzy's, Green Goddess, more...)</a></li>\n      <li><a href=\"http://chowhound.chow.com/topics/825731\"><span
+      class=\"chevron\">&raquo;</span> Trip Report - Julian Serrano, Delmonico, LOS,
+      Beijing Noodles, Bartolotta, Milos, Le Cirque, China Poblano</a></li>\n      </ul>\n
+      \ </div>\n\n  <div id=\"ft_col3\">\n    <ul class=\"footer_column\">\n      <li
+      class=\"col_heading\"><a href=\"http://www.chow.com/food-news/\"><span class=\"chevron\">&raquo;</span>
+      Stories</a></li>\n      <li><a href=\"/food-news/101453/hydrating-foods/\"><span
+      class=\"chevron\">&raquo;</span> Hydrating Foods</a></li>\n      <li><a href=\"/food-news/101958/the-skinny-on-new-neuro-flavors/\"><span
+      class=\"chevron\">&raquo;</span> The Skinny on New Neuro Flavors</a></li>\n
+      \     <li><a href=\"/food-news/101896/the-guy-fieri-drinking-game/\"><span class=\"chevron\">&raquo;</span>
+      The Guy Fieri Drinking Game</a></li>\n      <li><a href=\"/food-news/84902/nonalcoholic-cocktails/\"><span
+      class=\"chevron\">&raquo;</span> Nonalcoholic Cocktails</a></li>\n      <li><a
+      href=\"/food-news/101000/scary-shot-glass-product/\"><span class=\"chevron\">&raquo;</span>
+      Scary Shot Glass Product</a></li>\n      <li><a href=\"/food-news/101214/new-year-s-hangover-brunch/\"><span
+      class=\"chevron\">&raquo;</span> New Year's Hangover Brunch</a></li>\n      </ul>\n
+      \ </div>\n\n  <div id=\"ft_col4\">\n    <ul class=\"footer_column last\">\n
+      \     <li class=\"col_heading rc-tr\"><a href=\"http://www.chow.com/videos\"><span
       class=\"chevron\">&raquo;</span> Videos</a></li>\n      <li><a href=\"/videos/show/chow-tips/101198/how-to-make-the-perfect-jell-o-shot\"><span
       class=\"chevron\">&raquo;</span> How to Make the Perfect Jell-O Shot</a></li>\n
       \     <li><a href=\"/videos/show/chow-tips/99956/how-to-get-the-perfect-cake-slice\"><span
@@ -3846,7 +3844,7 @@
       = {\"ptid\":9910,\"onid\":\"12711\",\"siteId\":\"103\",\"cval\":\"29576;Chocolate-Dipped
       Vanilla Ice Cream Bars Recipe ;Sweet/Dessert\",\"ctype\":\"cw_recipes_show\",\"asid\":29576,\"astid\":485};
       DW.clear(); //DW.trackClicks();</script>\n<noscript id=\"dw_js_noscript\"><img
-      src=\"http://dw.com.com/clear/c.gif?ptid=9910&onid=12711&siteId=103&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ctype=cw_recipes_show&asid=29576&astid=485&sid=103&ts=1324931138\"
+      src=\"http://dw.com.com/clear/c.gif?ptid=9910&onid=12711&siteId=103&cval=29576%3BChocolate-Dipped+Vanilla+Ice+Cream+Bars+Recipe+%3BSweet%2FDessert&ctype=cw_recipes_show&asid=29576&astid=485&sid=103&ts=1325375983\"
       id=\"dw_clear_gif\" width=\"1\" height=\"1\" style=\"display:none\"/></noscript>\n
       \ <script type=\"text/javascript\">\n    user_id      = null\n    viewing_self
       = false\n    nav          = 'recipes'\n    action       = 'show'\n  </script>\n\n\n\n<script
@@ -3878,6 +3876,6 @@
       = true;\n        ce.src = 'http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/3463.js';\n
       \       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ce,
       s);\n      })();\n    </script>\n<script type=\"text/javascript\">if (!NREUMQ.f)
-      NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nif(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};\nNREUMQ.push([\"nrf2\",\"beacon-1.newrelic.com\",\"6a6c870add\",179693,\"cg5XEhZeVAkGQR5KBlIISQMXHksNDEQ=\",0,1236,new
+      NREUMQ.f=function() {\nNREUMQ.push([\"load\",new Date().getTime()]);\nvar e=document.createElement(\"script\");\ne.type=\"text/javascript\";e.async=true;e.src=\"https://d1ros97qkrwjf5.cloudfront.net/28/eum/rum-staging.js\";\ndocument.body.appendChild(e);\nif(NREUMQ.a)NREUMQ.a();\n};\nif(window.onload!==NREUMQ.f){NREUMQ.a=window.onload;window.onload=NREUMQ.f;};\nNREUMQ.push([\"nrf2\",\"beacon-1.newrelic.com\",\"6a6c870add\",179693,\"cg5XEhZeVAkGQR5KBlIISQMXHksNDEQ=\",0,482,new
       Date().getTime()])</script></body>\n</html>\n"
     http_version: '1.1'
