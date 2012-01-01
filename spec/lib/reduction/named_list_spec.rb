@@ -79,6 +79,19 @@ module Reduction
         subject[1].should == ['Item 3', 'Item 4']
         subject[2].should == ['bogus']
       end
+
+      context 'when there are different types of title elements' do
+        before(:each) do
+          container.at('h4').replace("<h3>An H3 title</h3>")
+        end
+
+        subject { described_class.from_node_set(nodeset, :h4, :h3) }
+
+        it 'finds them by passing extra title element arguments' do
+          subject.map(&:name).should == ['An H3 title', 'Title 2']
+        end
+
+      end
     end
 
     describe 'json serialization' do

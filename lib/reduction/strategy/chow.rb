@@ -20,7 +20,7 @@ module Reduction
       end
 
       def steps
-        NamedList.from_node_set(steps_elements, :strong)
+        NamedList.from_node_set(steps_elements, :strong, :p)
       end
 
       def yields

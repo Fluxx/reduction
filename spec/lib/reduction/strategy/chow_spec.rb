@@ -116,7 +116,8 @@ module Reduction
         end
 
         it_should_find 'images', [
-          "http://www.chow.com/assets/2011/04/29539_pavlova_lemon_curd_290.jpg",
+          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29539_pavlova_lemon_curd_620.jpg",
+          "http://www.chow.com/images/green_checkmark.png",
           "http://www.chow.com/assets/2011/04/lemoncurd_1.jpg",
           "http://www.chow.com/assets/2011/04/lemoncurd_2.jpg",
           "http://www.chow.com/assets/2011/04/lemoncurd_3.jpg",
@@ -164,8 +165,8 @@ module Reduction
         end
 
         it_should_find 'images', [
-          "http://www.chow.com/assets/2010/10/28966_apple_honey_cakes_3_290.jpg",
-          "http://www.chow.com/uploads/6/9/6/100696_chim_tiny.jpg"
+          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2010/10/28966_apple_honey_cakes_3_620.jpg",
+          "http://www.chow.com/images/green_checkmark.png"
         ]
 
       end

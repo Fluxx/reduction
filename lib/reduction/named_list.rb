@@ -42,12 +42,12 @@ module Reduction
       end
     end
 
-    def self.from_node_set(nodeset, title_elem)
+    def self.from_node_set(nodeset, *title_elements)
       stack = Array.new
 
       nodeset.each do |elem|
         case elem.name.to_sym
-        when title_elem.to_sym
+        when *title_elements.map(&:to_sym)
           stack.push(new.tap { |l| l.name = elem.text.collapse_whitespace })
         when :ul, :ol
           if (stack.last).is_a?(self) && stack.last.empty?
