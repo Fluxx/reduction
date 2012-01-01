@@ -39,6 +39,10 @@ module Reduction
         recipe('h5[2] span[3]').text
       end
 
+      def total_time
+        recipe('h5[3] span[3]').text.collapse_whitespace
+      end
+
       def notes
       end
 

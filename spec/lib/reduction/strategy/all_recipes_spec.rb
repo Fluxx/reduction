@@ -52,6 +52,8 @@ module Reduction
 
       it_should_find 'cook_time', '45 Min'
 
+      it_should_find 'total_time', '3 Hrs'
+
       it_should_find 'images', [
         'http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/194206.jpg'
       ]
