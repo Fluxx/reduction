@@ -35,6 +35,9 @@ module Reduction
         recipe('#recipe-meta dd.cookTime').text.collapse_whitespace
       end
 
+      def total_time
+      end
+
       def notes
       end
 

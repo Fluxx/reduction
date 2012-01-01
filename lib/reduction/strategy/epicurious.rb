@@ -50,6 +50,9 @@ module Reduction
       def cook_time
       end
 
+      def total_time
+      end
+
       def notes
       end
 

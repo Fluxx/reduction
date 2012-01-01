@@ -22,14 +22,19 @@ module Reduction
       constants.map { |c| const_get(c) }.select { |klass| klass < self }
     end
 
-    %w[title ingredients steps yields prep_time cook_time for_url?].each do |method|
+    %w[
+      title
+      ingredients
+      steps
+      yields
+      prep_time
+      cook_time
+      total_time
+      for_url?
+    ].each do |method|
       define_method method do
         raise RuntimeError, "#{method} not implemented"
       end
-    end
-
-    def total_time
-      "Prep Time: #{prep_time}. Cook Time: #{cook_time}"
     end
 
     private
