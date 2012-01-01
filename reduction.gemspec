@@ -19,6 +19,8 @@ Gem::Specification.new do |s|
   
   s.add_dependency('nokogiri', '> 1.0')
   s.add_dependency('multi_json')
+  s.add_dependency('distillery')
+  s.add_dependency('loofah')
   
   s.add_development_dependency('rspec', '> 2.0')
   s.add_development_dependency('guard')

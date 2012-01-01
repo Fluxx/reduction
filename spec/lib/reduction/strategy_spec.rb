@@ -48,8 +48,8 @@ module Reduction
         described_class.for_url(url).should == supported
       end
 
-      it 'returns nil if the URL is not supported by any strategy' do
-        described_class.for_url('junk').should be_nil
+      it 'returns the general strategy if the URL is not supported by any strategy' do
+        described_class.for_url('junk').should == Reduction::Strategy::General
       end
 
     end

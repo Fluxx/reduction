@@ -19,7 +19,9 @@ module Reduction
     end
 
     def self.subclasses
-      constants.map { |c| const_get(c) }.select { |klass| klass < self }
+      constants.map { |c| const_get(c) }.select do |possible_class|
+        possible_class.is_a?(Class) && possible_class < self
+      end
     end
 
     %w[

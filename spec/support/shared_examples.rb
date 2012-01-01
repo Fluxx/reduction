@@ -1,6 +1,6 @@
 shared_examples_for "a strategy" do
 
-  string_methods = %w[title yields notes prep_time cook_time total_time]
+  string_methods = %w[title yields notes prep_time cook_time total_time body]
   list_methods = %w[ingredients steps]
   array_methods = %w[images]
   all_methods = string_methods + list_methods + array_methods
@@ -50,7 +50,8 @@ shared_examples_for "a strategy" do
 end
 
 
-%w[title ingredients steps yields prep_time cook_time total_time images notes].each do |method|
+%w[title ingredients steps yields prep_time cook_time
+   total_time images notes body].each do |method|
   shared_examples_for "#{method}" do |property|
     it "should return the correct #{method}" do
       subject.send(method).should == property

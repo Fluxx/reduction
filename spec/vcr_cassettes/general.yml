@@ -1,0 +1,599 @@
+---
+- !ruby/struct:VCR::HTTPInteraction
+  request: !ruby/struct:VCR::Request
+    method: :get
+    uri: http://allthingssimpleblog.com:80/2011/11/22/earl-grey-latte-poor-mans-milk-foam/
+    body: !!null 
+    headers: !!null 
+  response: !ruby/struct:VCR::Response
+    status: !ruby/struct:VCR::ResponseStatus
+      code: 200
+      message: OK
+    headers:
+      server:
+      - nginx
+      date:
+      - Sun, 01 Jan 2012 02:37:51 GMT
+      content-type:
+      - text/html; charset=UTF-8
+      transfer-encoding:
+      - chunked
+      vary:
+      - Accept-Encoding
+      - Cookie
+      x-hacker:
+      - If you're reading this, you should visit automattic.com/jobs and apply to
+        join the fun, mention this header.
+      x-pingback:
+      - http://allthingssimpleblog.com/xmlrpc.php
+      link:
+      - <http://wp.me/pTNgr-vz>; rel=shortlink
+    body: ! "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n<html
+      xmlns=\"http://www.w3.org/1999/xhtml\" dir=\"ltr\" lang=\"en\">\n<head profile=\"http://gmpg.org/xfn/11\">\n\n<meta
+      http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\n<title>Earl
+      Grey Latte + Poor Man&#8217;s Milk Foam  &laquo; All Things Simple</title>\n<link
+      rel=\"stylesheet\" type=\"text/css\" href=\"http://s0.wp.com/wp-content/themes/pub/bueno/style.css?m=1323834099g\"
+      media=\"screen\" />\n<link rel=\"pingback\" href=\"http://allthingssimpleblog.com/xmlrpc.php\"
+      />\n\n\t<!--[if IE 6]>\n\t\t<script type=\"text/javascript\" src=\"http://s0.wp.com/wp-content/themes/pub/bueno/includes/js/pngfix.js?m=1315596937g\"></script>\n\t\t<script
+      type=\"text/javascript\" src=\"http://s0.wp.com/wp-content/themes/pub/bueno/includes/js/menu.js?m=1323834333g\"></script>\n\t\t<link
+      rel=\"stylesheet\" type=\"text/css\" media=\"all\" href=\"http://s0.wp.com/wp-content/themes/pub/bueno/css/ie6.css?m=1306999099g\"
+      />\n    <![endif]-->\n\n\t<!--[if IE 7]>\n\t\t<link rel=\"stylesheet\" type=\"text/css\"
+      media=\"all\" href=\"http://s0.wp.com/wp-content/themes/pub/bueno/css/ie7.css?m=1306999099g\"
+      />\n\t<![endif]-->\n\n<link href=\"http://s0.wp.com/wp-content/themes/pub/bueno/styles/default.css?m=1323834099g\"
+      rel=\"stylesheet\" type=\"text/css\" />\n\t\t<script src='http://wordpress.com/remote-login.php?action=js&amp;host=allthingssimpleblog.com&amp;id=13297415&amp;t=1325385471&amp;back=allthingssimpleblog.com%2F2011%2F11%2F22%2Fearl-grey-latte-poor-mans-milk-foam%2F'
+      type=\"text/javascript\"></script>\n\t\t<script type=\"text/javascript\">\n\t\t/*
+      <![CDATA[ */\n\t\t\tif ( 'function' === typeof WPRemoteLogin ) {\n\t\t\t\tdocument.cookie
+      = \"wordpress_test_cookie=test; path=/\";\n\t\t\t\tif ( document.cookie.match(
+      /(;|^)\\s*wordpress_test_cookie\\=/ ) ) {\n\t\t\t\t\tWPRemoteLogin();\n\t\t\t\t}\n\t\t\t}\n\t\t/*
+      ]]> */\n\t\t</script>\n\t\t<link rel=\"alternate\" type=\"application/rss+xml\"
+      title=\"All Things Simple &raquo; Feed\" href=\"http://allthingssimpleblog.com/feed/\"
+      />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"All Things
+      Simple &raquo; Comments Feed\" href=\"http://allthingssimpleblog.com/comments/feed/\"
+      />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"All Things
+      Simple &raquo; Earl Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam Comments Feed\"
+      href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/feed/\"
+      />\n<script type=\"text/javascript\">\n/* <![CDATA[ */\nfunction addLoadEvent(func){var
+      oldonload=window.onload;if(typeof window.onload!='function'){window.onload=func;}else{window.onload=function(){oldonload();func();}}}\n/*
+      ]]> */\n</script>\n<link rel=\"stylesheet\" href=\"http://s0.wp.com/wp-content/themes/h4/global.css?m=1313010128g\"
+      type=\"text/css\" />\n<link rel='stylesheet' id='loggedout-subscribe-css'  href='http://s1.wp.com/wp-content/blog-plugins/loggedout-follow/widget.css?m=1322602717g&#038;ver=20111128'
+      type='text/css' media='all' />\n<link rel='stylesheet' id='post-reactions-css'
+      \ href='http://s2.wp.com/wp-content/mu-plugins/post-flair/style.css?m=1322086815g&#038;ver=3'
+      type='text/css' media='all' />\n<script type='text/javascript' src='http://s1.wp.com/wp-includes/js/jquery/jquery.js?m=1322588680g&#038;ver=1.7.1'></script>\n<script
+      type='text/javascript' src='http://s0.wp.com/wp-content/blog-plugins/loggedout-follow/widget.js?m=1320005309g&#038;ver=20111128'></script>\n<script
+      type='text/javascript' src='http://s2.wp.com/wp-includes/js/comment-reply.js?m=1306998954g&#038;ver=3.4-alpha-19620'></script>\n<script
+      type='text/javascript' src='http://s0.wp.com/wp-content/themes/pub/bueno/includes/js/general.js?m=1315596937g&#038;ver=3.4-alpha-19620'></script>\n<script
+      type='text/javascript' src='http://s0.wp.com/wp-content/themes/pub/bueno/includes/js/superfish.js?m=1323834333g&#038;ver=3.4-alpha-19620'></script>\n<link
+      rel='stylesheet' id='highlander-comments-css'  href='http://s1.wp.com/wp-content/mu-plugins/highlander-comments/style.css?m=1323127127g&#038;ver=20110620'
+      type='text/css' media='all' />\n<!--[if lt IE 8]>\n<link rel='stylesheet' id='highlander-comments-ie7-css'
+      \ href='http://s0.wp.com/wp-content/mu-plugins/highlander-comments/style-ie7.css?m=1307172301g&#038;ver=20110606'
+      type='text/css' media='all' />\n<![endif]-->\n<link rel=\"EditURI\" type=\"application/rsd+xml\"
+      title=\"RSD\" href=\"http://lbrisbo.wordpress.com/xmlrpc.php?rsd\" />\n<link
+      rel=\"wlwmanifest\" type=\"application/wlwmanifest+xml\" href=\"http://lbrisbo.wordpress.com/wp-includes/wlwmanifest.xml\"
+      /> \n<link rel='prev' title='Kale, Italian Sausage, and Roasted Onion&nbsp;Pizza'
+      href='http://allthingssimpleblog.com/2011/11/13/kale-italian-sausage-and-roasted-onion-pizza/'
+      />\n<link rel='next' title='Emile Henry Pizza Stone&nbsp;Giveaway!' href='http://allthingssimpleblog.com/2011/11/28/emile-henry-pizza-stone-giveaway/'
+      />\n<meta name=\"generator\" content=\"WordPress.com\" />\n<link rel='canonical'
+      href='http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/'
+      />\n<link rel='shortlink' href='http://wp.me/pTNgr-vz' />\n<link rel=\"alternate\"
+      type=\"application/json+oembed\" href=\"http://public-api.wordpress.com/oembed/1.0/?format=json&url=http%3A%2F%2Fallthingssimpleblog.com%2F2011%2F11%2F22%2Fearl-grey-latte-poor-mans-milk-foam%2F&for=wpcom-auto-discovery\"
+      /><link rel=\"alternate\" type=\"application/xml+oembed\" href=\"http://public-api.wordpress.com/oembed/1.0/?format=xml&url=http%3A%2F%2Fallthingssimpleblog.com%2F2011%2F11%2F22%2Fearl-grey-latte-poor-mans-milk-foam%2F&for=wpcom-auto-discovery\"
+      /><meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\"
+      content=\"Earl Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam\" />\n<meta property=\"og:url\"
+      content=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/\"
+      />\n<meta property=\"og:description\" content=\"Greetings from Missoula, Montana,
+      where the temperature is hovering around 20 degrees! I&#039;m not sure what
+      the weather is like around the rest of the country, but I&#039;ve been drinking
+      my fair share of ...\" />\n<meta property=\"og:site_name\" content=\"All Things
+      Simple\" />\n<meta property=\"og:image\" content=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey5.jpg?w=300&amp;h=300\"
+      />\n<meta property=\"og:image\" content=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey3.jpg?w=300&amp;h=300\"
+      />\n<meta property=\"og:image\" content=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey2.jpg?w=300&amp;h=300\"
+      />\n<meta property=\"og:image\" content=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg?w=300&amp;h=300\"
+      />\n<link rel=\"shortcut icon\" type=\"image/x-icon\" href=\"http://s2.wp.com/i/favicon.ico?m=1311976024g\"
+      sizes=\"16x16 24x24 32x32 48x48\" />\n<link rel=\"icon\" type=\"image/x-icon\"
+      href=\"http://s2.wp.com/i/favicon.ico?m=1311976024g\" sizes=\"16x16 24x24 32x32
+      48x48\" />\n<link rel=\"apple-touch-icon-precomposed\" href=\"http://s0.wp.com/i/webclip.png?m=1311618117g\"
+      />\n<link rel='openid.server' href='http://lbrisbo.wordpress.com/?openidserver=1'
+      />\n<link rel='openid.delegate' href='http://lbrisbo.wordpress.com/' />\n<link
+      rel=\"search\" type=\"application/opensearchdescription+xml\" href=\"http://allthingssimpleblog.com/osd.xml\"
+      title=\"All Things Simple\" />\n<link rel=\"search\" type=\"application/opensearchdescription+xml\"
+      href=\"http://wordpress.com/opensearch.xml\" title=\"WordPress.com\" />\n\t<style
+      type=\"text/css\">\n\t/* <![CDATA[ */\n\t\t\t/* ]]> */\n\t</style>\n\t<meta
+      name=\"application-name\" content=\"All Things Simple\" /><meta name=\"msapplication-window\"
+      content=\"width=device-width;height=device-height\" /><meta name=\"msapplication-task\"
+      content=\"name=Subscribe;action-uri=http://allthingssimpleblog.com/feed/;icon-uri=http://s2.wp.com/i/favicon.ico\"
+      /><meta name=\"msapplication-task\" content=\"name=Sign up for a free blog;action-uri=http://wordpress.com/signup/;icon-uri=http://s2.wp.com/i/favicon.ico\"
+      /><meta name=\"msapplication-task\" content=\"name=WordPress.com Support;action-uri=http://support.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico\"
+      /><meta name=\"msapplication-task\" content=\"name=WordPress.com Forums;action-uri=http://forums.wordpress.com/;icon-uri=http://s2.wp.com/i/favicon.ico\"
+      />\n<script type='text/javascript' src='http://partner.googleadservices.com/gampad/google_service.js'>\n</script>\n<script
+      type='text/javascript'>\nGS_googleAddAdSenseService(\"ca-pub-3443918307802676\");\nGS_googleEnableAllServices();\n</script>\n<script
+      type='text/javascript'>\nGA_googleAddSlot(\"ca-pub-3443918307802676\", \"wpcom_sharethrough\");\n</script>\n<script
+      type='text/javascript'>\nGA_googleFetchAds();\n</script>\n\n\t<link rel=\"stylesheet\"
+      type=\"text/css\" href=\"http://s1.wp.com/?custom-css=1&#038;csblog=TNgr&#038;cscache=5&#038;csrev=94\"
+      />\n<script type=\"text/javascript\"> \n\twindow.google_analytics_uacct = \"UA-52447-2\";
+      \n</script>\n\n<script type=\"text/javascript\">\n\tvar _gaq = _gaq || [];\n\t_gaq.push(['_setAccount',
+      'UA-52447-2']);\n\t_gaq.push(['_setDomainName', 'none']);\n\t_gaq.push(['_setAllowLinker',
+      true]);\n\t_gaq.push(['_initData']);\n\t_gaq.push(['_trackPageview']);\n\n\t(function()
+      {\n\t\tvar ga = document.createElement('script'); ga.type = 'text/javascript';
+      ga.async = true;\n\t\tga.src = ('https:' == document.location.protocol ? 'https://ssl'
+      : 'http://www') + '.google-analytics.com/ga.js';\n\t\t(document.getElementsByTagName('head')[0]
+      || document.getElementsByTagName('body')[0]).appendChild(ga);\n\t})();\n</script>\n\n</head>\n\n<body
+      class=\"single single-post postid-1957 single-format-standard typekit-enabled
+      highlander-enabled highlander-light\">\n\n<div id=\"container\">\n\n\t<div id=\"navigation\">\n\n\t\t<div
+      class=\"col-full\">\n\n\t        <div id=\"description\" class=\"fl\"></div>\n\n\t
+      \       <div id=\"topsearch\" class=\"fr\">\n\t\t\t\t<div id=\"search_main\"
+      class=\"widget\">\n\n\t<h3>Search</h3>\n\n    <form method=\"get\" id=\"searchform\"
+      action=\"http://allthingssimpleblog.com\">\n        <input type=\"text\" class=\"field\"
+      name=\"s\" id=\"s\"  value=\"Search...\" onfocus=\"if (this.value == 'Search...')
+      {this.value = '';}\" onblur=\"if (this.value == '') {this.value = 'Search...';}\"
+      />\n        <input type=\"submit\" class=\"submit\" name=\"submit\" value=\"Search\"
+      />\n    </form>\n\n    <div class=\"fix\"></div>\n\n</div>\n \t\t  \t</div><!--
+      /#topsearch -->\n\n        </div><!-- /.col-full -->\n\n\t</div><!-- /#navigation
+      -->\n\n\t\t<div id=\"header\" class=\"col-full\">\n\n\t\t<div id=\"logo\" class=\"fl\">\n\n\t
+      \     \t\t      \t\t<span class=\"site-title\"><a href=\"http://allthingssimpleblog.com\">All
+      Things Simple</a></span>\n\t      \t\n\t\t</div><!-- /#logo -->\n\n\t   \t<div
+      id=\"pagenav\" class=\"nav fr\">\n\n\t\t       \t\t<ul>\n   \t\t\t\n   \t\t\t
+      \           <li class=\"b page_item current_page_item\"><a href=\"http://allthingssimpleblog.com\">Home</a></li>\n
+      \           \n\t    \t<li class=\"page_item page-item-270\"><a href=\"http://allthingssimpleblog.com/about-2/\">About&nbsp;Me</a></li>\n<li
+      class=\"page_item page-item-1296\"><a href=\"http://allthingssimpleblog.com/recipes/\">Recipes</a></li>\n\n
+      \  \t\t\t\t    \t<li class=\"rss\"><a href=\"http://allthingssimpleblog.com/feed/\">RSS</a></li>\n
+      \               \t</ul>\n\t\n\t    </div><!-- /#pagenav -->\n\n\t\t\n\t</div><!--
+      /#header -->\n    <div id=\"content\" class=\"col-full\">\n\t\t<div id=\"main\"
+      class=\"col-left\">\n\n                        \n                <div id=\"post-1957\"
+      class=\"post-1957 post type-post status-publish format-standard hentry category-recipes
+      tag-earl-grey-latte tag-london-fog tag-milk-foam-in-microwave tag-milk-foam-without-frother
+      tag-milk-foam-without-machine\">\n\n                    <h1 class=\"title\">Earl
+      Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam</h1>\n\n                    <a
+      class=\"date\" href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/\">\n
+      \                   \t<span class=\"day\">22</span>\n                    \t<span
+      class=\"month\">Nov</span>\n                    </a>\n\n                    <div
+      class=\"entry\">\n\t\t\t\t\t\t<p><a href=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey5.jpg\"><img
+      class=\"aligncenter size-full wp-image-1962\" title=\"Earl Grey5\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey5.jpg?w=490&#038;h=367\"
+      alt=\"\" width=\"490\" height=\"367\" /></a></p>\n<p>Greetings from Missoula,
+      Montana, where the temperature is hovering around 20 degrees! I&#8217;m not
+      sure what the weather is like around the rest of the country, but I&#8217;ve
+      been drinking my fair share of warm beverages. We are spending Thanksgiving
+      with Jeff&#8217;s family in Missoula. The city got some early snow this year,
+      so it&#8217;s absolutely picturesque here&#8211;complete with pristine, snow-covered
+      mountains and fragrant pine trees. It&#8217;s the one time of the year when
+      I can shamelessly rock my leggings tucked into Sorels. Don&#8217;t judge.</p>\n<p>Before
+      we left, I spent some time perfecting my Earl Grey latte aka London Fog. I had
+      my first London Fog last year at Starbucks and I just loved the concept: Earl
+      Grey tea with a hint of vanilla and sugar, topped with a bit of foamy milk.</p>\n<p><a
+      href=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey3.jpg\"><img class=\"aligncenter
+      size-full wp-image-1961\" title=\"EarlGrey3\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey3.jpg?w=490&#038;h=326\"
+      alt=\"\" width=\"490\" height=\"326\" /></a></p>\n<p>The tea is the straight
+      forward part. Brew either loose-leaf of bagged Earl Grey as you normally would.
+      Only for this drink, double the amount of tea bags or leaves you would usually
+      use. Be sure to follow the directed steeping time though, because the tea will
+      get bitter if it is allowed to sit too long. (I learned from experience) The
+      trickier part is the vanilla syrup and frothy milk. Sadly, my $1.99 Ikea handheld
+      frother bit the dust a couple weeks ago (shocker!). While I was researching
+      alternative frothing methods, I happened upon a post from <a href=\"http://www.thekitchn.com/thekitchn/tips-techniques/how-to-make-milk-foam-without-a-machine-100716\"
+      target=\"_blank\">The Kitchn about microwave-frothed milk</a>.</p>\n<p>I was
+      skeptical at first, but it really works! You basically take a jar and fill it
+      with fresh milk. Cover the jar and shake it like a maniac for about 30-40 seconds
+      until the milk is foamy and doubled in size. Take off the top of the jar and
+      microwave the milk for about 40-45 seconds. The heat of the microwave stabilizes
+      the foamy milk and makes an awesome accompaniment to tea or coffee drinks.</p>\n<p><a
+      href=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey2.jpg\"><img class=\"aligncenter
+      size-full wp-image-1960\" title=\"EarlGrey2\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey2.jpg?w=490&#038;h=326\"
+      alt=\"\" width=\"490\" height=\"326\" /></a><a href=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg\"><img
+      class=\"aligncenter size-full wp-image-1959\" title=\"EarlGrey1\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg?w=490&#038;h=326\"
+      alt=\"\" width=\"490\" height=\"326\" /></a></p>\n<p>I&#8217;ve tried this with
+      all kinds of milk&#8211;whole milk, 2% milk, nonfat milk, soy milk. The trick
+      is using very fresh milk. The older it is, the less frothy it will get. Interestingly
+      enough, I have actually had great results with the kind of soy milk that you
+      buy in cartons. I speculate that this is because the milk is not exposed to
+      air until I open it up at home. In contrast, some of the milk you buy in the
+      refrigerated section of the supermarket has been sitting around for weeks exposed
+      to air. Maybe that makes sense&#8230;maybe it doesn&#8217;t. But that&#8217;s
+      my theory and I&#8217;m sticking to it.</p>\n<p>This method will not give you
+      the most frothy, sweet foam that you can find at the coffee house, but it is
+      just enough to give your morning routine a little extra pizazz. Be sure to use
+      a large jar because the milk will expand a lot while being heated in the microwave,
+      and then deflate as it cools. I recommend you play around with different brands,
+      percentages, and types of milk to find the one that works the best for you.</p>\n<p><a
+      href=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey8.jpg\"><img class=\"aligncenter
+      size-full wp-image-1965\" title=\"Earl Grey8\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey8.jpg?w=490&#038;h=367\"
+      alt=\"\" width=\"490\" height=\"367\" /></a>I messed around with a few different
+      sweetening options, but I found a vanilla simple syrup worked the best for this
+      recipe. You can certainly use store-bought syrup if you are in a time crunch.
+      My recipe is a simple mixture of sugar, brown sugar, water, and vanilla bean.
+      I think two tablespoons of syrup per serving is a good starting place. I use
+      a little under that amount because I like my lattes less sweet, but you can
+      adjust to your tastes.</p>\n<p>Using a real vanilla bean in a simple syrup may
+      seem a little extravagant, but nothing goes to waste. After scrapping the seeds
+      out of the bean, I dry it off and bury it in a small canister of sugar. After
+      a couple weeks, the vanilla sugar will taste great in cookie recipes, coffee,
+      whipped cream, and more.</p>\n<p><a href=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey10.jpg\"><img
+      class=\"aligncenter size-full wp-image-1967\" title=\"Earl Grey10\" src=\"http://lbrisbo.files.wordpress.com/2011/11/earl-grey10.jpg?w=490&#038;h=367\"
+      alt=\"\" width=\"490\" height=\"367\" /></a></p>\n<blockquote><p><strong>Earl
+      Grey Latte<br />\n</strong> Yield: 1 serving</p>\n<ul>\n<li>1 cup strongly brewed
+      Earl Grey tea (bagged or loose-leaf)</li>\n<li>1/2 cup milk</li>\n<li>2 tablespoons
+      vanilla simple syrup (recipe below)</li>\n</ul>\n<ol>\n<li>Pour the vanilla
+      simple syrup into a mug and set mug aside.</li>\n<li>Brew Earl Grey tea using
+      double the amount of tea you would usually use. Steep for the recommended time
+      on package.</li>\n<li>While tea is steeping, pour milk into a microwave-proof
+      jar. Cover, and shake vigorously until the milk is frothy and doubled in size,
+      about 30-40 seconds.</li>\n<li>Remove the cap from the jar and heat the milk
+      in the microwave for 35-40 seconds.</li>\n<li>Pour tea into the mug and mix
+      until the simple syrup is incorporated. Using a spoon to hold back the foam
+      in the jar, pour the milk into the mug. Top the latte with the remaining foam
+      from the jar.</li>\n</ol>\n<p><strong>Vanilla Simple Syrup<br />\n</strong>Yield:
+      About 1/4 cup</p>\n<ul>\n<li>1/2 vanilla bean</li>\n<li>1/2 cup sugar</li>\n<li>1
+      tablespoon brown sugar</li>\n<li>1/2 cup water</li>\n</ul>\n<ol>\n<li>With a
+      sharp knife, split vanilla bean in half so that the beans are exposed.</li>\n<li>In
+      a small sauce pan add the sugar, brown sugar, water, and vanilla bean over medium
+      heat, stirring occasionally.</li>\n<li>Once the mixture comes to gentle boil,
+      turn the heat down to medium-low. Gently simmer the mixture until the it reduces
+      by about half, stirring occasionally, about 10-15 minutes.</li>\n<li>Allow mixture
+      to cool completely. Fish out vanilla bean, scrape out the remaining seeds with
+      the back of a knife, and add to the simple syrup.</li>\n<li>Store in an airtight
+      container for up to a week.</li>\n</ol>\n</blockquote>\n\n<div  class=\"wpadvert\"
+      style=\"text-align: center; padding: 5px; background: #; padding: 5px; margin:
+      10px auto; width: 410px;\">\n<!-- <span style=\"text-align: left; letter-spacing:
+      1px; font: 8px/1em Verdana, sans-serif; color: #ccc; text-transform: uppercase;
+      display: block; padding: 0 1px;\">Advertisement</span> -->\n<script type=\"text/javascript\">\nGA_googleAddAttr(\"AdOpt\",
+      \"1\");\nGA_googleAddAttr(\"Origin\", \"other\");\nGA_googleAddAttr(\"theme_bg\",
+      \"ffffff\"); \nGA_googleAddAttr(\"theme_border\", \"fbdddf\"); \nGA_googleAddAttr(\"theme_text\",
+      \"7a7a7a\"); \nGA_googleAddAttr(\"theme_link\", \"f3686d\"); \nGA_googleAddAttr(\"theme_url\",
+      \"fbdddf\"); \nGA_googleAddAttr(\"LangId\", \"1\");\nGA_googleAddAttr(\"Autotag\",
+      \"recipes\");\nGA_googleAddAttr(\"Autotag\", \"food\");\nGA_googleAddAttr(\"Autotag\",
+      \"cooking\");\nGA_googleAddAttr(\"Tag\", \"recipes\");\nGA_googleAddAttr(\"Tag\",
+      \"earl-grey-latte\");\nGA_googleAddAttr(\"Tag\", \"london-fog\");\nGA_googleAddAttr(\"Tag\",
+      \"milk-foam-in-microwave\");\nGA_googleAddAttr(\"Tag\", \"milk-foam-without-frother\");\nGA_googleAddAttr(\"Tag\",
+      \"milk-foam-without-machine\");\n\nGA_googleFillSlot(\"wpcom_sharethrough\");\n</script>\n</div><div
+      class=\"sharedaddy sd-like-enabled sd-sharing-enabled\"><div class=\"robots-nocontent
+      sd-block sd-social sd-social-icon-text sd-sharing\"><h3 class=\"sd-title\">Share
+      this:</h3><div class=\"sd-content\"><ul><li class=\"share-facebook\"><a rel=\"nofollow\"
+      class=\"share-facebook sd-button share-icon\" href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?share=facebook\"
+      target=\"_blank\" title=\"Share on Facebook\" id=\"sharing-facebook-1957\"><span>Facebook</span></a></li><li
+      class=\"share-twitter\"><a rel=\"nofollow\" class=\"share-twitter sd-button
+      share-icon\" href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?share=twitter\"
+      target=\"_blank\" title=\"Click to share on Twitter\" id=\"sharing-twitter-1957\"><span>Twitter</span></a></li><li
+      class=\"share-email\"><a rel=\"nofollow\" class=\"share-email sd-button share-icon\"
+      href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?share=email\"
+      target=\"_blank\" title=\"Click to email this to a friend\"><span>Email</span></a></li><li
+      class=\"share-end\"></li></ul><div class=\"sharing-clear\"></div></div></div><div
+      id=\"wpl-likebox\" class=\"sd-block sd-like\"><h3 class=\"sd-title\">Like this:</h3><div
+      class=\"sd-content\"><div id=\"wpl-button\"><a href='http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?like=1&amp;_wpnonce=7fd00ad849'
+      title='I like this post' class='like needs-login sd-button' rel='nofollow'><span>Like</span></a></div><div
+      id=\"wpl-count\" class=\"sd-like-count\"><span>3</span> bloggers like this post.</div><ul
+      id=\"wpl-avatars\" class=\"sd-like-gravatars\"><li><a href=\"http://gravatar.com/sandrasaccount\"
+      title=\"Sandra\" class=\"wpl-liker\"><img src='http://0.gravatar.com/avatar/6e680aa6d539cd762b87583cb921781c?s=30&amp;d=identicon&amp;r=G'
+      class='avatar avatar-30' alt='Sandra' width='30' height='30' /></a></li><li><a
+      href=\"http://gravatar.com/imcookingnolooking\" title=\"Belle @ Tinkeringinthekitchen\"
+      class=\"wpl-liker\"><img src='http://0.gravatar.com/avatar/06455523222946a07e7cd5a76532c0a6?s=30&amp;d=identicon&amp;r=G'
+      class='avatar avatar-30' alt='Belle @ Tinkeringinthekitchen' width='30' height='30'
+      /></a></li><li><a href=\"http://gravatar.com/tzirelchana\" title=\"tzirelchana\"
+      class=\"wpl-liker\"><img src='http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=30&amp;d=identicon&amp;r=G'
+      class='avatar avatar-30' alt='tzirelchana' width='30' height='30' /></a></li></ul></div></div></div>\t\t\t\t\t\t\t\t\t\t\t\t<p>Tags:
+      <a href=\"http://allthingssimpleblog.com/tag/earl-grey-latte/\" rel=\"tag\">Earl
+      Grey Latte</a>, <a href=\"http://allthingssimpleblog.com/tag/london-fog/\" rel=\"tag\">London
+      Fog</a>, <a href=\"http://allthingssimpleblog.com/tag/milk-foam-in-microwave/\"
+      rel=\"tag\">Milk Foam in Microwave</a>, <a href=\"http://allthingssimpleblog.com/tag/milk-foam-without-frother/\"
+      rel=\"tag\">Milk Foam Without Frother</a>, <a href=\"http://allthingssimpleblog.com/tag/milk-foam-without-machine/\"
+      rel=\"tag\">Milk Foam Without Machine</a></p>\t\t\t\t\t\t                    </div>\n\n
+      \                   <div class=\"post-meta\">\n\n                    \t<ul class=\"single-author-meta\">\n\t\t\t\t\t\t\t
+      \                   \t\t<li class=\"comments\">\n                    \t\t\t<span
+      class=\"head\">Comments</span>\n                    \t\t\t<span class=\"body\"><a
+      href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/#comments\"
+      title=\"Comment on Earl Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam\">2 Comments</a></span>\n
+      \                   \t\t</li>\n\t\t\t\t\t\t\t                    \t\t<li class=\"categories\">\n
+      \                   \t\t\t<span class=\"head\">Categories</span>\n                    \t\t\t<span
+      class=\"body\"><a href=\"http://allthingssimpleblog.com/category/recipes/\"
+      title=\"View all posts in Recipes\" rel=\"category tag\">Recipes</a></span>\n
+      \                   \t\t</li>\n                    \t\t                    \t</ul>\n\n
+      \                   \t<div class=\"fix\"></div>\n\n                    </div><!--
+      /.post-meta -->\n\n\t\t\t\t\t<div id=\"nav-below\" class=\"navigation\">\n\t\t\t\t\t\t<div
+      class=\"nav-previous\"><a href=\"http://allthingssimpleblog.com/2011/11/13/kale-italian-sausage-and-roasted-onion-pizza/\"
+      rel=\"prev\"><span class=\"meta-nav\">&larr;</span> Kale, Italian Sausage, and
+      Roasted Onion&nbsp;Pizza</a></div>\n\t\t\t\t\t\t<div class=\"nav-next\"><a href=\"http://allthingssimpleblog.com/2011/11/28/emile-henry-pizza-stone-giveaway/\"
+      rel=\"next\">Emile Henry Pizza Stone&nbsp;Giveaway! <span class=\"meta-nav\">&rarr;</span></a></div>\n\t\t\t\t\t</div><!--
+      #nav-below -->\n\n                </div><!-- /.post -->\n\n\t\t\t\t\n<!-- You
+      can start editing here. -->\n\n\t\t\t\n\t\t<div id=\"comments\">\n\n\t\t\t<h3>2
+      Responses to &#8220;Earl Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam&#8221;</h3>\n\n\t\t\t<ol
+      class=\"commentlist\">\n\n\t\t\t\t\n\t<li class=\"comment byuser comment-author-tzirelchana
+      even thread-even depth-1 highlander-comment\" id=\"li-comment-451\">\n\n    \t<a
+      name=\"comment-451\"></a>\n\n      \t<div class=\"comment-container\">\n\n\t
+      \     \t<div class=\"comment-head\">\n\n\t    \t\t\n\t  \t  \t\t\t<div class=\"avatar\"><img
+      alt='' src='http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=48&amp;d=identicon&amp;r=G'
+      class='photo avatar avatar-48' height='48' width='48' /></div>\n\n\t \t     \t\n\t
+      \       \t<span class=\"name\"><a href='http://kosherhomecooking.com' rel='external
+      nofollow' class='url url'>tzirelchana</a></span>\n\n\t        \t\n\t        \t\t<span
+      class=\"date\">November 23, 2011 at 12:58 am</span>\n\t        \t\t<span class=\"edit\"></span>\n\t
+      \       \t\t<span class=\"perma\"><a href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/#comment-451\"
+      title=\"Direct link to this comment\">#</a></span>\n\n\t        \t\n\t        \t<div
+      class=\"fix\"></div>\n\n\t\t\t</div><!-- /.comment-head -->\n\n\t   \t\t<div
+      class=\"comment-entry\"  id=\"comment-451\">\n\n\t\t\t\t<p>I&#8217;m going to
+      try that foaming milk tip. thanks</p>\n\n\t            \n\t\t\t\t<div class=\"reply\">\n\t
+      \           \t<a class='comment-reply-link' href='/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?replytocom=451#respond'
+      onclick='return addComment.moveForm(\"comment-451\", \"451\", \"respond\", \"1957\")'>Reply</a>\t
+      \           </div><!-- /.reply -->\n\n\t\t\t</div><!-- /comment-entry -->\n\n\t\t</div><!--
+      /.comment-container -->\n\n\t\t<ul class='children'>\n\n\t<li class=\"comment
+      byuser comment-author-lbrisbo bypostauthor odd alt depth-2 highlander-comment\"
+      id=\"li-comment-452\">\n\n    \t<a name=\"comment-452\"></a>\n\n      \t<div
+      class=\"comment-container\">\n\n\t      \t<div class=\"comment-head\">\n\n\t
+      \   \t\t\n\t  \t  \t\t\t<div class=\"avatar\"><img alt='' src='http://1.gravatar.com/avatar/523cd3ccd404b03b9804508635d5e6f8?s=48&amp;d=identicon&amp;r=G'
+      class='photo avatar avatar-48' height='48' width='48' /></div>\n\n\t \t     \t\n\t
+      \       \t<span class=\"name\"><a href='http://lbrisbo.wordpress.com' rel='external
+      nofollow' class='url url'>Lauren B.</a></span>\n\n\t        \t\n\t        \t\t<span
+      class=\"date\">November 23, 2011 at 2:24 pm</span>\n\t        \t\t<span class=\"edit\"></span>\n\t
+      \       \t\t<span class=\"perma\"><a href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/#comment-452\"
+      title=\"Direct link to this comment\">#</a></span>\n\n\t        \t\n\t        \t<div
+      class=\"fix\"></div>\n\n\t\t\t</div><!-- /.comment-head -->\n\n\t   \t\t<div
+      class=\"comment-entry\"  id=\"comment-452\">\n\n\t\t\t\t<p>Great! I am curious
+      to know which types of milk work out the best for you.</p>\n\n\t            \n\t\t\t\t<div
+      class=\"reply\">\n\t            \t<a class='comment-reply-link' href='/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?replytocom=452#respond'
+      onclick='return addComment.moveForm(\"comment-452\", \"452\", \"respond\", \"1957\")'>Reply</a>\t
+      \           </div><!-- /.reply -->\n\n\t\t\t</div><!-- /comment-entry -->\n\n\t\t</div><!--
+      /.comment-container -->\n\n\t\t</li>\n</ul>\n</li>\n\n\t\t\t</ol>\n\n\t\t\t<div
+      class=\"navigation\">\n\t\t\t\t<div class=\"fl\"></div>\n\t\t\t\t<div class=\"fr\"></div>\n\t\t\t\t<div
+      class=\"fix\"></div>\n\t\t\t</div><!-- /.navigation -->\n\n\t\t</div> <!-- /#comments_wrap
+      -->\n\n\t\t\t\n    \t\n\t\n\t\n\t\t\t\t\t\t\t\t<div id=\"respond\">\n\t\t\t\t<h3
+      id=\"reply-title\">Leave a Reply <small><a rel=\"nofollow\" id=\"cancel-comment-reply-link\"
+      href=\"/2011/11/22/earl-grey-latte-poor-mans-milk-foam/#respond\" style=\"display:none;\">Cancel
+      reply</a></small></h3>\n\t\t\t\t\t\t\t\t\t<form action=\"http://allthingssimpleblog.com/wp-comments-post.php\"
+      method=\"post\" id=\"commentform\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\n<input
+      type=\"hidden\" name=\"hc_post_as\" id=\"hc_post_as\" value=\"guest\" />\n\n<div
+      class=\"comment-form-field comment-textarea\">\n\t<label for=\"comment\">Enter
+      your comment here...</label>\n\t<div id=\"comment-form-comment\"><textarea id=\"comment\"
+      name=\"comment\"></textarea></div>\n</div>\n\n<div id=\"comment-form-identity\">\n\n\t<div
+      id=\"comment-form-nascar\">\n\t\t<p>Fill in your details below or click an icon
+      to log in:</p>\n\t\t<ul>\n\t\t\t<li class=\"selected\" style=\"display:none;\">\n\t\t\t\t<a
+      href=\"#comment-form-guest\" id=\"postas-guest\" title=\"Guest\">\n\t\t\t\t\t<span></span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a
+      href=\"#comment-form-wordpress\" id=\"postas-wordpress\" title=\"WordPress.com\">\n\t\t\t\t\t<span></span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a
+      href=\"#comment-form-load-service:Twitter\" id=\"postas-twitter\" title=\"Twitter\">\n\t\t\t\t\t<span></span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t\t<li>\n\t\t\t\t<a
+      href=\"#comment-form-load-service:Facebook\" id=\"postas-facebook\" title=\"Facebook\">\n\t\t\t\t\t<span></span>\n\t\t\t\t</a>\n\t\t\t</li>\n\t\t</ul>\n\t</div>\n\n\t<div
+      id=\"comment-form-guest\" class=\"comment-form-service selected\">\n\t\t<div
+      class=\"comment-form-padder\">\n\t\t\t<div class=\"comment-form-avatar\">\n\t\t\t\t<img
+      src=\"http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=mm\"
+      alt=\"Gravatar\" width=\"25\" class=\"no-grav\" />\n\t\t\t</div>\n\n\t\t\t\t<div
+      class=\"comment-form-fields\">\n\t\t\t\t<div class=\"comment-form-field comment-form-email\">\n\t\t\t\t\t<label
+      for=\"email\">Email <span class=\"required\">(required)</span> <span class=\"nopublish\">(Not
+      published)</span></label>\n\t\t\t\t\t<div class=\"comment-form-input\"><input
+      id=\"email\" name=\"email\" type=\"text\" value=\"\" /></div>\n\t\t\t\t</div>\n\t\t\t\t<div
+      class=\"comment-form-field comment-form-author\">\n\t\t\t\t\t<label for=\"author\">Name
+      <span class=\"required\">(required)</span></label>\n\t\t\t\t\t<div class=\"comment-form-input\"><input
+      id=\"author\" name=\"author\" type=\"text\" value=\"\" /></div>\n\t\t\t\t</div>\n\t\t\t\t<div
+      class=\"comment-form-field comment-form-url\">\n\t\t\t\t\t<label for=\"url\">Website</label>\n\t\t\t\t\t<div
+      class=\"comment-form-input\"><input id=\"url\" name=\"url\" type=\"text\" value=\"\"
+      /></div>\n\t\t\t\t</div> \n\t\t\t</div>\n\t\n\t\t</div>\n\t</div>\n\n\t<div
+      id=\"comment-form-wordpress\" class=\"comment-form-service\">\n\t\t<div class=\"comment-form-padder\">\n\t\t\t<div
+      class=\"comment-form-avatar\">\n\t\t\t\t<img src=\"http://s2.wp.com/wp-content/mu-plugins/highlander-comments/images/wplogo.png?m=1306998973g\"
+      alt=\"WordPress.com Logo\" width=\"25\" class=\"no-grav\" />\n\t\t\t</div>\n\n\t\t\t\t<div
+      class=\"comment-form-fields\">\n\t\t\t\t\t<p id=\"wordpress-login-first\">Please
+      log in to WordPress.com to post a comment to your blog.</p>\n\t\t\t\t<iframe
+      id=\"wordpress-login-iframe\" data-srcurl=\"http://lbrisbo.wordpress.com/wp-login.php?redirect_to=http%3A%2F%2Fallthingssimpleblog.com%2Fhighlander.login%2F&#038;action=highlander-login&#038;skin=light\"></iframe>\n\t\t\t\t</div>\n\t\n\t\t</div>\n\t</div>\n\n\t<div
+      id=\"comment-form-twitter\" class=\"comment-form-service\">\n\t\t<div class=\"comment-form-padder\">\n\t\t\t<div
+      class=\"comment-form-avatar\">\n\t\t\t\t<img src=\"http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=mm\"
+      alt=\"Twitter picture\" width=\"25\" class=\"no-grav\" />\n\t\t\t</div>\n\n\t\t\t\t<div
+      class=\"comment-form-fields\">\n\t\t\t\t<input type=\"hidden\" name=\"twitter_avatar\"
+      id=\"twitter-avatar\" class=\"comment-meta-twitter\" value=\"\" />\n\t\t\t\t<input
+      type=\"hidden\" name=\"twitter_user_id\" id=\"twitter-user_id\" class=\"comment-meta-twitter\"
+      value=\"\" />\n\t\t\t\t<input type=\"hidden\" name=\"twitter_access_token\"
+      id=\"twitter-access_token\" class=\"comment-meta-twitter\" value=\"\" />\n\t\t\t\t<p
+      class=\"comment-form-posting-as pa-twitter\"><strong></strong> You are commenting
+      using your Twitter account. <span class=\"comment-form-log-out\">(&nbsp;<a href=\"javascript:HighlanderComments.doExternalLogout(
+      'twitter' );\">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href=\"#\" onclick=\"javascript:HighlanderComments.switchAccount();return
+      false;\">Change</a>&nbsp;)</span></p>\n\t\t\t</div>\n\t\n\t\t</div>\n\t</div>\n\n\t<div
+      id=\"comment-form-facebook\" class=\"comment-form-service\">\n\t\t<div class=\"comment-form-padder\">\n\t\t\t<div
+      class=\"comment-form-avatar\">\n\t\t\t\t<img src=\"http://www.gravatar.com/avatar/ad516503a11cd5ca435acc9bb6523536?s=25&d=mm\"
+      alt=\"Facebook photo\" width=\"25\" class=\"no-grav\" />\n\t\t\t</div>\n\n\t\t\t\t<div
+      class=\"comment-form-fields\">\n\t\t\t\t<input type=\"hidden\" name=\"fb_avatar\"
+      id=\"facebook-avatar\" class=\"comment-meta-facebook\" value=\"\" />\n\t\t\t\t<input
+      type=\"hidden\" name=\"fb_user_id\" id=\"facebook-user_id\" class=\"comment-meta-facebook\"
+      value=\"\" />\n\t\t\t\t<input type=\"hidden\" name=\"fb_access_token\" id=\"facebook-access_token\"
+      class=\"comment-meta-facebook\" value=\"\" />\n\t\t\t\t<p class=\"comment-form-posting-as
+      pa-facebook\"><strong></strong> You are commenting using your Facebook account.
+      <span class=\"comment-form-log-out\">(&nbsp;<a href=\"javascript:HighlanderComments.doExternalLogout(
+      'facebook' );\">Log&nbsp;Out</a>&nbsp;/&nbsp;<a href=\"#\" onclick=\"javascript:HighlanderComments.switchAccount();return
+      false;\">Change</a>&nbsp;)</span></p>\n\t\t\t</div>\n\t\n\t\t</div>\n\t</div>\n\n\n\t<div
+      id=\"comment-form-load-service\" class=\"comment-form-service\"> \n\t\t<div
+      class=\"comment-form-posting-as-cancel\"><a href=\"javascript:HighlanderComments.cancelExternalWindow();\">Cancel</a></div>\n\t\t<p>Connecting
+      to %s</p> \n\t</div>\n\t\n\t\n</div>\n\n\n<div id=\"comment-form-subscribe\">
+      \n<p class=\"comment-subscription-form\"><input type=\"checkbox\" name=\"subscribe\"
+      id=\"subscribe\" value=\"subscribe\" style=\"width: auto;\" tabindex=\"6\"/>
+      <label class=\"subscribe-label\" id=\"subscribe-label\" for=\"subscribe\">Notify
+      me of follow-up comments via email.</label></p></div>\n\n\t<script type=\"text/javascript\">\n\tjQuery(document).ready(function(){\n\t\tHighlanderComments.comment_registration
+      = '';\n\t\tHighlanderComments.userIsLoggedIn = false;\n\t\t\t});\n\t</script>\n\t\t\t\t\t\t\t\t\t\t\t\t<p
+      class=\"form-submit\">\n\t\t\t\t\t\t\t<input name=\"submit\" type=\"submit\"
+      id=\"comment-submit\" value=\"Post Comment\" />\n\t\t\t\t\t\t\t<input type='hidden'
+      name='comment_post_ID' value='1957' id='comment_post_ID' />\n<input type='hidden'
+      name='comment_parent' id='comment_parent' value='0' />\n\t\t\t\t\t\t</p>\n\t\t\t\t\t\t\n<input
+      type=\"hidden\" name=\"genseq\" value=\"1325385471\" />\n<p style=\"display:
+      none;\"><input type=\"hidden\" id=\"akismet_comment_nonce\" name=\"akismet_comment_nonce\"
+      value=\"328ed79684\" /></p><script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/akismet-2.5/form.js?m=1308783980g&#038;ver=1'></script>\n<p
+      style=\"display: none;\"><input type=\"hidden\" id=\"ak_js\" name=\"ak_js\"
+      value=\"47\"/></p>\t\t\t\t\t</form>\n\t\t\t\t\t\t\t</div><!-- #respond -->\n\t\t\t<div
+      style=\"clear: both\"></div>\t\t\t\n\t\t\t\n\t\t</div><!-- /#main -->\n\n        <div
+      id=\"sidebar\" class=\"col-right\">\n\t\n\t<!-- Widgetized Sidebar -->\n\t\t\t<div
+      id=\"recent-posts-3\" class=\"widget widget_recent_entries\">\t\t<h3>Latest
+      Happenings </h3>\t\t<ul>\n\t\t\t\t<li><a href=\"http://allthingssimpleblog.com/2011/12/30/brown-butter-and-sage-carrots-a-big-move/\"
+      title=\"Brown Butter and Sage Carrots + A Big&nbsp;Move\">Brown Butter and Sage
+      Carrots + A Big&nbsp;Move</a></li>\n\t\t\t\t<li><a href=\"http://allthingssimpleblog.com/2011/12/13/ricotta-gnocchi-spinach-walnut-pesto/\"
+      title=\"Ricotta Gnocchi + Spinach Walnut&nbsp;Pesto\">Ricotta Gnocchi + Spinach
+      Walnut&nbsp;Pesto</a></li>\n\t\t\t\t<li><a href=\"http://allthingssimpleblog.com/2011/11/28/emile-henry-pizza-stone-giveaway/\"
+      title=\"Emile Henry Pizza Stone&nbsp;Giveaway!\">Emile Henry Pizza Stone&nbsp;Giveaway!</a></li>\n\t\t\t\t<li><a
+      href=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/\"
+      title=\"Earl Grey Latte + Poor Man&#8217;s Milk&nbsp;Foam\">Earl Grey Latte
+      + Poor Man&#8217;s Milk&nbsp;Foam</a></li>\n\t\t\t\t<li><a href=\"http://allthingssimpleblog.com/2011/11/13/kale-italian-sausage-and-roasted-onion-pizza/\"
+      title=\"Kale, Italian Sausage, and Roasted Onion&nbsp;Pizza\">Kale, Italian
+      Sausage, and Roasted Onion&nbsp;Pizza</a></li>\n\t\t\t\t</ul>\n\t\t</div><div
+      id=\"twitter-3\" class=\"widget widget_twitter\"><h3><a href='http://twitter.com/MissBrisbo'>My
+      Tweets</a></h3><ul class='tweets'>\n<li>{New Post} Brown Butter and Sage Carrots
+      + A Big Move <a href=\"http://t.co/px3SPMzJ\" rel=\"nofollow\">http://t.co/px3SPMzJ</a>
+      <a href=\"http://twitter.com/MissBrisbo/statuses/153180075708264448\" class=\"timesince\">8&nbsp;hours&nbsp;ago</a></li>\n<li>RT
+      @<a href='http://twitter.com/michaelpollan'>michaelpollan</a>: Good NYT piece
+      on the globalization of organic. How green is it now?  <a href=\"http://t.co/kkmAcgox\"
+      rel=\"nofollow\">http://t.co/kkmAcgox</a> <a href=\"http://twitter.com/MissBrisbo/statuses/153027193918853120\"
+      class=\"timesince\">18&nbsp;hours&nbsp;ago</a></li>\n<li>You know it&#039;s
+      bad when $2,300 for a one bedroom starts to sound &quot;cheap&quot;<a href='http://twitter.com/search?q=%23SanFranciscoRentalMarket'>#SanFranciscoRentalMarket</a>
+      <a href=\"http://twitter.com/MissBrisbo/statuses/152894048619864064\" class=\"timesince\">1&nbsp;day&nbsp;ago</a></li>\n<li>RT
+      @<a href='http://twitter.com/PRRSocial'>PRRSocial</a>: If you are looking to
+      join our team, we&#039;ve got an opening for a project coordinator: <a href=\"http://t.co/u3Cn51gS\"
+      rel=\"nofollow\">http://t.co/u3Cn51gS</a> <a href=\"http://twitter.com/MissBrisbo/statuses/152892201309970435\"
+      class=\"timesince\">1&nbsp;day&nbsp;ago</a></li>\n</ul>\n</div><div id=\"facebook-likebox-3\"
+      class=\"widget widget_facebook_likebox\"><h3><a href=\"http://www.facebook.com/pages/All-Things-Simple/216956261697256\">Facebook
+      Love</a></h3><iframe src=\"http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FAll-Things-Simple%2F216956261697256&width=200&colorscheme=light&show_faces=true&stream=false&header=false&height=432&locale=en_EN\"
+      scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:200px;
+      height:432px; background:#fff\"></iframe></div><div id=\"archives-3\" class=\"widget
+      widget_archive\"><h3>Archives</h3>\t\t<select name=\"archive-dropdown\" onchange='document.location.href=this.options[this.selectedIndex].value;'>
+      <option value=\"\">Select Month</option> \t<option value='http://allthingssimpleblog.com/2011/12/'>
+      December 2011 &nbsp;(2)</option>\n\t<option value='http://allthingssimpleblog.com/2011/11/'>
+      November 2011 &nbsp;(3)</option>\n\t<option value='http://allthingssimpleblog.com/2011/10/'>
+      October 2011 &nbsp;(6)</option>\n\t<option value='http://allthingssimpleblog.com/2011/09/'>
+      September 2011 &nbsp;(4)</option>\n\t<option value='http://allthingssimpleblog.com/2011/08/'>
+      August 2011 &nbsp;(4)</option>\n\t<option value='http://allthingssimpleblog.com/2011/07/'>
+      July 2011 &nbsp;(6)</option>\n\t<option value='http://allthingssimpleblog.com/2011/06/'>
+      June 2011 &nbsp;(2)</option>\n\t<option value='http://allthingssimpleblog.com/2011/05/'>
+      May 2011 &nbsp;(3)</option>\n\t<option value='http://allthingssimpleblog.com/2011/04/'>
+      April 2011 &nbsp;(6)</option>\n\t<option value='http://allthingssimpleblog.com/2011/03/'>
+      March 2011 &nbsp;(2)</option>\n\t<option value='http://allthingssimpleblog.com/2011/02/'>
+      February 2011 &nbsp;(2)</option>\n </select>\n</div><div id=\"linkcat-239025\"
+      class=\"widget widget_links\"><h3>Simple Pleasures</h3>\n\t<ul class='xoxo blogroll'>\n<li><a
+      href=\"http://www.101cookbooks.com\">101 Cookbooks</a></li>\n<li><a href=\"http://joannagoddard.blogspot.com/\">A
+      Cup of Jo</a></li>\n<li><a href=\"http://www.designspongeonline.com/\">Design*Sponge</a></li>\n<li><a
+      href=\"http://effortlessanthropologie.blogspot.com/\">Effortless Anthropologie</a></li>\n<li><a
+      href=\"http://www.deannablogs.blogspot.com/\">Harper &amp; Henny</a></li>\n<li><a
+      href=\"http://torte-law.blogspot.com/\">Intentional Tortes</a></li>\n<li><a
+      href=\"http://opinionator.blogs.nytimes.com/category/mark-bittman/\">Mark Bittman</a></li>\n<li><a
+      href=\"http://www.ohjoy.blogs.com/\">Oh Joy!</a></li>\n<li><a href=\"http://onefinedae.typepad.com/\">One
+      Fine Dae</a></li>\n<li><a href=\"http://seejaneworkplaylive.blogspot.com/\">See
+      Jane.</a></li>\n<li><a href=\"http://smittenkitchen.com/\">smitten kitchen</a></li>\n<li><a
+      href=\"http://sproutedkitchen.com\">Sprouted Kitchen</a></li>\n<li><a href=\"http://www.stylefare.com/\">style
+      fare</a></li>\n\n\t</ul>\n</div>\n\n</div><!-- /#sidebar -->\n    </div><!--
+      /#content -->\n\n\t<div id=\"extended-footer\">\n\n\t\t<div class=\"col-full\">\n\n\t\t\t<div
+      class=\"block one\">\n\n\t\t\t\t\n\t\t\t</div><!-- /.block -->\n\n\t\t\t<div
+      class=\"block two\">\n\n\t\t\t\t\n\t\t\t</div><!-- /.block -->\n\n\t\t\t<div
+      class=\"block three\">\n\n\t\t\t\t\n\t\t\t</div><!-- /.block -->\n\n\t\t</div><!--
+      /.col-full -->\n\n\t</div><!-- /#extended-footer -->\n\n\t<div id=\"footer\">\n\n\t\t<div
+      class=\"col-full\">\n\n\t\t\t<div id=\"copyright\" class=\"col-left\">\n\t\t\t\t<p><a
+      href=\"http://wordpress.com/?ref=footer\" rel=\"generator\">Blog at WordPress.com</a>.</p>\n\t\t\t</div>\n\n\t\t\t<div
+      id=\"credit\" class=\"col-right\">\n\t\t\t\tTheme: <a href=\"http://theme.wordpress.com/themes/bueno/\">Bueno</a>
+      by <a href=\"http://www.woothemes.com/\" rel=\"designer\">WooThemes</a>.\t\t\t</div>\n\n\t\t</div><!--
+      /.col-full -->\n\n\t</div><!-- /#footer -->\n\n</div><!-- /#container -->\n<script
+      type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?aa&#038;ver=3.4-alpha-19620'></script>\n<script
+      type='text/javascript'>\n/* <![CDATA[ */\nvar WPGroHo = {\"my_hash\":\"\"};\n/*
+      ]]> */\n</script>\n<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1318621577g&#038;ver=3.4-alpha-19620'></script>\n\n<script
+      type=\"text/javascript\">\nvar _qevents = _qevents || [];\n(function() {var
+      elem = document.createElement('script');elem.src = (document.location.protocol
+      == \"https:\" ? \"https://secure\" : \"http://edge\") + \".quantserve.com/quant.js\";elem.async
+      = true;elem.type = \"text/javascript\";var scpt = document.getElementsByTagName('script')[0];scpt.parentNode.insertBefore(elem,
+      scpt);  })();\n_qevents.push( { qacct:\"p-18-mFEk4J448M\", labels:\",language.en,type.wpcom,posttag.earl-grey-latte,posttag.london-fog,posttag.milk-foam-in-microwave,posttag.milk-foam-without-frother,posttag.milk-foam-without-machine,as\"
+      } );\n</script>\n<noscript><div style=\"display: none;\"><img src=\"//pixel.quantserve.com/pixel/p-18-mFEk4J448M.gif?labels=%2Clanguage.en%2Ctype.wpcom%2Cposttag.earl-grey-latte%2Cposttag.london-fog%2Cposttag.milk-foam-in-microwave%2Cposttag.milk-foam-without-frother%2Cposttag.milk-foam-without-machine%2Cas\"
+      height=\"1\" width=\"1\" alt=\"\" /></div></noscript>\n\n\t<script type=\"text/javascript\">\n\t/*
+      <![CDATA[ */\n\t\tjQuery(document).ready( function($) {\n\t\t\t\n\t\t\t$('#wpl-button
+      > a.like').click( function(e) {\n\t\t\t\te.preventDefault();\n\t\t\t\t\n\t\t\t\t$('#wpl-mustlogin').remove();\n\t\t\t\t\n\t\t\t\t$.post(
+      'http://allthingssimpleblog.com/wp-admin/admin-ajax.php', { \n\t\t\t\t\t'action':
+      'wpl_record_stat',\n\t\t\t\t\t'stat_name': 'loggedout_like_click'\n\t\t\t\t}
+      );\n\n\t\t\t\tvar tenMins = new Date();\n\t\t\t\ttenMins.setTime( tenMins.getTime()
+      + 600000 );\n\t\t\t\tdocument.cookie = 'wpl_rand=d0f2e94232; expires=' + tenMins.toGMTString()
+      + '; domain=wordpress.com; path=/;';\n\t\t\t\t\n\t\t\t\t$('#wpl-count').after(
+      '\\\n\t\t\t\t\t<div id=\"wpl-mustlogin\"> \\\n\t\t\t\t\t\t<form action=\"https://lbrisbo.wordpress.com/wp-login.php\"
+      method=\"post\"> \\\n\t\t\t\t\t\t\t<p>Just one more step to like this post:</p>
+      \\\n\t\t\t\t\t\t\t<label><span>Username</span> <input type=\"text\" name=\"log\"
+      id=\"user_login\" class=\"input\" value=\"\" size=\"20\" tabindex=\"80\" /></label>
+      \\\n\t\t\t\t\t\t\t<label><span>Password</span> <input type=\"password\" name=\"pwd\"
+      id=\"user_pass\" class=\"input\" value=\"\" size=\"20\" tabindex=\"81\" /></label>
+      \\\n\t\t\t\t\t\t\t<input type=\"submit\" name=\"wp-submit\" id=\"wp-submit\"
+      class=\"button-primary\" value=\"Log In\" tabindex=\"82\" /> \\\n\t\t\t\t\t\t\t<input
+      type=\"hidden\" name=\"redirect_to\" value=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/?like=1\"
+      /> \\\n\t\t\t\t\t\t\t<input type=\"hidden\" name=\"wpl_rand\" value=\"d0f2e94232\"
+      /> \\\n\t\t\t\t\t\t\t<p>Not a member yet? <a href=\"http://wordpress.com/signup/?ref=likebox\"
+      id=\"wpl-signup-link\">Sign up with WordPress.com</a></p> \\\n\t\t\t\t\t\t</form>
+      \\\n\t\t\t\t\t</div> \\\n\t\t\t\t');\n\t\t\t\t\n\t\t\t\t$('#wpl-mustlogin').hide().slideDown('fast');\n\t\t\t}
+      );\n\t\t\t\n\t\t\t$('#wpl-mustlogin input.input').live( 'focus', function()
+      {\n\t\t\t\t$(this).prev().hide();\n\t\t\t}).live( 'blur', function() {\n\t\t\t\tif
+      ( $(this).val() == '' )\n\t\t\t\t\t$(this).prev().show();\n\t\t\t});\n\t\t\t\n\t\t\t$('#wpl-mustlogin
+      input#wp-submit').live( 'click', function(e) {\n\t\t\t\te.preventDefault();\n\t\t\t\t\n\t\t\t\t$.post(
+      'http://allthingssimpleblog.com/wp-admin/admin-ajax.php', { \n\t\t\t\t\t'action':
+      'wpl_record_stat',\n\t\t\t\t\t'stat_name': 'loggedout_login_submit'\n\t\t\t\t},
+      function() {\n\t\t\t\t\t$('#wpl-mustlogin form').submit();\n\t\t\t\t} );\n\t\t\t});\t\t\t\n\t\t\t\n\t\t\t$('#wpl-mustlogin
+      a#wpl-signup-link').live( 'click', function(e) {\n\t\t\t\te.preventDefault();\n\t\t\t\t\n\t\t\t\tvar
+      link = $(this).attr('href');\n\t\t\t\t\n\t\t\t\t$.post( 'http://allthingssimpleblog.com/wp-admin/admin-ajax.php',
+      { \n\t\t\t\t\t'action': 'wpl_record_stat',\n\t\t\t\t\t'stat_name': 'loggedout_signup_click'\n\t\t\t\t},
+      function() {\n\t\t\t\t\tlocation.href = link;\n\t\t\t\t} );\n\t\t\t});\t\t\t\t\t\n\t\t\t\n\t\t});\n\t/*
+      ]]> */\n\t</script>\n<script>jQuery(document).ready(function($){ Gravatar.profile_cb
+      = function( h, d ) { WPGroHo.syncProfileData( h, d );\t}; Gravatar.my_hash =
+      WPGroHo.my_hash; Gravatar.init( 'body', '#wpadminbar' ); });</script>\t<div
+      style=\"display:none\">\n\t<div class=\"grofile-hash-map-35a3837110051f80baa1eea5993ae576\">\n\t</div>\n\t<div
+      class=\"grofile-hash-map-523cd3ccd404b03b9804508635d5e6f8\">\n\t</div>\n\t</div>\n\t\t<style
+      type=\"text/css\">\n\t\t\t\n\t\t\t\t.reblog-from img                   { margin:
+      0 10px 0 0; vertical-align: middle; padding: 0; border: 0; }\n\t\t\t\t.reblogger-note
+      img.avatar         { float: left; padding: 0; border: 0; }\n\t\t\t\t.reblogger-note-content
+      \           { margin: 0 0 20px 35px; }\n\t\t\t\t.reblog-post                       {
+      border-left: 3px solid #eee; padding-left: 15px; }\n\t\t\t\t.reblog-post ul.thumb-list
+      \        { display: block; list-style: none; margin: 2px 0; padding: 0; clear:
+      both; }\n\t\t\t\t.reblog-post ul.thumb-list li      { display: inline; margin:
+      0; padding: 0 1px; border: 0; }\n\t\t\t\t.reblog-post ul.thumb-list li a    {
+      margin: 0; padding: 0; border: 0; }\n\t\t\t\t.reblog-post ul.thumb-list li img
+      \ { margin: 0; padding: 0; border: 0; }\n\t\t\t\t.reblog-post                       {
+      border-left: 3px solid #eee; padding-left: 15px; }\n\t\t\t\t\t</style><script
+      type='text/javascript'>\n/* <![CDATA[ */\nvar HighlanderComments = {\"loggingInText\":\"Logging
+      In\\u2026\",\"submittingText\":\"Posting Comment\\u2026\",\"postCommentText\":\"Post
+      Comment\",\"connectingToText\":\"Connecting to %s\",\"commentingAsText\":\"%1$s:
+      You are commenting using your %2$s account.\",\"logoutText\":\"Log Out\",\"loginText\":\"Log
+      In\",\"connectURL\":\"http:\\/\\/lbrisbo.wordpress.com\\/public.api\\/connect\\/?action=request\",\"homeURL\":\"http:\\/\\/allthingssimpleblog.com\\/\",\"postID\":\"1957\",\"gravDefault\":\"identicon\",\"enterACommentError\":\"Please
+      enter a comment\",\"enterEmailError\":\"Email address required\",\"invalidEmailError\":\"Invalid
+      email address\",\"enterAuthorError\":\"Name required\",\"gravatarFromEmail\":\"Your
+      email address will be used to look up your Gravatar.\",\"logInToExternalAccount\":\"Log
+      in to use details from one of these accounts.\",\"change\":\"Change\",\"changeAccount\":\"Change
+      Account\"};\n/* ]]> */\n</script>\n<script type='text/javascript' src='http://s2.wp.com/wp-content/mu-plugins/highlander-comments/script.js?m=1324182947g&#038;ver=20110804'></script>\n\t<script
+      type=\"text/javascript\">\n\tWPCOM_sharing_counts = {'http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/':'1957'};\n\t</script>\n\t\t\n\t<div
+      id=\"bit\" class=\"loggedout-follow-normal\">\n\t\t<a class=\"bsub\" href=\"javascript:void(0)\"><span
+      id='bsub-text'>Follow</span></a>\n\t\t<div id=\"bitsubscribe\">\n\t\t\t\n\t\t\t\t\t<h3><label
+      for=\"loggedout-follow-field\">Follow All Things Simple</label></h3>\n\t\t\n\t\t\t<form
+      action=\"http://subscribe.wordpress.com\" method=\"post\" accept-charset=\"utf-8\"
+      id=\"loggedout-follow\">\n\t\t\t<p>Get every new post delivered to your Inbox.</p>\n\n\t\t\t\t\t\t<p
+      class=\"bit-follow-count\">Join 59 other followers</p>\t\t\n\t\t\t\n\t\t\t<p><input
+      type=\"text\" name=\"email\" style=\"width: 95%; padding: 1px 2px\" value=\"Enter
+      email address\" onfocus='this.value=(this.value==\"Enter email address\") ?
+      \"\" : this.value;' onblur='this.value=(this.value==\"\") ? \"Enter email address\"
+      : this.value;'  id=\"loggedout-follow-field\"/></p>\n\n\t\t\t<input type=\"hidden\"
+      name=\"action\" value=\"subscribe\"/>\n\t\t\t<input type=\"hidden\" name=\"blog_id\"
+      value=\"13297415\"/>\n\t\t\t<input type=\"hidden\" name=\"source\" value=\"http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/\"/>\n\t\t\t<input
+      type=\"hidden\" name=\"sub-type\" value=\"loggedout-follow\"/>\n\n\t\t\t<input
+      type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"0939ef6d04\" /><input
+      type=\"hidden\" name=\"_wp_http_referer\" value=\"/2011/11/22/earl-grey-latte-poor-mans-milk-foam/\"
+      />\n\t\t\t<p id='bsub-subscribe-button'><input type=\"submit\" value=\"Sign
+      me up!\" /></p>\n\t\t\t</form>\n\t\t\t\t\t<div id='bsub-credit'><a href=\"http://wordpress.com/signup/?ref=lof\">Powered
+      by WordPress.com</a></div>\n\t\t</div><!-- #bitsubscribe -->\n\t</div><!-- #bit
+      -->\n<script type='text/javascript' src='http://s1.wp.com/wp-content/mu-plugins/post-flair/sharing/sharing.js?m=1322684385g&#038;ver=0.2'></script>\n\t\t<script
+      type=\"text/javascript\" charset=\"utf-8\">\n\t\tjQuery(document).ready(function(){\n\t\t\tjQuery(
+      '.share-facebook' ).click(function(){\n\t\t\t\twindow.open( jQuery(this).attr(
+      'href' ), 'wpcom-facebook', 'menubar=1,resizable=1,width=600,height=400' );\n\t\t\t\treturn
+      false;\n\t\t\t});\n\t\t});\n\t\t</script>\n\t\t\t\t<script type=\"text/javascript\"
+      charset=\"utf-8\">\n\t\tjQuery(document).ready(function(){\n\t\t\tjQuery( '.share-twitter'
+      ).click(function(){\n\t\t\t\twindow.open( jQuery(this).attr( 'href' ), 'wpcom-twitter',
+      'menubar=1,resizable=1,width=600,height=350' );\n\t\t\t\treturn false;\n\t\t\t});\n\t\t});\n\t\t</script>\n\t\t\t<div
+      id=\"sharing_email\" style=\"display: none;\">\n\t\t<form action=\"\" method=\"post\">\n\t\t\t<label
+      for=\"target_email\">Send to Email Address</label>\n\t\t\t<input type=\"text\"
+      name=\"target_email\" id=\"target_email\" value=\"\" />\n\t\t\t\n\t\t\t\n\t\t\t\t<label
+      for=\"source_name\">Your Name</label>\n\t\t\t\t<input type=\"text\" name=\"source_name\"
+      id=\"source_name\" value=\"\" />\n\t\t\t\t\n\t\t\t\t<label for=\"source_email\">Your
+      Email Address</label>\n\t\t\t\t<input type=\"text\" name=\"source_email\" id=\"source_email\"
+      value=\"\" />\n\n\t\t\t\t\t\t\n\t\t\t<div class=\"recaptcha\" id=\"sharing_recaptcha\"></div>\n\t\t\t<img
+      style=\"float: right; display: none\" class=\"loading\" src=\"http://lbrisbo.wordpress.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610367g\"
+      alt=\"loading\" width=\"16\" height=\"16\" />\n\t\t\t<input type=\"submit\"
+      value=\"Send Email\" class=\"sharing_send\" />\n\t\t\t<a href=\"#cancel\" class=\"sharing_cancel\">Cancel</a>\n\t\t\t\n\t\t\t<div
+      class=\"errors errors-1\" style=\"display: none;\">\n\t\t\t\tPost was not sent
+      - check your email addresses!\t\t\t</div>\n\n\t\t\t<div class=\"errors errors-2\"
+      style=\"display: none;\">\n\t\t\t\tEmail check failed, please try again\t\t\t</div>\n\t\t\t\n\t\t\t<div
+      class=\"errors errors-3\" style=\"display: none;\">\n\t\t\t\tSorry, your blog
+      cannot share posts by email.\t\t\t</div>\n\t\t</form>\n\t</div>\n<script type='text/javascript'
+      src='http://platform.twitter.com/widgets.js?ver=20111117'></script>\n<script
+      type=\"text/javascript\" src=\"http://b.scorecardresearch.com/beacon.js\"></script><script
+      type=\"text/javascript\">try{COMSCORE.beacon({c1:2,c2:7518284});}catch(e){}</script><noscript><p
+      class=\"robots-nocontent\"><img src=\"http://b.scorecardresearch.com/p?cj=1c1=2&#038;c2=7518284\"
+      alt=\"\" style=\"display:none\" width=\"1\" height=\"1\" /></p></noscript><script
+      type=\"text/javascript\">\n// <![CDATA[\n(function() {\ntry{\n  if ( window.external
+      &&'msIsSiteMode' in window.external) {\n    if (window.external.msIsSiteMode())
+      {\n      var jl = document.createElement('script');\n      jl.type='text/javascript';\n
+      \     jl.async=true;\n      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';\n
+      \     var s = document.getElementsByTagName('script')[0];\n      s.parentNode.insertBefore(jl,
+      s);\n    }\n  }\n}catch(e){}\n})();\n// ]]>\n</script><script src=\"http://s.stats.wordpress.com/w.js?21\"
+      type=\"text/javascript\"></script>\n<script type=\"text/javascript\">\nst_go({'blog':'13297415','v':'wpcom','user_id':'0','post':'1957','subd':'lbrisbo'});\nex_go({'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdWtpP0NsWnVkPS9sL0ViLndld3AlSGN8YmRCSmtFZUNZOVdPWnxUSF02fHZXeFN5TFNvdVJFaWtvY3VGXyVnX254aE1OS3piLEwyZH5MdU5XMm5tZEpTaS1aK0pfNHxuP2JicTgscFtFMnFueUolP1Y5JWJjMnlBWGt3clFqXy9VU2NSenk4L0FISmYuclt0LGZRdTBmS1N0LzBzOUhkekt3ODN4UnxNb1ViejFwfEF3U1hIekk9UkhdYW1oX1NvNltyNXJCNG80KzY4X1YxZW8vMDVfZkImTj1kNGt2YXJYa1QtRUxfcEZtVWNMLFJrUXVxRlExWCsuK1tYRmNCVllxSUt2Jk95fDVZP3lK'});\naddLoadEvent(function(){linktracker_init('13297415',1957);});\n\t</script>\n<noscript><img
+      src=\"http://stats.wordpress.com/b.gif?v=noscript\" style=\"height:0px;width:0px;overflow:hidden\"
+      alt=\"\" /></noscript>\n\n</body>\n</html>"
+    http_version: '1.1'
