@@ -69,20 +69,20 @@ module Reduction
 
         it_should_find 'ingredients', [
           [
-            "1 1/2 cups bananas, mashed, ripe",
+            "1 1/2 cups bananas , mashed, ripe",
             "2 teaspoons lemon juice",
             "3 cups flour",
             "1 1/2 teaspoons baking soda",
             "1/4 teaspoon salt",
-            "3/4 cup butter, softened",
+            "3/4 cup butter , softened",
             "2 1/8 cups sugar",
             "3 large eggs",
             "2 teaspoons vanilla",
             "1 1/2 cups buttermilk"
           ],
           [
-            "1/2 cup butter, softened",
-            "1 (8 ounce) package cream cheese, softened",
+            "1/2 cup butter , softened",
+            "1 (8 ounce) package cream cheese , softened",
             "1 teaspoon vanilla",
             "3 1/2 cups icing sugar"
           ],

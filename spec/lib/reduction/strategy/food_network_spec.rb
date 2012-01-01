@@ -98,7 +98,7 @@ module Reduction
         end
 
         it_should_find 'images', [
-          "http://img.foodnetwork.com/FOOD/2010/05/20/GE0204_01_cake-piece-on-a-white-plate_s4x3_med.jpg"
+          "http://img.foodnetwork.com/FOOD/2011/10/26/CC_Simple-Birthday-Cake-with-Marshmallow-Frosting-Recipe-02_s4x3_med.jpg"
         ]
 
       end
