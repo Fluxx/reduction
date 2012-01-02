@@ -54,6 +54,10 @@ module Reduction
           ]
         ]
 
+        it 'does not name the first steps list "Directions"' do
+          subject.steps.first.name.should_not =~ /directions/i
+        end
+
         it_should_find 'yields', '4 servings'
 
         it_should_find 'prep_time', '15 min'
@@ -128,7 +132,7 @@ module Reduction
         
         it 'picks out the name of the lists' do
           subject.steps.map(&:name).should ==  [
-            "Directions",
+            nil,
             "For the Crunch:",
             "For the filling:",
             "For the topping:",

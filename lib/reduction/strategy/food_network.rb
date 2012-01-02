@@ -20,7 +20,13 @@ module Reduction
       end
 
       def steps
-        multiple_steps_elements
+        multiple_steps_elements.tap do |lists|
+          # FoodNetwork uses the same level of heading to describe the entire
+          # steps section ("Directions") as they use to label idividual sections.
+          # Since "Directions" is not a very good name of a list, and it is
+          # misleading - since it's not ALL of the directions, we remove it.
+          lists.first.name = nil if lists.first.name =~ /directions/i
+        end
       end
 
       def yields
