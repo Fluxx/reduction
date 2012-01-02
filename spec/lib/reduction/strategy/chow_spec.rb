@@ -180,6 +180,34 @@ module Reduction
         end
       end
 
+      context 'with a beverage pairing' do
+        strategy_subject_for('http://www.chow.com/recipes/10740-turkey-two-ways-roasted-breast-and-legs-confit')
+
+        it_should_find 'steps', [
+          [
+            "Remove giblets and neck and freeze for some other use or discard. Rinse out cavity and thoroughly pat dry with paper towels. Trim most of excess fat and skin from neck and cavity.",
+            "Remove legs by cutting where thighs meet the body. Reserve legs for confit and remainder of turkey breast piece (breast and body) for brine."
+          ],
+          [
+            "Place all brining ingredients except vegetable oil in a large stockpot over high heat and bring to a boil. Remove and cool to room temperature.",
+            "When brine is cool, submerge turkey breast piece in brine. (Use a resealable plastic bag filled halfway with water or some other weight to keep it completely submerged.) Cover and refrigerate for 24 hours.",
+            "To roast, heat oven to 350°F. Remove breast from brine and thoroughly dry with paper towels. Rub skin with vegetable oil and place breast on a heavy baking sheet or in a roasting pan. Roast in oven until breast reaches an internal temperature of 150°F on an instant-read thermometer. Remove from oven and allow to rest for at least 10 minutes before carving. If not using foie gras in mushroom sauce, reserve 1/4 cup pan drippings."
+          ],
+          [
+            "Place turkey legs on a large platter and heavily salt both sides of each leg. Sprinkle garlic, bay leaves, thyme, and peppercorns over top. Cover with plastic wrap and let rest 12 hours or overnight.",
+            "Heat oven to 325°F. Remove salt from legs. Place legs, skin side down, with confit flavoring ingredients (except salt) in a Dutch oven or a large heavy-bottomed pot with a tightfitting lid and cover with duck fat and vegetable oil.",
+            "Place over medium heat and bring to a simmer, making sure legs don’t stick. Cover, turn off heat, and place in oven. Cook until meat is very tender, about 2 hours.",
+            "Remove casserole from oven and cool on a rack. If serving immediately, brown legs as described in next step; if not, place cooled casserole in the refrigerator until ready.",
+            "To brown legs, heat oven to 350°F. Remove legs from casserole. Place a large nonstick frying pan on the stove over high heat. Carefully set legs skin side down in the pan and cook until skin is brown, about 2 minutes. Place in oven and cook until heated through, about 12 minutes."
+          ],
+          [
+            "In a medium frying pan on medium-high heat, place duck fat or butter and sauté mushrooms in batches; season to taste. Reserve cooked mushrooms in a bowl. If using foie gras, quickly sauté it in the same pan used for the mushrooms (without any fat) on high heat and cook just until browned. Place on paper towels and reserve.",
+            "Add shallots and cook on low heat for 3 minutes, then add stock. If not using foie gras, add 1/4 cup reserved pan drippings from turkey.",
+            "When ready to serve, bring shallot mixture to a simmer, and add mushrooms, foie gras, and parsley. Mix well and serve immediately."
+          ],
+        ]
+      end
+
     end
 
   end

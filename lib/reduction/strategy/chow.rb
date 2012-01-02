@@ -7,6 +7,8 @@ module Reduction
 
     class Chow < Strategy
 
+      EXTRA_INFO = /beverage pairing/i
+
       def self.for_url?(url)
         url =~ /chow\.com/
       end
@@ -66,7 +68,9 @@ module Reduction
       end
 
       def steps_elements
-        @steps_elements ||= doc.at('#instructions').children
+        @steps_elements ||= doc.at('#instructions').children.select do |e|
+          !e.text.match(EXTRA_INFO)
+        end
       end
 
     end
