@@ -23,7 +23,7 @@ module Reduction
       context 'normal recipe page' do
         strategy_subject_for('http://food52.com/recipes/15242_peanut_butter_cookies')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'title', 'Peanut Butter Cookies'
         

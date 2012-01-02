@@ -1,4 +1,4 @@
-shared_examples_for "a strategy" do
+shared_examples_for "a strategy" do |type|
 
   string_methods = %w[title yields notes prep_time cook_time total_time body]
   list_methods = %w[ingredients steps]
@@ -45,6 +45,10 @@ shared_examples_for "a strategy" do
     expect {
       described_class.for_url?('foo')
     }.to_not raise_exception
+  end
+
+  it 'has a type method that returns the correct value' do
+    subject.type.should == type
   end
 
 end

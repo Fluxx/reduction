@@ -48,6 +48,10 @@ module Reduction
       @url
     end
 
+    def type
+      :blessed
+    end
+
     private
 
     def absolute_img_srcs_from(images)

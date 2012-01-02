@@ -11,7 +11,7 @@ module Reduction
       context 'for a normal recipe' do
         strategy_subject_for('http://www.saveur.com/article/Recipes/Rainbow-Cookies')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         describe 'for_url?' do
 

@@ -10,7 +10,7 @@ module Reduction
       context 'a normal recipe' do
         strategy_subject_for('http://www.foodnetwork.com/recipes/george-stella/mock-garlic-mashed-potatoes-recipe/index.html')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         describe 'for_url?' do
 
@@ -68,7 +68,7 @@ module Reduction
 
       context 'a recipe with multiple ingredient lists' do
         strategy_subject_for('http://www.foodnetwork.com/recipes/alexandra-guarnaschelli/simple-birthday-cake-with-marshmallow-frosting-recipe/index.html')
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'ingredients', [
           [
@@ -105,7 +105,7 @@ module Reduction
 
       context 'a recipe with multiple step lists' do
         strategy_subject_for('http://www.foodnetwork.com/recipes/giada-de-laurentiis/hazelnut-crunch-cake-with-mascarpone-and-chocolate-recipe/index.html')
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'steps', [
           [
@@ -143,7 +143,7 @@ module Reduction
 
       context 'multiple ingredient lists' do
         strategy_subject_for('http://www.foodnetwork.com/recipes/paula-deen/red-velvet-cupcakes-with-cream-cheese-frosting-recipe/index.html')
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
       end
 
     end

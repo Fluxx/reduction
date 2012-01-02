@@ -8,7 +8,7 @@ module Reduction
 
       strategy_subject_for('http://allrecipes.com/Recipe/sopapilla-cheesecake-pie/Detail.aspx')
 
-      it_should_behave_like "a strategy"
+      it_should_behave_like "a strategy", :blessed
 
       describe 'for_url?' do
 
@@ -69,7 +69,7 @@ module Reduction
       describe 'with titled ingredient lists' do
         strategy_subject_for('http://allrecipes.com/recipe/ricotta-gnocchi/detail.aspx')
 
-        it_should_behave_like 'a strategy'
+        it_should_behave_like 'a strategy', :blessed
 
         it_should_find 'ingredients', [
           [

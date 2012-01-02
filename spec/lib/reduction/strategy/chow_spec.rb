@@ -12,7 +12,7 @@ module Reduction
 
         strategy_subject_for('http://www.chow.com/recipes/29576-chocolate-dipped-vanilla-ice-cream-bars')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         describe 'for_url?' do
 
@@ -80,7 +80,7 @@ module Reduction
 
         strategy_subject_for('http://www.chow.com/recipes/29539-pavlova-with-lemon-curd-and-fresh-berries')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'ingredients', [
           [
@@ -141,7 +141,7 @@ module Reduction
 
         strategy_subject_for('http://www.chow.com/recipes/28966-apple-honey-upside-down-cakes')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'steps', [
           [
@@ -173,7 +173,7 @@ module Reduction
 
       context 'a different layout with active time' do
         strategy_subject_for('http://www.chow.com/recipes/14271-olive-parsley-dip-with-crudites')
-        it_should_behave_like 'a strategy'
+        it_should_behave_like 'a strategy', :blessed
 
         it 'returns the active time for cook time' do
           subject.cook_time.should == '20 mins'

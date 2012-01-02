@@ -13,7 +13,7 @@ module Reduction
 
         strategy_subject_for('http://www.food.com/recipe/yummy-frozen-margaritas-292214')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         describe 'for_url?' do
 
@@ -65,7 +65,7 @@ module Reduction
       context 'a recipe with multiple ingredient lists' do
         strategy_subject_for('http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'ingredients', [
           [

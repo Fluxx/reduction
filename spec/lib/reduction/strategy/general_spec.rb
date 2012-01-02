@@ -19,7 +19,7 @@ module Reduction
         described_class.priority.should be > 1
       end
 
-      it_should_behave_like "a strategy"
+      it_should_behave_like "a strategy", :general
 
       it_should_find 'title', 'Earl Grey Latte + Poor Man’s Milk Foam « All Things Simple'
 

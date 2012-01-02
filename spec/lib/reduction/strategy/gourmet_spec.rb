@@ -11,7 +11,7 @@ module Reduction
 
       strategy_subject_for('http://www.gourmet.com/recipes/2000s/2009/09/peppercorn-roasted-pork-with-vermouth-pan-sauce')
 
-      it_should_behave_like "a strategy"
+      it_should_behave_like "a strategy", :blessed
 
       describe 'for_url?' do
 

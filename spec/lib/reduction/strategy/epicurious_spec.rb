@@ -11,7 +11,7 @@ module Reduction
       context 'normal recipe' do
         strategy_subject_for('http://www.epicurious.com/recipes/food/views/Patricia-Wellss-Cobb-Salad-Iceberg-Tomato-Avocado-Bacon-and-Blue-Cheese-364872')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         describe 'for_url?' do
 
@@ -57,7 +57,7 @@ module Reduction
 
       context 'a recipe with multiple ingredient lists' do
         strategy_subject_for('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'ingredients', [
           [
@@ -91,7 +91,7 @@ module Reduction
       context 'a recipe with multiple step lists' do
         strategy_subject_for('http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272')
         
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'steps', [
           [
@@ -123,7 +123,7 @@ module Reduction
       context 'a recipe with one step and random line breaks' do
         strategy_subject_for('http://www.epicurious.com/recipes/food/views/Lemongrass-Lime-Leaf-365192')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'steps',  [
           [
@@ -135,7 +135,7 @@ module Reduction
       context 'a recipe that has a shopping list' do
         strategy_subject_for('http://www.epicurious.com/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109')
 
-        it_should_behave_like "a strategy"
+        it_should_behave_like "a strategy", :blessed
 
         it_should_find 'ingredients',  [
           [

@@ -95,6 +95,10 @@ module Reduction
         end
       end
 
+      def type
+        :general
+      end
+
       private
 
       def processed_body
