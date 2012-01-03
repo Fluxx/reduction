@@ -16,22 +16,22 @@ http_interactions:
     headers: 
       server: 
       - Apache
-      content-language: 
-      - en,en-us
       x-server-name: 
-      - web1c D=1046930
+      - web1b D=175873
       vary: 
       - User-Agent,Accept-Encoding
       content-type: 
       - text/html;charset=ISO-8859-1
+      content-language: 
+      - en
       cache-control: 
       - max-age = 300
       content-length: 
-      - "101069"
+      - "100748"
       date: 
-      - Sun, 01 Jan 2012 19:57:14 GMT
+      - Tue, 03 Jan 2012 08:55:48 GMT
       x-varnish: 
-      - 924939347 924937386
+      - "811528319"
       via: 
       - 1.1 varnish
       connection: 
@@ -39,7 +39,7 @@ http_interactions:
       age: 
       - "0"
       x-cache: 
-      - "webcache11: HIT 1"
+      - "webcache12: MISS"
     body: |+
       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -155,8 +155,8 @@ http_interactions:
       
       
         
-          
         
+          
         
       
       
@@ -2945,13 +2945,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485789&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Ravi Wine Chiller">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-128.jpg" title="Ravi Wine Chiller" alt="Ravi Wine Chiller" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485783&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Deruta-Style Canister Set">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-119.jpg" title="Deruta-Style Canister Set" alt="Deruta-Style Canister Set" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485789&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Ravi Wine Chiller">Ravi Wine Chiller</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485783&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Deruta-Style Canister Set">Deruta-Style Canister Set</a>
             </div>
             
             
@@ -2984,13 +2984,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=469015&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-469015%2F&usg=AFHzDLsyU2aQk3Q18H1L7pHiFFe7N_8k-Q&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Emile Henry Cerise Loaf Pan">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-003.jpg" title="Emile Henry Cerise Loaf Pan" alt="Emile Henry Cerise Loaf Pan" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485780&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Enclume Hammered-Steel Rectangle Pot Rack">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-117.jpg" title="Enclume Hammered-Steel Rectangle Pot Rack" alt="Enclume Hammered-Steel Rectangle Pot Rack" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=469015&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-469015%2F&usg=AFHzDLsyU2aQk3Q18H1L7pHiFFe7N_8k-Q&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Emile Henry Cerise Loaf Pan">Emile Henry Cerise Loaf Pan</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485780&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Enclume Hammered-Steel Rectangle Pot Rack">Enclume Hammered-Steel Rectangle Pot Rack</a>
             </div>
             
             
@@ -3023,13 +3023,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-119.jpg" title="Kinetic Go Green Food Storage" alt="Kinetic Go Green Food Storage" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485705&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Muffin Pan">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-005.jpg" title="Platinum Professional Muffin Pan" alt="Platinum Professional Muffin Pan" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">Kinetic Go Green Food Storage</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485705&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Muffin Pan">Platinum Professional Muffin Pan</a>
             </div>
             
             
@@ -3062,13 +3062,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485762&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Power Advantage 7-Speed Hand Mixer">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-094.jpg" title="Cuisinart Power Advantage 7-Speed Hand Mixer" alt="Cuisinart Power Advantage 7-Speed Hand Mixer" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-041.jpg" title="Sur La Table Hard Anodized Nonstick Griddle" alt="Sur La Table Hard Anodized Nonstick Griddle" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485762&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Power Advantage 7-Speed Hand Mixer">Cuisinart Power Advantage 7-Speed Hand Mixer</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">Sur La Table Hard Anodized Nonstick Griddle</a>
             </div>
             
             
@@ -3103,13 +3103,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=588541&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-588541%2F&usg=AFHzDLs9aTDEMYu3v1pkfvDBP78dWVMW1w&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Brushed Stainless Steel Food Processor">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-087.jpg" title="Cuisinart Brushed Stainless Steel Food Processor" alt="Cuisinart Brushed Stainless Steel Food Processor" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485729&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Mauviel M'passion Copper Tarte Tatin">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-036.jpg" title="Mauviel M'passion Copper Tarte Tatin" alt="Mauviel M'passion Copper Tarte Tatin" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=588541&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-588541%2F&usg=AFHzDLs9aTDEMYu3v1pkfvDBP78dWVMW1w&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Brushed Stainless Steel Food Processor">Cuisinart Brushed Stainless Steel Food Processor</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485729&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Mauviel M'passion Copper Tarte Tatin">Mauviel M'passion Copper Tarte Tatin</a>
             </div>
             
             
@@ -3593,7 +3593,7 @@ http_interactions:
       			<div id="post-comment">
       				<h4 class="title">Your Rating &amp; Review</h4>
       				
-      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=E90E5504B885EFCC471717847664D73C.pa1_saveur" id="enewsletterform">
+      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=99A093393CA2FEFCE5690A93220510E4.pa2_saveur" id="enewsletterform">
       					<input type="hidden" name="destinationPage" value="/article/Recipes/Rainbow-Cookies#comments">
       					
       					<fieldset>
@@ -3813,7 +3813,7 @@ http_interactions:
       <div id="dart-tag-right1" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=8;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=7;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4579,7 +4579,7 @@ http_interactions:
       <div id="dart-tag-bottom" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=9;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=8;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4757,8 +4757,16 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/-/New-Years-Cocktails" title="Festive New Year's Cocktails">
-      								Festive New Year's...
+      								<li><a href="http://www.saveur.com/article/Recipes/Bacon-Wrapped-Dates-with-Almonds" title="Bacon Wrapped Dates with Almonds">
+      								Bacon Wrapped Dates with...
+      								</a></li>
+      	
+      	
+      
+      	
+      	
+      								<li><a href="http://www.saveur.com/article/Video/video-How-to-Peel-a-Head-of-Garlic-in-Less-Than-10-Seconds" title="VIDEO: How to Peel a Head of Garlic in Less Than 10 Seconds">
+      								VIDEO: How to Peel a Head...
       								</a></li>
       	
       	
@@ -4773,14 +4781,6 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Bacon-Wrapped-Dates-with-Almonds" title="Bacon Wrapped Dates with Almonds">
-      								Bacon Wrapped Dates with...
-      								</a></li>
-      	
-      	
-      
-      	
-      	
       								<li><a href="http://www.saveur.com/article/Recipes/Hot-Crab-Dip-with-Pita-Chips" title="Hot Crab Dip with Pita Chips">
       								Hot Crab Dip with Pita...
       								</a></li>
@@ -4789,16 +4789,16 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/-/Nonalcoholic-Drinks" title="Nonalcoholic Drinks">
-      								Nonalcoholic Drinks
+      								<li><a href="http://www.saveur.com/article/Recipes/Classic-Shaken-Margarita" title="Classic Shaken Margarita">
+      								Classic Shaken Margarita
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Classic-Shaken-Margarita" title="Classic Shaken Margarita">
-      								Classic Shaken Margarita
+      								<li><a href="http://www.saveur.com/article/Recipes/Fresh-Lime-Soda" title="Fresh Lime Soda">
+      								Fresh Lime Soda
       								</a></li>
       	
       	
@@ -5101,5 +5101,5 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Sun, 01 Jan 2012 19:57:15 GMT
+  recorded_at: Tue, 03 Jan 2012 08:55:50 GMT
 recorded_with: VCR 2.0.0.rc1
