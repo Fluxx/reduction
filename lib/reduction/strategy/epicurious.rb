@@ -38,8 +38,6 @@ module Reduction
         recipe('.summary_data .yield').text.collapse_whitespace
       end
 
-      private
-
       def recipe(further)
         doc.at('#recipe_detail_module').at(further)
       end
