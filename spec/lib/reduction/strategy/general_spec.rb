@@ -7,7 +7,7 @@ module Reduction
   class Strategy
 
     describe General do
-      use_vcr_cassette 'general'
+      use_vcr_cassette 'general', :re_record_interval => nil
 
       let(:url) { 'http://allthingssimpleblog.com/2011/11/22/earl-grey-latte-poor-mans-milk-foam/'}
       let(:html) { open(url).read }
@@ -32,9 +32,9 @@ module Reduction
           "http://lbrisbo.files.wordpress.com/2011/11/earlgrey1.jpg?w=490&h=326",
           "http://lbrisbo.files.wordpress.com/2011/11/earl-grey8.jpg?w=490&h=367",
           "http://lbrisbo.files.wordpress.com/2011/11/earl-grey10.jpg?w=490&h=367",
+          "http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=30&d=identicon&r=G",
           "http://0.gravatar.com/avatar/06455523222946a07e7cd5a76532c0a6?s=30&d=identicon&r=G",
-          "http://0.gravatar.com/avatar/6e680aa6d539cd762b87583cb921781c?s=30&d=identicon&r=G",
-          "http://1.gravatar.com/avatar/35a3837110051f80baa1eea5993ae576?s=30&d=identicon&r=G"
+          "http://0.gravatar.com/avatar/6e680aa6d539cd762b87583cb921781c?s=30&d=identicon&r=G"
         ]
       end
 
