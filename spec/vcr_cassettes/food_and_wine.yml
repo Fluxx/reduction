@@ -15,7 +15,7 @@ http_interactions:
       message: OK
     headers: 
       date: 
-      - Tue, 03 Jan 2012 08:54:50 GMT
+      - Fri, 06 Jan 2012 01:13:03 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -23,11 +23,11 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.563025"
+      - "0.508513"
       cache-control: 
       - max-age=300, public
       set-cookie: 
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMXJnYWd4QUxKaE1Eam1QRTk4dzBuNTlQSzJWSVZPcE9BL0RHa1lpc3ZueEU9Ig9zZXNzaW9uX2lkIiU0NDE4ZGVkNTYxNGNiNzg1ZjYzMjZjNTg0ODdiZTc5YQ%3D%3D--6683551b096c72798149dd48a9e1f92bcc2608bd; path=/; HttpOnly
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMVFyVHEvWUdtRXFTUk9sMGJWWkdzZ0VZR3Erc0tMbWROZlA4TzFZZVJJbFk9Ig9zZXNzaW9uX2lkIiVjMmI3Y2MwMDZkZGJlOTdhMzQyMmVjMTBiNzY3MTczMA%3D%3D--a001cb403bc39f367007643b51910f961d75db09; path=/; HttpOnly
       last-modified: 
       - Wed, 30 Nov 2011 18:58:32 GMT
       status: 
@@ -65,26 +65,26 @@ http_interactions:
        | Food &amp; Wine
       </title>
       <link href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet' type='text/css'>
-      <link href="/stylesheets/main.css?1325020350" media="screen" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/recipe.css?1325020350" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/main.css?1325781510" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/recipe.css?1325781510" media="screen" rel="stylesheet" type="text/css" />
       
-      <link href="/stylesheets/printer.css?1325020350" media="print" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/community.css?1325020350" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/community_new.css?1325020350" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_newsletter.css?1325020350" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_recipes.css?1325020350" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/printer.css?1325781510" media="print" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/community.css?1325781510" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/community_new.css?1325781510" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_newsletter.css?1325781510" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_recipes.css?1325781510" media="screen" rel="stylesheet" type="text/css" />
       
       <!--[if IE 7]>
       <link href='/css/ie7.css' rel='stylesheet' type='text/css'>
       <link href='/css/redesign.foodandwine/_printer-ie7.css' media='print' rel='stylesheet' type='text/css'>
       <![endif]-->
-      <script src="/javascripts/jquery.min.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/jquery_ujs.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/swfobject.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/foodandwine_new.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/privacy_popup.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/jquery.clearinput.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/community_login_check.js?1325020350" type="text/javascript"></script>
+      <script src="/javascripts/jquery.min.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/jquery_ujs.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/swfobject.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/foodandwine_new.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/privacy_popup.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/jquery.clearinput.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/community_login_check.js?1325781510" type="text/javascript"></script>
       <script src="http://img.timeinc.net/shared/static/js/tii_ads.js" type="text/javascript"></script>
       <script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t' type='text/javascript'></script>
       <script language='javascript' type='text/javascript'>
@@ -121,15 +121,15 @@ http_interactions:
       <!-- /FB.init("93ac89296316efd5d316caaa90bfbde4"); -->
       </script>
       
-      <script src="/javascripts/tabcontent.js?1325020350" type="text/javascript"></script>
+      <script src="/javascripts/tabcontent.js?1325781510" type="text/javascript"></script>
       
       <script type='text/javascript'>
       jQuery.noConflict();
       </script>
       </head>
       <body>
-      <script src="/javascripts/googleAnalytics.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/ga_social_tracking.js?1325020350" type="text/javascript"></script>
+      <script src="/javascripts/googleAnalytics.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/ga_social_tracking.js?1325781510" type="text/javascript"></script>
       <!--
       OMNITURE: DISPLAY BEGIN
       -->
@@ -154,8 +154,8 @@ http_interactions:
       }
       </script>
       </div>
-      <script src="/javascripts/_fw_track.js?1325020350" type="text/javascript"></script>
-      <script src="/javascripts/omniture_vars.js?1325020350" type="text/javascript"></script>
+      <script src="/javascripts/_fw_track.js?1325781510" type="text/javascript"></script>
+      <script src="/javascripts/omniture_vars.js?1325781510" type="text/javascript"></script>
       
       <!--
       Begin comScore Tag
@@ -303,7 +303,7 @@ http_interactions:
                     <a href='https://subscription.timeinc.com/storefront/link/1002188.html'>SUBSCRIBE</a>
                   </li>
                   <li>
-                    <a href='https://subscription.timeinc.com/storefront/link/1007268.html'>2 FOR 1 GIFT OFFER!</a>
+                    <a href='https://subscription.timeinc.com/storefront/link/1002341.html'>GIVE A GIFT</a>
                   </li>
                  </ul>
                 </div>
@@ -876,7 +876,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="rgagxALJhMDjmPE98w0n59PK2VIVOpOA/DGkYisvnxE=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="QrTq/YGmEqSROl0bVZGsgEYGq+sKLmdNfP8O1YeRIlY=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -934,7 +934,7 @@ http_interactions:
       <div>
       <input class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text' value='Enter your email address'>
       <a href='http://www.foodandwine.com/newsletters' target='_blank'></a>
-      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1325020350" type="image" value="Sign Up" />
+      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1325781510" type="image" value="Sign Up" />
       <input id="newsletter_source" name="newsletter[source]" type="hidden" value="CM TOUT" />
       </div>
       <div class='clear'></div>
@@ -1181,7 +1181,7 @@ http_interactions:
       <br>
       <span class='cwcolor'>Copyright &copy; 1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>
       <br>
-      3.30-ci
+      3.32-ci
       </p>
       </div>
       </div>
@@ -1261,11 +1261,11 @@ http_interactions:
       </div>
       </div>
       
-      <script src="/javascripts/universal_share_bar.js?1325020350" type="text/javascript"></script>
+      <script src="/javascripts/universal_share_bar.js?1325781510" type="text/javascript"></script>
       </div>
       </body>
       </html>
       
     http_version: "1.1"
-  recorded_at: Tue, 03 Jan 2012 08:54:50 GMT
+  recorded_at: Fri, 06 Jan 2012 01:13:04 GMT
 recorded_with: VCR 2.0.0.rc1
