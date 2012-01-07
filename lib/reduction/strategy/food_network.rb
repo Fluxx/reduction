@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('.rcp-head h1.fn').text
+        text_at('.rcp-head h1.fn')
       end
 
       def ingredients

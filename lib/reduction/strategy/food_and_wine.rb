@@ -14,7 +14,7 @@ module Reduction
       end
 
       def title
-        doc.at('.recipe-info h1[itemprop=name]').text.collapse_whitespace
+        text_at('.recipe-info h1[itemprop=name]').collapse_whitespace
       end
 
       def ingredients
@@ -28,7 +28,7 @@ module Reduction
       end
 
       def yields
-        doc.at('#time-servings strong').text.collapse_whitespace + ' servings'
+        text_at('#time-servings strong').collapse_whitespace + ' servings'
       end
 
       def cook_time
@@ -36,7 +36,7 @@ module Reduction
       end
 
       def total_time
-        doc.at('#time-total strong').text.collapse_whitespace.downcase
+        text_at('#time-total strong').collapse_whitespace.downcase
       end
 
       def notes

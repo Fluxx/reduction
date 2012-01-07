@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('.title-section h1').text
+        text_at('.title-section h1')
       end
 
       def ingredients
@@ -24,18 +24,18 @@ module Reduction
       end
 
       def yields
-        recipe_info.at('li.yield').text.gsub(/Yield/, '').strip
+        text_at('.recipe-info li.yield').gsub(/Yield/, '').strip
       end
 
       def prep_time
-        recipe_info.at('.preptime').text.strip
+        text_at('.recipe-info .preptime').strip
       end
 
       def cook_time
       end
 
       def total_time
-        recipe_info.at('.duration').text.strip
+        text_at('.recipe-info .duration')
       end
 
       def images
@@ -49,10 +49,6 @@ module Reduction
       end
 
       private
-
-      def recipe_info
-        doc.at('.recipe-info')
-      end
 
       def raw_ingredients
         doc.search('.ingredients li').map(&:text).map(&:collapse_whitespace)

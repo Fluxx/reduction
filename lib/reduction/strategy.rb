@@ -62,5 +62,9 @@ module Reduction
       end.uniq
     end
 
+    def text_at(selector)
+      doc.at(selector).text
+    end
+
   end
 end
