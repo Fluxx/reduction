@@ -7,7 +7,7 @@ shared_examples_for "a strategy" do |type|
 
   all_methods.each do |method|
 
-    it "should not raise an exeption when calling ##{method}" do
+    it "does not raise an exeption when calling ##{method}" do
       expect {
         subject.send(method)
       }.to_not raise_exception
@@ -16,19 +16,19 @@ shared_examples_for "a strategy" do |type|
   end
 
   %w[title yields].each do |method|
-    it "should return a string for ##{method}" do
+    it "returns a string for ##{method}" do
       subject.send(method).should be_a(String)
     end
   end
 
   list_methods.each do |method|
-    it "should return an array of objects that respond to :each ##{method}" do
+    it "returns an array of objects that respond to :each ##{method}" do
       subject.send(method).each do |element|
         element.should respond_to(:each)
       end
     end
 
-    it "should return an array of objects that respond to :name" do
+    it "returns an array of objects that respond to :name" do
       subject.send(method).each do |element|
         element.should respond_to(:name)
       end
@@ -57,7 +57,7 @@ end
 %w[title ingredients steps yields prep_time cook_time
    total_time images notes body].each do |method|
   shared_examples_for "#{method}" do |property|
-    it "should return the correct #{method}" do
+    it "returns the correct #{method}" do
       subject.send(method).should == property
     end
   end
