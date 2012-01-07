@@ -21,11 +21,11 @@ http_interactions:
       content-type: 
       - text/html; charset=ISO-8859-1
       cache-control: 
-      - private, max-age=600
+      - private, max-age=599
       expires: 
-      - Fri, 06 Jan 2012 01:27:04 GMT
+      - Sat, 07 Jan 2012 01:44:23 GMT
       date: 
-      - Fri, 06 Jan 2012 01:17:04 GMT
+      - Sat, 07 Jan 2012 01:34:24 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -135,5 +135,5 @@ http_interactions:
       </body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 01:17:04 GMT
+  recorded_at: Sat, 07 Jan 2012 01:34:24 GMT
 recorded_with: VCR 2.0.0.rc1

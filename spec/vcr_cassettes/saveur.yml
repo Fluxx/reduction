@@ -16,22 +16,22 @@ http_interactions:
     headers: 
       server: 
       - Apache
+      content-language: 
+      - en,en-us
       x-server-name: 
-      - web1b D=133861
+      - web1b D=1149431
       vary: 
       - User-Agent,Accept-Encoding
       content-type: 
       - text/html;charset=ISO-8859-1
-      content-language: 
-      - en
       cache-control: 
       - max-age = 300
       content-length: 
-      - "100867"
+      - "100785"
       date: 
-      - Fri, 06 Jan 2012 01:17:04 GMT
+      - Sat, 07 Jan 2012 01:34:27 GMT
       x-varnish: 
-      - "930290929"
+      - "814628054"
       via: 
       - 1.1 varnish
       connection: 
@@ -39,7 +39,7 @@ http_interactions:
       age: 
       - "0"
       x-cache: 
-      - "webcache11: MISS"
+      - "webcache12: MISS"
     body: |+
       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -155,8 +155,8 @@ http_interactions:
       
       
         
-        
           
+        
         
       
       
@@ -227,7 +227,7 @@ http_interactions:
           
             <div class="circ-image">
             <a href="https://saveur.bonniersubscriptions.com/HAD0-001/" _blank title="Saveur Cover Image">
-              <img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" border="0" alt="Saveur Cover Image"/>
+              <img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" border="0" alt="Saveur Cover Image"/>
             </a>
             </div>
             
@@ -238,16 +238,16 @@ http_interactions:
               
               
                 
+                
                   
                   
                     <div class="circ-links">
                       <a class="test" href="https://saveur.bonniersubscriptions.com/HAD0-001/"  title="Subscribe now">
-                        <img src="http://www2.worldpub.net/images/saveurmag/633-subscribe-testA.png" border="0" alt="Subscribe now"/>
+                        <img src="http://www2.worldpub.net/images/saveurmag/633-subscribe-testB.png" border="0" alt="Subscribe now"/>
                       </a>
                     </div>
                     
                   
-                
                 
               
             
@@ -2945,13 +2945,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-004.jpg" title="Platinum Professional Bakeware" alt="Platinum Professional Bakeware" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=24522&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-24522%2F&usg=AFHzDLsBWZxbp0NTE3QO5trjVE4-8-HJbQ&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kuhn Rikon Anniversary Pressure Cooker">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-043.jpg" title="Kuhn Rikon Anniversary Pressure Cooker" alt="Kuhn Rikon Anniversary Pressure Cooker" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">Platinum Professional Bakeware</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=24522&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-24522%2F&usg=AFHzDLsBWZxbp0NTE3QO5trjVE4-8-HJbQ&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kuhn Rikon Anniversary Pressure Cooker">Kuhn Rikon Anniversary Pressure Cooker</a>
             </div>
             
             
@@ -2984,13 +2984,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485791&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Weber Performer Grill">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-130.jpg" title="Weber Performer Grill" alt="Weber Performer Grill" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485765&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Spice & Nut Grinder">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-099.jpg" title="Cuisinart Spice & Nut Grinder" alt="Cuisinart Spice & Nut Grinder" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485791&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Weber Performer Grill">Weber Performer Grill</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485765&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Spice & Nut Grinder">Cuisinart Spice & Nut Grinder</a>
             </div>
             
             
@@ -3023,13 +3023,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-119.jpg" title="Kinetic Go Green Food Storage" alt="Kinetic Go Green Food Storage" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485796&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisipro Stainless Steel Measuring Cups">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-136.jpg" title="Cuisipro Stainless Steel Measuring Cups" alt="Cuisipro Stainless Steel Measuring Cups" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">Kinetic Go Green Food Storage</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485796&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisipro Stainless Steel Measuring Cups">Cuisipro Stainless Steel Measuring Cups</a>
             </div>
             
             
@@ -3062,13 +3062,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-041.jpg" title="Sur La Table Hard Anodized Nonstick Griddle" alt="Sur La Table Hard Anodized Nonstick Griddle" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485766&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="DeLonghi Dual Zone Deep Fryer">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-100.jpg" title="DeLonghi Dual Zone Deep Fryer" alt="DeLonghi Dual Zone Deep Fryer" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">Sur La Table Hard Anodized Nonstick Griddle</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485766&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="DeLonghi Dual Zone Deep Fryer">DeLonghi Dual Zone Deep Fryer</a>
             </div>
             
             
@@ -3103,13 +3103,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=565440&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-565440%2F&usg=AFHzDLt2YcF5ezUcFUMV7iZTPozoAdqHsw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Capresso Stainless Steel Finish Infinity Burr Grinder">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-086.jpg" title="Capresso Stainless Steel Finish Infinity Burr Grinder" alt="Capresso Stainless Steel Finish Infinity Burr Grinder" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-004.jpg" title="Platinum Professional Bakeware" alt="Platinum Professional Bakeware" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=565440&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-565440%2F&usg=AFHzDLt2YcF5ezUcFUMV7iZTPozoAdqHsw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Capresso Stainless Steel Finish Infinity Burr Grinder">Capresso Stainless Steel Finish Infinity Burr Grinder</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">Platinum Professional Bakeware</a>
             </div>
             
             
@@ -3593,7 +3593,7 @@ http_interactions:
       			<div id="post-comment">
       				<h4 class="title">Your Rating &amp; Review</h4>
       				
-      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=1F58E97FFB46BA08B3851EFB0C838677.pa2_saveur" id="enewsletterform">
+      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=47A2C1B45FC8DE9076DECB42D21D46CA.pa1_saveur" id="enewsletterform">
       					<input type="hidden" name="destinationPage" value="/article/Recipes/Rainbow-Cookies#comments">
       					
       					<fieldset>
@@ -3813,7 +3813,7 @@ http_interactions:
       <div id="dart-tag-right1" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=7;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=8;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4359,7 +4359,7 @@ http_interactions:
       							<div class="subscribe-tools">
       							
       								<div class="subscribe-image">
-      									<a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" alt="In This Issue" /></a>
+      									<a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" alt="In This Issue" /></a>
       								</div>
       							
       								<div class="subscribe-links">
@@ -4373,7 +4373,7 @@ http_interactions:
       										
       											<li><a href="/wheretobuy.jsp"  title="Featured Retailers">Featured Retailers</a></li>
       										
-      										<li class="last"><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110"  title="In This Issue">In This Issue</a></li>
+      										<li class="last"><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201"  title="In This Issue">In This Issue</a></li>
       									</ul>
       								</div>
       								<div class="clear"></div>
@@ -4579,7 +4579,7 @@ http_interactions:
       <div id="dart-tag-bottom" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=8;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=9;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4644,7 +4644,7 @@ http_interactions:
       			<div id="current-issue-links2">
       				<h3 class="title">Current Issue</h3>
       				<ul>
-      					<li><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110" title="In This Issue">In This Issue</a></li>
+      					<li><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201" title="In This Issue">In This Issue</a></li>
       					
       						<li><a href="https://saveur.bonniersubscriptions.com/HAD0-021/" target='_blank' title="Subscribe Today">Subscribe Today</a></li>
       					
@@ -4652,7 +4652,7 @@ http_interactions:
       			</div>
       		
       			<div id="current-issue-image2">
-      				<a href="https://saveur.bonniersubscriptions.com/HAD0-021/" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" alt="In This Issue" /></a>
+      				<a href="https://saveur.bonniersubscriptions.com/HAD0-021/" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" alt="In This Issue" /></a>
       			</div>
       		
       			<div class="clear"></div>
@@ -4733,8 +4733,8 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Menu/A-Comforting-Mexican-Dinner" title="A Cold-Weather Mexican Feast">
-      								A Cold-Weather Mexican...
+      								<li><a href="http://www.saveur.com/article/siteswelove/Sites-We-Love-A-Cozy-Kitchen" title="Sites We Love: A Cozy Kitchen">
+      								Sites We Love: A Cozy...
       								</a></li>
       	
       	
@@ -4749,16 +4749,16 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Country-Captain" title="Country Captain">
-      								Country Captain
+      								<li><a href="http://www.saveur.com/article/Recipes/Vegetarian-Chili" title="Vegetarian Chili">
+      								Vegetarian Chili
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/-/Mexican-Comfort-Food" title="Mexican Comfort Food">
-      								Mexican Comfort Food
+      								<li><a href="http://www.saveur.com/article/Menu/A-Comforting-Mexican-Dinner" title="A Cold-Weather Mexican Feast">
+      								A Cold-Weather Mexican...
       								</a></li>
       	
       	
@@ -4773,6 +4773,14 @@ http_interactions:
       
       	
       	
+      								<li><a href="http://www.saveur.com/article/-/Mexican-Comfort-Food" title="Mexican Comfort Food">
+      								Mexican Comfort Food
+      								</a></li>
+      	
+      	
+      
+      	
+      	
       								<li><a href="http://www.saveur.com/article/Travels/Road-Food-James-Beard" title="Larger Than Life: Remembering James Beard">
       								Larger Than Life:...
       								</a></li>
@@ -4781,8 +4789,8 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Travels/Mexico-Feeds-Me" title="Mexico Feeds Me: Exploring Mexico's Culinary Heritage">
-      								Mexico Feeds Me:...
+      								<li><a href="http://www.saveur.com/article/Recipes/Country-Captain" title="Country Captain">
+      								Country Captain
       								</a></li>
       	
       	
@@ -4791,14 +4799,6 @@ http_interactions:
       	
       								<li><a href="http://www.saveur.com/article/-/Wholesome-Recipes" title="20 Wholesome Recipes">
       								20 Wholesome Recipes
-      								</a></li>
-      	
-      	
-      
-      	
-      	
-      								<li><a href="http://www.saveur.com/article/One-Good-Find/Magnetic-Knife-Holder" title="Magnetic Knife Holder">
-      								Magnetic Knife Holder
       								</a></li>
       	
       	
@@ -5101,5 +5101,5 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 01:17:07 GMT
+  recorded_at: Sat, 07 Jan 2012 01:34:29 GMT
 recorded_with: VCR 2.0.0.rc1

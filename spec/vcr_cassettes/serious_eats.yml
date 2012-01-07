@@ -15,11 +15,11 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "0"
+      - "2"
       content-type: 
       - text/html
       date: 
-      - Fri, 06 Jan 2012 04:02:17 GMT
+      - Sat, 07 Jan 2012 01:36:54 GMT
       etag: 
       - "\"1d758e-107c1-4b5c1d48a6d80\""
       last-modified: 
@@ -31,7 +31,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - "139156958"
+      - 144970043 144969860
       content-length: 
       - "67521"
       connection: 
@@ -494,7 +494,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 04:02:17 GMT
+  recorded_at: Sat, 07 Jan 2012 01:36:54 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/mushroom-lasagna-recipe.html?ref=box_featured
@@ -510,11 +510,11 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "0"
+      - "76"
       content-type: 
       - text/html
       date: 
-      - Fri, 06 Jan 2012 04:14:21 GMT
+      - Sat, 07 Jan 2012 01:38:10 GMT
       etag: 
       - "\"d4ce3-ffd8-4b5c1dee97500\""
       last-modified: 
@@ -526,7 +526,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - "139214699"
+      - 144977121 144970116
       content-length: 
       - "65496"
       connection: 
@@ -1912,7 +1912,7 @@ http_interactions:
       </body>
       </html>
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 04:14:22 GMT
+  recorded_at: Sat, 07 Jan 2012 01:38:11 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/serious-eats-corned-beef-hash-recipe.html?ref=box_featured
@@ -1932,7 +1932,7 @@ http_interactions:
       content-type: 
       - text/html
       date: 
-      - Fri, 06 Jan 2012 04:15:56 GMT
+      - Sat, 07 Jan 2012 01:38:11 GMT
       etag: 
       - "\"d4991-1095d-4b5c1d8b68b00\""
       last-modified: 
@@ -1944,7 +1944,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - "139221752"
+      - "144977197"
       content-length: 
       - "67933"
       connection: 
@@ -2410,5 +2410,5 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 04:15:56 GMT
+  recorded_at: Sat, 07 Jan 2012 01:38:12 GMT
 recorded_with: VCR 2.0.0.rc1
