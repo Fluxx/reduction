@@ -17,23 +17,23 @@ http_interactions:
       server: 
       - Apache/2.2.3 (Red Hat)
       content-length: 
-      - "103238"
+      - "103242"
       content-type: 
       - text/html;charset=UTF-8
       set-cookie: 
-      - JSESSIONID=5cd3e461099f66bc5ea973290aba.foodweb01i1; Path=/
+      - JSESSIONID=ed581206d62be008eb6993924721.foodweb02i1; Path=/
       x-powered-by: 
       - JSP/2.1
       x-cnection: 
       - close
       expires: 
-      - Sat, 07 Jan 2012 01:34:14 GMT
+      - Sun, 08 Jan 2012 19:39:50 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Sat, 07 Jan 2012 01:34:14 GMT
+      - Sun, 08 Jan 2012 19:39:50 GMT
       connection: 
       - keep-alive
     body: "\r\n\
@@ -310,7 +310,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/05/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/07/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -668,7 +668,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/05/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/07/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -1017,7 +1017,7 @@ http_interactions:
       <input type=\"hidden\" id=\"globalAssetId\" value=\"292214\"></input>\r\n\
       <input type=\"hidden\" id=\"globalAssetType\" value=\"1\"></input>\r\n\
       \r\n\
-      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@12ebced -->\r\n\
+      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@1b55025 -->\r\n\
       <div id=\"site-wrapper\" class=\"recipe-details\">\r\n\
       \t\r\n\
       \r\n\
@@ -1150,7 +1150,7 @@ http_interactions:
       \t<a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/photo\"  ><span>Photos<em>(2)</em></span></a>\r\n\
       </li>\r\n\
       </ul>\r\n\
-      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@12ebced -->\r\n\
+      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@1b55025 -->\r\n\
       \r\n\
       \t\t\t\t\t\r\n\
       \t\t<div class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\
@@ -1524,7 +1524,7 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n\
-      <h2 class=\"hd\">Browse Our Top <a id=\"brtoprec\" href=\"http://www.food.com/recipes/cocktails\">Cocktail</a> Recipes</h2>\r\n    <ul class=\"colList clrfix\" id =\"bmrec\">\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margaritas-93338\" rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/93/33/8/thumbs/picsGj0c7.jpg\" title=\"Frozen Margaritas. Recipe by Lauriew\" alt=\"Frozen Margaritas. Recipe by Lauriew\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margaritas-93338\" rel=\"bmr-0\">Frozen Margaritas</a></p>\r\n                  <small>By Lauriew</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\" rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/31/23/18/thumbs/picYDq0uO.jpg\" title=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\" alt=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\" rel=\"bmr-1\">Frozen Watermelon Margarita With Tarragon-Salt Rim</a></p>\r\n                  <small>By CaliforniaJan</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/30/05/53/thumbs/pic6X0H8M.jpg\" title=\"Frozen Margarita Punch. Recipe by CIndytc\" alt=\"Frozen Margarita Punch. Recipe by CIndytc\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-2\">Frozen Margarita Punch</a></p>\r\n                  <small>By CIndytc</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\" rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/22/39/66/thumbs/pic4YVud6.jpg\" title=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\" alt=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\" rel=\"bmr-3\">Frozen Watermelon Margaritas for a Crowd</a></p>\r\n                  <small>By justcallmetoni</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n    </ul>\r\n\
+      <h2 class=\"hd\">Browse Our Top <a id=\"brtoprec\" href=\"http://www.food.com/recipes/cocktails\">Cocktail</a> Recipes</h2>\r\n    <ul class=\"colList clrfix\" id =\"bmrec\">\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\" rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/22/39/66/thumbs/pic4YVud6.jpg\" title=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\" alt=\"Frozen Watermelon Margaritas for a Crowd. Recipe by justcallmetoni\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-for-a-crowd-223966\" rel=\"bmr-0\">Frozen Watermelon Margaritas for a Crowd</a></p>\r\n                  <small>By justcallmetoni</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066\" rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/31/70/66/thumbs/picK1E3yl.jpg\" title=\"Frozen Strawberry Margaritas. Recipe by misscrys79\" alt=\"Frozen Strawberry Margaritas. Recipe by misscrys79\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066\" rel=\"bmr-1\">Frozen Strawberry Margaritas</a></p>\r\n                  <small>By misscrys79</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\" rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/31/23/18/thumbs/picYDq0uO.jpg\" title=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\" alt=\"Frozen Watermelon Margarita With Tarragon-Salt Rim. Recipe by CaliforniaJan\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-watermelon-margarita-with-tarragon-salt-rim-312318\" rel=\"bmr-2\">Frozen Watermelon Margarita With Tarragon-Salt Rim</a></p>\r\n                  <small>By CaliforniaJan</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/30/05/53/thumbs/pic6X0H8M.jpg\" title=\"Frozen Margarita Punch. Recipe by CIndytc\" alt=\"Frozen Margarita Punch. Recipe by CIndytc\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-3\">Frozen Margarita Punch</a></p>\r\n                  <small>By CIndytc</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n    </ul>\r\n\
       \r\n\
       \t\t\t\t\t  \r\n\
       \r\n\
@@ -1838,10 +1838,10 @@ http_interactions:
       \t\t\t\t\t\t\t<div class=\"pod next-recipe clrfix\">\r\n\
       \t\t\t\t\t\t\t\t<h4>Next Recipe</h4>\r\n\
       \t\t\t\t\t\t\t\t\t<div class=\"bd clrfix\">\r\n\
-      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-cranberry-margaritas-125256','125256');\" rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/12/52/56/thumbs/piczQbVRf.jpg\" alt=\"Frozen Cranberry Margaritas. Recipe by Shirl (J) 831\" title=\"Frozen Cranberry Margaritas. Recipe by Shirl (J) 831\" width=\"92\" height=\"69\" /></a>\r\n\
+      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://mexican.food.com/recipe/frozen-mango-margarita-234474','234474');\" rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/23/44/74/thumbs/picLRa2lO.jpg\" alt=\"Frozen Mango Margarita. Recipe by English_Rose\" title=\"Frozen Mango Margarita. Recipe by English_Rose\" width=\"92\" height=\"69\" /></a>\r\n\
       \t\t\t\t\t\t\t\t\t\t<div class=\"cont\">\r\n\
-      \t\t\t\t\t\t\t\t\t\t\t<p><a id=\"nxt-recipe-txt\" href=\"http://www.food.com/recipe/frozen-cranberry-margaritas-125256\" rel=\"nrt-1\">Frozen Cranberry Margaritas</a></p>\r\n\
-      \t\t\t\t\t\t\t\t\t\t\t<small>By <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/Shirl-J-831/style.esi?member_id=82616\">Shirl (J) 831</a></small>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t<p><a id=\"nxt-recipe-txt\" href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\" rel=\"nrt-1\">Frozen Mango Margarita</a></p>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t<small>By <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/English_Rose/style.esi?member_id=287420\">English_Rose</a></small>\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\t\t\t<span class=\"inline-rating small\">\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"star-rating\">\r\n\
@@ -1850,7 +1850,7 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\t\t</div>\r\n\
-      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-cranberry-margaritas-125256','125256');\" rel=\"nr-1\"><em></em></a>\r\n\
+      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://mexican.food.com/recipe/frozen-mango-margarita-234474','234474');\" rel=\"nr-1\"><em></em></a>\r\n\
       \t\t\t\t\t\t\t\t\t</div>\r\n\
       \t\t\t\t\t\t\t\t\t<small><a href=\"http://www.food.com/recipes/cocktails\" id=\"ViewAllRecipe\">View All Cocktail Recipes</a></small>\r\n\
       \t\t\t\t\t\t\t</div>\r\n\
@@ -2055,10 +2055,10 @@ http_interactions:
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;li class=\"last store-item\"&gt;\n\
-      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=311974&amp;CCAID=CBFO311974\" title=\"Fox Run Craftsmen Cocktail Serving Platter Set\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/311974.jpg\" width=\"120\" height=\"90\" alt=\"Fox Run Craftsmen Cocktail Serving Platter Set\"&gt;&lt;/a&gt;\n\
+      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=602254&amp;CCAID=CBFO602254\" title=\"WMF USA Manhattan Cocktail Shaker\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/602254.jpg\" width=\"120\" height=\"90\" alt=\"WMF USA Manhattan Cocktail Shaker\"&gt;&lt;/a&gt;\n\
       &lt;div class=\"item-info\"&gt;\n\
-      &lt;a class=\"item-description\" target=\"_blank\" title=\"Fox Run Craftsmen Cocktail Serving Platter Set\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=311974&amp;CCAID=CBFO311974\" rel=\"fns-2\"&gt;Fox Run Craftsmen Cocktail Serving Platter Set&lt;/a&gt;\n\
-      &lt;p class=\"price\"&gt;$49.99&lt;/p&gt;\n\
+      &lt;a class=\"item-description\" target=\"_blank\" title=\"WMF USA Manhattan Cocktail Shaker\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=602254&amp;CCAID=CBFO602254\" rel=\"fns-2\"&gt;WMF USA Manhattan Cocktail Shaker&lt;/a&gt;\n\
+      &lt;p class=\"price\"&gt;$42.99&lt;/p&gt;\n\
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;/ul&gt;\n\
@@ -2518,7 +2518,7 @@ http_interactions:
       \r\n\
       \r\n"
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:34:14 GMT
+  recorded_at: Sun, 08 Jan 2012 19:39:50 GMT
 - request: 
     method: get
     uri: http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256
@@ -2536,23 +2536,23 @@ http_interactions:
       server: 
       - Apache/2.2.3 (Red Hat)
       content-length: 
-      - "115221"
+      - "115171"
       content-type: 
       - text/html;charset=UTF-8
       set-cookie: 
-      - JSESSIONID=5cd423128385d0f8fdb708035986.foodweb03i1; Path=/
+      - JSESSIONID=ed66f8318f84f910f8d8f4fbcad4.foodweb02i1; Path=/
       x-powered-by: 
       - JSP/2.1
       x-cnection: 
       - close
       expires: 
-      - Sat, 07 Jan 2012 01:34:15 GMT
+      - Sun, 08 Jan 2012 19:40:51 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Sat, 07 Jan 2012 01:34:15 GMT
+      - Sun, 08 Jan 2012 19:40:51 GMT
       connection: 
       - keep-alive
     body: "\r\n\
@@ -2829,7 +2829,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/05/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/07/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -3187,7 +3187,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/05/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/07/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -3536,7 +3536,7 @@ http_interactions:
       <input type=\"hidden\" id=\"globalAssetId\" value=\"67256\"></input>\r\n\
       <input type=\"hidden\" id=\"globalAssetType\" value=\"1\"></input>\r\n\
       \r\n\
-      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@8c8ee2 -->\r\n\
+      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@16f5197 -->\r\n\
       <div id=\"site-wrapper\" class=\"recipe-details\">\r\n\
       \t\r\n\
       \r\n\
@@ -3675,7 +3675,7 @@ http_interactions:
       \t<a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\"  ><span>Photos<em>(97)</em></span></a>\r\n\
       </li>\r\n\
       </ul>\r\n\
-      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@8c8ee2 -->\r\n\
+      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@16f5197 -->\r\n\
       \r\n\
       \t\t\t\t\t\r\n\
       \t\t<div class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\
@@ -4333,11 +4333,11 @@ http_interactions:
       \t    \r\n\
       \t\t\t<ul class=\"list\">\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/occasion-cake\" rel=\"rc-5\">Occasion Cake</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/strawberry-cake\" rel=\"rc-5\">Strawberry Cake</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\r\n\
       \t    \r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/occasion-cakes\" rel=\"rc-6\">Occasion Cakes</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/ice-cream-cake\" rel=\"rc-6\">Ice Cream Cake</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t</ul>\r\n\
       \t\t\t\r\n\
@@ -4823,17 +4823,17 @@ http_interactions:
       &lt;div class=\"bd clrfix\"&gt;\n\
       &lt;ul class=\"list-store-item\"&gt;\n\
       &lt;li class=\"first store-item\"&gt;\n\
-      &lt;a rel=\"fns-1\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=155770&amp;CCAID=CBFO155770\" title=\"Wilton Cake Decorating Caddy and Tools\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/155770.jpg\" width=\"120\" height=\"90\" alt=\"Wilton Cake Decorating Caddy and Tools\"&gt;&lt;/a&gt;\n\
+      &lt;a rel=\"fns-1\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=135043&amp;CCAID=CBFO135043\" title=\"Wilton Cake Decorating Set\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/135043.jpg\" width=\"120\" height=\"90\" alt=\"Wilton Cake Decorating Set\"&gt;&lt;/a&gt;\n\
       &lt;div class=\"item-info\"&gt;\n\
-      &lt;a class=\"item-description\" target=\"_blank\" title=\"Wilton Cake Decorating Caddy and Tools\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=155770&amp;CCAID=CBFO155770\" rel=\"fns-1\"&gt;Wilton Cake Decorating Caddy and Tools&lt;/a&gt;\n\
-      &lt;p class=\"price\"&gt;$61.95&lt;/p&gt;\n\
+      &lt;a class=\"item-description\" target=\"_blank\" title=\"Wilton Cake Decorating Set\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=135043&amp;CCAID=CBFO135043\" rel=\"fns-1\"&gt;Wilton Cake Decorating Set&lt;/a&gt;\n\
+      &lt;p class=\"price\"&gt;$32.95&lt;/p&gt;\n\
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;li class=\"last store-item\"&gt;\n\
-      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=382562&amp;CCAID=CBFO382562\" title=\"Granite Ware Square Cake Pan\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/382562.jpg\" width=\"120\" height=\"90\" alt=\"Granite Ware Square Cake Pan\"&gt;&lt;/a&gt;\n\
+      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=243535&amp;CCAID=CBFO243535\" title=\"Calphalon Covered Cake Pan\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/243535.jpg\" width=\"120\" height=\"90\" alt=\"Calphalon Covered Cake Pan\"&gt;&lt;/a&gt;\n\
       &lt;div class=\"item-info\"&gt;\n\
-      &lt;a class=\"item-description\" target=\"_blank\" title=\"Granite Ware Square Cake Pan\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=382562&amp;CCAID=CBFO382562\" rel=\"fns-2\"&gt;Granite Ware Square Cake Pan&lt;/a&gt;\n\
-      &lt;p class=\"price\"&gt;$11.99&lt;/p&gt;\n\
+      &lt;a class=\"item-description\" target=\"_blank\" title=\"Calphalon Covered Cake Pan\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=243535&amp;CCAID=CBFO243535\" rel=\"fns-2\"&gt;Calphalon Covered Cake Pan&lt;/a&gt;\n\
+      &lt;p class=\"price\"&gt;$24.95&lt;/p&gt;\n\
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;/ul&gt;\n\
@@ -5293,5 +5293,5 @@ http_interactions:
       \r\n\
       \r\n"
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:34:15 GMT
+  recorded_at: Sun, 08 Jan 2012 19:40:52 GMT
 recorded_with: VCR 2.0.0.rc1

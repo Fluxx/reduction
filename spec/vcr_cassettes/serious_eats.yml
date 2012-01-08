@@ -15,15 +15,15 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "2"
+      - "81"
       content-type: 
       - text/html
       date: 
-      - Sat, 07 Jan 2012 01:36:54 GMT
+      - Sun, 08 Jan 2012 19:43:43 GMT
       etag: 
-      - "\"1d758e-107c1-4b5c1d48a6d80\""
+      - "\"2063b2-107f4-4b5e8ccfcc3c0\""
       last-modified: 
-      - Thu, 05 Jan 2012 06:13:26 GMT
+      - Sat, 07 Jan 2012 04:43:03 GMT
       server: 
       - Apache/2.2.14 (Ubuntu)
       vary: 
@@ -31,9 +31,9 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - 144970043 144969860
+      - 154061309 154053975
       content-length: 
-      - "67521"
+      - "67572"
       connection: 
       - keep-alive
     body: "<!DOCTYPE html>\n\n\
@@ -47,7 +47,7 @@ http_interactions:
       \t\n\n\
       \t\n\n\n\
       \t<script src=\"http://static.seriouseats.com/js/jquery.min.js\"></script>\n\n\
-      \t<script src=\"http://static.seriouseats.com/serious_eats/js/mt-site.js?20120105011326\" type=\"text/javascript\"></script>\n\
+      \t<script src=\"http://static.seriouseats.com/serious_eats/js/mt-site.js?20120106234303\" type=\"text/javascript\"></script>\n\
       \t\n\
       \t<script src=\"http://static.seriouseats.com/js/jquery.tools.scroll.min.js\" type=\"text/javascript\" charset=\"utf-8\"></script>\n\
       \t<script src=\"http://static.seriouseats.com/js/jquery.accordion.min.js\" type=\"text/javascript\"></script>\n\
@@ -119,7 +119,7 @@ http_interactions:
       <script src=\"http://static.seriouseats.com/js/date.js\" type=\"text/javascript\"></script>\n\
       <script src=\"http://static.seriouseats.com/js/pagination.js\" type=\"text/javascript\">\n\
       </script>\n\n\n\n\n\n\n\
-      <script src=\"http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne-comments.js?20120105011326\" type=\"text/javascript\"></script>\n\n\
+      <script src=\"http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne-comments.js?20120106234303\" type=\"text/javascript\"></script>\n\n\
       <script type=\"text/javascript\">\n  \tvar commentsJSLoaded = false;\n  \tvar commentsDisplayed = false;\n  \tvar commentCount = '';\n  \tvar commentCountText = '';\n  \tvar intervalID = 0;\n  \tvar numCommentsPerPage = 100;\n  \t//100;\n\n  \t// For printing comments with Recipe posts   \n  \tvar recipeCommentsToInclude = new Array(); \n  \tvar jumpToTopOfComments = true;\n    \n  \tif (numComments > 0) {\n\
       \t\tcommentCount = numComments + \" Comment\";\n        if (numComments > 1) {\n              commentCount += \"s\";\n        }\n   \t} else {\n        commentCount = \"Post a Comment\";\n   \t}\n\
       \t  \n\n      commentCountText = '<a href=\"http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne.html#comments\"  class=\"commentCount\">';\n      commentCountText += commentCount + '</a>';               \n\n\n\n      commentsJSLoaded = true;\n\
@@ -197,7 +197,7 @@ http_interactions:
       });\n\
       </script>\n\n\n\
       <!--\n\
-      <PageMap>\n     <DataObject type=\"document\">\n        <Attribute name=\"title\">Real Texas Chili Con Carne</Attribute>\n        <Attribute name=\"author\">J. Kenji L\xC3\xB3pez-Alt</Attribute>\n        <Attribute name=\"description\">This makes for a moderately hot to hot chili. You can vary the heat by adding or removing the hot chilies and the canned chipotles.</Attribute>\n        <Attribute name=\"post_date\">Nov 09, 2011</Attribute>\n        <Attribute name=\"entry_id\">178694</Attribute>\n        <Attribute name=\"num_favorites\">43</Attribute>\n        <Attribute name=\"num_comments\">11</Attribute>\n        <Attribute name=\"recipe_rating\"></Attribute>\n     </DataObject>\n     <DataObject type=\"thumbnail\">\n        <Attribute name=\"src\" value=\"http://www.seriouseats.com/recipes/assets_c/2011/11/20111108-beef-texas-chili-con-carne-primary-thumb-100xauto-198254.jpg\" />\n        <Attribute name=\"width\" value=\"100\" />\n        <Attribute name=\"height\" value=\"75\" />\n     </DataObject>\n  </PageMap>\n\
+      <PageMap>\n     <DataObject type=\"document\">\n        <Attribute name=\"title\">Real Texas Chili Con Carne</Attribute>\n        <Attribute name=\"author\">J. Kenji L\xC3\xB3pez-Alt</Attribute>\n        <Attribute name=\"description\">This makes for a moderately hot to hot chili. You can vary the heat by adding or removing the hot chilies and the canned chipotles.</Attribute>\n        <Attribute name=\"post_date\">Nov 09, 2011</Attribute>\n        <Attribute name=\"entry_id\">178694</Attribute>\n        <Attribute name=\"num_favorites\">44</Attribute>\n        <Attribute name=\"num_comments\">11</Attribute>\n        <Attribute name=\"recipe_rating\"></Attribute>\n     </DataObject>\n     <DataObject type=\"thumbnail\">\n        <Attribute name=\"src\" value=\"http://www.seriouseats.com/recipes/assets_c/2011/11/20111108-beef-texas-chili-con-carne-primary-thumb-100xauto-198254.jpg\" />\n        <Attribute name=\"width\" value=\"100\" />\n        <Attribute name=\"height\" value=\"75\" />\n     </DataObject>\n  </PageMap>\n\
       -->\n\n\
       </head>\n    \n\
       <body id=\"recipes\">\n\n\
@@ -277,7 +277,7 @@ http_interactions:
       <div id=\"whatshot-wrapper\">        \n\
       \t<h3>What's Hot</h3>\n\n\
       <script type=\"text/javascript\">window.featurescode = \"RE\";</script>\n\
-      <script src=\"http://www.seriouseats.com/js/skyboxes.js?20120105011326\" type=\"text/javascript\"></script>\n\n\
+      <script src=\"http://www.seriouseats.com/js/skyboxes.js?20120106234303\" type=\"text/javascript\"></script>\n\n\
       \t<div class=\"clearfix\"></div>\n\
       \t</div>\n\
       </div>\n\n\
@@ -291,7 +291,7 @@ http_interactions:
       <li><a class=\"addthis_button_twitter\"></a></li>\n\
       <li><a class=\"addthis_button_stumbleupon\"></a></li>\n\
       <li><a class=\"addthis_button_google_plusone\"></a></li>\n            </ul><!-- close share  postTools-->\n\n            <ul id=\"recipe-post-tools\" class=\"right\">\n                <li id=\"print-recipe\" class=\"\">\n                    <a href=\"http://www.seriouseats.com/recipes/2011/11/print/real-texas-chili-con-carne.html\" title=\"Print\" class=\"print-link\">Print</a>\n                    <div id=\"print-recipe-flyout\" class=\"recipe-tools-flyout\">\n                        <form id=\"print-recipe-form\">\n                            <input type=\"hidden\" name=\"__mode\" value=\"print_page\" />\n                            <input type=\"hidden\" name=\"entry_id\" value=\"178694\" />  \n                            <label for=\"full-no-photos\"><input type=\"radio\" name=\"recipe-print-option\" id=\"full-no-photos\" value=\"full-no-photos\" /> Full Page no photos</label>\n                            <label for=\"full-photos\"><input type=\"radio\" name=\"recipe-print-option\" id=\"full-photos\" value=\"full-photos\" /> Full page with photos</label>\n                            <label for=\"print-shopping-list\"><input type=\"radio\" name=\"recipe-print-option\" id=\"print-shopping-list\" value=\"shopping-list\" /> Shopping list (ingredients only)</label>\n                            <label for=\"include-comments\"><input type=\"checkbox\" id=\"include-comments\" name=\"include-comments\" /> Include selected comments</label>\n                            <div class=\"buttons-row\">\n                                <input type=\"image\" class=\"btn-input\" src=\"http://static.seriouseats.com/imagesV2/btn-Print-blue.png\" alt=\"Print\" value=\"Print\" /> \n                                <a href=\"#\" class=\"close\">cancel</a>\n                            </div>\n                        </form>\n                    </div>\n                    \n                </li>\n                <li id=\"email-recipe\">\n                    <a href=\"#\" id=\"emailThis\" title=\"Email This\" class=\"email-link\">Email</a>\n                    <div id=\"email-recipe-flyout\" class=\"recipe-tools-flyout\">\n                        <div id=\"email-recipe-user-message\"></div>\n                        <form method=\"post\" action=\"http://www.seriouseats.com/cgi-bin/mte/mt-cp.cgi\" id=\"emailThis-form\">\n                            <input type=\"hidden\" name=\"__mode\" value=\"send_entry\" />\n                            <input type=\"hidden\" name=\"entry_id\" value=\"178694\" />                            \n                            <div class=\"fields\">                            \n                                <label for=\"text\"><input type=\"radio\" name=\"recipe-email-option\" id=\"entire-text\" value=\"full\" /> Entire text of recipe</label>\n                                <label for=\"ingredients\"><input type=\"radio\" name=\"recipe-email-option\" id=\"email-shopping-list\" value=\"ingredients\" /> Shopping list (ingredients only)</label>\n                                <label for=\"recipe-link\"><input type=\"radio\" name=\"recipe-email-option\" id=\"recipe-link\" value=\"link\" /> Link to recipe</label>\n                                <label for=\"email-recipe-recipient\">Recipient e-mail:</label>\n                                <input type=\"text\" class=\"text-input\" id=\"email-recipe-recipient\" name=\"to\" />\n                                <label for=\"recipe-recipient-is-me\"><input type=\"checkbox\" id=\"recipe-recipient-is-me\" name=\"recipe-recipient-is-me\" /> This is me</label>\n                                <label for=\"email-recipe-sender\">Your e-mail (if different from recipient):</label>\n                                <input type=\"text\" class=\"text-input\" id=\"email-recipe-sender\" name=\"from\" />\n                                <textarea cols=\"40\" rows=\"5\" name=\"msg\" id=\"email-recipe-text\"></textarea>\n                            </div>        \n                                            \n                            <div class=\"buttons-row\">\n                                <input type=\"image\" class=\"btn-input\" src=\"http://static.seriouseats.com/imagesV2/btn-Send-blue.png\" alt=\"Send\" value=\"Send\" />  \n                                <a href=\"#\" class=\"close\">cancel</a>\n                            </div>\n                        </form>\n                    </div>\n                \n                </li>\n            </ul>\n            <div class=\"clearer\"></div>\n\n        </div><!-- close blogTools -->  \n\
-      <!-- google_ad_section_start --> \n        <div class=\"indPost-recipe-title\">\n            \n               \n            \n               \n                  \n                      \n                  \n               \n            \n               \n                  \n                      \n                  \n               \n            \n               \n                  \n                      \n                  \n               \n            \n            <span class=\"item\"><h2 class=\"fn\">Real Texas Chili Con Carne</h2></span>\n                        \n                <div class=\"recipe-image-small\">\n                    <img src=\"http://www.seriouseats.com/recipes/assets_c/2011/11/20111108-beef-texas-chili-con-carne-primary-thumb-90xauto-198254.jpg\" alt=\"20111108-beef-texas-chili-con-carne-primary.jpg\" />\n                    <div class=\"recipe-zoom\"><!-- --></div>\n                </div>\n                <div class=\"recipe-image-large\">\n                    <img src=\"http://www.seriouseats.com/recipes/images/2011/11/20111108-beef-texas-chili-con-carne-primary.jpg\" alt=\"20111108-beef-texas-chili-con-carne-primary.jpg\" class=\"photo\" />\n                    <div class=\"recipe-zoom\"><!-- --></div>\n                </div>\n            \n            \n        </div>\n        <div class=\"recipe-byline\">\n            <div class=\"recipe-author left\">\n                <p>Posted by <a href=\"http://www.seriouseats.com/user/profile/GoodEaterKenji\"><span class=\"author\">J. Kenji L\xC3\xB3pez-Alt</span></a>, <span id=\"postFooterCommentCount\"><a href=\"http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne.html#comments\" class=\"commentCount\">Post a Comment</a></span></p>\n                <p><span class=\"published\">November  9, 2011<span class=\"value-title\" title=\"2011-11-09\"></span> at  2:55 PM</span></p>\n            </div>\n            <div class=\"recipe-feedback right\">\n                <div class=\"recipe-fave-count\">\n                    <span class=\"entry-scoring\">\n                        <a href=\"javascript:void(0)\" onclick=\"return mtScore(178694)\" id=\"scoring-id-178694\" class=\"scoring favorite\">Favorite this!</a> &nbsp;(<span id=\"scoring-score-178694\" class=\"scoring-score\">43</span>)\n                    </span>                  \n                </div>                \n                \n                <div class=\"rater\">\n                    <p>rated:</p>\n                    \n                </div>\n            </div>\n        </div>\n        \n        <div class=\"recipe-tags\">\n            <p>Tags: <a href=\"/tags/recipes/beef\">beef</a>, <a href=\"/tags/recipes/chili\">chili</a>, <a href=\"/tags/recipes/chili con carne\">chili con carne</a>, <a href=\"/tags/recipes/Texas\">Texas</a>, <a href=\"/tags/recipes/Texas chili\">Texas chili</a>, <a href=\"/tags/recipes/The Food Lab\">The Food Lab</a></p>\n        </div>\n        \n        \n        \n        <div class=\"recipe-original-post\">\n        <p>This Recipe Appears In: </p>\n\n        \n            <p><a href=\"http://www.seriouseats.com/2011/11/real-texas-chili-con-carne.html\">The Food Lab: Real Texas Chili Con Carne</a></p>\n        \n        </div>\n        \n        \n        \n        <div id=\"entry-text\" class=\"summary\">\n            <p class=\"caption\">[Photographs: J. Kenji Lopez-Alt]</p>\n\n\
+      <!-- google_ad_section_start --> \n        <div class=\"indPost-recipe-title\">\n            \n               \n            \n               \n                  \n                      \n                  \n               \n            \n               \n                  \n                      \n                  \n               \n            \n               \n                  \n                      \n                  \n               \n            \n            <span class=\"item\"><h2 class=\"fn\">Real Texas Chili Con Carne</h2></span>\n                        \n                <div class=\"recipe-image-small\">\n                    <img src=\"http://www.seriouseats.com/recipes/assets_c/2011/11/20111108-beef-texas-chili-con-carne-primary-thumb-90xauto-198254.jpg\" alt=\"20111108-beef-texas-chili-con-carne-primary.jpg\" />\n                    <div class=\"recipe-zoom\"><!-- --></div>\n                </div>\n                <div class=\"recipe-image-large\">\n                    <img src=\"http://www.seriouseats.com/recipes/images/2011/11/20111108-beef-texas-chili-con-carne-primary.jpg\" alt=\"20111108-beef-texas-chili-con-carne-primary.jpg\" class=\"photo\" />\n                    <div class=\"recipe-zoom\"><!-- --></div>\n                </div>\n            \n            \n        </div>\n        <div class=\"recipe-byline\">\n            <div class=\"recipe-author left\">\n                <p>Posted by <a href=\"http://www.seriouseats.com/user/profile/GoodEaterKenji\"><span class=\"author\">J. Kenji L\xC3\xB3pez-Alt</span></a>, <span id=\"postFooterCommentCount\"><a href=\"http://www.seriouseats.com/recipes/2011/11/real-texas-chili-con-carne.html#comments\" class=\"commentCount\">Post a Comment</a></span></p>\n                <p><span class=\"published\">November  9, 2011<span class=\"value-title\" title=\"2011-11-09\"></span> at  2:55 PM</span></p>\n            </div>\n            <div class=\"recipe-feedback right\">\n                <div class=\"recipe-fave-count\">\n                    <span class=\"entry-scoring\">\n                        <a href=\"javascript:void(0)\" onclick=\"return mtScore(178694)\" id=\"scoring-id-178694\" class=\"scoring favorite\">Favorite this!</a> &nbsp;(<span id=\"scoring-score-178694\" class=\"scoring-score\">44</span>)\n                    </span>                  \n                </div>                \n                \n                <div class=\"rater\">\n                    <p>rated:</p>\n                    \n                </div>\n            </div>\n        </div>\n        \n        <div class=\"recipe-tags\">\n            <p>Tags: <a href=\"/tags/recipes/beef\">beef</a>, <a href=\"/tags/recipes/chili\">chili</a>, <a href=\"/tags/recipes/chili con carne\">chili con carne</a>, <a href=\"/tags/recipes/Texas\">Texas</a>, <a href=\"/tags/recipes/Texas chili\">Texas chili</a>, <a href=\"/tags/recipes/The Food Lab\">The Food Lab</a></p>\n        </div>\n        \n        \n        \n        <div class=\"recipe-original-post\">\n        <p>This Recipe Appears In: </p>\n\n        \n            <p><a href=\"http://www.seriouseats.com/2011/11/real-texas-chili-con-carne.html\">The Food Lab: Real Texas Chili Con Carne</a></p>\n        \n        </div>\n        \n        \n        \n        <div id=\"entry-text\" class=\"summary\">\n            <p class=\"caption\">[Photographs: J. Kenji Lopez-Alt]</p>\n\n\
       <p><strong>Note:</strong> This makes for a moderately hot to hot chili. You can vary the heat by adding or removing the hot chilies and the canned chipotles.</p>\n\n\
       <p><small><strong>About the author</strong>: <a href=\"http://www.seriouseats.com/user/profile/GoodEaterKenji\">J. Kenji Lopez-Alt</a> is the Managing Editor of <a href=\"http://www.seriouseats.com\">Serious Eats</a> where he likes to explore the science of home cooking in his weekly column <a href=\"http://www.seriouseats.com/the-food-lab/\">The Food Lab</a>. You can follow him at <a href=\"http://twitter.com/#!/TheFoodLab\">@thefoodlab</a> on Twitter, or at <a href=\"http://www.facebook.com/pages/The-Food-Lab/256324452909\">The Food Lab</a> on Facebook.</small></p>\n            \n        </div>\n        \n        \n        \n       \n\n\
       <div class=\"ingredients\">\n\
@@ -350,10 +350,10 @@ http_interactions:
       <script src=\"http://adserver.adtechus.com/?adrawdata/3.0/5108.1/2265416/0/0/ADTECH;loc=100;noperf=1;\"></script>\n\
       </div>\n\n\n\n\n\
       </div>\n\n\
-      <div id=\"top-comm-recipes\">\n    <div id=\"top-comm-recipes-header\">\n        <h2>Top Community Recipes</h2>\n        <div id=\"top-comm-rec-talk\"><!-- --></div>\n    </div>\n    \n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2010/07/boiled-water-recipe.html\">Boiled Water Recipe</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/Adam Kuban\">Adam Kuban</a> | <a href=\"http://www.seriouseats.com/talk/2010/07/boiled-water-recipe.html#comments\" class=\"comment-count\">204 comments</a></p>\n        </div>\n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2011/12/vegetarianism-vs-veganism-1.html\">Vegetarianism vs. Veganism</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/sharonrouco\">sharonrouco</a> | <a href=\"http://www.seriouseats.com/talk/2011/12/vegetarianism-vs-veganism-1.html#comments\" class=\"comment-count\">138 comments</a></p>\n        </div>\n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2011/01/my-husband-is-not-a-vegerarian.html\">My Husband is not a Vegetarian</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/sharonrouco\">sharonrouco</a> | <a href=\"http://www.seriouseats.com/talk/2011/01/my-husband-is-not-a-vegerarian.html#comments\" class=\"comment-count\">109 comments</a></p>\n        </div>\n    \n\
+      <div id=\"top-comm-recipes\">\n    <div id=\"top-comm-recipes-header\">\n        <h2>Top Community Recipes</h2>\n        <div id=\"top-comm-rec-talk\"><!-- --></div>\n    </div>\n    \n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2010/07/boiled-water-recipe.html\">Boiled Water Recipe</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/Adam Kuban\">Adam Kuban</a> | <a href=\"http://www.seriouseats.com/talk/2010/07/boiled-water-recipe.html#comments\" class=\"comment-count\">205 comments</a></p>\n        </div>\n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2011/12/vegetarianism-vs-veganism-1.html\">Vegetarianism vs. Veganism</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/sharonrouco\">sharonrouco</a> | <a href=\"http://www.seriouseats.com/talk/2011/12/vegetarianism-vs-veganism-1.html#comments\" class=\"comment-count\">138 comments</a></p>\n        </div>\n    \n        <div class=\"home-column-excerpt\">\n            <h3><a href=\"http://www.seriouseats.com/talk/2011/01/my-husband-is-not-a-vegerarian.html\">My Husband is not a Vegetarian</a></h3>\n            <p class=\"byline\">By <a href=\"http://www.seriouseats.com/user/profile/sharonrouco\">sharonrouco</a> | <a href=\"http://www.seriouseats.com/talk/2011/01/my-husband-is-not-a-vegerarian.html#comments\" class=\"comment-count\">109 comments</a></p>\n        </div>\n    \n\
       </div><!--/#top-comm-recipes-->\n\n   \n    <div id=\"recipe-email-signup\">\n\
       <form action=\"http://www.seriouseats.com/cgi-bin/mte/plugins/ProfileMail/profilemail.cgi\" enctype=\"multipart/form-data\" id=\"profile_edit_recipes\" method=\"post\">\n    <input type=\"hidden\" name=\"name\" value=\"\" />\n    <input type=\"hidden\" name=\"__mode\" value=\"save\">\n    <input type=\"hidden\" name=\"blog_id\" value=\"31\">\n    <input type=\"hidden\" name=\"serious_eats_recipe_newsletter\" id=\"profile_field_serious_eats_recipe_newsletter\" value=\"1\" />\n    <label for=\"recipe-email-signup-email\">Get our weekly recipe roundup.</label>\n    <input type=\"text\" class=\"text-input\" id=\"recipe-email-signup-email\" name=\"email\" /> <input type=\"image\" src=\"http://static.seriouseats.com/imagesV2/btn-Subscribe-blue.png\" alt=\"Subscribe\" value=\"Subscribe\" />\n\
-      </form>\n    </div>\n    <div id=\"recent-on-se-module\" class=\"yellow-module\">\n        <h2>Recent Posts on Serious Eats</h2>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/se-staff-picks-our-detox-foods-healthy-january.html\">SE Staff Picks: Our Detox Foods</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/The Serious Eats Team\">The Serious Eats Team</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/se-staff-picks-our-detox-foods-healthy-january.html#comments\" class=\"comment-count\">19 comments</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2012/01/20120104-staff-picks-carrie-thumb-90x90-209617.jpg\" alt=\"SE Staff Picks: Our Detox Foods\" />\n                \n                </div>\n            </div>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/dinner-tonight-skirt-steak-with-roasted-potatoes.html\">Dinner Tonight: Skirt Steak with Roasted Potatoes and Lemon</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/Pauper Nick\">Nick Kindelsperger</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/dinner-tonight-skirt-steak-with-roasted-potatoes.html#comments\" class=\"comment-count\">1 comment</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2011/12/20111229-127355-dinner-tonight-skirt-steak-potatoes-lemon-thumb-90x90-208774.jpg\" alt=\"Dinner Tonight: Skirt Steak with Roasted Potatoes and Lemon\" />\n                \n                </div>\n            </div>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/fish-sandwich-from-bear-flag-fish-newport-beach-ca.html\">A Sandwich a Day: Grilled Fish at Bear Flag Fish in Newport Beach, CA</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/Erin Zimmer\">Erin Zimmer</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/fish-sandwich-from-bear-flag-fish-newport-beach-ca.html#comments\" class=\"comment-count\">3 comments</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2012/01/20120105-fish-sandwich-bear-flag-thumb-90x90-209585.jpg\" alt=\"A Sandwich a Day: Grilled Fish at Bear Flag Fish in Newport Beach, CA\" />\n                \n                </div>\n            </div>\n        \n    </div><!--/#home-latest-columns-->\n\n   <!-- sidebar cooking.com module -->\n    <div id=\"home-store\" class=\"home-right-link\">\n\
+      </form>\n    </div>\n    <div id=\"recent-on-se-module\" class=\"yellow-module\">\n        <h2>Recent Posts on Serious Eats</h2>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/this-week-at-serious-eats-world-headquarters-20120106.html\">This Week at Serious Eats World Headquarters</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/The Serious Eats Team\">The Serious Eats Team</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/this-week-at-serious-eats-world-headquarters-20120106.html#comments\" class=\"comment-count\">7 comments</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2012/01/20120106-slideshow-cereal-thumb-90x90-210102.jpg\" alt=\"This Week at Serious Eats World Headquarters\" />\n                \n                </div>\n            </div>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/dinner-tonight-potato-and-pea-curry-aloo-mata.html\">Dinner Tonight: Potato and Pea Curry (Aloo Matar)</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/Pauper Nick\">Nick Kindelsperger</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/dinner-tonight-potato-and-pea-curry-aloo-mata.html#comments\" class=\"comment-count\">1 comment</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2012/01/20120102-127355-dinner-tonight-aloo-matar-thumb-90x90-209612.jpg\" alt=\"Dinner Tonight: Potato and Pea Curry (Aloo Matar)\" />\n                \n                </div>\n            </div>\n        \n            <div class=\"home-column-excerpt\">\n                <h3><a href=\"http://www.seriouseats.com/2012/01/grilled-flank-steak-from-daves-fresh-pasta-somerville-ma-boston.html\">A Sandwich a Day: Grilled Flank Steak from Dave's Fresh Pasta in Somerville, MA</a></h3>\n                <p><a href=\"http://www.seriouseats.com/user/profile/mertsmith\">Meredith Smith</a></p>\n                <p><a href=\"http://www.seriouseats.com/2012/01/grilled-flank-steak-from-daves-fresh-pasta-somerville-ma-boston.html#comments\" class=\"comment-count\">2 comments</a></p>\n                <div class=\"thumb-100x90\">\n                \n                    <img src=\"http://www.seriouseats.com/assets_c/2011/08/20110810-sandwich-a-day-daves-fresh-pasta-thumb-90x90-179522.jpg\" alt=\"A Sandwich a Day: Grilled Flank Steak from Dave's Fresh Pasta in Somerville, MA\" />\n                \n                </div>\n            </div>\n        \n    </div><!--/#home-latest-columns-->\n\n   <!-- sidebar cooking.com module -->\n    <div id=\"home-store\" class=\"home-right-link\">\n\
       \t\t<div class=\"home-right-link-img\">\n\
       \t\t\t<a href=\"http://www.cooking.com/aff/adredir.asp?CCAID=CBSEPTPH&Redir=%2Fseriouseats\"><img src=\"http://static.seriouseats.com/images/cooking-store-pans.jpg\" alt=\"\" /></a>\n\
       \t\t</div>\n\
@@ -368,7 +368,7 @@ http_interactions:
       </div><!--/#threeColumn2-->\n\
       <div class=\"clearer\"></div> \n\n\
       </div><!--content-->\n\
-      <script src=\"http://www.seriouseats.com/js/bottombuckets.js?20120105011326\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://www.seriouseats.com/js/bottombuckets.js?20120106234303\" type=\"text/javascript\"></script>\n\
       <div id=\"footer\" class=\"shortFooter\">\n\n\
       \t<div id=\"footerColumn1\" class=\"footer-column\">\n          <h3 id=\"h-still-hungry\">Still Hungry?</h3>\n\
       \t\t<ul>\t\n\
@@ -494,7 +494,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:36:54 GMT
+  recorded_at: Sun, 08 Jan 2012 19:43:43 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/mushroom-lasagna-recipe.html?ref=box_featured
@@ -510,11 +510,11 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "76"
+      - "75"
       content-type: 
       - text/html
       date: 
-      - Sat, 07 Jan 2012 01:38:10 GMT
+      - Sun, 08 Jan 2012 19:44:59 GMT
       etag: 
       - "\"d4ce3-ffd8-4b5c1dee97500\""
       last-modified: 
@@ -526,7 +526,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - 144977121 144970116
+      - 154068177 154061410
       content-length: 
       - "65496"
       connection: 
@@ -1912,7 +1912,7 @@ http_interactions:
       </body>
       </html>
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:38:11 GMT
+  recorded_at: Sun, 08 Jan 2012 19:44:59 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/serious-eats-corned-beef-hash-recipe.html?ref=box_featured
@@ -1932,7 +1932,7 @@ http_interactions:
       content-type: 
       - text/html
       date: 
-      - Sat, 07 Jan 2012 01:38:11 GMT
+      - Sun, 08 Jan 2012 19:45:00 GMT
       etag: 
       - "\"d4991-1095d-4b5c1d8b68b00\""
       last-modified: 
@@ -1944,7 +1944,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - "144977197"
+      - "154068304"
       content-length: 
       - "67933"
       connection: 
@@ -2410,5 +2410,5 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:38:12 GMT
+  recorded_at: Sun, 08 Jan 2012 19:45:00 GMT
 recorded_with: VCR 2.0.0.rc1

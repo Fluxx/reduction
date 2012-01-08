@@ -14,6 +14,8 @@ http_interactions:
       code: 200
       message: OK
     headers: 
+      date: 
+      - Sun, 08 Jan 2012 19:34:57 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -21,27 +23,21 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.538535"
+      - "0.884541"
       cache-control: 
       - max-age=300, public
+      set-cookie: 
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMUtKdzFTV0hPSmlxWnNzR3pBaDJjOWoyQmR1cllwVEhSUXIxMzV0VmtSeEU9Ig9zZXNzaW9uX2lkIiVjMmU3ZmEyZWMzMzMwMDgwNDUzNDEzZGNlOGI0ZjNjMg%3D%3D--72ab17bd7a171ac8c222e91e070caf638fd160d6; path=/; HttpOnly
+      last-modified: 
+      - Wed, 30 Nov 2011 18:58:32 GMT
       status: 
       - "200"
       vary: 
       - Accept-Encoding
       content-type: 
       - text/html; charset=utf-8
-      age: 
-      - "174"
-      date: 
-      - Sat, 07 Jan 2012 01:31:17 GMT
-      last-modified: 
-      - Wed, 30 Nov 2011 18:58:32 GMT
-      expires: 
-      - Sat, 07 Jan 2012 01:33:23 GMT
-      content-length: 
-      - "45457"
       connection: 
-      - keep-alive
+      - close
     body: |+
       <!DOCTYPE html>
       <html keynote='CuisineEtVin' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml'>
@@ -880,7 +876,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="3nhqQhAJGXP46E0hpKge1QUJrIW847ONyHg9lASGj7Q=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="KJw1SWHOJiqZssGzAh2c9j2BdurYpTHRQr135tVkRxE=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -1271,5 +1267,5 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Sat, 07 Jan 2012 01:31:17 GMT
+  recorded_at: Sun, 08 Jan 2012 19:34:58 GMT
 recorded_with: VCR 2.0.0.rc1
