@@ -18,8 +18,7 @@ module Reduction
       end
 
       def ingredients
-        [ NamedList.new(doc.at('#ingredients').search('li').map(&:text).
-                        map(&:collapse_whitespace)) ]
+        NamedList.from_node_set(ingredient_elements, :h2)
       end
 
       def steps
@@ -47,6 +46,10 @@ module Reduction
       end
 
       private
+
+      def ingredient_elements
+        doc.at('#ingredients').children
+      end
 
       def steps_selector
         '#directions ol[itemprop=recipeInstructions] li'

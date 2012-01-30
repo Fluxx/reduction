@@ -65,6 +65,38 @@ module Reduction
         it_should_find 'images', ["http://www.foodandwine.com/images/sys/200904-r-mushroom-eggs.jpg"]
       end
 
+
+      context 'split ingredients' do
+        strategy_subject_for('http://www.foodandwine.com/recipes/classic-carrot-cake-with-fluffy-cream-cheese-frosting?xid=DAILY012812ClassicCarrotCake')
+
+        it_should_find 'ingredients', [
+          [
+            "1 cup pecans (4 ounces)",
+            "2 cups all-purpose flour",
+            "2 teaspoons baking powder",
+            "2 teaspoons baking soda",
+            "1 teaspoon cinnamon",
+            "1 teaspoon salt",
+            "1 cup vegetable oil",
+            "1/2 cup buttermilk",
+            "1 1/2 teaspoons pure vanilla extract",
+            "4 large eggs",
+            "2 cups sugar",
+            "1 pound carrots, peeled and coarsely shredded"
+          ],
+          [
+            "2 sticks unsalted butter, softened",
+            "Two 8-ounce packages cream cheese, softened",
+            "1 tablespoon pure vanilla extract",
+            "2 cups confectioners' sugar"
+          ]
+        ]
+
+        it 'finds correct ingredient names' do
+          subject.ingredients.map(&:name).should == %w[Cake Frosting]
+        end
+
+      end
     end
 
   end
