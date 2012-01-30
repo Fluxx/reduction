@@ -56,7 +56,7 @@ module Reduction
         it_should_find 'cook_time', nil
         
         it_should_find 'images', [
-          "http://s3.amazonaws.com/food52_assets/indeximages/22863/nine_col/Food52_11-22-11-0899.jpg?1322800208"
+          "http://d2k9njawademcf.cloudfront.net/indeximages/22863/nine_col/Food52_11-22-11-0899.jpg?1322800208"
         ]
 
         it_should_find 'notes', 'My mother used to make these cookies regularly when I was growing up, and they continue to be the standard to which I compare all other peanut butter cookies. This recipe is adapted from one of my favorite cookbooks, The Fannie Farmer Cookbook (First Edition).'

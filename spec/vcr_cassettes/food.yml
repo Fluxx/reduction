@@ -17,23 +17,23 @@ http_interactions:
       server: 
       - Apache/2.2.3 (Red Hat)
       content-length: 
-      - "103123"
+      - "103056"
       content-type: 
       - text/html;charset=UTF-8
       set-cookie: 
-      - JSESSIONID=09709b81b25856da1686f95bb393.foodweb04i1; Path=/
+      - JSESSIONID=d3123d51af995ec36e6d240f49fc.foodweb03i1; Path=/
       x-powered-by: 
       - JSP/2.1
       x-cnection: 
       - close
       expires: 
-      - Fri, 06 Jan 2012 01:16:55 GMT
+      - Mon, 30 Jan 2012 05:58:09 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Fri, 06 Jan 2012 01:16:55 GMT
+      - Mon, 30 Jan 2012 05:58:09 GMT
       connection: 
       - keep-alive
     body: "\r\n\
@@ -86,7 +86,7 @@ http_interactions:
       \r\n\
       <script type=\"text/javascript\">\r\n\
       \tmdManager.addParameter(\"adkey1\",\"COCKTAIL\");\t\t\r\n\
-      \tmdManager.addParameter(\"adkey2\",\"empty\");\t\t\r\n\
+      \tmdManager.addParameter(\"adkey2\",\"null\");\t\t\r\n\
       \tmdManager.addParameter(\"CategoryDspName\",\"RECIPES\");\t\t\r\n\
       \tmdManager.addParameter(\"Classification\",\"RECIPES,RECIPES,FOODCOM\");\t\t\r\n\
       \tmdManager.addParameter(\"keywordids\",\"11,12,13,16,32,82,141,195,469\");\t\t\r\n\
@@ -150,7 +150,7 @@ http_interactions:
       \r\n\
       \t<title>Yummy Frozen Margaritas Recipe - Food.com - 292214</title>\r\n\
       \t\r\n\
-      \t<meta name=\"keywords\" lang=\"en\" content=\"frozen limeade concentrate,tequila,triple sec recipe, recipes, recipies\"/>\r\n\
+      \t<meta name=\"keywords\" lang=\"en\" content=\"frozen limeade concentrate,tequila,triple sec recipe, recipes, recipies,15-minutes-or-less,time-to-make,course,preparation,5-ingredients-or-less,beverages,easy,cocktails,3-steps-or-less\"/>\r\n\
       \t<meta name=\"description\" lang=\"en\" content=\"this is so good\"/>\r\n\
       \t\r\n\
       \t<link rel=\"canonical\" href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214\"/>\r\n\
@@ -271,7 +271,7 @@ http_interactions:
       \t\t\t\r\n\
       \t\t\t<div class=\"headernav_subnav_featured_ft\">\r\n\
       \t\t\t\t<h5>Also New:</h5>\r\n\
-      \t\t\t\t<p><a href=\"http://www.food.com/slideshow/10-easy-low-fat-desserts-51\">10 Easy, Low-Cal Desserts</a>, <a href=\"http://www.food.com/healthy/fast-easy/package\">Healthy & Quick Meals</a></p>\r\n\
+      \t\t\t\t<p><a href=\"http://www.food.com/slideshow/10-vegetarian-meals-52\">10 Vegetarian Meals</a>, <a href=\"http://www.food.com/healthy/special-diets/package\">Special Diets</a></p>\r\n\
       \t\t\t</div>\r\n\
       \t\t\t\r\n\
       \t\t</div>\r\n\
@@ -310,7 +310,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/04/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/29/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -668,7 +668,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/04/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/29/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -1017,7 +1017,7 @@ http_interactions:
       <input type=\"hidden\" id=\"globalAssetId\" value=\"292214\"></input>\r\n\
       <input type=\"hidden\" id=\"globalAssetType\" value=\"1\"></input>\r\n\
       \r\n\
-      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@1c5ab49 -->\r\n\
+      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@10eceb -->\r\n\
       <div id=\"site-wrapper\" class=\"recipe-details\">\r\n\
       \t\r\n\
       \r\n\
@@ -1150,7 +1150,7 @@ http_interactions:
       \t<a href=\"http://www.food.com/recipe/yummy-frozen-margaritas-292214/photo\"  ><span>Photos<em>(2)</em></span></a>\r\n\
       </li>\r\n\
       </ul>\r\n\
-      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@1c5ab49 -->\r\n\
+      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@10eceb -->\r\n\
       \r\n\
       \t\t\t\t\t\r\n\
       \t\t<div class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\
@@ -1524,7 +1524,7 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n\
-      <h2 class=\"hd\">Browse Our Top <a id=\"brtoprec\" href=\"http://www.food.com/recipes/cocktails\">Cocktail</a> Recipes</h2>\r\n    <ul class=\"colList clrfix\" id =\"bmrec\">\r\n            \r\n                <li>\r\n                  <a  href=\"http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071\" rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/22/70/71/thumbs/picXUzdOh.jpg\" title=\"Frozen Strawberry Margarita Dessert. Recipe by KC_Cooker\" alt=\"Frozen Strawberry Margarita Dessert. Recipe by KC_Cooker\"/></a>\r\n                \t<p><a href=\"http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071\" rel=\"bmr-0\">Frozen Strawberry Margarita Dessert</a></p>\r\n                  <small>By KC_Cooker</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/30/05/53/thumbs/pic6X0H8M.jpg\" title=\"Frozen Margarita Punch. Recipe by CIndytc\" alt=\"Frozen Margarita Punch. Recipe by CIndytc\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-1\">Frozen Margarita Punch</a></p>\r\n                  <small>By CIndytc</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-cranberry-margaritas-125256\" rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/12/52/56/thumbs/piczQbVRf.jpg\" title=\"Frozen Cranberry Margaritas. Recipe by Shirl (J) 831\" alt=\"Frozen Cranberry Margaritas. Recipe by Shirl (J) 831\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-cranberry-margaritas-125256\" rel=\"bmr-2\">Frozen Cranberry Margaritas</a></p>\r\n                  <small>By Shirl (J) 831</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\" rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/23/44/74/thumbs/picLRa2lO.jpg\" title=\"Frozen Mango Margarita. Recipe by English_Rose\" alt=\"Frozen Mango Margarita. Recipe by English_Rose\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\" rel=\"bmr-3\">Frozen Mango Margarita</a></p>\r\n                  <small>By English_Rose</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n    </ul>\r\n\
+      <h2 class=\"hd\">Browse Our Top <a id=\"brtoprec\" href=\"http://www.food.com/recipes/cocktails\">Cocktail</a> Recipes</h2>\r\n    <ul class=\"colList clrfix\" id =\"bmrec\">\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-slush-175736\" rel=\"bmr-0\"><img src=\"http://food.sndimg.com/img/recipes/17/57/36/thumbs/picbAh76D.jpg\" title=\"Frozen Margarita Slush. Recipe by flower7\" alt=\"Frozen Margarita Slush. Recipe by flower7\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-slush-175736\" rel=\"bmr-0\">Frozen Margarita Slush</a></p>\r\n                  <small>By flower7</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\" rel=\"bmr-1\"><img src=\"http://food.sndimg.com/img/recipes/23/44/74/thumbs/picLRa2lO.jpg\" title=\"Frozen Mango Margarita. Recipe by English_Rose\" alt=\"Frozen Mango Margarita. Recipe by English_Rose\"/></a>\r\n                \t<p><a href=\"http://mexican.food.com/recipe/frozen-mango-margarita-234474\" rel=\"bmr-1\">Frozen Mango Margarita</a></p>\r\n                  <small>By English_Rose</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071\" rel=\"bmr-2\"><img src=\"http://food.sndimg.com/img/recipes/22/70/71/thumbs/picXUzdOh.jpg\" title=\"Frozen Strawberry Margarita Dessert. Recipe by KC_Cooker\" alt=\"Frozen Strawberry Margarita Dessert. Recipe by KC_Cooker\"/></a>\r\n                \t<p><a href=\"http://dessert.food.com/recipe/frozen-strawberry-margarita-dessert-227071\" rel=\"bmr-2\">Frozen Strawberry Margarita Dessert</a></p>\r\n                  <small>By KC_Cooker</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n                <li>\r\n                  <a  href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-3\"><img src=\"http://food.sndimg.com/img/recipes/30/05/53/thumbs/pic6X0H8M.jpg\" title=\"Frozen Margarita Punch. Recipe by CIndytc\" alt=\"Frozen Margarita Punch. Recipe by CIndytc\"/></a>\r\n                \t<p><a href=\"http://www.food.com/recipe/frozen-margarita-punch-300553\" rel=\"bmr-3\">Frozen Margarita Punch</a></p>\r\n                  <small>By CIndytc</small>\r\n                  \r\n                \t<span class=\"inline-rating small\">\r\n                \t\t<ul class=\"star-rating\">\r\n                \t\t\t<li style=\"width: 100.00%;;\" class=\"current-rating\"></li>\r\n                \t\t</ul>\r\n                \t</span>\r\n                  \r\n                </li>\r\n            \r\n    </ul>\r\n\
       \r\n\
       \t\t\t\t\t  \r\n\
       \r\n\
@@ -1838,10 +1838,10 @@ http_interactions:
       \t\t\t\t\t\t\t<div class=\"pod next-recipe clrfix\">\r\n\
       \t\t\t\t\t\t\t\t<h4>Next Recipe</h4>\r\n\
       \t\t\t\t\t\t\t\t\t<div class=\"bd clrfix\">\r\n\
-      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-watermelon-margaritas-185484','185484');\" rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/18/54/84/thumbs/picZUZixS.jpg\" alt=\"Frozen Watermelon Margaritas. Recipe by lazyme\" title=\"Frozen Watermelon Margaritas. Recipe by lazyme\" width=\"92\" height=\"69\" /></a>\r\n\
+      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe-img\" href=\"javascript:loadNextRecipe('http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066','317066');\" rel=\"nri-1\"><img src=\"http://food.sndimg.com/img/recipes/31/70/66/thumbs/picK1E3yl.jpg\" alt=\"Frozen Strawberry Margaritas. Recipe by misscrys79\" title=\"Frozen Strawberry Margaritas. Recipe by misscrys79\" width=\"92\" height=\"69\" /></a>\r\n\
       \t\t\t\t\t\t\t\t\t\t<div class=\"cont\">\r\n\
-      \t\t\t\t\t\t\t\t\t\t\t<p><a id=\"nxt-recipe-txt\" href=\"http://www.food.com/recipe/frozen-watermelon-margaritas-185484\" rel=\"nrt-1\">Frozen Watermelon Margaritas</a></p>\r\n\
-      \t\t\t\t\t\t\t\t\t\t\t<small>By <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/lazyme/style.esi?member_id=305531\">lazyme</a></small>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t<p><a id=\"nxt-recipe-txt\" href=\"http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066\" rel=\"nrt-1\">Frozen Strawberry Margaritas</a></p>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t<small>By <a id=\"nxt-recipe-by\" rel=\"nr-1\" href=\"http://share.food.com/community/misscrys79/style.esi?member_id=604499\">misscrys79</a></small>\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\t\t\t<span class=\"inline-rating small\">\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\t<ul class=\"star-rating\">\r\n\
@@ -1850,7 +1850,7 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\t\t</div>\r\n\
-      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://www.food.com/recipe/frozen-watermelon-margaritas-185484','185484');\" rel=\"nr-1\"><em></em></a>\r\n\
+      \t\t\t\t\t\t\t\t\t\t<a id=\"nxt-recipe\" href=\"javascript:loadNextRecipe('http://mexican.food.com/recipe/frozen-strawberry-margaritas-317066','317066');\" rel=\"nr-1\"><em></em></a>\r\n\
       \t\t\t\t\t\t\t\t\t</div>\r\n\
       \t\t\t\t\t\t\t\t\t<small><a href=\"http://www.food.com/recipes/cocktails\" id=\"ViewAllRecipe\">View All Cocktail Recipes</a></small>\r\n\
       \t\t\t\t\t\t\t</div>\r\n\
@@ -2055,10 +2055,10 @@ http_interactions:
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;li class=\"last store-item\"&gt;\n\
-      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=311974&amp;CCAID=CBFO311974\" title=\"Fox Run Craftsmen Cocktail Serving Platter Set\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/311974.jpg\" width=\"120\" height=\"90\" alt=\"Fox Run Craftsmen Cocktail Serving Platter Set\"&gt;&lt;/a&gt;\n\
+      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=602254&amp;CCAID=CBFO602254\" title=\"WMF USA Manhattan Cocktail Shaker\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/602254.jpg\" width=\"120\" height=\"90\" alt=\"WMF USA Manhattan Cocktail Shaker\"&gt;&lt;/a&gt;\n\
       &lt;div class=\"item-info\"&gt;\n\
-      &lt;a class=\"item-description\" target=\"_blank\" title=\"Fox Run Craftsmen Cocktail Serving Platter Set\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=311974&amp;CCAID=CBFO311974\" rel=\"fns-2\"&gt;Fox Run Craftsmen Cocktail Serving Platter Set&lt;/a&gt;\n\
-      &lt;p class=\"price\"&gt;$49.99&lt;/p&gt;\n\
+      &lt;a class=\"item-description\" target=\"_blank\" title=\"WMF USA Manhattan Cocktail Shaker\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=602254&amp;CCAID=CBFO602254\" rel=\"fns-2\"&gt;WMF USA Manhattan Cocktail Shaker&lt;/a&gt;\n\
+      &lt;p class=\"price\"&gt;$42.99&lt;/p&gt;\n\
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;/ul&gt;\n\
@@ -2195,7 +2195,7 @@ http_interactions:
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
-      \t\t\t\t\t\t<a href=\"http://www.food.com/recipe/olive-garden-copycat-zuppa-toscana-38298\" rel=\"gf-ideas-8\">Olive Garden Copycat Zuppa Toscana</a>\r\n\
+      \t\t\t\t\t\t<a href=\"http://www.food.com/game-day-grub/home/package\" rel=\"gf-ideas-8\">Game Day Grub</a>\r\n\
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
@@ -2203,7 +2203,7 @@ http_interactions:
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
-      \t\t\t\t\t\t<a href=\"http://www.food.com/recipe/perfect-pork-tenderloin-63828\" rel=\"gf-ideas-10\">Perfect Pork Tenderloin Recipe</a>\r\n\
+      \t\t\t\t\t\t<a href=\"http://www.food.com/slideshow/10-favorite-chicken-wings-8\" rel=\"gf-ideas-10\">10 Winning Chicken Wing Recipes</a>\r\n\
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\r\n\
       \t\t\t\t\t\t\r\n\
@@ -2249,7 +2249,7 @@ http_interactions:
       <a target=\"_blank\" href=\"http://www.foodnetwork.com?xp=foodcom_footer\">Food Network</a>\n\
       </h6>\n\
       <div class=\"bd\" style=\"line-height: 1.3;\">\n\
-      <p><a target=\"_blank\" href=\"http://www.foodnetwork.com/healthy-every-week/package/index.html?xp=fnhealthy\"><img style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network Healthy Recipes\" src=\"http://img.foodnetwork.com/FOOD/2009/02/11/crispbakedfriedchicken_s4x3_sm.jpg\"></a><a target=\"_blank\" href=\"http://www.foodnetwork.com/healthy-every-week/package/index.html?xp=fnhealthy\">Find Healthy and Delicious Recipes for Every Night of the Week</a></p>\n\
+      <p><a target=\"_blank\" href=\"http://www.foodnetwork.com/big-game/package/index.html?xp=biggame\"><img style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network Big Game Recipes\" src=\"http://img.foodnetwork.com/FOOD/2011/11/22/FN_buffalo-wings-001_s4x3_sm.jpg\"></a><a target=\"_blank\" href=\"http://www.foodnetwork.com/big-game/package/index.html?xp=biggame\">Easy Finger Foods & Appetizers for Game Day</a></p>\n\
       </div>\n\
       </div>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
@@ -2257,27 +2257,27 @@ http_interactions:
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
       \t\t\t\t\t\t\t\t<h6><a href=\"http://www.cookingchanneltv.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">Cooking Channel</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-italian-recipes/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-1\">Lightened-Up Italian</a></li> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-healthy-2012/videos/index.html?channel=60606&xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-2\">Comfort Food Favorites</a></li> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-winter-side-dish-recipes/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Winter Side Recipes</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/healthy-foods-diet/package/index.html?xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-1\">Comfort Food Favorites</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-chicken-dinner-recipes/pictures/index.html?xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-2\">Healthy Chicken Recipes</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Best Appetizers</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \r\n\
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
       \t\t\t\t\t\t\t\t<h6><a href=\"http://www.hgtv.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">HGTV</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" target=\"_blank\" rel=\"cpc-1-1\">HGTV Dream Home Sweeps</a></li> \n\
-      <li><a href=\"http://www.hgtv.com/smart-chic-kitchens/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Kitchen Update Under $200</a></li> \n\
-      <li><a href=\"http://www.hgtv.com/cleaning-tips-indoors-and-out/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Declutter for the New Year</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" target=\"_blank\" rel=\"cpc-1-1\">HGTV Dream Home Giveaway</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Kitchen Makeover Ideas</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/cleaning-tips-indoors-and-out/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">New Year's Cleaning Tips</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \r\n\
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
-      \t\t\t\t\t\t\t\t<h6><a href=\"http://www.diynetwork.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">DIY Network</a></h6> \n\
+      \t\t\t\t\t\t\t\t<h6><a href=\"http://www.travelchannel.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">Travel Channel</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-1\">Blog Cabin 2012: Floor Plan</a></li> \n\
-      <li><a href=\"http://www.diynetwork.com/decorating/top-10-diy-dining-room-projects/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">10 Top Dining Room Projects</a></li> \n\
-      <li><a href=\"http://www.diynetwork.com/home-improvement/home-theater-design-basics/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Maximize Your Home Theater</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\" target=\"_blank\" rel=\"cpc-1-1\">Bizarre Foods America</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/interests/outdoors-and-adventure/photos/seven-wonders-of-winter?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Seven Wonders of Winter</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/interests/sports/photos/extreme-nfl-tailgating?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Extreme NFL Tailgating</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \t\t\t\t    \r\n\
@@ -2518,7 +2518,7 @@ http_interactions:
       \r\n\
       \r\n"
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 01:16:55 GMT
+  recorded_at: Mon, 30 Jan 2012 05:58:09 GMT
 - request: 
     method: get
     uri: http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256
@@ -2536,23 +2536,23 @@ http_interactions:
       server: 
       - Apache/2.2.3 (Red Hat)
       content-length: 
-      - "115273"
+      - "115116"
       content-type: 
       - text/html;charset=UTF-8
       set-cookie: 
-      - JSESSIONID=0970be99664ab053622fa72fdad1.foodweb03i1; Path=/
+      - JSESSIONID=d3125cc1ae609644ee58afcd491c.foodweb04i1; Path=/
       x-powered-by: 
       - JSP/2.1
       x-cnection: 
       - close
       expires: 
-      - Fri, 06 Jan 2012 01:16:56 GMT
+      - Mon, 30 Jan 2012 05:58:10 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Fri, 06 Jan 2012 01:16:56 GMT
+      - Mon, 30 Jan 2012 05:58:10 GMT
       connection: 
       - keep-alive
     body: "\r\n\
@@ -2790,7 +2790,7 @@ http_interactions:
       \t\t\t\r\n\
       \t\t\t<div class=\"headernav_subnav_featured_ft\">\r\n\
       \t\t\t\t<h5>Also New:</h5>\r\n\
-      \t\t\t\t<p><a href=\"http://www.food.com/slideshow/10-easy-low-fat-desserts-51\">10 Easy, Low-Cal Desserts</a>, <a href=\"http://www.food.com/healthy/fast-easy/package\">Healthy & Quick Meals</a></p>\r\n\
+      \t\t\t\t<p><a href=\"http://www.food.com/slideshow/10-vegetarian-meals-52\">10 Vegetarian Meals</a>, <a href=\"http://www.food.com/healthy/special-diets/package\">Special Diets</a></p>\r\n\
       \t\t\t</div>\r\n\
       \t\t\t\r\n\
       \t\t</div>\r\n\
@@ -2829,7 +2829,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/04/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/29/2012\" rev=\"Recipes\" rel=\"gh-t1-11\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-12\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -3187,7 +3187,7 @@ http_interactions:
       \t\t\t<h5>Explore 400,000+ Recipes</h5>\r\n\
       \t\t\t<ul>\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/04/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
+      \t\t\t\t<li><a  href=\"http://www.food.com/recipe-finder/all?sd=01/29/2012\" rev=\"Recipes\" rel=\"gh-t1-13-li\">Newest Recipes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t\t<li><a  href=\"http://www.food.com/photo-finder/all?Ns=photo_newest|1\" rev=\"Recipes\" rel=\"gh-t1-14-li\">Newest Photos</a></li>\r\n\
       \t\t\t\r\n\
@@ -3536,7 +3536,7 @@ http_interactions:
       <input type=\"hidden\" id=\"globalAssetId\" value=\"67256\"></input>\r\n\
       <input type=\"hidden\" id=\"globalAssetType\" value=\"1\"></input>\r\n\
       \r\n\
-      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@3b132e -->\r\n\
+      <!-- recipe.Comments = com.recipezaar.common.vo.CommentsVO@1471bca -->\r\n\
       <div id=\"site-wrapper\" class=\"recipe-details\">\r\n\
       \t\r\n\
       \r\n\
@@ -3668,14 +3668,14 @@ http_interactions:
       </li>\r\n\
       \r\n\
       <li>\r\n\
-      \t<a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\" ><span>Ratings &amp; Reviews<em>(954)</em></span></a>\r\n\
+      \t<a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\" ><span>Ratings &amp; Reviews<em>(960)</em></span></a>\r\n\
       </li>\r\n\
       \r\n\
       <li>\r\n\
-      \t<a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\"  ><span>Photos<em>(97)</em></span></a>\r\n\
+      \t<a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\"  ><span>Photos<em>(101)</em></span></a>\r\n\
       </li>\r\n\
       </ul>\r\n\
-      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@3b132e -->\r\n\
+      <!-- recipe_tabs.Comments = com.recipezaar.common.vo.CommentsVO@1471bca -->\r\n\
       \r\n\
       \t\t\t\t\t\r\n\
       \t\t<div class=\"pod sponsor\" id=\"sponsor_ad_div_id\" style=\"display:none;\">\r\n\
@@ -3720,7 +3720,7 @@ http_interactions:
       \t\t\t\t\t\t\t</div>\r\n\
       \t\t\t\t\t\t</div>\r\n\
       \t\t\t\t\t</div>\r\n\
-      \t\t\t\t\t<div class=\"ft clrfix\">\r\n            \r\n            <p><a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\">97 Photos</a> of Best Ever Banana Cake With Cream Cheese Frosting</p>\r\n\
+      \t\t\t\t\t<div class=\"ft clrfix\">\r\n            \r\n            <p><a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\">101 Photos</a> of Best Ever Banana Cake With Cream Cheese Frosting</p>\r\n\
       \t\t\t\t\t\t<a class=\"small-button\" href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/photo\"><span><em class=\"label\"></em><em>See All Photos</em></span></a>\r\n\
       \t\t\t\t\t</div>\r\n\
       \t\t\t\t\t\r\n\
@@ -3734,7 +3734,7 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<span class=\"value-title\" title=\"5.0\" > </span>\r\n\
       \t\t\t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t\t\t<span class=\"count\">\r\n\
-      \t\t\t\t\t\t\t\t\t<span class=\"value-title\" title=\"954\"></span>\r\n\
+      \t\t\t\t\t\t\t\t\t<span class=\"value-title\" title=\"960\"></span>\r\n\
       \t\t\t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t</span>\r\n\
@@ -3744,7 +3744,7 @@ http_interactions:
       \t\t\t\t\t\t\t</ul>\r\n\
       \t\t\t\t\t\t</span>\r\n\
       \t\t\t\t\t\t\r\n\
-      \t\t\t\t\t\t<p class=\"rating-txt\"><span><span id=\"rz-rate-it\"><a id=\"ratid\" href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review#rz-w\" rel=\"rateit\">Rate it!</a></span> | <a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\" id=\"readthereview\" rel=\"redrvl\">Read 954 Reviews</a></span></p>\r\n\
+      \t\t\t\t\t\t<p class=\"rating-txt\"><span><span id=\"rz-rate-it\"><a id=\"ratid\" href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review#rz-w\" rel=\"rateit\">Rate it!</a></span> | <a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\" id=\"readthereview\" rel=\"redrvl\">Read 960 Reviews</a></span></p>\r\n\
       \t\t\t\t\t</div>\r\n\
       \t\t\t\t\t\r\n\
       \t\t\t\t\t<div class=\"ckTime clrfix\">\r\n\
@@ -4321,11 +4321,11 @@ http_interactions:
       \t    \r\n\
       \t\t\t<ul class=\"list\">\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/coconut-cake\" rel=\"rc-3\">Coconut Cake</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/occasion-cakes\" rel=\"rc-3\">Occasion Cakes</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\r\n\
       \t    \r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/occasion-cakes\" rel=\"rc-4\">Occasion Cakes</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/ice-cream-cake\" rel=\"rc-4\">Ice Cream Cake</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t</ul>\r\n\
       \t\t\t\r\n\
@@ -4333,11 +4333,11 @@ http_interactions:
       \t    \r\n\
       \t\t\t<ul class=\"list\">\r\n\
       \t\t\t\r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/ice-cream-cake\" rel=\"rc-5\">Ice Cream Cake</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/blueberry-cake\" rel=\"rc-5\">Blueberry Cake</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\r\n\
       \t    \r\n\
-      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/occasion-cake\" rel=\"rc-6\">Occasion Cake</a></li>\r\n\
+      \t\t\t\t<li><a href=\"http://www.food.com/recipe-collection/lemon-cake\" rel=\"rc-6\">Lemon Cake</a></li>\r\n\
       \t\t\t\r\n\
       \t\t\t</ul>\r\n\
       \t\t\t\r\n\
@@ -4594,7 +4594,7 @@ http_interactions:
       \t\r\n\
       \t</ul>\r\n\
       \t\r\n\
-      \t<p class=\"more\"><a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\">Read All Reviews (954)</a></p>\r\n\
+      \t<p class=\"more\"><a href=\"http://www.food.com/recipe/best-ever-banana-cake-with-cream-cheese-frosting-67256/review\">Read All Reviews (960)</a></p>\r\n\
       \r\n\
       \r\n\
       </div>\r\n\
@@ -4830,10 +4830,10 @@ http_interactions:
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;li class=\"last store-item\"&gt;\n\
-      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=151360&amp;CCAID=CBFO151360\" title=\"Luigi Bormioli Pedestal Cake Stand with Dome Cover\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/151360.jpg\" width=\"120\" height=\"90\" alt=\"Luigi Bormioli Pedestal Cake Stand with Dome Cover\"&gt;&lt;/a&gt;\n\
+      &lt;a rel=\"fns-2\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=155770&amp;CCAID=CBFO155770\" title=\"Wilton Cake Decorating Caddy and Tools\" target=\"_blank\"&gt;&lt;img src=\"http://ifeed.cooking.com/images/products/shprodde/155770.jpg\" width=\"120\" height=\"90\" alt=\"Wilton Cake Decorating Caddy and Tools\"&gt;&lt;/a&gt;\n\
       &lt;div class=\"item-info\"&gt;\n\
-      &lt;a class=\"item-description\" target=\"_blank\" title=\"Luigi Bormioli Pedestal Cake Stand with Dome Cover\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=151360&amp;CCAID=CBFO151360\" rel=\"fns-2\"&gt;Luigi Bormioli Pedestal Cake Stand with Dome Cover&lt;/a&gt;\n\
-      &lt;p class=\"price\"&gt;$44.95&lt;/p&gt;\n\
+      &lt;a class=\"item-description\" target=\"_blank\" title=\"Wilton Cake Decorating Caddy and Tools\" href=\"http://www.cooking.com/products/shprodde.asp?SKU=155770&amp;CCAID=CBFO155770\" rel=\"fns-2\"&gt;Wilton Cake Decorating Caddy and Tools&lt;/a&gt;\n\
+      &lt;p class=\"price\"&gt;$61.95&lt;/p&gt;\n\
       &lt;/div&gt;\n\
       &lt;/li&gt;\n\
       &lt;/ul&gt;\n\
@@ -4970,7 +4970,7 @@ http_interactions:
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
-      \t\t\t\t\t\t<a href=\"http://www.food.com/recipe/olive-garden-copycat-zuppa-toscana-38298\" rel=\"gf-ideas-8\">Olive Garden Copycat Zuppa Toscana</a>\r\n\
+      \t\t\t\t\t\t<a href=\"http://www.food.com/game-day-grub/home/package\" rel=\"gf-ideas-8\">Game Day Grub</a>\r\n\
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
@@ -4978,7 +4978,7 @@ http_interactions:
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\t\t\t\t\t\r\n\
       \t\t\t\t\t<li>\r\n\
-      \t\t\t\t\t\t<a href=\"http://www.food.com/recipe/perfect-pork-tenderloin-63828\" rel=\"gf-ideas-10\">Perfect Pork Tenderloin Recipe</a>\r\n\
+      \t\t\t\t\t\t<a href=\"http://www.food.com/slideshow/10-favorite-chicken-wings-8\" rel=\"gf-ideas-10\">10 Winning Chicken Wing Recipes</a>\r\n\
       \t\t\t\t\t</li>\t\t\t\t\t\r\n\
       \t\t\t\r\n\
       \t\t\t\t\t\t\r\n\
@@ -5024,7 +5024,7 @@ http_interactions:
       <a target=\"_blank\" href=\"http://www.foodnetwork.com?xp=foodcom_footer\">Food Network</a>\n\
       </h6>\n\
       <div class=\"bd\" style=\"line-height: 1.3;\">\n\
-      <p><a target=\"_blank\" href=\"http://www.foodnetwork.com/healthy-every-week/package/index.html?xp=fnhealthy\"><img style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network Healthy Recipes\" src=\"http://img.foodnetwork.com/FOOD/2009/02/11/crispbakedfriedchicken_s4x3_sm.jpg\"></a><a target=\"_blank\" href=\"http://www.foodnetwork.com/healthy-every-week/package/index.html?xp=fnhealthy\">Find Healthy and Delicious Recipes for Every Night of the Week</a></p>\n\
+      <p><a target=\"_blank\" href=\"http://www.foodnetwork.com/big-game/package/index.html?xp=biggame\"><img style=\"float: left; border: 1px solid #d4d4d4; padding: 1px; margin-right: 4px;\" width=\"92\" height=\"69\" border=\"0\" alt=\"Food Network Big Game Recipes\" src=\"http://img.foodnetwork.com/FOOD/2011/11/22/FN_buffalo-wings-001_s4x3_sm.jpg\"></a><a target=\"_blank\" href=\"http://www.foodnetwork.com/big-game/package/index.html?xp=biggame\">Easy Finger Foods & Appetizers for Game Day</a></p>\n\
       </div>\n\
       </div>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
@@ -5032,27 +5032,27 @@ http_interactions:
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
       \t\t\t\t\t\t\t\t<h6><a href=\"http://www.cookingchanneltv.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">Cooking Channel</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-italian-recipes/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-1\">Lightened-Up Italian</a></li> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-healthy-2012/videos/index.html?channel=60606&xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-2\">Comfort Food Favorites</a></li> \n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-winter-side-dish-recipes/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Winter Side Recipes</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/healthy-foods-diet/package/index.html?xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-1\">Comfort Food Favorites</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-chicken-dinner-recipes/pictures/index.html?xp=cchealthy\" target=\"_blank\" rel=\"cpc-1-2\">Healthy Chicken Recipes</a></li> \n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Best Appetizers</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \r\n\
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
       \t\t\t\t\t\t\t\t<h6><a href=\"http://www.hgtv.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">HGTV</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" target=\"_blank\" rel=\"cpc-1-1\">HGTV Dream Home Sweeps</a></li> \n\
-      <li><a href=\"http://www.hgtv.com/smart-chic-kitchens/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Kitchen Update Under $200</a></li> \n\
-      <li><a href=\"http://www.hgtv.com/cleaning-tips-indoors-and-out/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Declutter for the New Year</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" target=\"_blank\" rel=\"cpc-1-1\">HGTV Dream Home Giveaway</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Kitchen Makeover Ideas</a></li> \n\
+      <li><a href=\"http://www.hgtv.com/cleaning-tips-indoors-and-out/package/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">New Year's Cleaning Tips</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \r\n\
       \t\t\t\t\t       <li class=\"first crsl-item\">\t\t\t\t\t\t      \r\n\
-      \t\t\t\t\t\t\t\t<h6><a href=\"http://www.diynetwork.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">DIY Network</a></h6> \n\
+      \t\t\t\t\t\t\t\t<h6><a href=\"http://www.travelchannel.com/?xp=foodcom_footer\" target=\"_blank\" rel=\"cpct-1\">Travel Channel</a></h6> \n\
       <ul class=\"list\"> \n\
-      <li><a href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-1\">Blog Cabin 2012: Floor Plan</a></li> \n\
-      <li><a href=\"http://www.diynetwork.com/decorating/top-10-diy-dining-room-projects/pictures/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">10 Top Dining Room Projects</a></li> \n\
-      <li><a href=\"http://www.diynetwork.com/home-improvement/home-theater-design-basics/index.html?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Maximize Your Home Theater</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\" target=\"_blank\" rel=\"cpc-1-1\">Bizarre Foods America</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/interests/outdoors-and-adventure/photos/seven-wonders-of-winter?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-2\">Seven Wonders of Winter</a></li> \n\
+      <li><a href=\"http://www.travelchannel.com/interests/sports/photos/extreme-nfl-tailgating?xp=foodcom_footer\" target=\"_blank\" rel=\"cpc-1-3\">Extreme NFL Tailgating</a></li> \n\
       </ul>\t\r\n\
       \t\t\t\t\t       </li> \r\n\
       \t\t\t\t    \t\t\t\t    \r\n\
@@ -5293,5 +5293,5 @@ http_interactions:
       \r\n\
       \r\n"
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 01:16:57 GMT
+  recorded_at: Mon, 30 Jan 2012 05:58:10 GMT
 recorded_with: VCR 2.0.0.rc1

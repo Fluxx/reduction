@@ -16,22 +16,22 @@ http_interactions:
     headers: 
       server: 
       - Apache
+      content-language: 
+      - en,en-us
       x-server-name: 
-      - web1b D=133861
+      - web1b D=940195
       vary: 
       - User-Agent,Accept-Encoding
       content-type: 
       - text/html;charset=ISO-8859-1
-      content-language: 
-      - en
       cache-control: 
       - max-age = 300
       content-length: 
-      - "100867"
+      - "101918"
       date: 
-      - Fri, 06 Jan 2012 01:17:04 GMT
+      - Mon, 30 Jan 2012 05:58:16 GMT
       x-varnish: 
-      - "930290929"
+      - "961510993"
       via: 
       - 1.1 varnish
       connection: 
@@ -45,6 +45,7 @@ http_interactions:
       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
       	<head>
       <script type="text/javascript" src="http://m.saveur.com/mobify/redirect.js"></script>
+      <script type="text/javascript" src="/scripts/bonnier_clickstream_tracking.js"></script>
       <script type="text/javascript">try{_mobify("http://m.saveur.com/");} catch(err) {};</script>
           <meta name="template" content="base"/>
           <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -127,6 +128,14 @@ http_interactions:
       		<link rel="alternate" type="application/atom+xml" title="New Recipes" href="/rss_newrecipes.jsp" />
       		<title>Rainbow Cookies Recipe - Saveur.com</title>
       		<link type="text/css" rel="stylesheet" media="print" href="/css/print.css" />
+          <script type="text/javascript">
+            <!--//--><![CDATA[//><!--
+            deviceRec.trackName = document.title;
+            deviceRec.trackUrl = document.location.href;
+            deviceRec.displayValues = false;
+            deviceRec.init();
+            //--><!]]>
+          </script>
       	</head>
       	<body  >
       	<script type="text/javascript" src="/omniture/omniture_initialize.js"></script>
@@ -155,24 +164,27 @@ http_interactions:
       
       
         
-        
-          
-        
-      
-      
-      
-      
-      
-        
-        
-        
-        
-        
-        
-        
           
         
         
+      
+      
+      
+      
+      
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        
+      
+      
+      
       
       
       
@@ -210,7 +222,7 @@ http_interactions:
       <div id="dart-tag-top" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=top;tile=1;sz=728x90;id=1000089287;dcopt=ist;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=top;tile=1;sz=728x90;id=1000089287;dcopt=ist;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -227,7 +239,7 @@ http_interactions:
           
             <div class="circ-image">
             <a href="https://saveur.bonniersubscriptions.com/HAD0-001/" _blank title="Saveur Cover Image">
-              <img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" border="0" alt="Saveur Cover Image"/>
+              <img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" border="0" alt="Saveur Cover Image"/>
             </a>
             </div>
             
@@ -1280,6 +1292,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1312,7 +1327,7 @@ http_interactions:
       <div id="dart-tag-x02" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x02;tile=2;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x02;tile=2;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1363,6 +1378,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1395,7 +1413,7 @@ http_interactions:
       <div id="dart-tag-x03" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x03;tile=3;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x03;tile=3;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1473,6 +1491,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1505,7 +1526,7 @@ http_interactions:
       <div id="dart-tag-x04" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x04;tile=4;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x04;tile=4;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1551,6 +1572,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1583,7 +1607,7 @@ http_interactions:
       <div id="dart-tag-x05" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x05;tile=5;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x05;tile=5;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1627,6 +1651,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1659,7 +1686,7 @@ http_interactions:
       <div id="dart-tag-x06" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x06;tile=6;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x06;tile=6;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1707,6 +1734,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -1738,7 +1768,7 @@ http_interactions:
       <div id="dart-tag-x90" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x90;tile=7;sz=960x50;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=x90;tile=7;sz=960x50;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -1809,6 +1839,14 @@ http_interactions:
         
         
         
+      
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -1829,9 +1867,7 @@ http_interactions:
         
         
         
-        
-        
-        
+      
         
         
         
@@ -1853,7 +1889,7 @@ http_interactions:
         
         
         
-          
+        
         
         
         
@@ -2113,6 +2149,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -2147,7 +2186,7 @@ http_interactions:
       <div id="dart-tag-frame1" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=frame1;tile=7;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=frame1;tile=7;sz=88x31;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -2235,6 +2274,9 @@ http_interactions:
         
           <div class="recipe-info">
               <div class="source">
+                  
+                 
+                
               
               
                 
@@ -2945,13 +2987,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-004.jpg" title="Platinum Professional Bakeware" alt="Platinum Professional Bakeware" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485706&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Emile Henry Stoneware Mixing Bowls">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-006.jpg" title="Emile Henry Stoneware Mixing Bowls" alt="Emile Henry Stoneware Mixing Bowls" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485704&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Platinum Professional Bakeware">Platinum Professional Bakeware</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485706&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Emile Henry Stoneware Mixing Bowls">Emile Henry Stoneware Mixing Bowls</a>
             </div>
             
             
@@ -2984,13 +3026,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485791&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Weber Performer Grill">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-130.jpg" title="Weber Performer Grill" alt="Weber Performer Grill" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485789&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Ravi Wine Chiller">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-128.jpg" title="Ravi Wine Chiller" alt="Ravi Wine Chiller" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485791&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Weber Performer Grill">Weber Performer Grill</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485789&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Ravi Wine Chiller">Ravi Wine Chiller</a>
             </div>
             
             
@@ -3023,13 +3065,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-119.jpg" title="Kinetic Go Green Food Storage" alt="Kinetic Go Green Food Storage" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=588541&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-588541%2F&usg=AFHzDLs9aTDEMYu3v1pkfvDBP78dWVMW1w&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Brushed Stainless Steel Food Processor">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-087.jpg" title="Cuisinart Brushed Stainless Steel Food Processor" alt="Cuisinart Brushed Stainless Steel Food Processor" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">Kinetic Go Green Food Storage</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=588541&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-588541%2F&usg=AFHzDLs9aTDEMYu3v1pkfvDBP78dWVMW1w&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Brushed Stainless Steel Food Processor">Cuisinart Brushed Stainless Steel Food Processor</a>
             </div>
             
             
@@ -3062,13 +3104,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-041.jpg" title="Sur La Table Hard Anodized Nonstick Griddle" alt="Sur La Table Hard Anodized Nonstick Griddle" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485764&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Breville Smart Grill">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-098.jpg" title="Breville Smart Grill" alt="Breville Smart Grill" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">Sur La Table Hard Anodized Nonstick Griddle</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485764&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Breville Smart Grill">Breville Smart Grill</a>
             </div>
             
             
@@ -3103,13 +3145,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=565440&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-565440%2F&usg=AFHzDLt2YcF5ezUcFUMV7iZTPozoAdqHsw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Capresso Stainless Steel Finish Infinity Burr Grinder">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-086.jpg" title="Capresso Stainless Steel Finish Infinity Burr Grinder" alt="Capresso Stainless Steel Finish Infinity Burr Grinder" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=204164&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-204164%2F&usg=AFHzDLuvyeuJBX0zBlzCjIZXGhfJSveKmA&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="John Boos & Co. Chinese Chopping Block">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-135.jpg" title="John Boos & Co. Chinese Chopping Block" alt="John Boos & Co. Chinese Chopping Block" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=565440&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-565440%2F&usg=AFHzDLt2YcF5ezUcFUMV7iZTPozoAdqHsw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Capresso Stainless Steel Finish Infinity Burr Grinder">Capresso Stainless Steel Finish Infinity Burr Grinder</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=204164&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-204164%2F&usg=AFHzDLuvyeuJBX0zBlzCjIZXGhfJSveKmA&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="John Boos & Co. Chinese Chopping Block">John Boos & Co. Chinese Chopping Block</a>
             </div>
             
             
@@ -3593,7 +3635,7 @@ http_interactions:
       			<div id="post-comment">
       				<h4 class="title">Your Rating &amp; Review</h4>
       				
-      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=1F58E97FFB46BA08B3851EFB0C838677.pa2_saveur" id="enewsletterform">
+      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=CA58FB5012F98FDC8B30AA1317498082.pa2_saveur" id="enewsletterform">
       					<input type="hidden" name="destinationPage" value="/article/Recipes/Rainbow-Cookies#comments">
       					
       					<fieldset>
@@ -3786,6 +3828,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -3813,7 +3858,7 @@ http_interactions:
       <div id="dart-tag-right1" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=7;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=right1;tile=8;sz=300x250;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4359,7 +4404,7 @@ http_interactions:
       							<div class="subscribe-tools">
       							
       								<div class="subscribe-image">
-      									<a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" alt="In This Issue" /></a>
+      									<a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" alt="In This Issue" /></a>
       								</div>
       							
       								<div class="subscribe-links">
@@ -4373,7 +4418,7 @@ http_interactions:
       										
       											<li><a href="/wheretobuy.jsp"  title="Featured Retailers">Featured Retailers</a></li>
       										
-      										<li class="last"><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110"  title="In This Issue">In This Issue</a></li>
+      										<li class="last"><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201"  title="In This Issue">In This Issue</a></li>
       									</ul>
       								</div>
       								<div class="clear"></div>
@@ -4552,6 +4597,9 @@ http_interactions:
       
       
       
+      
+      
+      
         
       
       
@@ -4579,7 +4627,7 @@ http_interactions:
       <div id="dart-tag-bottom" class="dart-tag">
         <SCRIPT language="JavaScript">
           <!--
-          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=8;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
+          document.write('<sc'+'ript type="text/javascript" src="http://ad.doubleclick.net/adj/n6747.saveur/recipes;device='+deviceRec.device+';kw=italian-america,christmas,butter,flour,sugar,almond-pastry-filling,raspberry-jam,semisweet-chocolate;pos=bottom;tile=9;sz=728x90;id=1000089287;topic=luxury;ord=' + ord_rand_num + '?"></s'+'cript>');
           //-->
         </script>
       </div>
@@ -4644,7 +4692,7 @@ http_interactions:
       			<div id="current-issue-links2">
       				<h3 class="title">Current Issue</h3>
       				<ul>
-      					<li><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201110" title="In This Issue">In This Issue</a></li>
+      					<li><a href="http://www.saveur.com/in_this_issue.jsp?issueId=201201" title="In This Issue">In This Issue</a></li>
       					
       						<li><a href="https://saveur.bonniersubscriptions.com/HAD0-021/" target='_blank' title="Subscribe Today">Subscribe Today</a></li>
       					
@@ -4652,7 +4700,7 @@ http_interactions:
       			</div>
       		
       			<div id="current-issue-image2">
-      				<a href="https://saveur.bonniersubscriptions.com/HAD0-021/" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-143-135x172.jpg" alt="In This Issue" /></a>
+      				<a href="https://saveur.bonniersubscriptions.com/HAD0-021/" title="In This Issue"><img src="http://www2.worldpub.net/images/saveurmag/120-issue-144-135x172.jpg" alt="In This Issue" /></a>
       			</div>
       		
       			<div class="clear"></div>
@@ -4733,8 +4781,8 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Menu/A-Comforting-Mexican-Dinner" title="A Cold-Weather Mexican Feast">
-      								A Cold-Weather Mexican...
+      								<li><a href="http://www.saveur.com/article/Recipes/Classic-Eggs-Benedict" title="Classic Eggs Benedict">
+      								Classic Eggs Benedict
       								</a></li>
       	
       	
@@ -4749,16 +4797,16 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Country-Captain" title="Country Captain">
-      								Country Captain
+      								<li><a href="http://www.saveur.com/article/Menu/Roast-Chicken-Dinner" title="A Simple Roast Chicken Dinner">
+      								A Simple Roast Chicken...
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/-/Mexican-Comfort-Food" title="Mexican Comfort Food">
-      								Mexican Comfort Food
+      								<li><a href="http://www.saveur.com/article/Recipes/The-Best-Damn-Meyer-Lemon-Cake" title="The Best Damn Meyer Lemon Cake">
+      								The Best Damn Meyer Lemon...
       								</a></li>
       	
       	
@@ -4773,32 +4821,32 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Travels/Road-Food-James-Beard" title="Larger Than Life: Remembering James Beard">
-      								Larger Than Life:...
+      								<li><a href="http://www.saveur.com/article/Kitchen/SAVEUR-Easy-Italian-Eggplant-Caponata" title="<em>SAVEUR: Easy Italian:</em> Eggplant Caponata">
+      								SAVEUR: Easy Italian:...
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Travels/Mexico-Feeds-Me" title="Mexico Feeds Me: Exploring Mexico's Culinary Heritage">
-      								Mexico Feeds Me:...
+      								<li><a href="http://www.saveur.com/article/Travels/saveur-100-stockholm" title="New Stockholm Cuisine">
+      								New Stockholm Cuisine
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/-/Wholesome-Recipes" title="20 Wholesome Recipes">
-      								20 Wholesome Recipes
+      								<li><a href="http://www.saveur.com/article/Recipes/Bourbon-Chai" title="Bourbon Chai">
+      								Bourbon Chai
       								</a></li>
       	
       	
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/One-Good-Find/Magnetic-Knife-Holder" title="Magnetic Knife Holder">
-      								Magnetic Knife Holder
+      								<li><a href="http://www.saveur.com/article/Recipes/Lady-Shirley" title="Lady Shirley">
+      								Lady Shirley
       								</a></li>
       	
       	
@@ -4908,7 +4956,6 @@ http_interactions:
       
       						<div class="clear"></div>
       					</div> <!-- #inner-footer -->
-      					<p id="copyright">Copyright &copy; 2012 SAVEUR. All rights reserved. Reproduction in whole or in part without permission is prohibited.</p>
       					<div id="bonnier">
       						<a href="http://www.bonniercorp.com" title="Bonnier Corporation"><img src="http://www.saveur.com/images/bonnier-logo.png" alt="Bonnier Corporation" /></a>
       						<select target="_blank" onchange="document.location.href=this.value" name="sites">
@@ -4978,6 +5025,8 @@ http_interactions:
       							
       						</select>
       					</div> <!-- #bonnier -->
+                <p class="group-msg">SAVEUR.com is part of the Bonnier Travel & Epicurean Group, a division of Bonnier Corporation.</p>
+                <p id="copyright">Copyright &copy; 2012 SAVEUR. All rights reserved. Reproduction in whole or in part without permission is prohibited.</p>
       
       					</div> <!-- #footer -->
       				</div> <!-- #container -->
@@ -4987,44 +5036,39 @@ http_interactions:
       		<script type="text/javascript" src="/scripts/share-menu.js"></script>
       	
       
+      
       <!-- Start Quantcast tag -->
-      <script type="text/javascript">
-      <!--
-      _qoptions={qacct:"p-cafODhhaQOlCs"};
-      //-->
+      <script type="text/javascript">_qacct="p-cafODhhaQOlCs";
+      function quantcast_refresh() {
+          quantserve();
+      }
       </script>
       <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-      <noscript>
-      <img src="http://pixel.quantserve.com/pixel/p-cafODhhaQOlCs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-      </noscript>
+      <noscript><div><img src="http://pixel.quantserve.com/pixel/p-cafODhhaQOlCs.gif" style="display:none" height="1" width="1" alt="Quantcast" /></div></noscript>
       <!-- End Quantcast tag -->
-      <!-- Begin comScore Tag -->
       
-      <script>
-      
-        var _comscore = _comscore || [];
-      
-        _comscore.push({ c1: "2", c2: "6035029" });
-      
-        (function() {
-      
-          var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
-      
-          s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
-      
-          el.parentNode.insertBefore(s, el);
-      
-        })();
-      
+      <!-- Begin comScore Tag --> 
+      <script> 
+      document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
+      </script> 
+      <script type="text/javascript">
+      if (typeof COMSCORE != 'undefined') {
+        COMSCORE.beacon({
+          c1:2,
+          c2:6035029,
+          c3:" ",
+          c4:" ",
+          c5:"",
+          c6:"",
+          c15:" "
+        });
+      }
       </script>
-      
-      <noscript>
-      
-        <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035029&cv=2.0&cj=1" />
-      
-      </noscript>
-      
+      <noscript> 
+      <img src="http://b.scorecardresearch.com/b?c1=2&c2=6035029&c3=&c4=&c5=&c6=&c15=&cv=1.3&cj=1" style="display:none" width="0" height="0" alt="" /> 
+      </noscript> 
       <!-- End comScore Tag -->
+      
       <!-- START Nielsen Online SiteCensus V6.0 -->
       <!-- COPYRIGHT 2010 Nielsen Online -->
       <script type="text/javascript">
@@ -5097,9 +5141,10 @@ http_interactions:
       
       <img src="http://b.collective-media.net/seg/cm/r2ms" width="1" height="1" />
       <img src="http://b.collective-media.net/seg/cm/9wbx" width="1" height="1" />
+      
       	</body>
       </html>
       
     http_version: "1.1"
-  recorded_at: Fri, 06 Jan 2012 01:17:07 GMT
+  recorded_at: Mon, 30 Jan 2012 05:58:17 GMT
 recorded_with: VCR 2.0.0.rc1
