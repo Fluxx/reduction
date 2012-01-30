@@ -29,6 +29,8 @@ module Reduction
 
       def prep_time
         text_at('.recipe-info .preptime').strip
+      rescue
+        nil
       end
 
       def cook_time
@@ -36,6 +38,8 @@ module Reduction
 
       def total_time
         text_at('.recipe-info .duration')
+      rescue
+        nil
       end
 
       def images

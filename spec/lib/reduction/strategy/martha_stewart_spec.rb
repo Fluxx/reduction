@@ -69,6 +69,12 @@ module Reduction
         it_should_find 'notes', nil
       end
 
+      context 'without prep or cook time' do
+        strategy_subject_for('http://www.marthastewart.com/355559/devils-food-cupcakes')
+
+        it_should_behave_like 'a strategy', :blessed
+      end
+
     end
 
   end
