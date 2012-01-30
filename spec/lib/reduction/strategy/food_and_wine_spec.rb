@@ -97,6 +97,14 @@ module Reduction
         end
 
       end
+
+      context 'with a notes section' do
+        strategy_subject_for('http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries')
+
+        it_should_behave_like 'a strategy', :blessed
+
+        it_should_find 'notes', 'Cocoa nibs are available at specialty food shops.'
+      end
     end
 
   end

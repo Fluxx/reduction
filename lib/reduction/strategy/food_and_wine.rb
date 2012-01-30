@@ -39,6 +39,9 @@ module Reduction
       end
 
       def notes
+        if element = doc.at('#endnotes p')
+          element.text.collapse_whitespace
+        end
       end
 
       def images

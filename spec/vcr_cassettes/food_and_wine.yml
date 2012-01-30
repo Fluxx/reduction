@@ -1559,7 +1559,7 @@ http_interactions:
         <p title = "Food & Wine">
           <a href = "/" title = "Food & Wine - home" >
             <img src = "foodandwine.com/images/logo.gif" alt = "Food & Wine" style = "vertical-align: bottom;" /></a></p>
-                    
+      
           <div id="mange-tout" style= "float:left; margin:13px 0 0px 28px;">
           <div id="subscToutContainer">          
             <div id="subscToutCvr">  
@@ -2151,7 +2151,7 @@ http_interactions:
       <script>
         //<![CDATA[
           jQuery.noConflict();
-          
+      
           $('#newsletter_form').submit(function(){
             cm_tout = 'CM Tout'
             news_array = new Array()
@@ -2567,4 +2567,1029 @@ http_interactions:
       
     http_version: "1.1"
   recorded_at: Mon, 30 Jan 2012 06:06:45 GMT
+- request: 
+    method: get
+    uri: http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries
+    body: ""
+    headers: 
+      accept: 
+      - "*/*"
+      user-agent: 
+      - Ruby
+  response: 
+    status: 
+      code: 200
+      message: OK
+    headers: 
+      date: 
+      - Mon, 30 Jan 2012 06:39:01 GMT
+      server: 
+      - Apache/2.2.3 (Red Hat)
+      x-powered-by: 
+      - Phusion Passenger (mod_rails/mod_rack) 3.0.7
+      x-ua-compatible: 
+      - IE=Edge,chrome=1
+      x-runtime: 
+      - "0.661397"
+      cache-control: 
+      - max-age=300, public
+      set-cookie: 
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMThiMGVJN1EyVHQ0Q0t0c3h2M1p6QTcyOWErNm93NGVlRkJVcVkzTDA0VTA9Ig9zZXNzaW9uX2lkIiU5YTRlOTNiMDNmZWQ4YjQxN2JkNTU1YWQ4NWRlNTYxYg%3D%3D--b627f214eb4e50796ba36a4b229e67ca793be9e1; path=/; HttpOnly
+      last-modified: 
+      - Mon, 09 Jan 2012 15:47:00 GMT
+      status: 
+      - "200"
+      vary: 
+      - Accept-Encoding
+      content-type: 
+      - text/html; charset=utf-8
+      connection: 
+      - close
+    body: "<!DOCTYPE html>\n\
+      <html keynote='CuisineEtVin' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml'>\n\
+      <head>\n\
+      <meta content='text/html; charset=iso-8859-1' http-equiv='Content-type'>\n\
+      <meta content='en-us' http-equiv='Content-Language'>\n\
+      <meta content='\xE2\x80\x9CCocoa nibs taste like this cool mix of chocolate and espresso,\xE2\x80\x9D says Joy Wilson. The bitter nibs give this Pavlova a hit of chocolate flavor. \xE2\x80\x9CI eat it with a cup of mint tea to get a mint-chocolate-chip situation,\xE2\x80\x9D she says.' name='description'>\n\
+      <meta content='\xE2\x80\x9CCocoa nibs taste like this cool mix of chocolate and espresso,\xE2\x80\x9D says Joy Wilson. The bitter nibs give this Pavlova a hit of chocolate flavor. \xE2\x80\x9CI eat it with a cup of mint tea to get a mint-chocolate-chip situation,\xE2\x80\x9D she says.' property='og:description'>\n\
+      <meta content='joy wilson, healthy dessert, healthy chocolate, chocolate pavlova , cocoa nib recipe, raspberry dessert, chocolate meringue ' name='keywords'>\n\
+      <meta content='154653334553109' property='fb:app_id'>\n\
+      <meta content='' property='og:url'>\n\
+      <meta content='Food &amp;amp; Wine' property='og:site_name'>\n\
+      <meta content='http://www.foodandwine.com/images/sys/201202-r-cocoa-nib-pavlova.jpg' property='og:image'>\n\
+      <meta content='article' property='og:type'>\n\
+      <meta content='Cocoa Nib Pavlova with Raspberries' property='og:title'>\n\
+      <meta content='' property='robots'>\n\
+      <link href='/favicon.ico' rel='icon' type='image/x-icon'>\n\
+      <link href='/favicon.ico' rel='shortcut icon' type='image/x-icon'>\n\n\n\
+      <title>\n\
+      Cocoa Nib Pavlova with Raspberries\n Recipe - \n\
+      Joy Wilson\n | Food &amp; Wine\n\
+      </title>\n\
+      <link href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet' type='text/css'>\n\
+      <link href=\"/stylesheets/main.css?1327594648\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/recipe.css?1327594648\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <link href=\"/stylesheets/printer.css?1327594648\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/community.css?1327594648\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/community_new.css?1327594648\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/screen_newsletter.css?1327594648\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/screen_recipes.css?1327594648\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <!--[if IE 7]>\n\
+      <link href='/css/ie7.css' rel='stylesheet' type='text/css'>\n\
+      <link href='/css/redesign.foodandwine/_printer-ie7.css' media='print' rel='stylesheet' type='text/css'>\n\
+      <![endif]-->\n\
+      <script src=\"/javascripts/jquery.min.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/jquery_ujs.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/swfobject.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/foodandwine_new.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/privacy_popup.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/jquery.clearinput.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/community_login_check.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"http://img.timeinc.net/shared/static/js/tii_ads.js\" type=\"text/javascript\"></script>\n\
+      <script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t' type='text/javascript'></script>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      MAD={getQueryVariable:function(a){var b=window.location.search.substring(1).toLowerCase();var c=b.split(\"&\");for(var d=0;d<c.length;d++){var e=c[d].split(\"=\");if(e[0]==a){return e[1]}}return false},\n\
+      readCookie:function(a){var b=a+\"=\";var c=document.cookie.split(\";\");for(var d=0;d<c.length;d++){var e=c[d];while(e.charAt(0)==\" \")e=e.substring(1,e.length);if(e.indexOf(b)==0)return e.substring(b.length,e.length)}return null;}}\n\n\
+      var dexBaseURL=((\"https:\"==document.location.protocol) ?\n\
+      \"https://a248.e.akamai.net/demdex.download.akamai.com/aexp/10/\" :\n\
+      \"http://cdn.demdex.net/aexp/10/\");\n\
+      document.write(unescape(\"%3Cscript src='\"+ dexBaseURL +\n\
+      \"demdex.js' type='text/javascript' %3E%3C/script%3E\"));\n\n\
+      var adConfig = new TiiAdConfig('3475.fw');\n\
+      adConfig.setCmSitename('cm.fw');\n\
+      var adFactory = new TiiAdFactory(adConfig, 'recipes');\n\
+      adFactory.setParam('ptype', 'content');\n\
+      adFactory.setParam('sub', new Array('recipes', 'cocoa-nib-pavlova-with-raspberries'));\n\
+      adFactory.setParam('site', 'fw');\n\
+      adFactory.setParam('as', TiiAdGetRevSciSegments());\n\
+      if (MAD.readCookie('demdex')) { adFactory.setParam('axp', MAD.readCookie('demdex').split('=')[1]);}\n\
+      if ((navigator.userAgent.match('iPhone')) || (navigator.userAgent.match('iPad')) || (navigator.userAgent.match('iPod')) || (location.search.match('ipad=true'))) { adFactory.setParam(\"user\", \"ipad\");}if(MAD.getQueryVariable(\"pkw\")){adFactory.setParam(\"pkw\", MAD.getQueryVariable(\"pkw\"));}\n\
+      //]]>\n\
+      </script>\n\n\
+      <script src='http://clientapps.kickapps.com/amex2/comments/js/jsr_class.js' type='text/javascript'></script>\n\
+      <!-- %script{ :type => \"text/javascript\", :src => \"http://clientapps.kickapps.com/amex2/comments/js/cookies.js\" } -->\n\
+      <script src='http://clientapps.kickapps.com/amex2/comments/js/dateValidate.js' type='text/javascript'></script>\n\
+      <!-- %script{ :type => \"text/javascript\", :src => \"http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US\" } -->\n\
+      <script src='https://rpxnow.com/openid/v2/widget' type='text/javascript'></script>\n\
+      <script type='text/javascript'>\n\
+      RPXNOW.overlay = true;\n\
+      RPXNOW.language_preference = 'en';\n\
+      <!-- /FB.init(\"93ac89296316efd5d316caaa90bfbde4\"); -->\n\
+      </script>\n\n\
+      <script src=\"/javascripts/tabcontent.js?1327594648\" type=\"text/javascript\"></script>\n\n\
+      <script type='text/javascript'>\n\
+      jQuery.noConflict();\n\
+      </script>\n\
+      </head>\n\
+      <body>\n\
+      <script src=\"/javascripts/googleAnalytics.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/ga_social_tracking.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <!--\n\
+      OMNITURE: DISPLAY BEGIN\n\
+      -->\n\
+      <div id='omniture' style='display:none'>\n\
+      <script type='text/javascript'>\n\
+      var s_account = \"timefoodandwine\";\n\
+      var search_kw = \"\";\n\
+      var channel = \"recipes\";\n\
+      var sub_channel = \"\";\n\
+      var titleNoBrand = document.title;\n\
+      titleNoBrand = titleNoBrand.slice(0,titleNoBrand.indexOf(' |'));\n\
+      function fw_linktracker(linkname)\n\
+      {\n\
+      var titleNoChef = document.title;\n\
+      titleNoChef = titleNoChef.slice(0,titleNoChef.indexOf(' -'));\n\
+      s_time=s_gi(\"timefoodandwine\");\n\
+      s_time.linkTrackVars='events,prop13';\n\
+      s_time.linkTrackEvents= 'event5';\n\
+      s_time.events='event5';\n\
+      s_time.prop13= titleNoChef;\n\
+      s_time.tl(true,'o',linkname + ' = ' + titleNoChef);\n\
+      }\n\
+      </script>\n\
+      </div>\n\
+      <script src=\"/javascripts/_fw_track.js?1327594648\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/omniture_vars.js?1327594648\" type=\"text/javascript\"></script>\n\n\
+      <!--\n\
+      Begin comScore Tag\n\
+      -->\n\
+      <script>\n\
+      document.write(unescape(\"%3Cscript src='\" + (document.location.protocol == \"https:\" ? \"https://sb\" : \"http://b\") + \".scorecardresearch.com/beacon.js' %3E%3C/script%3E\"));\n\
+      </script>\n\
+      <script>\n\
+      COMSCORE.beacon({\n\
+      c1:2,\n\
+      c2:6034960,\n\
+      c3:\"\",\n\
+      c4:\"\",\n\
+      c5:\"\",\n\
+      c6:\"\",\n\
+      c15:\"\"\n\
+      });\n\
+      </script>\n\
+      <noscript>\n\
+      &lt;img src=&quot;http://b.scorecardresearch.com/p?c1=2&amp;c2=6034960&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1&quot; /&gt;\n\
+      </noscript>\n\n\
+      <!--ROIA page #79--> <script type=\"text/javascript\">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){ l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;} catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/im/p/79/js?s='+ Math.floor(Math.random()*1308319535)+';t='+escape(T.getTime())+';z='+ escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f); if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;} if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2); if(/^\\s*roia_p79$/.test(p0)){u+=';_='+p1;break;}}} document.write('<'+'script type=\"text/javascript\" src=\"'+u+'\">'); })(document,screen,new Date());/*]]>*/</script><noscript> <iframe src=\"http://roia.biz/im/p/79/iframe?js=0\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" style=\"position:absolute;top:-3000px;left:-3000px;\"></iframe></noscript> <!--/ROIA page #79-->\n\n\
+      <div id='container'>\n\
+      <!-- MYRECIPES nav -->\n\
+      <div class='clearfix' id='myrecipes_logobar'>\n\
+      <a href='https://subscription.timeinc.com/storefront/link/1005836.html' target='_blank' title='SUBSCRIBE to F&amp;amp;W'>\n\
+      <img alt='F&amp;W Free Preview' height='32' src='/images/myrecipes/get-a-free-preview-issue.gif' width='272'>\n\
+      </a>\n\
+      <a href='http://www.allyou.com/?xid=logobar-fw' target='_blank' title='All You'>\n\
+      <img alt='All You' height='32' src='/images/myrecipes/all-you.gif' width='79'>\n\
+      </a>\n\
+      <a href='http://www.coastalliving.com/?xid=logobar-fw' target='_blank' title='Coastal Living'>\n\
+      <img alt='Coastal Living' height='32' src='/images/myrecipes/coastal-living.gif' width='82'>\n\
+      </a>\n\
+      <a href='http://www.cookinglight.com/?xid=logobar-fw' target='_blank' title='Cooking Light'>\n\
+      <img alt='Cooking Light' height='32' src='/images/myrecipes/cooking-light.gif' width='85'>\n\
+      </a>\n\
+      <a href='#' title='Food and Wine'>\n\
+      <img alt='Food and Wine tab' height='32' src='/images/myrecipes/fandw-tab.gif' width='109'>\n\
+      </a>\n\
+      <a href='http://www.health.com/health/?xid=logobar-fw' target='_blank' title='Health'>\n\
+      <img alt='Health' height='32' src='/images/myrecipes/health.gif' width='80'>\n\
+      </a>\n\
+      <a href='http://www.myrecipes.com/?xid=logobar-fw' target='_blank' title='My Recipes'>\n\
+      <img alt='myRecipes' height='32' src='/images/myrecipes/myrecipes.gif' width='98'>\n\
+      </a>\n\
+      <a href='http://www.southernliving.com/?xid=logobar-fw' target='_blank' title='Southern Living'>\n\
+      <img alt='Southern Living' height='32' src='/images/myrecipes/southern-living.gif' width='101'>\n\
+      </a>\n\
+      <a href='http://www.sunset.com/?xid=logobar-fw' target='_blank' title='Sunset'>\n\
+      <img alt='Sunset' height='32' src='/images/myrecipes/sunset.gif' width='95'>\n\
+      </a>\n\
+      </div>\n\
+      <div id='wrap'>\n\
+      <div class='clearfix' id='ad-top'>\n\
+      <div id='ad-top-inner'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var multiAd = adFactory.getMultiAd(new Array('728x90', '101x1'));\n\
+      multiAd.setPosition('1');\n\
+      multiAd.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\
+      <!-- MASTHEAD STARTS HERE -->\n\
+      <div class='clearfix' id='masthead'>\n\
+      <!-- topnavs:  social login and subscribe/events dropdowns -->\n\
+      <div id=\"topnav\">\n\
+      <div id=\"socialtext\">\n    <div id=\"social-links\">\n  <p></p>\n  <ul>\n      <li><a href=\"http://community.foodandwine.com/service/displayMyPlace.kickAction?as=117547\">My Profile </a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/view/displayManageFavorites.kickAction?as=117547\">Favorites</a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=photo&sortType=recent\">Photos</a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=blog&sortType=recent&includeBlog=on&d-7095067-p=1\">Posts</a></li>\n      <li> | </li>\n      <li>\n        <div id=\"login-spinner\">\n  <img alt=\"\" src=\"/images/spinner.gif\" width=\"16\" id=\"status-spinner\" />\n    </div>   \n    </li>\n  </ul>\n    </div>  \n\
+      </div>\n\n\
+      <div id=\"topLinkWrapper\" style=\"width:360px;\">\n\
+      <div id=\"navMenu\">\n  <ul>\n    <li id=\"starchefs\">\n      <a href=\"http://www.foodandwine.com/starchefskidscook\" class=\"hide\"><img src=\"images/top_nav-starchefskidscook.gif\"alt=\"Star Chefs Kids Cook\"></a>\n    </li>  \n    <li id=\"tsubsc\">\n          <a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\" class=\"hide\"><span>SUBSCRIBE</span></a>\n            <ul>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\">MAGAZINE</a></li>\n         <li class=\"sub\"><a href=\"http://www.foodandwine.com/newsletters\">NEWSLETTERS</a></li>     \n        <li class=\"sub\"><a href=\"http://www.foodandwine.com/books\">BOOKS</a></li>\n        <li class=\"sub\"><a href=\"http://www.fwwineclub.com/\">WINE CLUB</a></li>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1001015.html \">CONNOISSEUR CLUB</a></li>\n        <li class=\"last\"><a href=\"http://www.foodandwine.com/mobile-apps\">IPAD EDITION</a></li>\n        <li class=\"curve\"></li>\n          </ul>\n        </li>\n        <li id=\"tevents\"><a href=\"http://www.foodandwine.com/promo/events\" class=\"hide\"><span>EVENTS</span></a>\n          <ul>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/events\">2011 CALENDAR</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">PROMOTIONS</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">SWEEPSTAKES</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/videos\">F&amp;W VIDEOS</a></li>\n             <li class=\"last\"><a href=\"http://www.foodandwine.com/classic\">F&amp;W CLASSIC</a></li>\n             <li class=\"curve\"></li>     \n           </ul>\n         </li>\n     </ul>\n\
+      </div>    \n\
+      </div>\n\
+      </div>\n\n\
+      <!-- Branding logo and 'URT' subscribe touts -->\n\
+      <div id=\"branding\">\n  <p title = \"Food & Wine\">\n    <a href = \"/\" title = \"Food & Wine - home\" >\n      <img src = \"foodandwine.com/images/logo.gif\" alt = \"Food & Wine\" style = \"vertical-align: bottom;\" /></a></p>\n              \n    <div id=\"mange-tout\" style= \"float:left; margin:13px 0 0px 28px;\">\n    <div id=\"subscToutContainer\">          \n      <div id=\"subscToutCvr\">  \n         <a href =\"https://subscription.timeinc.com/storefront/link/1002188.html\" title = \"Subscribe to F&amp;W\" >\n           <img src = \"http://www.amexpub.com/images/covers/fw-cover-104.jpg\" width=\"66\" height=\"85\" alt=\"Food and Wine Magazine\"></a>\n         </div>\n         <div id='subscToutLinksContainer'>\n           <ul>\n            <li class='lineHeight'>\n              <a href='https://subscription.timeinc.com/storefront/link/1001005.html'>TRY 2 FREE PREVIEW ISSUES</a>\n            </li>\n            <li>\n              <a href='https://subscription.timeinc.com/storefront/link/1002188.html'>SUBSCRIBE</a>\n            </li>\n            <li>\n              <a href='https://subscription.timeinc.com/storefront/link/1002341.html'>GIVE A GIFT</a>\n            </li>\n           </ul>\n          </div>\n      </div>\n      </div>               \n\
+      </div>      <!-- end #branding -->\n\n\
+      <!-- begin #search -->\n\
+      <div id='search'>\n  <form action='/search' id='search-form' method='get'>\n    <input class='subinput2 clear-input' id='search-text' name='query' type='text' value='Search Recipes &amp; Articles'>\n    <input class='field prompt' name='search_cat' type='hidden' value='recipes'>\n    <input alt='Search' id='search-submit' name='search-submit' src='/images/fw_search_btn.gif' title='Search' type='image'>\n  </form>\n\
+      </div>\n\
+      <!--end #search-->\n\n\
+      <!--begin #socialmedia-->\n\
+      <div id='social-media-buttons'>\n  <div id='facebook-button'>\n    <a href='http://www.facebook.com/foodandwine' target='_blank'><img alt='Like us on Facebook' src='/images/social-media/icon_fb.gif'></a>\n  </div>\n  <div id='twitter-button'>\n    <a href='http://www.twitter.com/fandw' target='_blank'><img alt='Follow us on Twitter' src='/images/social-media/icon_twitter.gif'></a>\n  </div>\n  <div id='rss-button'>\n    <a href='/rss/'>\n      <img alt='RSS' src='/images/social-media/icon_rss.gif'></a>\n  </div>\n  <div id='foodspotting-button'>\n    <a href='http://www.foodspotting.com/food-and-wine' target='_blank'><img alt='Experience Foodspotting' src='/images/social-media/icon_foodspotting.gif'></a>\n\
+      </div>\n  <div id='mobile-button'>\n    <a href='/mobile-apps'><img alt='Get FW mobile apps' src='/images/social-media/icon_mobile.gif'></a>\n  </div>\n  <div id='tumblr-button'>\n    <a href='http://foodandwinephotos.tumblr.com' target='_blank'> <img alt='Join FW at Tumblr' src='/images/social-media/icon_tumblr.gif'></a>\n  </div>\n\
+      </div>\n\
+      <!--end #socialmedia-->\n\n\
+      <!--\n\
+      main navigational menu\n\
+      -->\n\
+      <div class='clearfix' id='nav-wrap'>\n\
+      <ul id=\"nav\"><li class=\"selected simple-navigation-active-leaf\" id=\"nav-recipes\"><a href=\"/recipes\" class=\"selected\">RECIPES &amp; CHEFS</a></li><li id=\"nav-wine\"><a href=\"/wine\">WINE &amp; COCKTAILS</a></li><li id=\"nav-travel\"><a href=\"/restaurants\">RESTAURANTS &amp; TRAVEL</a></li><li id=\"nav-athome\"><a href=\"/entertaining\">ENTERTAINING &amp; HOME</a></li><li id=\"nav-blogs\"><a href=\"/blogs/mouthing-off\">BLOGS</a></li><li id=\"nav-mag\"><a href=\"/monthly\">MAGAZINE</a></li></ul>\n\
+      <ul id=\"submenu\"><li id=\"nav-slideshows\"><a href=\"/slideshows\">SLIDESHOWS</a></li><li id=\"nav-menus\"><a href=\"/menus\">MENUS</a></li><li id=\"nav-chefs\"><a href=\"/chefs\">CHEFS</a></li><li id=\"nav-cooking_guides\"><a href=\"/cooking_guides\">COOKING GUIDES</a></li><li id=\"nav-recipe_of_the_day\"><a href=\"/articles/recipe-of-the-day-archive\">RECIPE OF THE DAY</a></li><li id=\"nav-videos\"><a href=\"/video\">RECIPE VIDEOS</a></li></ul>\n\
+      <script>\n\
+      //document.getElementById('em-travel').style.backgroundPositionY='-31px';\n\
+      //document.getElementById('em-travel').style.cursor='pointer';\n\
+      </script>\n\
+      <script>\n\
+      jQuery('#nav-wine_club a').attr('target', '_blank');\n\
+      </script>\n\
+      </div>\n\
+      <!--\n\
+      end ##nav-wrap\n\
+      -->\n\
+      </div>\n\
+      <div class='clearfix' id='content'>\n\
+      <div id='main'>\n\n\
+      <div class='sponsor-logo'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(88, 31);\n\
+      ad.setPosition('1');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <div class='ally-sponsorship'>\n\
+      <style type=\"text/css\">\n\
+      .allyBanner {width:640px;border:1px solid #ccc;margin:0px 0px 10px 0px;padding:4px}\n\
+      .allyBanner .title {font: 31px arial,sans-serif;}\n\
+      .allyBanner a{cursor: pointer;text-decoration: none;}\n\
+      .allyBanner .title span{font: 18px arial,sans-serif;}\n\
+      .allyBanner a.sponsor {color: #999999;float: right;font: 11px arial,sans-serif;text-align: right;width: 140px;margin-top:5px}\n\
+      .allyBanner a.sponsor span {display: block;float: left;text-align: right;width: 50px;}\n\
+      </style>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(645, 45);\n\
+      ad.setPosition('1');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <div id='share-bar-horz' style='display:none;'></div>\n\
+      <div itemscope itemtype='http://schema.org/Recipe'>\n\
+      <div id='recipe-head'>\n\
+      <div id='red-ribbon'></div>\n\
+      <div id='recipetabs'>\n\
+      <ul>\n\
+      <li id='selected'>\n\
+      <a href=\"#\" rel=\"recipe1\" title=\"Cocoa Nib Pavlova with Raspberries\">Recipe</a>\n\
+      </li>\n\
+      <li id='' onClick='fw_linktracker(\"Rate &amp; Review this recipe\");'>\n\
+      <a href=\"#\" rel=\"recipe2\" title=\"Rate &amp; Review this recipe\">Rate &amp; Review</a>\n\
+      </li>\n\
+      <li id='' onClick='fw_linktracker(\"Related Recipes\");'>\n\
+      <a href=\"#\" rel=\"recipe3\" title=\"Related Recipes to Cocoa Nib Pavlova with Raspberries\">Related Recipes</a>\n\
+      </li>\n\
+      </ul>\n\
+      </div>\n\
+      <div class='tabcontentstyle'>\n\
+      <div class='recipe-info'>\n\
+      <h1 itemprop='name'>\n\
+      Cocoa Nib Pavlova with Raspberries\n\
+      </h1>\n\
+      <ul>\n\
+      <li>\n\
+      Contributed by\n\
+      <a href=\"/chefs/joy-wilson\" title=\"Chef Joy Wilson\"><span itemprop = \"author\">Joy Wilson</span></a>\n\
+      </li>\n\
+      </ul>\n\
+      <em>\n\
+      <div id='cooking-time-top'>\n\
+      <div id='time-box'>\n\
+      <ul>\n\
+      <li id='time-active'>\n\
+      ACTIVE:\n\
+      <meta datetime='PT20M' itemprop='cookTime'>\n\
+      <strong>\n\
+      20 MIN\n\
+      </strong>\n\
+      </meta>\n\
+      </li>\n\
+      <li id='time-total'>\n\
+      TOTAL TIME:\n\
+      <meta datetime='PT2H' itemprop='totalTime'>\n\
+      <strong>\n\
+      2 HRS \n\n\
+      </strong>\n\
+      </meta>\n\
+      </li>\n\
+      <li id='time-servings'>\n\
+      SERVINGS:\n\
+      <strong>\n\
+      <span itemprop='recipeYield'>\n\
+      8\n\
+      </span>\n\
+      <br>\n\
+      </strong>\n\
+      </li>\n\
+      </ul>\n\
+      <div class='clear'></div>\n\
+      </div>\n\
+      </div>\n\
+      </em>\n\n\
+      </div>\n\
+      <div class='tabcontent' id='recipe1' style='display: block;'>\n\
+      <div class='recipe-info'>\n\
+      <div id='usi-section'>\n\
+      <div class='grey-line'>\n\
+      <img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div id='user-buttons'>\n\
+      <div id='stars-alone'>\n\
+      <a href='#' onclick='return recipess.expandit(1);' title='Rate &amp; Review this recipe Cocoa Nib Pavlova with Raspberries'></a>\n\
+      </div>\n\
+      <div class='ratings'></div>\n\
+      <p class='ratings'>\n\
+      <a href=\"#\" onclick=\"return recipess.expandit(1);\" title=\"Rate this Cocoa Nib Pavlova with Raspberries recipe\">Rate &amp; Review this recipe</a>\n\
+      </p>\n\
+      <div id='little-grey-stars'>\n\
+      <a href=\"#\" onclick=\"return recipess.expandit(1);\"><img alt=\"Rate this Cocoa Nib Pavlova with Raspberries recipe\" src=\"/images/community/star_5_small_grey.gif\" title=\"Rate this Cocoa Nib Pavlova with Raspberries recipe\" /></a>\n\
+      </div>\n\
+      <div id='divider-grey'>\n\
+      <img alt=\"Divider-grey\" src=\"/images/recipe/divider-grey.gif\" />\n\
+      </div>\n\
+      <div id='addtofavorites-bluestar'>\n\
+      <a href=\"#\" onclick=\"return recipess.expandit(1);\"><img alt=\"Add this Cocoa Nib Pavlova with Raspberries to favorites\" src=\"/images/recipe/addtofavorites-bluestar.gif\" title=\"Add this Cocoa Nib Pavlova with Raspberries to favorites\" /></a>\n\
+      </div>\n\
+      <p class='addtofavorites'>\n\
+      <a href=\"#\" onclick=\"return recipess.expandit(1);\" title=\"Add this Cocoa Nib Pavlova with Raspberries recipe to favorites\">Add to Favorites</a>\n\
+      </p>\n\
+      <div class='clear'></div>\n\
+      </div>\n\
+      <div class='grey-line'>\n\
+      <img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      </div>\n\
+      <div class='clear'></div>\n\n\
+      <div id='teaser-border'>\n\
+      <p itemprop='description'>\n\
+      \xE2\x80\x9CCocoa nibs taste like this cool mix of chocolate and espresso,\xE2\x80\x9D says Joy Wilson. The bitter nibs give this Pavlova a hit of chocolate flavor. \xE2\x80\x9CI eat it with a cup of mint tea to get a mint-chocolate-chip situation,\xE2\x80\x9D she says.\n\
+      </p>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div id='wine-extras'>\n\
+      <div class='extras-border-top'>\n\
+      <div class='other-item-wine'>\n\
+      <div class='clearfix' id='recipeWines'>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div id='camera' style='padding-top:8px'>\n\
+      <p><img src=\"/images/icon_camera2.gif\" alt=\"Slideshow:\"> <a href=\"http://www.foodandwine.com/slideshows/pavlovas\" title=\"More Pavlova Recipes\" target=\"_blank\"><strong>More Pavlova Recipes</strong></a></p>\n\
+      </div>\n\
+      <div id='wine-pairings-anchor' style='display:none;'>\n\
+      <div class='grey-line'>\n\
+      <img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n\
+      </div>\n\
+      <a href='#snooth'>\n\
+      <img alt='Pair this Cocoa Nib Pavlova with Raspberries recipe with wine' src='/images/recipe/snooth_bar.gif' title='Pair this Cocoa Nib Pavlova with Raspberries recipe with wine'>\n\
+      </a>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      </div>\n\
+      </div>\n\
+      <div class='tabcontent' id='recipe2' style='display:none;'>\n\
+      <!-- Rate & Review tab head content -->\n\
+      <div class='recipe-info'></div>\n\
+      <div id='ka_recipes-rr'>\n\
+      <div id='comment_content_container'>\n\
+      <a name='COMMENTTOP'></a>\n\
+      <br>\n\
+      <br>\n\
+      <div align='center'>\n\
+      <img alt=\"Loading\" src=\"http://clientapps.kickapps.com/amex2/comments/images/loading.gif\" />\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      <script defer='defer' src='http://clientapps.kickapps.com/amex2/comments/start.php?as=117547&amp;tzAbbr=EST&amp;n=Cocoa%20Nib%20Pavlova%20with%20Raspberries&amp;id=http%3A%2F%2Fwww.foodandwine.com%2Frecipes%2Fcocoa-nib-pavlova-with-raspberries' type='text/javascript'></script>\n\
+      <!-- %script{ :type => \"text/javascript\", :src => \"http://clientapps.kickapps.com/amex2/comments/start.php?as=117547&tzAbbr=EST&n=#{u(commentable.to_s)}&d=#{u(description)}&id=#{u(page_url || (commentable.class.to_s + '-' + commentable.to_param))}\" } -->\n\n\
+      </div>\n\
+      <div class='tabcontent' id='recipe3' style='display:none;'>\n\
+      <!-- Related Recipes tab head content -->\n\
+      <div class='recipe-info'>\n\
+      <div class='grey-line'>\n\
+      <img alt=\"Grey-line\" src=\"/images/recipe/grey-line.gif\" />\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div id='slideshow-link'>\n\
+      <div id='other-content'>\n\
+      <div id='recipe_otherlinks'>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      <div id='user-attract'>\n\
+      <div id='image-time-print'>\n\
+      <div id='featured_image_frame'>\n\
+      <img alt=\"Cocoa Nib Pavlova\" id=\"featured_image\" itemprop=\"image\" src=\"/images/sys/201202-r-cocoa-nib-pavlova.jpg\" />\n\
+      <div class='imageCredit'>\n\
+      &copy;  Joy the Baker\n\
+      </div>\n\
+      <div class='imageCredit'>\n\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div class='clearfix' id='recipe-content' style='display:block;'>\n\
+      <h2>\n\
+      Recipe: Cocoa Nib Pavlova with Raspberries\n\
+      </h2>\n\
+      <div class='clear'></div>\n\
+      <div id='cooking-time'>\n\
+      <ul>\n\
+      <li id='time-healthy'>HEALTHY</li>\n\
+      <li id='time-ahead'>MAKE-AHEAD</li>\n\
+      <li id='time-staff'>STAFF-FAVORITE</li>\n\
+      <li id='time-veg'>VEGETARIAN</li>\n\n\
+      <meta content='Desserts' itemprop='recipeCategory'>\n\n\n\n\
+      </ul>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div id='ingredients'>\n\
+      <h2>\n\
+      Ingredients\n\
+      </h2>\n\
+      <ol>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      3 large egg whites, at room temperature\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      Pinch of salt\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      1/4 teaspoon cream of tartar\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      3/4 cup sugar\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      1 teaspoon pure vanilla extract\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      1 teaspoon bourbon\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      3 tablespoons cocoa nibs (see Note)\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      1 ounce bittersweet chocolate, melted\n\
+      </span>\n\
+      </li>\n\
+      <li>\n\
+      <span itemprop='ingredients'>\n\
+      2 cups raspberries\n\
+      </span>\n\
+      </li>\n\
+      </ol>\n\
+      </div>\n\
+      <div id='directions'>\n\
+      <ol itemprop='recipeInstructions'>\n\
+      <li>\n\n\
+      Preheat the oven to 300&#176; and position a rack in the center of the oven. Draw an 8-inch circle on a sheet of parchment paper and invert it on a baking sheet.\n\
+      </li>\n\
+      <li>\n\n\
+      In the bowl of a standing electric mixer fitted with the whisk, beat the egg whites, salt and cream of tartar at medium-high speed until soft peaks form. Gradually beat in the sugar at high speed until the whites are stiff and glossy, 3 minutes. Beat in the vanilla and bourbon. Add the cocoa nibs and beat until just incorporated. Spread the meringue on the paper in an 8-inch round.\n\
+      </li>\n\
+      <li>\n\n\
+      Bake for 1 hour and 10 minutes, until the surface is dry and lightly browned and the center is still a bit soft. Let cool completely on the baking sheet, 30 minutes.\n\
+      </li>\n\
+      <li>\n\n\
+      Transfer the Pavlova to a board. Drizzle with the chocolate and top with the raspberries. Cut the Pavlova into 8 wedges and serve.\n\
+      </li>\n\
+      </ol>\n\
+      <div id='endnotes'>\n\
+      <span class='inline-subhed'>Notes</span>\n\
+      <p>Cocoa nibs are available at specialty food shops.</p>\n\
+      <p><strong>One serving:</strong> 139 cal, 3 gm fat, 1.3 gm sat fat, 26 gm carb, 4 gm fiber, 2 gm protein.</p>\n\
+      </div>\n\
+      </div>\n\
+      <div id='related-content'>\n\
+      <div class='clear'>\n\
+      <!-- outbrain -->\n\
+      <div id='ob_style'>\n\
+      <script language='JavaScript'>\n\
+      var OB_permalink= 'http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries';\n\
+      var OB_langJS ='http://widgets.outbrain.com/lang_en.js';\n\
+      if ( typeof(OB_Script)!='undefined' )\n\
+      OutbrainStart();\n\
+      else\n\
+      {\n\
+      var OB_Script = true;\n\
+      var str = \"<script src='http://widgets.outbrain.com/outbrainWidget.js' type='text/javascript'></\"+\"script>\"\n\
+      document.write(str);\n\
+      }\n\
+      </script>\n\
+      </div>\n\
+      <!-- end of outbrain -->\n\n\
+      </div>\n\
+      <div class='clear'>\n\
+      <!--\n\
+      BEGINNING OF SNOOTH MODULE\n\
+      -->\n\
+      <div id='snooth'>\n\
+      <a class='snoothlink' href='http://www.snooth.com/' id='__sn_link' title='Snooth: Buy Wine Online'>\n\
+      Powered by Snooth\n\
+      </a>\n\
+      <div id='__sn_content' style='margin:0px;padding:0px;display:block;'></div>\n\
+      </div>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      var __sn_cc = document.getElementById('snooth');\n\
+      __sn_cc.style.display = 'none';\n\
+      var __sn_rname = 'Cocoa Nib Pavlova with Raspberries';\n\
+      var __sn_rid = 'cocoa-nib-pavlova-with-raspberries';\n\
+      var __sn_live = 1;\n\
+      var __sn_pid = 4;\n\
+      var __sn_turl = 'http://edge-tyrant.snooth.com';\n\
+      document.write(unescape(\"%3Cscript src='\"+__sn_turl+\"/r\"+escape(escape(__sn_pid+'-'+__sn_rid))+\"' type='text/javascript'%3E%3C/script%3E\"));\n\
+      document.write(unescape(\"%3Cscript src='http://edge-media1.snooth.com/js-compressed/fw-recipe-pairing.sr11891.js' type='text/javascript'%3E%3C/script%3E\"));\n\
+      </script>\n\
+      <!--\n\
+      END OF SNOOTH MODULE\n\
+      -->\n\n\
+      <div class='clear'></div>\n\
+      <div id='slideshow-link'>\n\
+      <div id='other-content'>\n\
+      <div id='recipe_otherlinks'>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div class='recipe-intro-end'>\n\
+      <ul>\n\
+      <li>\n\
+      </li>\n\
+      <li>\n\
+      Published\n\
+      <span>\n\
+      <a href=\"/monthly/February-2012\" title=\"Food &amp;amp; Wine's February 2012 Issue\">February 2012</a>\n\
+      </span>\n\
+      </li>\n\
+      </ul>\n\
+      </div>\n\
+      <div class='free-issues'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var adCm = adFactory.getCmAd(460, 70, \"recipe\", \"tout\");\n\
+      adCm.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\n\
+      <div class='display:none' id='review-content' style='display: none;'></div>\n\
+      <!-- Reviews div -->\n\
+      <div id='more-content' style='display:none;'></div>\n\
+      <script>\n  //<![CDATA[\n    var recipess=new ddtabcontent(\"recipetabs\")\n    recipess.setpersist(false)\n    recipess.setselectedClassTarget(\"linkparent\")\n    recipess.init()\n  //]]>\n\
+      </script>\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      <div id='secondary'>\n\
+      <div id='col'>\n\
+      <div class='wrap'>\n\
+      <div class='rr-ad'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var multiAd = adFactory.getMultiAd(new Array('300x250', '300x600'));\n\
+      multiAd.setPosition('1');\n\
+      multiAd.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <div class='rr-ad'>\n\
+      <div id='subscModule'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var adCm = adFactory.getCmAd(300, 250, \"globalsidebar\", \"tout\");\n\
+      adCm.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\
+      <div class='rr-ad'>\n\
+      <script>\n  //<![CDATA[\n    jQuery.noConflict();\n    \n    $('#newsletter_form').submit(function(){\n      cm_tout = 'CM Tout'\n      news_array = new Array()\n      if ($(\"#dish_newsletter\").is (':checked')){\n        cm_tout = 'CM Tout- '\n        news_array.push('Dish')\n      };\n      if ($(\"#wine_newsletter\").is (':checked')){\n        cm_tout = 'CM Tout- '\n        news_array.push('Wine')\n      };\n      if ($(\"#daily_newsletter\").is (':checked')){\n        cm_tout = 'CM Tout- '\n        news_array.push('Daily')\n      };\n      newsletters = cm_tout + news_array.join(\", \");\n      $('#newsletter_source').val(newsletters);\n    });\n  //]]>\n\
+      </script>\n\
+      <div class='emailcontainer'>\n\
+      <div class='containertext'>\n\
+      <div id='flash-error'></div>\n\
+      <form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\" data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"8b0eI7Q2Tt4CKtsxv3ZzA729a+6ow4eeFBUqY3L04U0=\" /></div>\n\
+      <div class='content'>\n\
+      <div class='rowtext'>\n\
+      <div class='checkbox'>\n\
+      <input id=\"dish_newsletter\" name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"285407556\" />\n\
+      </div>\n\
+      <div class='textboldlabel'>\n\
+      food\n\
+      </div>\n\
+      <div class='righttextdetails'>\n\
+      <span class='textbold'>\n\
+      The Dish\n\
+      </span>\n\
+      <span class='textdescription'>\n\
+      Twice weekly chef recipes made easy, weekly meal planners.\n\
+      </span>\n\
+      </div>\n\
+      </div>\n\
+      <hr class='hrline' size='1'>\n\
+      <div class='rowtext'>\n\
+      <div class='checkbox'>\n\
+      <input id=\"wine_newsletter\" name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"2069486254\" />\n\
+      </div>\n\
+      <div class='textboldlabel'>\n\
+      wine\n\
+      </div>\n\
+      <div class='righttextdetails'>\n\
+      <span class='textbold'>\n\
+      The Wine List\n\
+      </span>\n\
+      <span class='textdescription'>\n\
+      Weekly pairings, best bottles to buy and the latest news.\n\
+      </span>\n\
+      </div>\n\
+      </div>\n\
+      <hr class='hrline' size='1'>\n\
+      <div class='rowtext'>\n\
+      <div class='checkbox'>\n\
+      <input id=\"daily_newsletter\" name=\"newsletter[newsletter_ids][][newsletter_id]\" type=\"checkbox\" value=\"260816546\" />\n\
+      </div>\n\
+      <div class='textboldlabel'>\n\
+      daily\n\
+      </div>\n\
+      <div class='righttextdetails'>\n\
+      <span class='textbold'>\n\
+      F&amp;W Daily\n\
+      </span>\n\
+      <span class='textdescription'>\n\
+      One sensational dish served fresh every day.\n\
+      </span>\n\
+      </div>\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div class='enewsformcontainer'>\n\
+      <div id='enewsform'>\n\
+      <div>\n\
+      <input class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text' value='Enter your email address'>\n\
+      <a href='http://www.foodandwine.com/newsletters' target='_blank'></a>\n\
+      <input alt=\"Go\" class=\"signupbtn\" name=\"submit\" src=\"/images/submitForm.gif?1327594648\" type=\"image\" value=\"Sign Up\" />\n\
+      <input id=\"newsletter_source\" name=\"newsletter[source]\" type=\"hidden\" value=\"CM TOUT\" />\n\
+      </div>\n\
+      <div class='clear'></div>\n\
+      <div class='privacy-info-popup-holder'>\n\
+      <div class='privacy-info-popup'>\n\
+      <div class='privacy-info-popup-text'>\n\
+      American Express Publishing (\"AEP\") may use your email address to send you account updates and offers that may interest you. To learn more about the ways we may use your email address and about your privacy choices, read the\n\
+      <a href='http://www.amexpub.com/privacy/' target='_blank'>\n\
+      AEP Privacy Statement.\n\
+      </a>\n\
+      </div>\n\
+      <img alt='' class='privacy-info-popup-triangle' src='/images/popup-triangle.png'>\n\
+      </div>\n\
+      <a class='privacy-info-link' href='http://www.amexpub.com/privacy/#what_info' style='float: left;' target='_blank'>\n\
+      How we use your email address\n\
+      </a>\n\
+      </div>\n\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      </form>\n\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      <div class='rr-ad'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(300, 250);\n\
+      ad.setPosition('2');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <div class='rr-ad'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var adCm = adFactory.getCmAd(300, 250, \"globalsidebar\", \"ofie\");\n\
+      adCm.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <div id='marketplace'>\n\
+      <h3 title='Marketplace'>\n\
+      <div class='hiddenText'>\n\
+      MARKETPLACE\n\
+      </div>\n\
+      </h3>\n\
+      <div id='mp-header'></div>\n\
+      <div id='mp-middler'>\n\
+      <div>\n\
+      <div class='ad_marketplace_textlinks_250x70-top'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(142, 70);\n\
+      ad.setPosition('1');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\
+      <div>\n\
+      <div class='ad_marketplace_textlinks_250x70'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(142, 70);\n\
+      ad.setPosition('2');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\
+      <div>\n\
+      <div class='ad_marketplace_textlinks_250x70-bottom'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(142, 70);\n\
+      ad.setPosition('3');\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      <div id='mp-bottomer'></div>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\
+      </div>\n\n\
+      </div>\n\
+      </div>\n\
+      <div class='clearFix' id='footerContainer'>\n\
+      <div id='ad-strip-btm'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var adCm = adFactory.getCmAd(990, 95, \"globalfooter\", \"tout\");\n\
+      adCm.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      <!-- FOOTER SITEMAP -->\n\
+      <div id='flinksMenu'>\n\
+      <p class='menusection'>\n\
+      <span class='categorystyle'>CATEGORY</span>\n\
+      <a href=\"/recipes\">Recipes &amp; Chefs</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href=\"/wine\">Wine &amp; Cocktails</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href=\"/restaurants\">Restaurants &amp; Travel</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href=\"/entertaining\">Entertaining &amp; Home</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/blogs/mouthing-off'>Blogs</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href=\"/monthly\">Magazine</a>\n\
+      </p>\n\
+      <div class='flinksVspace'></div>\n\
+      <p class='menusection'>\n\
+      <span class='categorystyle'>HELP</span>\n\
+      <a href='https://secure.customersvc.com/servlet/Show?WESPAGE=pe/home.html&amp;MSRSMAG=WI'>Customer Service</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/contact/'>Contact Us</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='https://subscription.timeinc.com/storefront/link/1002193.html'>Subscribe</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='https://subscription.timeinc.com/storefront/link/1001012.html'>Gift Subscriptions</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/rss/'>RSS Feeds</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/sitemap/'>Site Map</a>\n\
+      </p>\n\
+      <div class='flinksVspace'></div>\n\
+      <p class='menusection'>\n\
+      <span class='categorystyle'>JOIN</span>\n\
+      <a href='http://www.foodandwine.com/books/'>Food &amp; Wine Books</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='https://subscription.timeinc.com/storefront/link/1001023.html'>Food &amp; Wine Connoisseur Club</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.fwwineclub.com/'>Food &amp; Wine Wine Club</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/community/'>Food &amp; Wine Community</a>\n\
+      <br>\n\
+      <a class='indent' href='http://www.facebook.com/foodandwine'>\n\
+      <img border='0' class='space' src='/images/facebookicon.gif'>\n\
+      Like us on Facebook\n\
+      </a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://twitter.com/fandw'>\n\
+      <img border='0' class='space' src='/images/twittericon.gif'>\n\
+      Follow us on Twitter\n\
+      </a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/mobile-apps/'>\n\
+      <img border='0' class='space' height='10px' src='/images/mobile_apps_small.gif' width='10px'>\n\
+      Get F&amp;W Mobile Apps\n\
+      </a>\n\
+      </p>\n\
+      <div style='padding: 3px 0;'></div>\n\
+      <p class='menusection'>\n\
+      <span class='categorystyle'>CORPORATE</span>\n\
+      <a href='http://www.fwmediakit.com/'>Advertising</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.aepcustomsolutions.com/'>Custom Solutions</a>\n\
+      </p>\n\
+      <div class='flinksVspace'></div>\n\
+      <p class='menusection'>\n\
+      <span class='categorystyle'>OUR SITES</span>\n\
+      <a href='http://www.travelandleisure.com/' target='_blank'>Travel + Leisure</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://departures.com/' target='_blank'>Departures</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.travelandleisure.com/ideas/golf' target='_blank'>Travel + Leisure Golf</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.travelandleisure.com/ideas/family' target='_blank'>Travel + Leisure Family</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.skyguideonline.com/' target='_blank'>Skyguide</a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.executivetravelmagazine.com/'>Executive Travel</a>\n\
+      </p>\n\
+      <div>\n\
+      <p id='flinksMenuText'>\n\
+      View Website\n\
+      <a href='http://www.amexpub.com/termsofuse/' target='_blank'>Terms and Conditions</a>\n\
+      and\n\
+      <a href='http://www.amexpub.com/privacy/' target='_blank'>Privacy Statement</a>\n\
+      of American Express Publishing Corporation.\n\
+      <br>\n\
+      <br>\n\
+      Users of this site agree to be bound by the terms of the American Express Publishing\n\
+      <br>\n\
+      Corporation Website Terms and Conditions.\n\
+      <br>\n\
+      <br>\n\
+      <span class='cwcolor'>Copyright &copy; 1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>\n\
+      <br>\n\
+      3.36-ci\n\
+      </p>\n\
+      </div>\n\
+      </div>\n\
+      <!-- FOOTER SITEMAP -->\n\
+      <!-- .emailcontainer-bttm -->\n\
+      <!-- = render 'shared/newsletter_signup' -->\n\
+      </div>\n\
+      <div id='ad-btm'>\n\
+      <div id='ad-btm-inner'>\n\
+      <script language='javascript' type='text/javascript'>\n\
+      //<![CDATA[\n\
+      var ad = adFactory.getAd(728, 90);\n\
+      ad.setPosition('2');\n\
+      ad.setParam(\"!c\", \"expandables\");\n\
+      ad.zone = adFactory.zone + '/footer';\n\
+      ad.write();\n\
+      //]]>\n\
+      </script>\n\n\
+      </div>\n\
+      </div>\n\n\
+      <div id='fb-root'></div>\n\
+      <div id='share-bar' style='display:none;'>\n\
+      <div class='share-button facebook' id='fb-like'>\n\
+      <fb:like font='arial' href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' layout='box_count' ref='fw-vert' send='true' show_faces='false' width='55'></fb:like>\n\
+      </div>\n\
+      <div class='share-button twitter'>\n\
+      <a class='twitter-share-button' data-count='vertical' data-url='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' data-via='fandw' href='http://twitter.com/share'>Tweet</a>\n\
+      </div>\n\
+      <div class='share-button gplus'>\n\
+      <g:plusone href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' size='tall'></g:plusone>\n\
+      </div>\n\
+      <div class='share-button pinit'>\n\
+      <a class='pin-it-button' count-layout='none' href='http://pinterest.com/pin/create/button/?url=http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries&amp;media=http://www.foodandwine.com/images/sys/201202-r-cocoa-nib-pavlova.jpg'>Pin It</a>\n\
+      </div>\n\
+      <div class='share-button mini'>\n\
+      <a href='http://www.stumbleupon.com/submit?url=http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' id='stumbleupon-badge' target='_blank'></a>\n\
+      </div>\n\
+      <div class='share-button email mini'>\n\
+      <a href='mailto:?subject=Cocoa%20Nib%20Pavlova%20with%20Raspberries%0A%20Recipe%20-%20%0AJoy%20Wilson%20on%20Food%20%26%20Wine&amp;body=Cocoa%20Nib%20Pavlova%20with%20Raspberries%0A%20Recipe%20-%20%0AJoy%20Wilson%0Ahttp://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' id='email-button'>\n\
+      <img src='/images/mail_icon.jpg'>\n\
+      </a>\n\
+      </div>\n\
+      <div class='share-button mini'>\n\
+      <a alt='Cocoa Nib Pavlova with Raspberries&#x000A; Recipe - &#x000A;Joy Wilson' href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries/print' id='print'>\n\
+      <img src='/images/print_icon.jpg'>\n\
+      </a>\n\
+      </div>\n\
+      </div>\n\
+      <!-- / for browsers less than 1155 pixels, share button markup is loaded here and inserted into an empty div within a view -->\n\
+      <div id='share-bar-horz-preload' style='display:none;'>\n\
+      <div class='share-button facebook' id='fb-like'>\n\
+      <fb:like font='arial' href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' layout='button_count' ref='fw-horz' send='true' show_faces='false' width='140'></fb:like>\n\
+      </div>\n\
+      <div class='share-button twitter'>\n\
+      <a class='twitter-share-button' data-count='horizontal' data-url='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' data-via='fandw' href='http://twitter.com/share'>Tweet</a>\n\
+      </div>\n\
+      <div class='share-button gplus'>\n\
+      <g:plusone annotation='horizontal' href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' size='medium'></g:plusone>\n\
+      </div>\n\
+      <div class='share-button pinit'>\n\
+      <a class='pin-it-button' count-layout='none' href='http://pinterest.com/pin/create/button/?url=http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries&amp;media=http://www.foodandwine.com/images/sys/201202-r-cocoa-nib-pavlova.jpg'>Pin It</a>\n\
+      </div>\n\
+      <div class='share-button mini'>\n\
+      <a href='http://www.stumbleupon.com/submit?url=http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' id='stumbleupon-badge' target='_blank'></a>\n\
+      </div>\n\
+      <div class='share-button email mini'>\n\
+      <a href='mailto:?subject=Cocoa%20Nib%20Pavlova%20with%20Raspberries%0A%20Recipe%20-%20%0AJoy%20Wilson%20on%20Food%20%26%20Wine&amp;body=Cocoa%20Nib%20Pavlova%20with%20Raspberries%0A%20Recipe%20-%20%0AJoy%20Wilson%0Ahttp://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries' id='email-button'>\n\
+      <img alt='Email #{mail_title.strip}' src='/images/mail_icon.jpg'>\n\
+      </a>\n\
+      </div>\n\
+      <div class='share-button mini'>\n\
+      <a alt='Cocoa Nib Pavlova with Raspberries&#x000A; Recipe - &#x000A;Joy Wilson' href='http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries/print'>\n\
+      <img src='/images/print_icon.jpg'>\n\
+      </a>\n\
+      </div>\n\
+      </div>\n\n\
+      <script src=\"/javascripts/universal_share_bar.js?1327594648\" type=\"text/javascript\"></script>\n\
+      </div>\n\
+      </body>\n\
+      </html>\n\n"
+    http_version: "1.1"
+  recorded_at: Mon, 30 Jan 2012 06:39:02 GMT
 recorded_with: VCR 2.0.0.rc1
