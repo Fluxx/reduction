@@ -58,7 +58,7 @@ module Reduction
       end
 
       def title
-        doc.at('title').text.collapse_whitespace
+        text_at('title').collapse_whitespace
       end
 
       def ingredients

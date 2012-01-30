@@ -23,7 +23,7 @@ http_interactions:
       cp: 
       - CAO DSP CURa ADMa DEVa TAIa PSAa IVAa CONi OTPa OUR SAMa STP PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE
       date: 
-      - Mon, 30 Jan 2012 06:02:40 GMT
+      - Mon, 30 Jan 2012 06:51:07 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -125,7 +125,7 @@ http_interactions:
       <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_on\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_on\" value=\"#FFFEE9\" /> <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_off\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_off\" value=\"#73AEDA\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_jnl_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_jnl_lang\" value=\"Journal\" /> <input name=\"ucTopnav:uctr_tn_tabs:hdn_fav_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_fav_lang\" value=\"My Favorites\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_mplan_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_mplan_lang\" value=\"Meal Plans\" />\r\n\
-      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=139331;food|recipescooking;;1/30/2012 1:02:40 AM\" />\r\n\
+      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=139331;food|recipescooking;;1/30/2012 1:51:05 AM\" />\r\n\
       \r\n\
       <!-- END FAST TOPNAV REMOVAL -->\r\n\
       <script type='text/javascript'>\r\n    var isTopNavLogin = 'true';\r\n    SetFacebookAppId(\"208045679207522\");\r\n    SetFacebookLikeEnabled(true);\r\n    LoadFBJSSdk();\r\n\
@@ -295,7 +295,7 @@ http_interactions:
       s.eVar17=\"visitor\";\r\n\
       s.account=\"wwatchcomusa\";\r\n\
       s.prop11=\"visitor\";\r\n\
-      s.server=\"NYAPUSWEB39\";\r\n\
+      s.server=\"NYAPUSWEB37\";\r\n\
       s.prop25=\"\";\r\n\
       s.cookieDomainPeriods=\"2\";\r\n\
       \r\n\
@@ -330,7 +330,7 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n\
-      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"NYAPUSWEB39\" />\r\n\
+      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"NYAPUSWEB37\" />\r\n\
       <!--  END FAST REMOVAL  -->\r\n    </div>\r\n    <div class=\"grid_ww_wrapper_btm\">\r\n    </div>\r\n    <input name=\"GcmsTraceInfo\" type=\"hidden\" id=\"GcmsTraceInfo\" value=\"PageID:1002171 | PreviewDate: | PreviewEnabled:False | FromCache:True | ~\" />\r\n    \r\n\
       \r\n\
       <script type=\"text/javascript\">\r\n\
@@ -341,7 +341,7 @@ http_interactions:
       </body>\r\n\
       </html>\r\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:02:42 GMT
+  recorded_at: Mon, 30 Jan 2012 06:51:07 GMT
 - request: 
     method: get
     uri: http://www.weightwatchers.com/food/rcp/RecipePage.aspx?recipeId=218411
@@ -362,14 +362,17 @@ http_interactions:
       - Microsoft-IIS/7.5
       x-aspnet-version: 
       - 4.0.30319
+      x-powered-by: 
+      - ASP.NET
       cp: 
       - CAO DSP CURa ADMa DEVa TAIa PSAa IVAa CONi OTPa OUR SAMa STP PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE
-      content-length: 
-      - "62455"
       date: 
-      - Mon, 30 Jan 2012 06:02:42 GMT
+      - Mon, 30 Jan 2012 06:51:08 GMT
+      transfer-encoding: 
+      - chunked
       connection: 
       - keep-alive
+      - Transfer-Encoding
       cache-control: 
       - private
     body: "\r\n\
@@ -466,7 +469,7 @@ http_interactions:
       <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_on\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_on\" value=\"#FFFEE9\" /> <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_off\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_off\" value=\"#73AEDA\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_jnl_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_jnl_lang\" value=\"Journal\" /> <input name=\"ucTopnav:uctr_tn_tabs:hdn_fav_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_fav_lang\" value=\"My Favorites\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_mplan_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_mplan_lang\" value=\"Meal Plans\" />\r\n\
-      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=218411;food|recipescooking;;1/30/2012 1:01:29 AM\" />\r\n\
+      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=218411;food|recipescooking;;1/30/2012 1:51:08 AM\" />\r\n\
       \r\n\
       <!-- END FAST TOPNAV REMOVAL -->\r\n\
       <script type='text/javascript'>\r\n    var isTopNavLogin = 'true';\r\n    SetFacebookAppId(\"208045679207522\");\r\n    SetFacebookLikeEnabled(true);\r\n    LoadFBJSSdk();\r\n\
@@ -641,7 +644,7 @@ http_interactions:
       s.eVar17=\"visitor\";\r\n\
       s.account=\"wwatchcomusa\";\r\n\
       s.prop11=\"visitor\";\r\n\
-      s.server=\"NYAPUSWEB18\";\r\n\
+      s.server=\"NYAPUSWEB40\";\r\n\
       s.prop25=\"\";\r\n\
       s.cookieDomainPeriods=\"2\";\r\n\
       \r\n\
@@ -676,7 +679,7 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n\
-      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"NYAPUSWEB18\" />\r\n\
+      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"NYAPUSWEB40\" />\r\n\
       <!--  END FAST REMOVAL  -->\r\n    </div>\r\n    <div class=\"grid_ww_wrapper_btm\">\r\n    </div>\r\n    <input name=\"GcmsTraceInfo\" type=\"hidden\" id=\"GcmsTraceInfo\" value=\"PageID:1002171 | PreviewDate: | PreviewEnabled:False | FromCache:True | ~\" />\r\n    \r\n\
       \r\n\
       <script type=\"text/javascript\">\r\n\
@@ -687,5 +690,5 @@ http_interactions:
       </body>\r\n\
       </html>\r\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:02:44 GMT
+  recorded_at: Mon, 30 Jan 2012 06:51:08 GMT
 recorded_with: VCR 2.0.0.rc1

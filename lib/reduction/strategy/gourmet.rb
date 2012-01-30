@@ -11,7 +11,7 @@ module Reduction
       end
 
       def title
-        doc.at('title').text.split(':').first
+        text_at('title').split(':').first
       end
 
       def ingredients

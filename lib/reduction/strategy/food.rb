@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('#rz-lead h1.fn').text.collapse_whitespace
+        text_at('#rz-lead h1.fn').collapse_whitespace
       end
 
       def ingredients

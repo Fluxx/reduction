@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('.article-intro h1').text.collapse_whitespace
+        text_at('.article-intro h1').collapse_whitespace
       end
 
       def ingredients
@@ -24,7 +24,7 @@ module Reduction
       end
 
       def yields
-        doc.at('.rec-sum2-2').text.collapse_whitespace.gsub(':', '')
+        text_at('.rec-sum2-2').collapse_whitespace.gsub(':', '')
       end
 
       def prep_time

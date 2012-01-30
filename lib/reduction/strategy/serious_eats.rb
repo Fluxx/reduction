@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('.indPost-recipe-title h2').text
+        text_at('.indPost-recipe-title h2')
       end
 
       def ingredients
@@ -25,15 +25,15 @@ module Reduction
       end
 
       def yields
-        doc.at('.ingredients-header .yield').text
+        text_at('.ingredients-header .yield')
       end
 
       def prep_time
-        doc.at('.ingredients-header .preptime').text
+        text_at('.ingredients-header .preptime')
       end
 
       def cook_time
-        doc.at('.ingredients-header .duration').text
+        text_at('.ingredients-header .duration')
       end
 
       def total_time

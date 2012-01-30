@@ -59,7 +59,11 @@ module Reduction
 
       images.map do |img|
         host_uri.merge(URI.parse(img['src'])).to_s
-      end
+      end.uniq
+    end
+
+    def text_at(selector)
+      doc.at(selector).text
     end
 
   end

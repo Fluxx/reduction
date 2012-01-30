@@ -15,11 +15,11 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "58"
+      - "0"
       content-type: 
       - text/html
       date: 
-      - Mon, 30 Jan 2012 05:59:16 GMT
+      - Mon, 30 Jan 2012 06:50:58 GMT
       etag: 
       - "\"1d682f-fdee-4b74c2780e9c0\""
       last-modified: 
@@ -31,7 +31,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - 1806074894 1806073156
+      - "1806154828"
       content-length: 
       - "65006"
       connection: 
@@ -490,7 +490,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:59:19 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:59 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/mushroom-lasagna-recipe.html?ref=box_featured
@@ -506,11 +506,11 @@ http_interactions:
       message: OK
     headers: 
       age: 
-      - "55"
+      - "0"
       content-type: 
       - text/html
       date: 
-      - Mon, 30 Jan 2012 06:00:14 GMT
+      - Mon, 30 Jan 2012 06:51:00 GMT
       etag: 
       - "\"54893b-f66c-4b6aee470b900\""
       last-modified: 
@@ -522,7 +522,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - 1806076307 1806074957
+      - "1806154870"
       content-length: 
       - "63084"
       connection: 
@@ -1880,7 +1880,7 @@ http_interactions:
       </body>
       </html>
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:00:16 GMT
+  recorded_at: Mon, 30 Jan 2012 06:51:00 GMT
 - request: 
     method: get
     uri: http://www.seriouseats.com/recipes/2011/12/serious-eats-corned-beef-hash-recipe.html?ref=box_featured
@@ -1900,7 +1900,7 @@ http_interactions:
       content-type: 
       - text/html
       date: 
-      - Mon, 30 Jan 2012 06:00:16 GMT
+      - Mon, 30 Jan 2012 06:51:01 GMT
       etag: 
       - "\"d458f-1054b-4b69ff851ac40\""
       last-modified: 
@@ -1912,7 +1912,7 @@ http_interactions:
       via: 
       - 1.1 varnish
       x-varnish: 
-      - "1806076345"
+      - "1806154894"
       content-length: 
       - "66891"
       connection: 
@@ -2371,5 +2371,5 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:00:19 GMT
+  recorded_at: Mon, 30 Jan 2012 06:51:02 GMT
 recorded_with: VCR 2.0.0.rc1

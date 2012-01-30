@@ -14,7 +14,7 @@ module Reduction
       end
 
       def title
-        doc.at('#title h1').text
+        text_at('#title h1')
       end
 
       def ingredients
@@ -26,7 +26,7 @@ module Reduction
       end
 
       def yields
-        doc.at('span[itemprop=yield]').text
+        text_at('span[itemprop=yield]')
       end
 
       def prep_time

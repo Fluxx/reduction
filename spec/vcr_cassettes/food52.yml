@@ -17,7 +17,7 @@ http_interactions:
       server: 
       - nginx/0.7.61
       date: 
-      - Mon, 30 Jan 2012 05:56:44 GMT
+      - Mon, 30 Jan 2012 06:50:18 GMT
       content-type: 
       - text/html; charset=utf-8
       connection: 
@@ -30,13 +30,13 @@ http_interactions:
       x-powered-by: 
       - Phusion Passenger (mod_rails/mod_rack) 2.2.5
       x-runtime: 
-      - "45"
+      - "788"
       etag: 
-      - "\"cc739076e03ce4eb6af38fbefb3494f8\""
+      - "\"d2fafc95e9496fc323c8ddb9c7b996f7\""
       cache-control: 
       - private, max-age=0, must-revalidate
       content-length: 
-      - "85640"
+      - "85709"
       set-cookie: 
       - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
@@ -44,7 +44,7 @@ http_interactions:
       - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
-      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlMDZiZDdmNzQxMmY5MmJkNTRiYWM5NWNkNzc3MGUxYzQ%3D--7f8297f24c2ff3127bddd2c439264f999496f051; path=/; expires=Wed, 30-Jan-2013 05:56:44 GMT; HttpOnly
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlNWZmMjRjNDU2ZDgxNTc2ZGQ0NGVhZTg0MDJiNTA5NzI%3D--774bb147075d5d9e202b889e8a04416c5be92925; path=/; expires=Wed, 30-Jan-2013 06:50:18 GMT; HttpOnly
     body: |
       <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
       <html lang="en">
@@ -250,11 +250,11 @@ http_interactions:
                                 </ul>
                                 <div class="entries">
                                   <div class="recipe_right">
-                                    <a href="/recipes/2554_weeknight_ragu"><img alt="4148342125_bb7f5c8dfd_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/3321/five_col/4148342125_bb7f5c8dfd_o.jpeg?1263074358" /></a>
+                                    <a href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs"><img alt="011910f_506" src="http://d2k9njawademcf.cloudfront.net/indeximages/3546/five_col/011910F_506.JPG?1264006537" /></a>
                                     <div class="info_recipe">
                                       <mark id="recipe_white_outline"></mark>
-      		                        <a class="" id="descriptor" href="/recipes/2554_weeknight_ragu">Recipe of the Day</a>
-                                      <h2 class="recipe_title" id="white"><a href="/recipes/2554_weeknight_ragu">Weeknight Ragu</a></h2>
+      		                        <a class="" id="descriptor" href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Recipe of the Day</a>
+                                      <h2 class="recipe_title" id="white"><a href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Moroccan Merguez Ragout with Poached Eggs</a></h2>
                                     </div>
                                   </div>
                                 </div>
@@ -284,7 +284,7 @@ http_interactions:
       								            <!-- LATEST SHOP OFFER STUFF -->
                                     <a href="http://shop.food52.com" target="_blank"><img src="http://s3.amazonaws.com/food52_assets/shop_promo_images/18/five_col/food52_01-17-12-8020.jpg?1327512063"/></a>
                                     <div class="info_recipe">
-      		                            <a class="" id="descriptor" href="/recipes/2554_weeknight_ragu">Now in the shop</a>
+      		                            <a class="" id="descriptor" href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Now in the shop</a>
                                       <h2 class="recipe_title" id="white"><a href="http://shop.food52.com">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>
                                     </div>
                                   </div>
@@ -1961,15 +1961,15 @@ http_interactions:
       	<mark id="recipes"></mark>
       
       	<h3 class="heading">
-            <a href="/recipes/search?ca=53"><span class="bold">Snack</span> Recipes</a>
+            <a href="/recipes/search?ca=43"><span class="bold">Dessert</span> Recipes</a>
           </h3>
-      	<a href="/recipes/11649_raw_fava_bean_crostini"><img alt="Bacelli" src="http://d2k9njawademcf.cloudfront.net/indeximages/16914/five_col/bacelli.jpg?1304784706" /></a>
+      	<a href="/recipes/9628_burnt_caramel_pudding"><img alt="030111f_621" src="http://d2k9njawademcf.cloudfront.net/indeximages/14231/five_col/030111F_621.JPG?1299173356" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/11649_raw_fava_bean_crostini">Raw fava bean crostini</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/9628_burnt_caramel_pudding">Burnt Caramel Pudding</a></h2></li>
       	
       	</ul>
-          <a href="/recipes/search?ca=53" class="view_more">See more &raquo;</a>
+          <a href="/recipes/search?ca=43" class="view_more">See more &raquo;</a>
       </div>
       
       
@@ -1986,15 +1986,15 @@ http_interactions:
       	<mark id="recipes"></mark>
       
       	<h3 class="heading">
-            <a href="/recipes/search?ca=59"><span class="bold">Can Be Made Ahead</span> Recipes</a>
+            <a href="/recipes/search?ca=66"><span class="bold">Spring</span> Recipes</a>
           </h3>
-      	<a href="/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest"><img alt="Bruschetta_with_ricotta_honey_and_lemon_zest" src="http://d2k9njawademcf.cloudfront.net/indeximages/6332/five_col/Bruschetta_with_Ricotta_Honey_and_Lemon_Zest.jpeg?1274799726" /></a>
+      	<a href="/recipes/4162_rhubarb_lime_spritzer"><img alt="Rhubarb_lime_spritzer" src="http://d2k9njawademcf.cloudfront.net/indeximages/5536/five_col/Rhubarb_Lime_Spritzer.jpeg?1271722382" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest">Bruschetta with Ricotta, Honey and Lemon Zest</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/4162_rhubarb_lime_spritzer">Rhubarb Lime Spritzer</a></h2></li>
       	
       	</ul>
-          <a href="/recipes/search?ca=59" class="view_more">See more &raquo;</a>
+          <a href="/recipes/search?ca=66" class="view_more">See more &raquo;</a>
       </div>
       
       
@@ -2011,15 +2011,15 @@ http_interactions:
       	<mark id="recipes"></mark>
       
       	<h3 class="heading">
-            <a href="/recipes/search?ca=67"><span class="bold">Summer</span> Recipes</a>
+            <a href="/recipes/search?ca=69"><span class="bold">Winter</span> Recipes</a>
           </h3>
-      	<a href="/recipes/354_cold_corn_soup_with_basilchili_oil"><img alt="072709f_0173" src="http://d2k9njawademcf.cloudfront.net/indeximages/343/five_col/072709F_0173.JPG?1250869708" /></a>
+      	<a href="/recipes/2531_peppermint_stick_ice_cream"><img alt="4223710359_2753dd3cf5_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/3285/five_col/4223710359_2753dd3cf5_o.jpg?1262990839" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/354_cold_corn_soup_with_basilchili_oil">Cold Corn Soup with Basil-Chili Oil</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/2531_peppermint_stick_ice_cream">Peppermint Stick Ice Cream</a></h2></li>
       	
       	</ul>
-          <a href="/recipes/search?ca=67" class="view_more">See more &raquo;</a>
+          <a href="/recipes/search?ca=69" class="view_more">See more &raquo;</a>
       </div>
       
       
@@ -2038,10 +2038,10 @@ http_interactions:
       	<h3 class="heading">
             <a href="/recipes/search?ca=71"><span class="bold">Christmas</span> Recipes</a>
           </h3>
-      	<a href="/recipes/14968_holiday_sparkler"><img alt="6395191641_06ca299fda_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/22748/five_col/6395191641_06ca299fda_o.jpg?1322233602" /></a>
+      	<a href="/recipes/14799_creamy_butternut_squash_soup_with_sherry"><img alt="100411-food52-9874_2" src="http://d2k9njawademcf.cloudfront.net/indeximages/22223/five_col/100411-food52-9874_2.jpg?1319175653" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/14968_holiday_sparkler">Holiday Sparkler</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/14799_creamy_butternut_squash_soup_with_sherry">Creamy Butternut Squash Soup with Sherry</a></h2></li>
       	
       	</ul>
           <a href="/recipes/search?ca=71" class="view_more">See more &raquo;</a>
@@ -2077,19 +2077,19 @@ http_interactions:
             <div class="item about_editors module" id="border_bottom">
         <mark id="cooks_white"></mark>
         <h3 class="heading">Meet our Hotliners:</h3>
-        <h3 class="heading" id="secondary"><a href="/users/27968_aldo_sohm">Aldo Sohm</a></h3>
+        <h3 class="heading" id="secondary"><a href="/users/3170_cathy_erway">Cathy Erway</a></h3>
       
       
       
-          <a href="/users/27968_aldo_sohm" class="avatar"><img alt="32844883" class="hotline" src="http://s3.amazonaws.com/food52_assets/users/27968/full/32844883.jpeg?1303853673" /></a>
+          <a href="/users/3170_cathy_erway" class="avatar"><img alt="2325645384_2b90401173" class="hotline" src="http://s3.amazonaws.com/food52_assets/users/3170/full/2325645384_2b90401173.jpg?1253130729" /></a>
       
       
-        <p class="hotliner"><b><a href='http://aldosohm.com/' target='_blank'>Aldo Sohm</a></b> is the award-winning Chef Sommelier at <b><a href='http://www.le-bernardin.com/='_blank'>Le Bernardin</a></b> in NYC.</p>
+        <p class="hotliner"><b>Cathy</b> is the author of <b>The Art of Eating In</b> and blogs at <a href='http://noteatingoutinny.com' target='_blank'>Not Eating Out in New York</a>.</p>
       
       
                 <div class="hotliner_activity clearfix">
                     <div class="activity_action">
-                        <a href="/users/27968_aldo_sohm" class="username">Aldo Sohm</a> answered Any suggestions on good wines to use in recipes?  White for Chix/Fish and Red for meat dishes and maybe a sweet wine for desserts.  I'm always... 8 months ago
+                        <a href="/users/3170_cathy_erway" class="username">Cathy Erway</a> answered What's the best way to process homegrown dried thyme? 7 months ago
                     </div>
                 </div>
       
@@ -2212,8 +2212,14 @@ http_interactions:
       
       
       
+                            <li><a target="_blank" href="http://thedianerehmshow.org/shows/2010-10-28/amanda-hesser-essential-new-york-times-cookbook-classic-recipes-new-century-w-w-nor"><img src="/images/footer_npr.jpg" /></a></li>
+      					
       
+                            <li><a target="_blank" href="http://newyork.grubstreet.com/2009/08/amanda_hesser_makes_a_meal_fro.html"><img src="/images/footer_nym.jpg" /></a></li>
+      					
       
+                            <li><a target="_blank" href="http://www.nytimes.com/2009/09/23/dining/23recipes.html?scp=1&sq=food52%20crowdsourcing&st=cse"><img src="/images/footer_nyt.jpg" /></a></li>
+      					
       
                             <li><a target="_blank" href="http://techcrunch.com/2009/08/11/amanda-hesser-and-merrill-stubbs-crowdsource-a-cookbook-with-food52/"><img src="/images/footer_tcrunch.jpg" /></a></li>
       					
@@ -2221,13 +2227,7 @@ http_interactions:
                             <li><a target="_blank" href="http://www.newyorker.com/arts/events/horizon/2009/10/26/091026gohz_GOAT_horizon"><img src="/images/footer_theNYer.jpg" /></a></li>
       					
       
-                            <li><a target="_blank" href="http://today.msnbc.msn.com/id/33899111"><img src="/images/footer_todayshow.jpg" /></a></li>
-      					
       
-                            <li><a target="_blank" href="http://tastingtable.com/ecs/1226.htm%29--and"><img src="/images/footer_ttable.jpg" /></a></li>
-      					
-      
-                            <li><a target="_blank" href="http://blogs.laweekly.com/squidink/2009/08/food_52_when_american_idol_and.php"><img src="/images/footer_weekly.jpg" /></a></li>
       
       				</ul>
       				<ul class="unbulleted">
@@ -2330,7 +2330,7 @@ http_interactions:
       </html>
 
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:56:46 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:19 GMT
 - request: 
     method: get
     uri: http://food52.com/recipes/15023_spiced_maple_pecan_pie_with_star_anise
@@ -2348,7 +2348,7 @@ http_interactions:
       server: 
       - nginx/0.7.61
       date: 
-      - Mon, 30 Jan 2012 05:56:54 GMT
+      - Mon, 30 Jan 2012 06:50:21 GMT
       content-type: 
       - text/html; charset=utf-8
       connection: 
@@ -2361,13 +2361,13 @@ http_interactions:
       x-powered-by: 
       - Phusion Passenger (mod_rails/mod_rack) 2.2.5
       x-runtime: 
-      - "29"
+      - "1248"
       etag: 
-      - "\"2c27598b99a3dc4442bab8ba02d64f96\""
+      - "\"b875bf804609c44a39f4767f220b82a0\""
       cache-control: 
       - private, max-age=0, must-revalidate
       content-length: 
-      - "109892"
+      - "109216"
       set-cookie: 
       - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
@@ -2375,13 +2375,13 @@ http_interactions:
       - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
-      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlMzM1NTY1N2FiMDZlMGM5YTY5MTg0MTg0MmI0NmRkODM%3D--c2d932741d78aa9884b8cfdcdde036ea36afdbda; path=/; expires=Wed, 30-Jan-2013 05:56:54 GMT; HttpOnly
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlOWU0ZDNmNjFlMDgwYzA2ZjNmMzAzMDg2ZGEwYjY3NWI%3D--81201a3f0de361c824711e3491fc4d3ca038274b; path=/; expires=Wed, 30-Jan-2013 06:50:21 GMT; HttpOnly
     body: "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n\
       <html lang=\"en\">\n\
       <head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  <meta name=\"verify-v1\" content=\"lMOAF4P7f2sxMtpjVkGgQTON1Js3aD2uDielq9qdoYI=\" />\n  <meta name=\"google-site-verification\" content=\"3hxp5oA8CYuqgtPrXrz0LmDSGYTIe2jQK9ToV1gwurI\" />\n  <meta property=\"og:site_name\" content=\"Food52\" />\n  <meta property=\"og:type\" content=\"article\" />\n  <meta property=\"og:url\" content=\"http://food52.com/recipes/15023_spiced_maple_pecan_pie_with_star_anise\" />\n\n  <meta property=\"og:title\" content=\"Spiced Maple Pecan Pie with Star Anise\" />\n  <meta property=\"og:image\" content=\"http://d2k9njawademcf.cloudfront.net/indeximages/22542/large/food52_11-01-11-5791.jpg?1320883716\" />\n  <meta created_date=\"2011-11-09 19:07:49 -0500\" />\n\n\n\n\n  <title>Spiced Maple Pecan Pie with Star Anise recipe from food52</title>\n\
       <!--[if IE]>\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"/stylesheets/ie8.css\" />\n\
-      <![endif]-->\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n  <link href=\"/stylesheets/rollover.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n  <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n  <![endif]-->\n\n  \n\n  \n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1327766042\" type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1327766042\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script src=\"/javascripts/tabs.js?1327766042\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/widgets/tooltip.js?1327766042\" type=\"text/javascript\"></script>\n    <script src=\"/javascripts/recipes.js?1327766042\" type=\"text/javascript\"></script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n        preload: true,\n        generatePagination: false\n      });\n    });\n  </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $.ajax({\n        url: \"/recipes/check_if_editable/15023\",\n        dataType: 'html',\n        timeout: 3000,\n        error: function() { \n          //alert(\"Error talking to server.\");\n        },\n        success: function(data) {\n          $(\"#edit-box\").html(data);\n        }\n      });\n    });\n  </script>\n\n    \n      <script type=\"text/javascript\">\n        $(document).ready(function() {\n          $('#recipe_slideshow_slides').slides({\n            //preload: false,\n            hoverPause: true,\n            bigTarget: false,\n            generateNextPrev: true,\n\
+      <![endif]-->\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n  <link href=\"/stylesheets/rollover.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n  <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n  <![endif]-->\n\n  \n\n  \n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1327765942\" type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1327765942\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script src=\"/javascripts/tabs.js?1327765942\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/widgets/tooltip.js?1327765942\" type=\"text/javascript\"></script>\n    <script src=\"/javascripts/recipes.js?1327765942\" type=\"text/javascript\"></script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n        preload: true,\n        generatePagination: false\n      });\n    });\n  </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $.ajax({\n        url: \"/recipes/check_if_editable/15023\",\n        dataType: 'html',\n        timeout: 3000,\n        error: function() { \n          //alert(\"Error talking to server.\");\n        },\n        success: function(data) {\n          $(\"#edit-box\").html(data);\n        }\n      });\n    });\n  </script>\n\n    \n      <script type=\"text/javascript\">\n        $(document).ready(function() {\n          $('#recipe_slideshow_slides').slides({\n            //preload: false,\n            hoverPause: true,\n            bigTarget: false,\n            generateNextPrev: true,\n\
       \t\t\tstart:1\n          });\n        });\n      </script>\n    \n\n\n    <!-- Pintrest -->\n    <script type=\"text/javascript\">\n    (function() {\n        window.PinIt = window.PinIt || { loaded:false };\n        if (window.PinIt.loaded) return;\n        window.PinIt.loaded = true;\n        function async_load(){\n            var s = document.createElement(\"script\");\n            s.type = \"text/javascript\";\n            s.async = true;\n            s.src = \"http://assets.pinterest.com/js/pinit.js\";\n            var x = document.getElementsByTagName(\"script\")[0];\n            x.parentNode.insertBefore(s, x);\n        }\n        if (window.attachEvent)\n            window.attachEvent(\"onload\", async_load);\n        else\n            window.addEventListener(\"load\", async_load, false);\n    })();\n    </script>\n    <!-- end Pintrest-->\n\n    <script type=\"text/javascript\">\n      function tab() {\n      \n        var pageTracker = _gat._getTracker(\"UA-9081548-1\");\n        pageTracker._trackEvent('Questions Tab', 'http://food52.com');\n      \n      }\n    </script>\n\n\n  <script type=\"text/javascript\">\n    window.onload = function() {\n      \n    }\n  </script>\n\n  <script type=\"text/javascript\">\n  $(document).ready(function()\n  {\n    $(\"input#search\").focus(function(event) {\n       $(this).val(\"\");\n    });\n  });\n  </script>\n\n\
       </head>\n\
       <body>\n \t<div class=\"outer_container\" id=\"header\">\n\
@@ -2427,11 +2427,11 @@ http_interactions:
       \t            </ul>\n\
       \t          </div>\n        </div>\n\
       \t\t<div id=\"navigation\">\n            <ul class=\"clearfix\">\n              <li>\n\
-      \t\t\t\t<a href=\"/recipes\" class=\"subtitle\" id='selected' >Recipes</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"recipes\"><span>\n                    <div class=\"hover_wrap\" id=\"recipes\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n                            <li><a href=\"/recipes/new\" id=\"bold\">Add a Recipe &raquo;</a></li>\n                            <li><a href=\"/recipes/search?ca=84\">Top Recipes</a></li>\n                            <li><a href=\"/recipes/search?ca=85\">Community Picks</a></li>\n                            <li><a href=\"/recipes/search?ca=88\">Contest Winners</a></li>\n                            <li><a href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n                          <div class=\"entries\">\n                            <div class=\"recipe_right\">\n                              <a href=\"/recipes/2554_weeknight_ragu\"><img alt=\"4148342125_bb7f5c8dfd_o\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/3321/five_col/4148342125_bb7f5c8dfd_o.jpeg?1263074358\" /></a>\n                              <div class=\"info_recipe\">\n                                <mark id=\"recipe_white_outline\"></mark>\n\
-      \t\t                        <a class=\"\" id=\"descriptor\" href=\"/recipes/2554_weeknight_ragu\">Recipe of the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"/recipes/2554_weeknight_ragu\">Weeknight Ragu</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n             \t</span></span>\n \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n                      <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n                          <a href=\"/hotline\">Ask any food question. Or answer any food question!</a>\n                        </h3>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"http://shop.food52.com\" class=\"subtitle\" >Shop</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"shop\"><span>\n                    <div class=\"hover_wrap\" id=\"shop\">\n                      <div class=\"hover_box clearfix\">\n\
+      \t\t\t\t<a href=\"/recipes\" class=\"subtitle\" id='selected' >Recipes</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"recipes\"><span>\n                    <div class=\"hover_wrap\" id=\"recipes\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n                            <li><a href=\"/recipes/new\" id=\"bold\">Add a Recipe &raquo;</a></li>\n                            <li><a href=\"/recipes/search?ca=84\">Top Recipes</a></li>\n                            <li><a href=\"/recipes/search?ca=85\">Community Picks</a></li>\n                            <li><a href=\"/recipes/search?ca=88\">Contest Winners</a></li>\n                            <li><a href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n                          <div class=\"entries\">\n                            <div class=\"recipe_right\">\n                              <a href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\"><img alt=\"011910f_506\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/3546/five_col/011910F_506.JPG?1264006537\" /></a>\n                              <div class=\"info_recipe\">\n                                <mark id=\"recipe_white_outline\"></mark>\n\
+      \t\t                        <a class=\"\" id=\"descriptor\" href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Recipe of the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Moroccan Merguez Ragout with Poached Eggs</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n             \t</span></span>\n \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n                      <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n                          <a href=\"/hotline\">Ask any food question. Or answer any food question!</a>\n                        </h3>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"http://shop.food52.com\" class=\"subtitle\" >Shop</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"shop\"><span>\n                    <div class=\"hover_wrap\" id=\"shop\">\n                      <div class=\"hover_box clearfix\">\n\
       \t\t\t\t\t\t            <div class=\"entries\">\n                          <div class=\"recipe_right\">\n\
       \t\t\t\t\t\t\t\t            <!-- LATEST SHOP OFFER STUFF -->\n                              <a href=\"http://shop.food52.com\" target=\"_blank\"><img src=\"http://s3.amazonaws.com/food52_assets/shop_promo_images/18/five_col/food52_01-17-12-8020.jpg?1327512063\"/></a>\n                              <div class=\"info_recipe\">\n\
-      \t\t                            <a class=\"\" id=\"descriptor\" href=\"/recipes/2554_weeknight_ragu\">Now in the shop</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"http://shop.food52.com\">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/contests\" class=\"subtitle\" false>Contests</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"contests\"><span>\n                    <div class=\"hover_wrap\">\n                        <div class=\"hover_box clearfix\">\n                            <ul>\n                              <li><a href=\"/contests/270_your_best_citrus_recipe\" id=\"bold\">The Current Contest &raquo;</a></li>\n                              <li><a href=\"/recipes/14725_porcini_and_rosemary_crusted_beef_tenderloin_with_port_wine_sauce\">The Latest Winner</a></li>\n                              <li><a href=\"/contests/archives\">Past Winners</a></li>\n                              <li><a href=\"/blog/2616_winner_of_your_best_root_vegetable_side\">Latest Winners Q&A</a></li>\n                              <li><a href=\"/blog/2637_the_food52_cookbook_is_here\">The First Food52 Cookbook!</a></li>\n                              <li id=\"last\"><a href=\"/home/about_contests\">About the Contests</a></li>\n                            </ul>\n                            <div class=\"entries\">\n                              <div class=\"recipe_right\">\n                                <a href=\"/contests/270_your_best_citrus_recipe\"><img alt=\"Food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_\" src=\"http://s3.amazonaws.com/food52_assets/contests/270/medium/food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_.jpg?1326387962\" /></a>\n                                <div class=\"info_recipe\">\n                                  <mark id=\"contest_white_outline\"></mark>\n\
+      \t\t                            <a class=\"\" id=\"descriptor\" href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Now in the shop</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"http://shop.food52.com\">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/contests\" class=\"subtitle\" false>Contests</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"contests\"><span>\n                    <div class=\"hover_wrap\">\n                        <div class=\"hover_box clearfix\">\n                            <ul>\n                              <li><a href=\"/contests/270_your_best_citrus_recipe\" id=\"bold\">The Current Contest &raquo;</a></li>\n                              <li><a href=\"/recipes/14725_porcini_and_rosemary_crusted_beef_tenderloin_with_port_wine_sauce\">The Latest Winner</a></li>\n                              <li><a href=\"/contests/archives\">Past Winners</a></li>\n                              <li><a href=\"/blog/2616_winner_of_your_best_root_vegetable_side\">Latest Winners Q&A</a></li>\n                              <li><a href=\"/blog/2637_the_food52_cookbook_is_here\">The First Food52 Cookbook!</a></li>\n                              <li id=\"last\"><a href=\"/home/about_contests\">About the Contests</a></li>\n                            </ul>\n                            <div class=\"entries\">\n                              <div class=\"recipe_right\">\n                                <a href=\"/contests/270_your_best_citrus_recipe\"><img alt=\"Food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_\" src=\"http://s3.amazonaws.com/food52_assets/contests/270/medium/food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_.jpg?1326387962\" /></a>\n                                <div class=\"info_recipe\">\n                                  <mark id=\"contest_white_outline\"></mark>\n\
       \t\t                              <a href=\"/contests/270_your_best_citrus_recipe\" class=\"\" id=\"descriptor\">finalists</a>\n                                  <h2 class=\"recipe_title\" id=\"white\"><a href=\"/contests/270_your_best_citrus_recipe\">Your Best Citrus Recipe</a></h2>\n                                </div>\n                              </div>\n                            </div>\n                        </div>\n                    </div>\n\
       \t\t\t\t\t      </span>\n              </span>\n              </li>\n              <li><a href=\"/cooks\" class=\"subtitle\" false >Cooks</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"cooks\"><span>\n                  <div class=\"hover_wrap\" id=\"cooks\">\n                    <div class=\"hover_box clearfix\">\n                      <div class=\"entries\">\n\
       \t\t\t\t\t\t\t          <!-- FEATURED COOK -->\n                        \n                          <div class=\"recipe_right\">\n                            <a href=\"/blog/2897_minimally_invasive\"><img alt=\"Short Rib Ragu\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/12584/five_col/110111F_356.JPG?1294938638\" /></a>\n                            <div class=\"info_recipe\">\n                              <mark id=\"cooks_white_outline\"></mark>\n                              <a href=\"/users/9997_minimally_invasive\" class=\"\" id=\"descriptor\">Featured Cook</a>\n                              <h2 class=\"recipe_title\" id=\"white\"><a href=\"/blog/2897_minimally_invasive\" class=\"username\">Minimally Invasive</a></h2>\n                            </div>\n                          </div>\n                         \n                        </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/blog\" class=\"subtitle\" false>Features</a>\n                <span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"cooks\"><span>\n                    <div class=\"hover_wrap\" id=\"articles\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n\
@@ -2489,39 +2489,39 @@ http_interactions:
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
       \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=48\"><span class=\"bold\">Pie & Tart</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/481_plum_tart\"><img alt=\"3909319257_01dc3cee88\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/20499/five_col/3909319257_01dc3cee88.jpg?1312321063\" /></a>\n\
+      \t<a href=\"/recipes/14116_peach_and_rosemary_crumble_tarte_tatin\"><img alt=\"Dsc_1704\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/21150/five_col/DSC_1704.jpg?1314054338\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/481_plum_tart\">Plum Tart</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/14116_peach_and_rosemary_crumble_tarte_tatin\">Peach and Rosemary Crumble Tarte Tatin</a></h2></li>\n\
       \t\n\
       \t</ul>\n    <a href=\"/recipes/search?ca=48\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
       \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=59\"><span class=\"bold\">Can Be Made Ahead</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest\"><img alt=\"Bruschetta_with_ricotta_honey_and_lemon_zest\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/6332/five_col/Bruschetta_with_Ricotta_Honey_and_Lemon_Zest.jpeg?1274799726\" /></a>\n\
+      \t<a href=\"/recipes/258_chilled_cantaloupe_soup\"><img alt=\"Cold_soup\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/20472/five_col/cold_soup.jpg?1312314558\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest\">Bruschetta with Ricotta, Honey and Lemon Zest</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/258_chilled_cantaloupe_soup\">Chilled Cantaloupe Soup</a></h2></li>\n\
       \t\n\
       \t</ul>\n    <a href=\"/recipes/search?ca=59\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
       \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=68\"><span class=\"bold\">Fall</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/459_savory_plum_tart\"><img alt=\"091509f_0652\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/581/five_col/091509F_0652.JPG?1253289712\" /></a>\n\
+      \t<a href=\"/recipes/7477_tasso_gumbo_gravy\"><img alt=\"Tasso_gumbo_gravy\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/10595/five_col/tasso_gumbo_gravy.jpg?1288640304\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/459_savory_plum_tart\">Savory Plum Tart</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/7477_tasso_gumbo_gravy\">Tasso Gumbo Gravy</a></h2></li>\n\
       \t\n\
       \t</ul>\n    <a href=\"/recipes/search?ca=68\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
-      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=71\"><span class=\"bold\">Christmas</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/14968_holiday_sparkler\"><img alt=\"6395191641_06ca299fda_o\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/22748/five_col/6395191641_06ca299fda_o.jpg?1322233602\" /></a>\n\
+      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=43\"><span class=\"bold\">Dessert</span> Recipes</a>\n    </h3>\n\
+      \t<a href=\"/recipes/9628_burnt_caramel_pudding\"><img alt=\"030111f_621\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/14231/five_col/030111F_621.JPG?1299173356\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/14968_holiday_sparkler\">Holiday Sparkler</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/9628_burnt_caramel_pudding\">Burnt Caramel Pudding</a></h2></li>\n\
       \t\n\
-      \t</ul>\n    <a href=\"/recipes/search?ca=71\" class=\"view_more\">See more &raquo;</a>\n\
-      </div>\n\n          \n          \n      \n          \n          \n      \n          \n          \n      \n          \n          \n              \n          \n      \n          \n          \n      \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n  <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n  <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/30051_nate_tate_mary_kate_tate\">Nate Tate & Mary Kate Tate</a></h3>\n  \n\n  \n    <a href=\"/users/30051_nate_tate_mary_kate_tate\" class=\"avatar\"><img alt=\"Food52\" class=\"hotline\" src=\"http://s3.amazonaws.com/food52_assets/users/30051/full/food52.jpg?1307989058\" /></a>\n  \n\n  <p class=\"hotliner\"><b><a href='http://www.feedingthedragon.com' target='_blank'>Nate and Mary Kate</a></b> are the authors of the cookbook <b><a href=\"http://www.amazon.com/Feeding-Dragon-Culinary-Travelogue-Through/dp/1449401112?tag=food52-20\" target='_blank' >Feeding the Dragon: A Culinary Travelogue through China with Recipes</a></b>.</p>\n  \n      \n          <div class=\"hotliner_activity clearfix\">\n              <div class=\"activity_action\">\n                  <a href=\"/users/30051_nate_tate_mary_kate_tate\" class=\"username\">Nate Tate & Mary Kate Tate</a> answered What herbs are used in Chinese cooking besides cilantro? 3 months ago\n              </div>\n          </div>\n      \n  \n\
+      \t</ul>\n    <a href=\"/recipes/search?ca=43\" class=\"view_more\">See more &raquo;</a>\n\
+      </div>\n\n          \n          \n      \n          \n          \n              \n          \n      \n          \n          \n      \n          \n          \n      \n          \n          \n      \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n  <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n  <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/29009_kim_boyce\">Kim Boyce</a></h3>\n  \n\n  \n\n  <p class=\"hotliner\"><b><a href='http://web.me.com/kimboyce/Site/Welcome.html' target='_blank'>Kim</a></b> is a pastry chef & author of the award-winning whole grain baking book <b><a href=\"http://www.amazon.com/Good-Grain-Baking-Whole-Grain-Flours/dp/1584798300?tag=food52-20\" target='_blank' >Good to the Grain</a></b>.</p>\n  \n      \n  \n\
       </div>\n\n\n    </div>\n\n    <div id=\"lightbox_overlay\">\n      <div class=\"confirmation_modal small\" id=\"email_modal_open\">\n        <!-- Match id to a above -->\n        <div class=\"modal_header\">\n          <a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n          <!-- Logged in -->\n          \n            <!-- Logged out -->\n            <h3 class=\"green_caps_heading\"><span>Please</span> <a href=\"#signup_open\" name=\"modal\" class=\"username\">Sign Up</a> <span>or</span> <a href=\"#signup_open\" name=\"modal\" class=\"username\">Log In</a></h3>\n          \n        </div>\n\n        <span id=\"email_form_body\">\n            \n        </span>\n      </div>\n      <!-- Mask to cover the whole screen -->\n      <div id=\"mask\"></div>\n    </div>\n\n    <div id=\"lightbox_overlay\">\n  <div class=\"confirmation_modal small\" id=\"modal_flag_recipe\">\n\
       \t\t<div class=\"modal_header\">\n\
       \t\t\t<a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n\
@@ -2785,12 +2785,12 @@ http_interactions:
       \t\t\t\t\t<li><a href=\"/home/contact_us\">Contact Us</a></li>\n\
       \t\t\t\t\t<!-- <li><a href=\"/home/advertise\">Advertise on Food52</a></li> -->\n\
       \t\t\t\t</ul>\n\
-      \t\t\t\t<ul class=\"logos\">\n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                      <li><a target=\"_blank\" href=\"http://thedianerehmshow.org/shows/2010-10-28/amanda-hesser-essential-new-york-times-cookbook-classic-recipes-new-century-w-w-nor\"><img src=\"/images/footer_npr.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://newyork.grubstreet.com/2009/08/amanda_hesser_makes_a_meal_fro.html\"><img src=\"/images/footer_nym.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://www.nytimes.com/2009/09/23/dining/23recipes.html?scp=1&sq=food52%20crowdsourcing&st=cse\"><img src=\"/images/footer_nyt.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://techcrunch.com/2009/08/11/amanda-hesser-and-merrill-stubbs-crowdsource-a-cookbook-with-food52/\"><img src=\"/images/footer_tcrunch.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://www.newyorker.com/arts/events/horizon/2009/10/26/091026gohz_GOAT_horizon\"><img src=\"/images/footer_theNYer.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                    \n                    \n\
+      \t\t\t\t<ul class=\"logos\">\n                    \n                    \n                        <li><a target=\"_blank\" href=\"http://abclocal.go.com/wabc/story?section=news/local/new_york&id=7803768\"><img src=\"/images/footer_abc.jpg\" /></a></li>\n                    \n                    \n\
+      \t\t\t\t\t\t<li><a target=\"_blank\" href=\"http://www.dailycandy.com/all-cities/article/75467/Project+Mayhem\"><img src=\"/images/footer_dailycandy.jpg\" /></a></li>\n                    \n                    \n\
+      \t\t\t\t\t    <li><a target=\"_blank\" href=\"http://goop.com/newsletter/55/en/\"><img src=\"/images/footer_goop.jpg\" /></a></li>\n                    \n                    \n\
+      \t\t\t\t\t    <li><a target=\"_blank\" href=\"http://live.gourmet.com/2011/05/app-exclusive-50-women-game-changers/#more-7158\"><img src=\"/images/footer_gourmet.jpg\" /></a></li>\n                    \n                    \n\
+      \t\t\t\t\t    <li><a target=\"_blank\" href=\"http://lifehacker.com/5662269/food52s-editors-on-making-sense-of-recipes\"><img src=\"/images/footer_lifehacker.jpg\" /></a></li>\n\
+      \t\t\t\t\t\n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n\
       \t\t\t\t</ul>\n\
       \t\t\t\t<ul class=\"unbulleted\">\n\
       \t\t\t\t\t<li><h5 class=\"second_header\">5 Popular Recipes:</h5></li>\n                    \n                        <li><a href=\"/recipes/8408_dirty_chai_toddy\">Dirty Chai Toddy</a></li>\n                    \n                        <li><a href=\"/recipes/7098_pumpkin_marzipan\">Pumpkin marzipan</a></li>\n                    \n                        <li><a href=\"/recipes/1452_what_we_call_stuffing_challah_mushroom_and_celery\">What We Call Stuffing: Challah, Mushroom, and Celery</a></li>\n                    \n                        <li><a href=\"/recipes/1944_shrimp_biryani_indian_shrimp_and_rice\">Shrimp Biryani (Indian Shrimp and Rice)</a></li>\n                    \n                        <li><a href=\"/recipes/5951_heirloom_tomato_and_mango_lassi_with_ground_sumac\">Heirloom Tomato and Mango Lassi with Ground Sumac</a></li>\n                    \n\
@@ -2823,7 +2823,7 @@ http_interactions:
       \t</body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:56:56 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:23 GMT
 - request: 
     method: get
     uri: http://food52.com/recipes/14948_judy_rodgers_roasted_applesauce_and_savory_apple_charlottes
@@ -2841,7 +2841,7 @@ http_interactions:
       server: 
       - nginx/0.7.61
       date: 
-      - Mon, 30 Jan 2012 05:57:01 GMT
+      - Mon, 30 Jan 2012 06:50:24 GMT
       content-type: 
       - text/html; charset=utf-8
       connection: 
@@ -2854,13 +2854,13 @@ http_interactions:
       x-powered-by: 
       - Phusion Passenger (mod_rails/mod_rack) 2.2.5
       x-runtime: 
-      - "30"
+      - "752"
       etag: 
-      - "\"e41014a857f2b70125f72a21c7aabcb0\""
+      - "\"ae1216261f1a62d54a088fac45314cee\""
       cache-control: 
       - private, max-age=0, must-revalidate
       content-length: 
-      - "83471"
+      - "83225"
       set-cookie: 
       - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
@@ -2868,7 +2868,7 @@ http_interactions:
       - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
-      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlNjY4YWQ0NzAxYmU2YzM2M2NlZjU5NzIxNmM1NTQ0NWU%3D--42e0405ad92010580f4f65612dd2e7aa1549fa1b; path=/; expires=Wed, 30-Jan-2013 05:57:01 GMT; HttpOnly
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlMjI5ZmFkOTM5ZjFlOWFjZGEyMWVkZjQzYWJhMjExMWQ%3D--88e2b0cd50308e2e5c7eca5c243154005ab94122; path=/; expires=Wed, 30-Jan-2013 06:50:24 GMT; HttpOnly
     body: |
       <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
       <html lang="en">
@@ -2892,11 +2892,11 @@ http_interactions:
               <link rel="stylesheet" type="text/css" href="/stylesheets/ie8.css" />
       <![endif]-->
         <link rel="stylesheet" type="text/css" href="/fonts/MyFontsWebfontsOrderM3084221.css">
-        <link href="/stylesheets/rollover.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-        <link href="/stylesheets/global.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-        <link href="/stylesheets/modal.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-        <link href="/stylesheets/lightbox.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-        <link href="/stylesheets/signup.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/stylesheets/rollover.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/stylesheets/global.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/stylesheets/modal.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/stylesheets/lightbox.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+        <link href="/stylesheets/signup.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
       
       
       
@@ -2916,25 +2916,25 @@ http_interactions:
       
       
       
-        <script src="/javascripts/layout.min.js?1327766042" type="text/javascript"></script>
+        <script src="/javascripts/layout.min.js?1327765942" type="text/javascript"></script>
       
       
-          <link href="/stylesheets/lightbox.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/lightbox.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
       
-          <link href="/stylesheets/activity.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-          <link href="/stylesheets/single_recipe.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-          <link href="/stylesheets/recipes.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-          <link href="/stylesheets/data.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
-          <link href="/stylesheets/news.css?1327766042" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/activity.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/single_recipe.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/recipes.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/data.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
+          <link href="/stylesheets/news.css?1327765942" media="screen" rel="stylesheet" type="text/css" />
       
-          <link href="/stylesheets/print_recipe.css?1327766042" media="print" rel="stylesheet" type="text/css" />
-      
-      
+          <link href="/stylesheets/print_recipe.css?1327765942" media="print" rel="stylesheet" type="text/css" />
       
       
-          <script src="/javascripts/tabs.js?1327766042" type="text/javascript"></script>
-      <script src="/javascripts/widgets/tooltip.js?1327766042" type="text/javascript"></script>
-          <script src="/javascripts/recipes.js?1327766042" type="text/javascript"></script>
+      
+      
+          <script src="/javascripts/tabs.js?1327765942" type="text/javascript"></script>
+      <script src="/javascripts/widgets/tooltip.js?1327765942" type="text/javascript"></script>
+          <script src="/javascripts/recipes.js?1327765942" type="text/javascript"></script>
       
         <script type="text/javascript">
           $(document).ready(function() {
@@ -3086,11 +3086,11 @@ http_interactions:
                                 </ul>
                                 <div class="entries">
                                   <div class="recipe_right">
-                                    <a href="/recipes/2554_weeknight_ragu"><img alt="4148342125_bb7f5c8dfd_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/3321/five_col/4148342125_bb7f5c8dfd_o.jpeg?1263074358" /></a>
+                                    <a href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs"><img alt="011910f_506" src="http://d2k9njawademcf.cloudfront.net/indeximages/3546/five_col/011910F_506.JPG?1264006537" /></a>
                                     <div class="info_recipe">
                                       <mark id="recipe_white_outline"></mark>
-      		                        <a class="" id="descriptor" href="/recipes/2554_weeknight_ragu">Recipe of the Day</a>
-                                      <h2 class="recipe_title" id="white"><a href="/recipes/2554_weeknight_ragu">Weeknight Ragu</a></h2>
+      		                        <a class="" id="descriptor" href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Recipe of the Day</a>
+                                      <h2 class="recipe_title" id="white"><a href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Moroccan Merguez Ragout with Poached Eggs</a></h2>
                                     </div>
                                   </div>
                                 </div>
@@ -3120,7 +3120,7 @@ http_interactions:
       								            <!-- LATEST SHOP OFFER STUFF -->
                                     <a href="http://shop.food52.com" target="_blank"><img src="http://s3.amazonaws.com/food52_assets/shop_promo_images/18/five_col/food52_01-17-12-8020.jpg?1327512063"/></a>
                                     <div class="info_recipe">
-      		                            <a class="" id="descriptor" href="/recipes/2554_weeknight_ragu">Now in the shop</a>
+      		                            <a class="" id="descriptor" href="/recipes/534_moroccan_merguez_ragout_with_poached_eggs">Now in the shop</a>
                                       <h2 class="recipe_title" id="white"><a href="http://shop.food52.com">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>
                                     </div>
                                   </div>
@@ -4240,15 +4240,15 @@ http_interactions:
       	<mark id="recipes"></mark>
       
       	<h3 class="heading">
-            <a href="/recipes/search?ca=56"><span class="bold">Five Ingredients or Fewer</span> Recipes</a>
+            <a href="/recipes/search?ca=28"><span class="bold">Fruit</span> Recipes</a>
           </h3>
-      	<a href="/recipes/3041_milk_mayonnaise_maionese_de_leite"><img alt="4331090375_b949db4306_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/4004/five_col/4331090375_b949db4306_o.jpeg?1265413742" /></a>
+      	<a href="/recipes/376_pioneerstyle_orange_cake"><img alt="062210f_193" src="http://d2k9njawademcf.cloudfront.net/indeximages/14123/five_col/062210F_193.JPG?1299001933" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/3041_milk_mayonnaise_maionese_de_leite">Milk "Mayonnaise" (Maionese de Leite)</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/376_pioneerstyle_orange_cake">Pioneer-Style Orange Cake</a></h2></li>
       	
       	</ul>
-          <a href="/recipes/search?ca=56" class="view_more">See more &raquo;</a>
+          <a href="/recipes/search?ca=28" class="view_more">See more &raquo;</a>
       </div>
       
       
@@ -4267,10 +4267,10 @@ http_interactions:
       	<h3 class="heading">
             <a href="/recipes/search?ca=65"><span class="bold">Vegetarian</span> Recipes</a>
           </h3>
-      	<a href="/recipes/10587_perfect_long_grain_brown_rice_with_black_or_red_quinoa"><img alt="Long_grain_brown_9350" src="http://d2k9njawademcf.cloudfront.net/indeximages/16040/five_col/Long_Grain_Brown_9350.JPG?1302567484" /></a>
+      	<a href="/recipes/11904_broccoli_apple_soup"><img alt="Food52_01-17-12-9589" src="http://d2k9njawademcf.cloudfront.net/indeximages/23774/five_col/food52_01-17-12-9589.jpg?1327332154" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/10587_perfect_long_grain_brown_rice_with_black_or_red_quinoa">Perfect long grain brown rice with black or red quinoa</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/11904_broccoli_apple_soup">Broccoli Apple Soup</a></h2></li>
       	
       	</ul>
           <a href="/recipes/search?ca=65" class="view_more">See more &raquo;</a>
@@ -4292,10 +4292,10 @@ http_interactions:
       	<h3 class="heading">
             <a href="/recipes/search?ca=41"><span class="bold">Condiment</span> Recipes</a>
           </h3>
-      	<a href="/recipes/2543_brandy_fruit"><img alt="4154941708_3de681abff_o" src="http://d2k9njawademcf.cloudfront.net/indeximages/3306/five_col/4154941708_3de681abff_o.jpg?1263003173" /></a>
+      	<a href="/recipes/13913_cherry_tomato_tequila_butter_salsa_with_fried_fish"><img alt="Food52_082211-3492" src="http://d2k9njawademcf.cloudfront.net/indeximages/21227/five_col/Food52_082211-3492.jpg?1314288012" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/2543_brandy_fruit">Brandy Fruit</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/13913_cherry_tomato_tequila_butter_salsa_with_fried_fish">Cherry Tomato Tequila Butter Salsa with Fried Fish</a></h2></li>
       	
       	</ul>
           <a href="/recipes/search?ca=41" class="view_more">See more &raquo;</a>
@@ -4317,10 +4317,10 @@ http_interactions:
       	<h3 class="heading">
             <a href="/recipes/search?ca=68"><span class="bold">Fall</span> Recipes</a>
           </h3>
-      	<a href="/recipes/459_savory_plum_tart"><img alt="091509f_0652" src="http://d2k9njawademcf.cloudfront.net/indeximages/581/five_col/091509F_0652.JPG?1253289712" /></a>
+      	<a href="/recipes/7477_tasso_gumbo_gravy"><img alt="Tasso_gumbo_gravy" src="http://d2k9njawademcf.cloudfront.net/indeximages/10595/five_col/tasso_gumbo_gravy.jpg?1288640304" /></a>
       	<ul class="recipes_list">
         	
-      	    <li><h2 class="medium_title"><a href="/recipes/459_savory_plum_tart">Savory Plum Tart</a></h2></li>
+      	    <li><h2 class="medium_title"><a href="/recipes/7477_tasso_gumbo_gravy">Tasso Gumbo Gravy</a></h2></li>
       	
       	</ul>
           <a href="/recipes/search?ca=68" class="view_more">See more &raquo;</a>
@@ -4350,19 +4350,17 @@ http_interactions:
             <div class="item about_editors module" id="border_bottom">
         <mark id="cooks_white"></mark>
         <h3 class="heading">Meet our Hotliners:</h3>
-        <h3 class="heading" id="secondary"><a href="/users/28518_fany_gerson">Fany Gerson</a></h3>
+        <h3 class="heading" id="secondary"><a href="/users/29906_steven_raichlen">Steven Raichlen</a></h3>
       
       
       
-          <a href="/users/28518_fany_gerson" class="avatar"><img alt="Picture_1" class="hotline" src="http://s3.amazonaws.com/food52_assets/users/28518/full/Picture_1.png?1305581924" /></a>
       
-      
-        <p class="hotliner"><strong><a href="http://www.mysweetmexico.com/web/about/default.html" target='_blank'>Fany</a></strong> is the author of <strong><a href="http://www.amazon.com/My-Sweet-Mexico-Authentic-Beverages/dp/1580089941?tag=food52-20" target='_blank'>My Sweet Mexico</a></strong> and <strong><a href="http://www.amazon.com/Paletas-Authentic-Recipes-Mexican-Frescas/dp/1607740354?tag=food52-20" target='_blank'>Paletas</a></strong>.</p>
+        <p class="hotliner"><b><a href='http://www.barbecuebible.com/' target='_blank'>Steven</a></b> is the author of the best-selling <b><a href="http://www.amazon.com/Barbecue-Bible-Steven-Raichlen/dp/0761149430?tag=food52-20" target='_blank' >Barbecue Bible</a></b> and the host of two grilling TV shows: The Primal Grill and Barbecue University. </p>
       
       
                 <div class="hotliner_activity clearfix">
                     <div class="activity_action">
-                        <a href="/users/28518_fany_gerson" class="username">Fany Gerson</a> answered I need a crispy garnish for my tres leches. something delicate like a tuile, but not a tuile.  Any ideas? 6 months ago
+                        <a href="/users/29906_steven_raichlen" class="username">Steven Raichlen</a> answered What are the best fish/wood chips to use in a stovetop smoker? 6 months ago
                     </div>
                 </div>
       
@@ -4729,28 +4727,28 @@ http_interactions:
       
       
       
-      						<li><a target="_blank" href="http://www.dailycandy.com/all-cities/article/75467/Project+Mayhem"><img src="/images/footer_dailycandy.jpg" /></a></li>
       
       
-      					    <li><a target="_blank" href="http://goop.com/newsletter/55/en/"><img src="/images/footer_goop.jpg" /></a></li>
       
       
-      					    <li><a target="_blank" href="http://live.gourmet.com/2011/05/app-exclusive-50-women-game-changers/#more-7158"><img src="/images/footer_gourmet.jpg" /></a></li>
       
       
-      					    <li><a target="_blank" href="http://lifehacker.com/5662269/food52s-editors-on-making-sense-of-recipes"><img src="/images/footer_lifehacker.jpg" /></a></li>
+      
+      
+      
+                            <li><a target="_blank" href="http://techcrunch.com/2009/08/11/amanda-hesser-and-merrill-stubbs-crowdsource-a-cookbook-with-food52/"><img src="/images/footer_tcrunch.jpg" /></a></li>
       					
       
-                            <li><a target="_blank" href="http://www.marthastewart.com/show/the-martha-stewart-show/handmade-holiday-ideas"><img src="/images/footer_MStew.jpg" /></a></li>
+                            <li><a target="_blank" href="http://www.newyorker.com/arts/events/horizon/2009/10/26/091026gohz_GOAT_horizon"><img src="/images/footer_theNYer.jpg" /></a></li>
+      					
       
+                            <li><a target="_blank" href="http://today.msnbc.msn.com/id/33899111"><img src="/images/footer_todayshow.jpg" /></a></li>
+      					
       
+                            <li><a target="_blank" href="http://tastingtable.com/ecs/1226.htm%29--and"><img src="/images/footer_ttable.jpg" /></a></li>
+      					
       
-      
-      
-      
-      
-      
-      
+                            <li><a target="_blank" href="http://blogs.laweekly.com/squidink/2009/08/food_52_when_american_idol_and.php"><img src="/images/footer_weekly.jpg" /></a></li>
       
       				</ul>
       				<ul class="unbulleted">
@@ -4853,7 +4851,7 @@ http_interactions:
       </html>
 
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:57:02 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:25 GMT
 - request: 
     method: get
     uri: http://food52.com/recipes/10579_best_boston_baked_beans
@@ -4871,7 +4869,7 @@ http_interactions:
       server: 
       - nginx/0.7.61
       date: 
-      - Mon, 30 Jan 2012 05:57:03 GMT
+      - Mon, 30 Jan 2012 06:50:27 GMT
       content-type: 
       - text/html; charset=utf-8
       connection: 
@@ -4884,13 +4882,13 @@ http_interactions:
       x-powered-by: 
       - Phusion Passenger (mod_rails/mod_rack) 2.2.5
       x-runtime: 
-      - "771"
+      - "1325"
       etag: 
-      - "\"627bf8a165b402f8af9d47cbb14ad9d4\""
+      - "\"a17efc368ce08ac0f793a4fd6b549d79\""
       cache-control: 
       - private, max-age=0, must-revalidate
       content-length: 
-      - "67915"
+      - "67930"
       set-cookie: 
       - login=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - user_id=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
@@ -4898,13 +4896,13 @@ http_interactions:
       - t=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - f52_fb=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
       - auth_token=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT
-      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlZDAzZmNkOWJmN2FiM2Y5ZTg3MDAxNTEwNzc5MzQxZjg%3D--b7eb39e5f5649d920658c35cc0375249ffe6e830; path=/; expires=Wed, 30-Jan-2013 05:57:03 GMT; HttpOnly
+      - _cookbook_session=BAh7BjoPc2Vzc2lvbl9pZCIlYTBiOGM3YzA4MGM5OGJjNDY3Yjg1ZGMwNTliMzg4ZjU%3D--1bfc1d7358f89a241d50d22090994b2ef2f0a8d8; path=/; expires=Wed, 30-Jan-2013 06:50:27 GMT; HttpOnly
     body: "<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n\
       <html lang=\"en\">\n\
       <head>\n  <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n  <meta name=\"verify-v1\" content=\"lMOAF4P7f2sxMtpjVkGgQTON1Js3aD2uDielq9qdoYI=\" />\n  <meta name=\"google-site-verification\" content=\"3hxp5oA8CYuqgtPrXrz0LmDSGYTIe2jQK9ToV1gwurI\" />\n  <meta property=\"og:site_name\" content=\"Food52\" />\n  <meta property=\"og:type\" content=\"article\" />\n  <meta property=\"og:url\" content=\"http://food52.com/recipes/10579_best_boston_baked_beans\" />\n\n  <meta property=\"og:title\" content=\"Best Boston Baked Beans\" />\n  <meta property=\"og:image\" content=\"http://d2k9njawademcf.cloudfront.net/indeximages/16067/large/040111F__Navy_04.JPG?1302573323\" />\n  <meta created_date=\"2011-03-19 03:38:13 -0400\" />\n\n\n\n\n  <title>Best Boston Baked Beans recipe from food52</title>\n\
       <!--[if IE]>\n        <link rel=\"stylesheet\" type=\"text/css\" href=\"/stylesheets/ie8.css\" />\n\
-      <![endif]-->\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n  <link href=\"/stylesheets/rollover.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n  <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n  <![endif]-->\n\n  \n\n  \n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1327765942\" type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1327765942\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1327765942\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script src=\"/javascripts/tabs.js?1327765942\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/widgets/tooltip.js?1327765942\" type=\"text/javascript\"></script>\n    <script src=\"/javascripts/recipes.js?1327765942\" type=\"text/javascript\"></script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n        preload: true,\n        generatePagination: false\n      });\n    });\n  </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $.ajax({\n        url: \"/recipes/check_if_editable/10579\",\n        dataType: 'html',\n        timeout: 3000,\n        error: function() { \n          //alert(\"Error talking to server.\");\n        },\n        success: function(data) {\n          $(\"#edit-box\").html(data);\n        }\n      });\n    });\n  </script>\n\n    \n\n\n    <!-- Pintrest -->\n    <script type=\"text/javascript\">\n    (function() {\n        window.PinIt = window.PinIt || { loaded:false };\n        if (window.PinIt.loaded) return;\n        window.PinIt.loaded = true;\n        function async_load(){\n            var s = document.createElement(\"script\");\n            s.type = \"text/javascript\";\n            s.async = true;\n            s.src = \"http://assets.pinterest.com/js/pinit.js\";\n            var x = document.getElementsByTagName(\"script\")[0];\n            x.parentNode.insertBefore(s, x);\n        }\n        if (window.attachEvent)\n            window.attachEvent(\"onload\", async_load);\n        else\n            window.addEventListener(\"load\", async_load, false);\n    })();\n    </script>\n    <!-- end Pintrest-->\n\n    <script type=\"text/javascript\">\n      function tab() {\n      \n        var pageTracker = _gat._getTracker(\"UA-9081548-1\");\n        pageTracker._trackEvent('Questions Tab', 'http://food52.com');\n      \n      }\n    </script>\n\n\n  <script type=\"text/javascript\">\n    window.onload = function() {\n      \n    }\n  </script>\n\n  <script type=\"text/javascript\">\n  $(document).ready(function()\n  {\n    $(\"input#search\").focus(function(event) {\n       $(this).val(\"\");\n    });\n  });\n  </script>\n\n\
+      <![endif]-->\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/fonts/MyFontsWebfontsOrderM3084221.css\">\n  <link href=\"/stylesheets/rollover.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/global.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/modal.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/lightbox.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n  <link href=\"/stylesheets/signup.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n  \n\n  <script type=\"text/javascript\" src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js\"></script>\n  <!--[if lt IE 9]>\n    <script src=\"//html5shim.googlecode.com/svn/trunk/html5.js\"></script>\n  <![endif]-->\n\n  \n\n  \n  \n  \n  \n  \n  \n  \n  \n\n  <script src=\"/javascripts/layout.min.js?1327766042\" type=\"text/javascript\"></script>\n\n  \n    <link href=\"/stylesheets/lightbox.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    \n    <link href=\"/stylesheets/activity.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/single_recipe.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/recipes.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/data.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n    <link href=\"/stylesheets/news.css?1327766042\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n    <link href=\"/stylesheets/print_recipe.css?1327766042\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\n    \n\n  \n    <script src=\"/javascripts/tabs.js?1327766042\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/widgets/tooltip.js?1327766042\" type=\"text/javascript\"></script>\n    <script src=\"/javascripts/recipes.js?1327766042\" type=\"text/javascript\"></script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $('#recipe_slides').slides({\n        preload: true,\n        generatePagination: false\n      });\n    });\n  </script>\n\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n      $.ajax({\n        url: \"/recipes/check_if_editable/10579\",\n        dataType: 'html',\n        timeout: 3000,\n        error: function() { \n          //alert(\"Error talking to server.\");\n        },\n        success: function(data) {\n          $(\"#edit-box\").html(data);\n        }\n      });\n    });\n  </script>\n\n    \n\n\n    <!-- Pintrest -->\n    <script type=\"text/javascript\">\n    (function() {\n        window.PinIt = window.PinIt || { loaded:false };\n        if (window.PinIt.loaded) return;\n        window.PinIt.loaded = true;\n        function async_load(){\n            var s = document.createElement(\"script\");\n            s.type = \"text/javascript\";\n            s.async = true;\n            s.src = \"http://assets.pinterest.com/js/pinit.js\";\n            var x = document.getElementsByTagName(\"script\")[0];\n            x.parentNode.insertBefore(s, x);\n        }\n        if (window.attachEvent)\n            window.attachEvent(\"onload\", async_load);\n        else\n            window.addEventListener(\"load\", async_load, false);\n    })();\n    </script>\n    <!-- end Pintrest-->\n\n    <script type=\"text/javascript\">\n      function tab() {\n      \n        var pageTracker = _gat._getTracker(\"UA-9081548-1\");\n        pageTracker._trackEvent('Questions Tab', 'http://food52.com');\n      \n      }\n    </script>\n\n\n  <script type=\"text/javascript\">\n    window.onload = function() {\n      \n    }\n  </script>\n\n  <script type=\"text/javascript\">\n  $(document).ready(function()\n  {\n    $(\"input#search\").focus(function(event) {\n       $(this).val(\"\");\n    });\n  });\n  </script>\n\n\
       </head>\n\
       <body>\n \t<div class=\"outer_container\" id=\"header\">\n\
       \t\t<div class=\"header\">\n          \t<div class=\"header_top clearfix\">\n\
@@ -4949,11 +4947,11 @@ http_interactions:
       \t            </ul>\n\
       \t          </div>\n        </div>\n\
       \t\t<div id=\"navigation\">\n            <ul class=\"clearfix\">\n              <li>\n\
-      \t\t\t\t<a href=\"/recipes\" class=\"subtitle\" id='selected' >Recipes</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"recipes\"><span>\n                    <div class=\"hover_wrap\" id=\"recipes\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n                            <li><a href=\"/recipes/new\" id=\"bold\">Add a Recipe &raquo;</a></li>\n                            <li><a href=\"/recipes/search?ca=84\">Top Recipes</a></li>\n                            <li><a href=\"/recipes/search?ca=85\">Community Picks</a></li>\n                            <li><a href=\"/recipes/search?ca=88\">Contest Winners</a></li>\n                            <li><a href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n                          <div class=\"entries\">\n                            <div class=\"recipe_right\">\n                              <a href=\"/recipes/2554_weeknight_ragu\"><img alt=\"4148342125_bb7f5c8dfd_o\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/3321/five_col/4148342125_bb7f5c8dfd_o.jpeg?1263074358\" /></a>\n                              <div class=\"info_recipe\">\n                                <mark id=\"recipe_white_outline\"></mark>\n\
-      \t\t                        <a class=\"\" id=\"descriptor\" href=\"/recipes/2554_weeknight_ragu\">Recipe of the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"/recipes/2554_weeknight_ragu\">Weeknight Ragu</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n             \t</span></span>\n \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n                      <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n                          <a href=\"/hotline\">Ask any food question. Or answer any food question!</a>\n                        </h3>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"http://shop.food52.com\" class=\"subtitle\" >Shop</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"shop\"><span>\n                    <div class=\"hover_wrap\" id=\"shop\">\n                      <div class=\"hover_box clearfix\">\n\
+      \t\t\t\t<a href=\"/recipes\" class=\"subtitle\" id='selected' >Recipes</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"recipes\"><span>\n                    <div class=\"hover_wrap\" id=\"recipes\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n                            <li><a href=\"/recipes/new\" id=\"bold\">Add a Recipe &raquo;</a></li>\n                            <li><a href=\"/recipes/search?ca=84\">Top Recipes</a></li>\n                            <li><a href=\"/recipes/search?ca=85\">Community Picks</a></li>\n                            <li><a href=\"/recipes/search?ca=88\">Contest Winners</a></li>\n                            <li><a href=\"/blog/category/128_genius_recipes\">Genius Recipes</a></li>\n                            <li><a href=\"/recipes/search/season/fall\">Recipes for Fall</a></li>\n                          </ul>\n                          <div class=\"entries\">\n                            <div class=\"recipe_right\">\n                              <a href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\"><img alt=\"011910f_506\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/3546/five_col/011910F_506.JPG?1264006537\" /></a>\n                              <div class=\"info_recipe\">\n                                <mark id=\"recipe_white_outline\"></mark>\n\
+      \t\t                        <a class=\"\" id=\"descriptor\" href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Recipe of the Day</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Moroccan Merguez Ragout with Poached Eggs</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n             \t</span></span>\n \t\t\t  </li>\n              <li><a href=\"/hotline\" class=\"subtitle\" false >Hotline</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"foodpickle\"><span>\n                    <div class=\"hover_wrap\" id=\"foodpickle\">\n                      <div class=\"hover_box clearfix\" id=\"recipes\">\n                        <mark id=\"hotline\"></mark>\n                        <h3 class=\"hover_description\">\n                          <a href=\"/hotline\">Ask any food question. Or answer any food question!</a>\n                        </h3>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"http://shop.food52.com\" class=\"subtitle\" >Shop</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"shop\"><span>\n                    <div class=\"hover_wrap\" id=\"shop\">\n                      <div class=\"hover_box clearfix\">\n\
       \t\t\t\t\t\t            <div class=\"entries\">\n                          <div class=\"recipe_right\">\n\
       \t\t\t\t\t\t\t\t            <!-- LATEST SHOP OFFER STUFF -->\n                              <a href=\"http://shop.food52.com\" target=\"_blank\"><img src=\"http://s3.amazonaws.com/food52_assets/shop_promo_images/18/five_col/food52_01-17-12-8020.jpg?1327512063\"/></a>\n                              <div class=\"info_recipe\">\n\
-      \t\t                            <a class=\"\" id=\"descriptor\" href=\"/recipes/2554_weeknight_ragu\">Now in the shop</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"http://shop.food52.com\">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/contests\" class=\"subtitle\" false>Contests</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"contests\"><span>\n                    <div class=\"hover_wrap\">\n                        <div class=\"hover_box clearfix\">\n                            <ul>\n                              <li><a href=\"/contests/270_your_best_citrus_recipe\" id=\"bold\">The Current Contest &raquo;</a></li>\n                              <li><a href=\"/recipes/14725_porcini_and_rosemary_crusted_beef_tenderloin_with_port_wine_sauce\">The Latest Winner</a></li>\n                              <li><a href=\"/contests/archives\">Past Winners</a></li>\n                              <li><a href=\"/blog/2616_winner_of_your_best_root_vegetable_side\">Latest Winners Q&A</a></li>\n                              <li><a href=\"/blog/2637_the_food52_cookbook_is_here\">The First Food52 Cookbook!</a></li>\n                              <li id=\"last\"><a href=\"/home/about_contests\">About the Contests</a></li>\n                            </ul>\n                            <div class=\"entries\">\n                              <div class=\"recipe_right\">\n                                <a href=\"/contests/270_your_best_citrus_recipe\"><img alt=\"Food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_\" src=\"http://s3.amazonaws.com/food52_assets/contests/270/medium/food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_.jpg?1326387962\" /></a>\n                                <div class=\"info_recipe\">\n                                  <mark id=\"contest_white_outline\"></mark>\n\
+      \t\t                            <a class=\"\" id=\"descriptor\" href=\"/recipes/534_moroccan_merguez_ragout_with_poached_eggs\">Now in the shop</a>\n                                <h2 class=\"recipe_title\" id=\"white\"><a href=\"http://shop.food52.com\">ARTISAN PICKLES AND RELISH FROM RICK'S PICKS!</a></h2>\n                              </div>\n                            </div>\n                          </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/contests\" class=\"subtitle\" false>Contests</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"contests\"><span>\n                    <div class=\"hover_wrap\">\n                        <div class=\"hover_box clearfix\">\n                            <ul>\n                              <li><a href=\"/contests/270_your_best_citrus_recipe\" id=\"bold\">The Current Contest &raquo;</a></li>\n                              <li><a href=\"/recipes/14725_porcini_and_rosemary_crusted_beef_tenderloin_with_port_wine_sauce\">The Latest Winner</a></li>\n                              <li><a href=\"/contests/archives\">Past Winners</a></li>\n                              <li><a href=\"/blog/2616_winner_of_your_best_root_vegetable_side\">Latest Winners Q&A</a></li>\n                              <li><a href=\"/blog/2637_the_food52_cookbook_is_here\">The First Food52 Cookbook!</a></li>\n                              <li id=\"last\"><a href=\"/home/about_contests\">About the Contests</a></li>\n                            </ul>\n                            <div class=\"entries\">\n                              <div class=\"recipe_right\">\n                                <a href=\"/contests/270_your_best_citrus_recipe\"><img alt=\"Food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_\" src=\"http://s3.amazonaws.com/food52_assets/contests/270/medium/food52_01-10-12-6933_deleted_4f0dffa8-45650-b345163f_.jpg?1326387962\" /></a>\n                                <div class=\"info_recipe\">\n                                  <mark id=\"contest_white_outline\"></mark>\n\
       \t\t                              <a href=\"/contests/270_your_best_citrus_recipe\" class=\"\" id=\"descriptor\">finalists</a>\n                                  <h2 class=\"recipe_title\" id=\"white\"><a href=\"/contests/270_your_best_citrus_recipe\">Your Best Citrus Recipe</a></h2>\n                                </div>\n                              </div>\n                            </div>\n                        </div>\n                    </div>\n\
       \t\t\t\t\t      </span>\n              </span>\n              </li>\n              <li><a href=\"/cooks\" class=\"subtitle\" false >Cooks</a><span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"cooks\"><span>\n                  <div class=\"hover_wrap\" id=\"cooks\">\n                    <div class=\"hover_box clearfix\">\n                      <div class=\"entries\">\n\
       \t\t\t\t\t\t\t          <!-- FEATURED COOK -->\n                        \n                          <div class=\"recipe_right\">\n                            <a href=\"/blog/2897_minimally_invasive\"><img alt=\"Short Rib Ragu\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/12584/five_col/110111F_356.JPG?1294938638\" /></a>\n                            <div class=\"info_recipe\">\n                              <mark id=\"cooks_white_outline\"></mark>\n                              <a href=\"/users/9997_minimally_invasive\" class=\"\" id=\"descriptor\">Featured Cook</a>\n                              <h2 class=\"recipe_title\" id=\"white\"><a href=\"/blog/2897_minimally_invasive\" class=\"username\">Minimally Invasive</a></h2>\n                            </div>\n                          </div>\n                         \n                        </div>\n                      </div>\n                    </div>\n                \t</span>\n                </span>\n              </li>\n              <li><a href=\"/blog\" class=\"subtitle\" false>Features</a>\n                <span class=\"bullet\">&bull;</span>\n                <span class='tooltip' id=\"cooks\"><span>\n                    <div class=\"hover_wrap\" id=\"articles\">\n                      <div class=\"hover_box clearfix\">\n                          <ul>\n\
@@ -4985,40 +4983,40 @@ http_interactions:
       \t\t</div>\n        <input id=\"commentable_commentable\" name=\"commentable[commentable]\" type=\"hidden\" value=\"Recipe\" />\n        <input id=\"commentable_commentable_id\" name=\"commentable[commentable_id]\" type=\"hidden\" value=\"10579\" />\n\n        \n              <input id=\"comment_parent\" name=\"comment[parent]\" type=\"hidden\" value=\"58540\" />\n        \n\n        <input id=\"green_button\" name=\"commit\" type=\"submit\" value=\"Add &#43;\" />\n    </form>\n\n\n\n\n\n\n\n\n\n\n\n    </div>\n\n\n\n\n\n\n          \n\n      \n\n      \n        <h4 class=\"signup\">\n        Please <a href=\"#signup_open\" name=\"modal\">Sign up</a> (or <a href=\"#signup_open\" name=\"modal\">log in</a>) to comment on a recipe!</h4>\n      \n    </div>\n\n    \n\n    <div id=\"foodpickle_tab\">\n\n      \n      \n          \n              <div class=\"comment clearfix\">\n                <div class=\"user clearfix\">\n                  \n                  \n                      \n                          <a href=\"/users/8958_carlacooks\" id=\"avatar\" target=\"_blank\"><img alt=\"\" class=\"avatar\" src=\"http://s3.amazonaws.com/food52_assets/users/8958/small/IMG_1445.jpg?1286381573\" /></a>\n                      \n                  \n\n                  \n                    <a href=\"/users/8958_carlacooks\" class=\"pie slice_36\"></a>\n                  \n\n                  <div class=\"user_info\">\n                    \n                        <a href=\"/users/8958_carlacooks\" class=\"username\">CarlaCooks</a>\n                    \n                    <span class=\"date\">added 7 months ago</span>\n                  </div>\n                  \n                </div>\n                <p class=\"comment_text\"><a href=\"/hotline/5772-a-question-about-a-recipe-best-boston-baked-beans\">I would love to make Fairmount_market's baked beans recipe, but molasses is impossible to find in Denmark! Is it possible to substitute the molasses with maple syrup (known as 'Acorn Syrup' in Denmark)?</a></p>\n              </div>\n          \n      \n\n\n    </div>\n    <!-- <div id=\"cooking_view\">\n      \n      <div class=\"cooking_ingredients\" id=\"hide\">\n        <h3 class=\"large_green\"><a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close Ingredients<span></span></a>\n        </h3>\n\n        <div class=\"tool_tip\">\n          <span class=\"arrow\"></span>\n\n          <div class=\"tool_tip_wrap clearfix\">\n            <p>Click to close ingredients</p>\n          </div>\n        </div>\n\n        <div class=\"ingredients\">\n          <h4 class=\"servings\">Serves 6-8</h4>\n\n              \n\n              \n\n                  <p>\n                    2 cups\n\n                    \n                    \n                        \n                        \n                            dried beans such as Ireland Creek Annie, if you can find them, or navy or anasazi beans\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    4 \n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/strips-bacon\" style=\"text-decoration: none;\">strips bacon</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1 \n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/onion\" style=\"text-decoration: none;\">onion, diced</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    4 \n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/cloves-garlic\" style=\"text-decoration: none;\">cloves garlic, minced</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1 teaspoon\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/ground-cumin\" style=\"text-decoration: none;\">ground cumin</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1/2 teaspoon\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/spicy-smoked-paprika\" style=\"text-decoration: none;\">spicy smoked paprika</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1 tablespoon\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/brown-sugar\" style=\"text-decoration: none;\">brown sugar</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1/4 cup\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/ketchup\" style=\"text-decoration: none;\">ketchup</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1 tablespoon\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/mustard\" style=\"text-decoration: none;\">mustard</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1 tablespoon\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/molasses\" style=\"text-decoration: none;\">molasses</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    1/4 cup\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/cider-vinegar\" style=\"text-decoration: none;\">cider vinegar</a>\n                        \n                    \n                  </p>\n\n              \n\n                  <p>\n                    4 cups\n\n                    \n                    \n                        \n                        \n                            <a href=\"/recipes/ingredient/water\" style=\"text-decoration: none;\">water, heated</a>\n                        \n                    \n                  </p>\n\n              \n\n\n        </div>\n        <h3 class=\"large_green\" id=\"black\">\n          <a href=\"#\" onclick=\"swap_visibility('hide','show');\">Close Ingredients<span></span></a></h3>\n      </div>\n      <div id=\"show\" class=\"cooking_ingredients\">\n        <h3 class=\"large_green\">\n          <a href=\"#\" onclick=\"swap_visibility('show','hide');\">Expand Ingredients<span></span></a></h3>\n      </div>\n\n      <div class=\"cooking_instructions\">\n        \n        <ol>\n          \n              <li><p>Preheat the oven to 250 degrees. Cut the bacon into small strips (most easily done with scissors) and saute in a Dutch oven until the strips are fairly crispy. Reserve the bacon and drain off all but about 2 Tbsp bacon fat. Add the chopped onion and saute until soft. Add the garlic, cumin, paprika, and brown sugar and saute for another couple of minutes. Meanwhile, mix together the ketchup, mustard, molasses, and vinegar. Pour this mixture into the pot. Rinse the mixing cup with some of the hot water and add this and the remaining water to the pot. Add the rinsed beans and bacon bits, mix and heat the contents of the pot to a simmer. Then cover the pot and transfer to the oven.\n              </p>\n              </li>\n          \n              <li><p>Cook the beans in the oven for about 3 1/2 hours, stirring occasionally, until they are soft, but not falling apart. Add a little more water if they get too dry during the cooking process. Raise the heat to 400 degrees, remove the top, add salt if needed, and cook for another half hour until the sauce becomes thick and caramelized.\n              </p>\n              </li>\n          \n        </ol>\n\n      </div>\n      \n    </div> -->\n    </div>\n    </div>\n    </div>\n    <!-- END SINGLE RECIPE -->\n    </div>\n    <div class=\"six_columns\">\n      <div class=\"ads module\">\n        <div id=\"FOOD52_HOMEPAGE_AD\">\n            <script src=\"http://adserver.adtechus.com/?adrawdata/3.0/5108.1/2224862/0/0/ADTECH;loc=100;noperf=1;\"></script>\n        </div>\n      </div>\n      \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
-      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=57\"><span class=\"bold\">Gluten-Free</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/12535_salvadoran_breakfast_cake_aka_quesadillas\"><img alt=\"062111-255\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/18852/five_col/062111-255.jpg?1308842972\" /></a>\n\
+      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=21\"><span class=\"bold\">Bean & Legume</span> Recipes</a>\n    </h3>\n\
+      \t<a href=\"/recipes/10485_split_pea_soup_for_a_winters_day\"><img alt=\"040111f__splitgreenpeas_07\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/16083/five_col/040111F__SplitGreenPeas_07.JPG?1302574433\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/12535_salvadoran_breakfast_cake_aka_quesadillas\">Salvadoran Breakfast Cake (a.k.a. Quesadillas)</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/10485_split_pea_soup_for_a_winters_day\">Split Pea Soup for a Winter's Day</a></h2></li>\n\
       \t\n\
-      \t</ul>\n    <a href=\"/recipes/search?ca=57\" class=\"view_more\">See more &raquo;</a>\n\
+      \t</ul>\n    <a href=\"/recipes/search?ca=21\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n              \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
       \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=59\"><span class=\"bold\">Can Be Made Ahead</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest\"><img alt=\"Bruschetta_with_ricotta_honey_and_lemon_zest\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/6332/five_col/Bruschetta_with_Ricotta_Honey_and_Lemon_Zest.jpeg?1274799726\" /></a>\n\
+      \t<a href=\"/recipes/258_chilled_cantaloupe_soup\"><img alt=\"Cold_soup\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/20472/five_col/cold_soup.jpg?1312314558\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/4718_bruschetta_with_ricotta_honey_and_lemon_zest\">Bruschetta with Ricotta, Honey and Lemon Zest</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/258_chilled_cantaloupe_soup\">Chilled Cantaloupe Soup</a></h2></li>\n\
       \t\n\
       \t</ul>\n    <a href=\"/recipes/search?ca=59\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
-      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=21\"><span class=\"bold\">Bean & Legume</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/72_pasta_and_bean_soup_with_kale\"><img alt=\"54_five_col\" src=\"http://s3.amazonaws.com/food52_default_category_images/54_five_col.jpg\" /></a>\n\
+      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=52\"><span class=\"bold\">Side Dish</span> Recipes</a>\n    </h3>\n\
+      \t<a href=\"/recipes/3996_imas_challah\"><img alt=\"092711-food52-259\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/21921/five_col/092711-food52-259.jpg?1317225889\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/72_pasta_and_bean_soup_with_kale\">Pasta and Bean Soup with Kale</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/3996_imas_challah\">Ima's Challah</a></h2></li>\n\
       \t\n\
-      \t</ul>\n    <a href=\"/recipes/search?ca=21\" class=\"view_more\">See more &raquo;</a>\n\
+      \t</ul>\n    <a href=\"/recipes/search?ca=52\" class=\"view_more\">See more &raquo;</a>\n\
       </div>\n\n          \n          \n      \n          \n            \n            \n\n            \n\n    \n\
       <div class=\"recipes module\">\n\
       \t<mark id=\"recipes\"></mark>\n\n\
-      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=52\"><span class=\"bold\">Side Dish</span> Recipes</a>\n    </h3>\n\
-      \t<a href=\"/recipes/7015_roasted_cauliflower_with_gremolata_bread_crumbs\"><img alt=\"101210f_382\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/10101/five_col/101210F_382.JPG?1287072112\" /></a>\n\
+      \t<h3 class=\"heading\">\n      <a href=\"/recipes/search?ca=57\"><span class=\"bold\">Gluten-Free</span> Recipes</a>\n    </h3>\n\
+      \t<a href=\"/recipes/10758_sweet_potato_parsnip_mash\"><img alt=\"6243753858_b028fb8de8\" src=\"http://d2k9njawademcf.cloudfront.net/indeximages/22164/five_col/6243753858_b028fb8de8.jpg?1318876385\" /></a>\n\
       \t<ul class=\"recipes_list\">\n  \t\n\
-      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/7015_roasted_cauliflower_with_gremolata_bread_crumbs\">Roasted Cauliflower with Gremolata Bread Crumbs</a></h2></li>\n\
+      \t    <li><h2 class=\"medium_title\"><a href=\"/recipes/10758_sweet_potato_parsnip_mash\">Sweet Potato & Parsnip Mash</a></h2></li>\n\
       \t\n\
-      \t</ul>\n    <a href=\"/recipes/search?ca=52\" class=\"view_more\">See more &raquo;</a>\n\
-      </div>\n\n          \n          \n      \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n  <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n  <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/4_food52\">Food52</a></h3>\n  \n\n  \n    <a href=\"/users/4_food52\" class=\"avatar\"><img alt=\"F52_avatar\" class=\"hotline\" src=\"http://s3.amazonaws.com/food52_assets/users/4/full/F52_avatar.jpg?1318711448\" /></a>\n  \n\n  <p class=\"hotliner\">This is from your friendly editors at Food52.</p>\n  \n      \n          <div class=\"hotliner_activity clearfix\">\n              <div class=\"activity_action\">\n                  <a href=\"/users/4_food52\" class=\"username\">Food52</a> answered Suggestions for trying to pull off 3 courses in a rental kitchen? about 1 month ago\n              </div>\n          </div>\n      \n  \n\
+      \t</ul>\n    <a href=\"/recipes/search?ca=57\" class=\"view_more\">See more &raquo;</a>\n\
+      </div>\n\n          \n          \n      \n\n      <div class=\"item about_editors module\" id=\"border_bottom\">\n  <mark id=\"cooks_white\"></mark>\n  <h3 class=\"heading\">Meet our Hotliners:</h3>\n  <h3 class=\"heading\" id=\"secondary\"><a href=\"/users/2821_kristen_miglore\">kristen miglore</a></h3>\n  \n\n  \n    <a href=\"/users/2821_kristen_miglore\" class=\"avatar\"><img alt=\"Miglore\" class=\"hotline\" src=\"http://s3.amazonaws.com/food52_assets/users/2821/full/miglore.jpg?1287907326\" /></a>\n  \n\n  <p class=\"hotliner\"><b>Kristen</b> is the Senior Editor of <a href='http://www.food52.com' target='_blank'>food52</a>.</p>\n  \n      \n          <div class=\"hotliner_activity clearfix\">\n              <div class=\"activity_action\">\n                  <a href=\"/users/2821_kristen_miglore\" class=\"username\">kristen miglore</a> answered A question about a recipe: Nekisia Davis' Olive Oil and Maple Granola 5 days ago\n              </div>\n          </div>\n      \n  \n\
       </div>\n\n\n    </div>\n\n    <div id=\"lightbox_overlay\">\n      <div class=\"confirmation_modal small\" id=\"email_modal_open\">\n        <!-- Match id to a above -->\n        <div class=\"modal_header\">\n          <a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n          <!-- Logged in -->\n          \n            <!-- Logged out -->\n            <h3 class=\"green_caps_heading\"><span>Please</span> <a href=\"#signup_open\" name=\"modal\" class=\"username\">Sign Up</a> <span>or</span> <a href=\"#signup_open\" name=\"modal\" class=\"username\">Log In</a></h3>\n          \n        </div>\n\n        <span id=\"email_form_body\">\n            \n        </span>\n      </div>\n      <!-- Mask to cover the whole screen -->\n      <div id=\"mask\"></div>\n    </div>\n\n    <div id=\"lightbox_overlay\">\n  <div class=\"confirmation_modal small\" id=\"modal_flag_recipe\">\n\
       \t\t<div class=\"modal_header\">\n\
       \t\t\t<a href=\"#\" class=\"close\" id=\"no_circle\"/></a>\n\
@@ -5076,12 +5074,13 @@ http_interactions:
       \t\t\t\t\t<li><a href=\"/home/contact_us\">Contact Us</a></li>\n\
       \t\t\t\t\t<!-- <li><a href=\"/home/advertise\">Advertise on Food52</a></li> -->\n\
       \t\t\t\t</ul>\n\
-      \t\t\t\t<ul class=\"logos\">\n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                    \n                      <li><a target=\"_blank\" href=\"http://thedianerehmshow.org/shows/2010-10-28/amanda-hesser-essential-new-york-times-cookbook-classic-recipes-new-century-w-w-nor\"><img src=\"/images/footer_npr.jpg\" /></a></li>\n\
+      \t\t\t\t<ul class=\"logos\">\n                    \n                    \n                    \n                    \n                    \n                    \n\
+      \t\t\t\t\t    <li><a target=\"_blank\" href=\"http://lifehacker.com/5662269/food52s-editors-on-making-sense-of-recipes\"><img src=\"/images/footer_lifehacker.jpg\" /></a></li>\n\
+      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://www.marthastewart.com/show/the-martha-stewart-show/handmade-holiday-ideas\"><img src=\"/images/footer_MStew.jpg\" /></a></li>\n                    \n                    \n\
+      \t\t\t\t\t<li><a target=\"_blank\" href=\"http://theradioblog.marthastewart.com/2011/02/amanda-hesser-and-merrill-stubbs-on-the-essential-ny-times-cookbook-and-food52.html\"><img src=\"/images/footer_MStewLive.jpg\" /></a></li>\n\
+      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://thedianerehmshow.org/shows/2010-10-28/amanda-hesser-essential-new-york-times-cookbook-classic-recipes-new-century-w-w-nor\"><img src=\"/images/footer_npr.jpg\" /></a></li>\n\
       \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://newyork.grubstreet.com/2009/08/amanda_hesser_makes_a_meal_fro.html\"><img src=\"/images/footer_nym.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://www.nytimes.com/2009/09/23/dining/23recipes.html?scp=1&sq=food52%20crowdsourcing&st=cse\"><img src=\"/images/footer_nyt.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://techcrunch.com/2009/08/11/amanda-hesser-and-merrill-stubbs-crowdsource-a-cookbook-with-food52/\"><img src=\"/images/footer_tcrunch.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                      <li><a target=\"_blank\" href=\"http://www.newyorker.com/arts/events/horizon/2009/10/26/091026gohz_GOAT_horizon\"><img src=\"/images/footer_theNYer.jpg\" /></a></li>\n\
-      \t\t\t\t\t\n                    \n                    \n                    \n\
+      \t\t\t\t\t\n                    \n                    \n                    \n                    \n                    \n                    \n\
       \t\t\t\t</ul>\n\
       \t\t\t\t<ul class=\"unbulleted\">\n\
       \t\t\t\t\t<li><h5 class=\"second_header\">5 Popular Recipes:</h5></li>\n                    \n                        <li><a href=\"/recipes/8408_dirty_chai_toddy\">Dirty Chai Toddy</a></li>\n                    \n                        <li><a href=\"/recipes/7098_pumpkin_marzipan\">Pumpkin marzipan</a></li>\n                    \n                        <li><a href=\"/recipes/1452_what_we_call_stuffing_challah_mushroom_and_celery\">What We Call Stuffing: Challah, Mushroom, and Celery</a></li>\n                    \n                        <li><a href=\"/recipes/1944_shrimp_biryani_indian_shrimp_and_rice\">Shrimp Biryani (Indian Shrimp and Rice)</a></li>\n                    \n                        <li><a href=\"/recipes/5951_heirloom_tomato_and_mango_lassi_with_ground_sumac\">Heirloom Tomato and Mango Lassi with Ground Sumac</a></li>\n                    \n\
@@ -5114,5 +5113,5 @@ http_interactions:
       \t</body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:57:03 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:28 GMT
 recorded_with: VCR 2.0.0.rc1

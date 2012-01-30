@@ -23,16 +23,16 @@ http_interactions:
       cache-control: 
       - private, max-age=600
       expires: 
-      - Mon, 30 Jan 2012 06:05:09 GMT
+      - Mon, 30 Jan 2012 07:00:12 GMT
       date: 
-      - Mon, 30 Jan 2012 05:55:09 GMT
+      - Mon, 30 Jan 2012 06:50:12 GMT
       transfer-encoding: 
       - chunked
       connection: 
       - keep-alive
       - Transfer-Encoding
       set-cookie: 
-      - mobify=0; expires=Mon, 30-Jan-2012 07:55:09 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 30-Jan-2012 08:50:12 GMT; domain=epicurious.com
     body: "\n\n\n\n\n\n\n\n\
       <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
       <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope itemtype=\"http://schema.org/\">\n\n\n\
@@ -371,7 +371,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:55:10 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:12 GMT
 - request: 
     method: get
     uri: http://www.epicurious.com/recipes/food/views/Strawberry-Mascarpone-Tart-with-Port-Glaze-352272
@@ -395,16 +395,16 @@ http_interactions:
       cache-control: 
       - private, max-age=600
       expires: 
-      - Mon, 30 Jan 2012 06:05:47 GMT
+      - Mon, 30 Jan 2012 07:00:13 GMT
       date: 
-      - Mon, 30 Jan 2012 05:55:47 GMT
+      - Mon, 30 Jan 2012 06:50:13 GMT
       transfer-encoding: 
       - chunked
       connection: 
       - keep-alive
       - Transfer-Encoding
       set-cookie: 
-      - mobify=0; expires=Mon, 30-Jan-2012 07:55:47 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 30-Jan-2012 08:50:13 GMT; domain=epicurious.com
     body: "\n\n\n\n\n\n\n\n\
       <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
       <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope itemtype=\"http://schema.org/\">\n\n\n\
@@ -748,7 +748,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:55:48 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:13 GMT
 - request: 
     method: get
     uri: http://www.epicurious.com/recipes/food/views/Lemongrass-Lime-Leaf-365192
@@ -772,16 +772,16 @@ http_interactions:
       cache-control: 
       - private, max-age=600
       expires: 
-      - Mon, 30 Jan 2012 06:06:00 GMT
+      - Mon, 30 Jan 2012 07:00:15 GMT
       date: 
-      - Mon, 30 Jan 2012 05:56:00 GMT
+      - Mon, 30 Jan 2012 06:50:15 GMT
       transfer-encoding: 
       - chunked
       connection: 
       - keep-alive
       - Transfer-Encoding
       set-cookie: 
-      - mobify=0; expires=Mon, 30-Jan-2012 07:56:00 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 30-Jan-2012 08:50:15 GMT; domain=epicurious.com
     body: "\n\n\n\n\n\n\n\n\
       <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
       <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope itemtype=\"http://schema.org/\">\n\n\n\
@@ -1145,7 +1145,7 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:56:01 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:15 GMT
 - request: 
     method: get
     uri: http://www.epicurious.com/recipes/food/views/Baked-Peaches-with-Amaretti-and-Cocoa-365109
@@ -1169,16 +1169,16 @@ http_interactions:
       cache-control: 
       - private, max-age=600
       expires: 
-      - Mon, 30 Jan 2012 06:06:02 GMT
+      - Mon, 30 Jan 2012 07:00:16 GMT
       date: 
-      - Mon, 30 Jan 2012 05:56:02 GMT
+      - Mon, 30 Jan 2012 06:50:16 GMT
       transfer-encoding: 
       - chunked
       connection: 
       - keep-alive
       - Transfer-Encoding
       set-cookie: 
-      - mobify=0; expires=Mon, 30-Jan-2012 07:56:02 GMT; domain=epicurious.com
+      - mobify=0; expires=Mon, 30-Jan-2012 08:50:16 GMT; domain=epicurious.com
     body: "\n\n\n\n\n\n\n\n\
       <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\"\n    \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
       <html xmlns=\"http://www.w3.org/1999/xhtml\" xml:lang=\"en-US\" lang=\"en-US\" xmlns:fb=\"http://ogp.me/ns/fb#\" itemscope itemtype=\"http://schema.org/\">\n\n\n\
@@ -1526,5 +1526,5 @@ http_interactions:
       </body>\n\
       </html>"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:56:03 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:16 GMT
 recorded_with: VCR 2.0.0.rc1

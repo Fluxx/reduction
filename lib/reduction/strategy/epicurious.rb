@@ -12,7 +12,7 @@ module Reduction
       end
 
       def title
-        doc.at('#primary_content h1.fn').text
+        text_at('#primary_content h1.fn')
       end
 
       def ingredients

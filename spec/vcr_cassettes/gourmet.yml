@@ -23,9 +23,9 @@ http_interactions:
       cache-control: 
       - private, max-age=600
       expires: 
-      - Mon, 30 Jan 2012 06:08:14 GMT
+      - Mon, 30 Jan 2012 07:00:50 GMT
       date: 
-      - Mon, 30 Jan 2012 05:58:14 GMT
+      - Mon, 30 Jan 2012 06:50:50 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -135,5 +135,5 @@ http_interactions:
       </body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 05:58:14 GMT
+  recorded_at: Mon, 30 Jan 2012 06:50:50 GMT
 recorded_with: VCR 2.0.0.rc1

@@ -1,0 +1,844 @@
+--- 
+http_interactions: 
+- request: 
+    method: get
+    uri: http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/
+    body: ""
+    headers: 
+      accept: 
+      - "*/*"
+      user-agent: 
+      - Ruby
+  response: 
+    status: 
+      code: 200
+      message: OK
+    headers: 
+      server: 
+      - Apache
+      x-powered-by: 
+      - Phusion Passenger (mod_rails/mod_rack) 2.2.15
+      vary: 
+      - Accept
+      etag: 
+      - "\"3296137250ee55008333a69d33a7b022\""
+      x-ua-compatible: 
+      - IE=Edge,chrome=1
+      x-runtime: 
+      - "0.288497"
+      status: 
+      - "200"
+      content-type: 
+      - text/html; charset=utf-8
+      expires: 
+      - Mon, 30 Jan 2012 06:50:53 GMT
+      cache-control: 
+      - max-age=0, no-cache, no-store
+      pragma: 
+      - no-cache
+      date: 
+      - Mon, 30 Jan 2012 06:50:53 GMT
+      transfer-encoding: 
+      - chunked
+      connection: 
+      - keep-alive
+      - Transfer-Encoding
+    body: "\n\n\n\
+      <!DOCTYPE html\n        PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
+      <html xmlns=\"http://www.w3.org/1999/xhtml\"\n      xmlns:fb=\"https://www.facebook.com/2008/fbml\"\n      lang=\"en\" xml:lang=\"en\">\n\
+      <head>\n    <meta name=\"ka_env\" content=\"ti_savvis_ka_prod\" />\n    <meta name=\"ka_page\" content=\"recipe/show\" /><meta name=\"ka_model\" content=\"moroccan-chicken-butternut-squash-soup-50400000118582\" /><meta name=\"ka_model_type\" content=\"recipe\" />\n    <script type=\"text/javascript\">\n      window.omnitureHookFunction = function() {\n        var recipeUpdated = getCookie('KACreatingRecipe') || getCookie('KAUpdatingRecipe');\n        if (recipeUpdated) {\n          var recipeIsPublic = true;\n          if (recipeIsPublic) {\n            s_time.eVar13 = 'public';\n          } else {\n            s_time.eVar13 = 'private';\n          }\n        }\n      }\n      var omni_newstout_id = 'MR Chicken';     \n    </script>\n    <meta name=\"recipe_average_rating\" content=\"4.333333333333333\" />\n    <meta name=\"recipe_name\" content=\"Moroccan Chicken and Butternut Squash Soup\" />\n    <meta name=\"edit_created\" content=\"true\" />\n    <meta property=\"og:title\" content=\"Moroccan Chicken and Butternut Squash Soup\" />\n    <meta property=\"og:type\" content=\"food\"/>\n    <meta property=\"og:site_name\" content=\"MyRecipes.com\"/>\n    <meta property=\"og:image\" content=\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\"/>\n    <meta property=\"fb:app_id\" content=\"287437392227\"/>\n    \n    \n\n\n\
+      <meta http-equiv=\"Content-Type\" content=\"application/xhtml+xml; charset=UTF-8\" />\n\
+      <meta name=\"render-time\" content=\"2012-01-30 01:50:53 -0500\" />\n\
+      <meta name=\"content-id\" content=\"\" />\n\
+      <title>Moroccan Chicken and Butternut Squash Soup Recipe | MyRecipes.com</title>\n\
+      <meta name=\"description\" content=\"MyRecipes recommends that you make this Moroccan Chicken and Butternut Squash Soup recipe from Cooking Light\" />\n\
+      <meta name=\"keywords\" content=\"Low Saturated Fat, Main Dishes,Soups/Stews, Moroccan, Entertaining,Family, Poultry,Vegetables\" />\n\
+      <meta name=\"robots\" content=\"NOODP\" />\n\
+      <meta name=\"ka_recipeName\" content=\"Moroccan Chicken and Butternut Squash Soup\" />\n\
+      <meta name=\"ka_menuName\" content=\"\" />\n\
+      <meta name=\"ka_pageName\" content=\"displayRecipe:Moroccan Chicken and Butternut Squash Soup\" />\n\
+      <meta name=\"ka_ad_recipeID\" content=\"50400000118582\" />\n\
+      <meta name=\"ka_ad_menuID\" content=\"\" />\n\
+      <meta name=\"ka_ad_pub\" content=\"Cooking Light\" />\n\
+      <meta name=\"ka_ad_cookbook\" content=\"\" />\n\
+      <meta name=\"ka_ad_course\" content=\"Main Dishes,Soups/Stews\" />\n\
+      <meta name=\"ka_ad_cuisine\" content=\"Moroccan\" />\n\
+      <meta name=\"ka_ad_mainIng\" content=\"Poultry,Vegetables\" />\n\
+      <meta name=\"ka_excludeIng\" content=\"\" />\n\
+      <meta name=\"ka_ad_diet\" content=\"Low Saturated Fat\" />\n\
+      <meta name=\"ka_ad_prep\" content=\"\" />\n\
+      <meta name=\"ka_ad_convenience\" content=\"Entertaining,Family\" />\n\
+      <meta name=\"ka_ad_season\" content=\"\" />\n\
+      <meta name=\"ka_ad_franchise\" content=\"\" />\n\
+      <meta name=\"ka_ad_cont\" content=\"\" />\n\
+      <meta name=\"ka_cooktime\" content=\"\" />\n\
+      <meta name=\"ka_costperserving\" content=\"\" />\n\
+      <meta name=\"ka_recipeRating\" content=\"4\" />\n\
+      <meta name=\"ka_ad_specialIng\" content=\"\" />\n\
+      <meta name=\"ka_ad_keyValuePairs\" content=\"\" />\n\
+      <link rel=\"canonical\" href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/\" />\n\
+      <link rel=\"shortcut icon\" href=\"http://img4.myrecipes.com/static/i/favicon.ico\" />\n\
+      <link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/global.css?buildlife=42712\" media=\"all\" />\n\
+      <link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/colorbox.css?buildlife=42712\" media=\"all\" />\n  <link href=\"http://img4.myrecipes.com/static/c/recipe.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"http://img4.myrecipes.com/static/c/menus.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"http://img4.myrecipes.com/static/c/account.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <!--[if lt IE 8]><link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/ie.css?buildlife=42712\" /><![endif]-->\n\
+      <!--[if lt IE 7]><link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/lt-ie7.css?buildlife=42712\" /><![endif]-->\n\
+      <script type=\"text/javascript\" src=\"http://js.adsonar.com/js/tw_adsonar.js\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/jquery.colorbox-min.js?buildlife=42712\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/shared/js/tii_ads.js\"></script>\n\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/global.js?buildlife=42712\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ka.js?buildlife=42712\"></script>\n\n\n\n    <script src=\"http://myrecipes.groceryserver.com/groceryserver/api/script_v02.jsp?6bc8d72cbcc2edb79f292339dc685142\" type=\"text/javascript\"></script>\n  <script src=\"http://img4.myrecipes.com/static/j/recipe.js\" type=\"text/javascript\"></script>\n  <script src=\"http://jsrails.timeinc.net/j/com.ticommunity.comm.js\" type=\"text/javascript\"></script>\n\n\
+      </head>\n\
+      <body class=\"hasAnchorBar\">\n\
+      \t\t<div id=\"omniture\" style=\"display:none\">\r\n\
+      \t\t\t<script type=\"text/javascript\">//<![CDATA[\r\n\
+      \t\t\t\tvar s_account=\"timemyrecipesnew,timespcfood\";\r\n\
+      \t\t\t//]]></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/common_spc.js?buildlife=42712\"></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/myrecipes.js?buildlife=42712\"></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/ka-omniture.js?buildlife=42712\"></script>\r\n\
+      \t\t</div>\n\n\
+      <!-- SSi Include  /static/inc/toplinks.html -->\n\
+      <div class=\"topLinks clr\">\n\
+      \t<a class=\"skipTo\" href=\"#mainContent\">Skip to Main Content</a>\n\
+      \t<div class=\"spcLinks\">\n\
+      \t\t<img class=\"map\" alt=\"Links to other Time Inc. websites\" src=\"http://img4.myrecipes.com/static/i/sisters.png\" width=\"994\" height=\"32\" usemap=\"#spcMap\" />\n\
+      \t\t<map id=\"spcMap\" name=\"spcMap\">\n\
+      \t\t\t<area alt=\"All You\" shape=\"rect\" coords=\"255,0,335,32\" href=\"http://www.allyou.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Coastal Living\" shape=\"rect\" coords=\"336,0,417,32\" href=\"http://www.coastalliving.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Cooking Light\" shape=\"rect\" coords=\"418,0,512,32\" href=\"http://www.cookinglight.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Food and Wine\" shape=\"rect\" coords=\"513,0,621,32\" href=\"http://www.foodandwine.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Health\" shape=\"rect\" coords=\"621,0,700,32\" href=\"http://www.health.com/health/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Southern Living\" shape=\"rect\" coords=\"795,0,895,32\" href=\"http://www.southernliving.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Sunset\" shape=\"rect\" coords=\"896,0,990,32\" href=\"http://www.sunset.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n    \t</map>\n\
+      \t</div><!-- /div.spcLinks -->\n\
+      </div><!--  /div.topLinks -->\n\
+      <div class=\"wrap\">\n\
+      \t<!-- SSi Include  /static/inc/logo.html -->\n\
+      <div class=\"logo\">\n\
+      \t<div class=\"wrap2\">\n\
+      \t\t<a href=\"http://www.myrecipes.com/\"><img src=\"http://img4.myrecipes.com/static/i/logo_myrecipes_header.gif\" alt=\"My Recipes\" /></a>\n\
+      \t</div><!-- /div.wrap2 -->\n\
+      </div><!-- /div.logo -->\n\
+      \t<!-- SSi Include /static/inc/searchbar.html -->\n\
+      <div class=\"searchbar\">\n\
+      \t<div class=\"wrap2\">\n\
+      \t\t<form class=\"search\" method=\"get\" action=\"http://search.myrecipes.com/search.html\" onsubmit=\"omniSearch(this.Ntt.value);\" enctype=\"application/x-www-form-urlencoded\">\n\
+      \t\t\t<div>\n\
+      \t\t\t\t<label for=\"searchbox\">Search MyRecipes.com</label>\n\
+      \t\t\t\t<input type=\"text\" id=\"searchbox\" maxlength=\"100\" value=\"\" name=\"Ntt\" /><input type=\"image\" alt=\"Search\" src=\"http://img4.myrecipes.com/static/i/searchglass.gif\"  />\n\
+      \t\t\t</div>\n\
+      \t\t</form><!-- /form.search -->\n\
+      \t\t<script type=\"text/javascript\">initSearchbox();</script>\n\
+      \t\t<div class=\"sbLinks\">\n   <ul></ul>\n\
+      </div>\n\
+      \t\t<!-- /div.sbLinks -->\n\
+      \t\t<div class=\"signinbar\">\n    \t\t<a href=\"http://www.myrecipes.com/r/login/\" onclick=\"omniTigr('mr_hd_signin');\">Sign In</a> | <a href=\"http://www.myrecipes.com/r/profiles/new/\" onclick=\"omniTigr('mr_hd_join');\">Join Now</a>\n    \t</div>\n    \t<!-- /div.signinbar -->\n    \t<script type=\"text/javascript\">signinbarInit2('http://jsrails.timeinc.net/j/ka/0.0.1/ka.js', 'http://jsrails.timeinc.net/j/ka/0.0.1/ka-debug.js');</script>\t\t\t\n\
+      \t</div><!-- /div.wrap2 -->\n\
+      </div><!-- /div.searchbar -->\n\
+      \t<div class=\"nav x4-nav\">\n\n\
+      \t<div class=\"wrap2\">\n\n\
+      \t\t<ul>\n\n\
+      \t\t\t<li class=\"main\"><a href=\"http://www.myrecipes.com/\"><span><img src=\"http://img4.myrecipes.com/static/i/nav-home.png\" /></span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/sweeptakes-contests/\">Sweepstakes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/search.html?type=ct:Videos;&amp;Ntk=photo_sort&amp;Ns=p_has_photo%7C1\">Video</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/community/\">Community</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://coupons.myrecipes.com/ccr/default.aspx?go=15010bn3310\">Grocery Coupons</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\
+      \t\t\t<li class=\"recipe-finder\"><a href=\"http://www.myrecipes.com/recipe-finder/\"><span>Recipes</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/\">Browse Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/advanced-search.html\">Advanced Recipe Search</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/nutrition-search.html\">Nutrition Recipe Search</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/sponsor-recipes/\">Sponsor Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/search.html?type=ct:Recipes;rt:Community;\">Member Recipes</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\
+      \t\t\t<li class=\"my-recipe-file\"><a href=\"http://www.myrecipes.com/r/my_recipe_file/\"><span>My Recipe File</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe/new/\">Add a Recipe</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/saved_recipes/\">Saved Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/shopping_lists/\">Shopping Lists</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/saved_menus/\">Saved Menus</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"quick-and-easy\"><a href=\"http://www.myrecipes.com/quick-and-easy/\"><span>Quick &#38; Easy</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/no-cook-recipes/\">No Cook Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/chicken-recipes/\">Chicken Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/make-ahead-recipes/\">Make Ahead Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/slow-cooker-recipes/\">Slow-Cooker Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/five-and-dine-00420000006245/\">5 Ingredient Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/15-minute-recipes/\">15-Minute Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/dinner-tonight/\">Dinner Tonight</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/1-list-5-meals/\">1 List, 5 Meals</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"menus\"><a href=\"http://www.myrecipes.com/menus/\"><span>Menus</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/menus/menu-finder/\">Menu Finder</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/holidays-and-occasions/\">Holidays</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/appetizer-recipes/\">Appetizers</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/drink-recipes/\">Cocktails</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/dessert-recipes/\">Desserts</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/wedding-and-shower-recipes/\">Weddings &amp; Showers</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"healthy-diet\"><a href=\"http://www.myrecipes.com/healthy-diet/\"><span>Healthy</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/diabetic-recipes/\">Diabetic Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/gluten-free-recipes/\">Gluten Free</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/heart-healthy-recipes/\">Heart Healthy</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/vegetarian-recipes/\">Vegetarian Recipes</a></li>\n\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/healthy-diet/calorie-counts/\">Calorie Counts</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"how-to\"><a href=\"http://www.myrecipes.com/how-to/video/\"><span>How-To Video</span></a></li>\n\n\
+      \t\t\t<li class=\"kids\"><a href=\"http://www.myrecipes.com/kids/\"><span>Kids</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/snacks/\">Snacks</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/lunches-and-sandwiches/\">Lunches</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/dinners/\">Dinners</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/kids/healthy-kids/\">Healthy Kids</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/kids/play-with-your-food/\">Video</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"super-bowl-recipes rotating-channel\"><a href=\"http://www.myrecipes.com/super-bowl-recipes/\"><span>Super Bowl</span></a></li>\n    </ul>\n\n\
+      \t</div>\n\n\
+      </div>\n\n\
+      \t<div class=\"content\">\n\
+      \t\t<div class=\"wrap2\">\n\
+      \t\t\t<a name=\"mainContent\" id=\"mainContent\" tabindex=\"-1\"></a>\n\n\n\
+      <div itemscope itemtype=\"http://data-vocabulary.org/Recipe\">\n\n\
+      <div class=\"pageHead\">\n     <div class=\"breadcrumb\">\n  <a href=\"http://www.myrecipes.com/recipe-finder/\">Recipes</a> &gt; Moroccan Chicken and Butternut Squash Soup\n\
+      </div>\n  \n     <h1 class=\"x4-headline\" itemprop=\"name\">Moroccan Chicken and Butternut Squash Soup</h1>\n\
+      </div>\n     <div class=\"colAB\">\n        <div class=\"recipeCont clr\">\n           <div class=\"rHero clr\">\n                <div class=\"featPhotoA\">\n\n  <div class=\"photo\">\n        <a class=\"enlarge\" rel=\"group1\" title=\"(Photo: Sang An; Styling: Philippa Brathwaite)\">\n          <img alt=\"Moroccan Chicken and Butternut Squash Soup Recipe\" height=\"300\" itemprop=\"photo\" src=\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\" title=\"Moroccan Chicken and Butternut Squash Soup Recipe\" width=\"300\" />\n          <img alt=\"enlarge\" class=\"icon\" height=\"27\" src=\"http://img4.myrecipes.com/static/i/icon-mag.png\" width=\"30\" />\n        </a>\n  </div>     \n\n  <div class=\"inner\">\n     <div class=\"credit\">\n       <span>Photo: Sang An; Styling: Philippa Brathwaite</span>\n     </div>\n  </div>\n\n\
+      </div>\n\
+      <!-- /div.featPhotoA -->\n  \n                <div class=\"rHeroB\">\n\n                    <div class=\"toolbar clr\">\n  <ul class=\"rt1\">\n          <li class=\"twitter\"><a target=\"_blank\" onclick=\"omniCommunityTracker('share-Twitter');\" href=\"http://twitter.com/share?url=http%3A%2F%2Fwww.myrecipes.com%2Frecipe%2Fmoroccan-chicken-butternut-squash-soup-50400000118582&text=You%27ve%20Got%20To%20Taste%20This%20%40My_Recipes\">\n            <img alt=\"Tweet on Twitter\" class=\"share_tw\" height=\"20\" src=\"http://img4.myrecipes.com/static/i/icon-twitter.png\" width=\"21\" />\n          </a></span></li>\n          <li class=\"fbLike\">\n              <fb:like href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/\" ref=\"fb-like\" send=\"false\" layout=\"button_count\" width=\"90\" show_faces=\"false\"></fb:like>\n              <div id=\"fb-root\"></div>\n              <script>\n                window.fbAsyncInit = function() {\n                  FB.init({appId: '287437392227', status: true, cookie: true, oauth: true, xfbml: true});\n                  FB.Event.subscribe('edge.create', function(response) {\n                    //if we got here, fire off a facebook like event\n                    omniCommunityTracker('like-FB');\n                    var r = new KA.Recipe();\n                    r.add_like_fb();\n                  });\n                };\n                (function(d, s, id) {\n                  var js, fjs = d.getElementsByTagName(s)[0];\n                  if (d.getElementById(id)) {return;}\n                  js = d.createElement(s); js.id = id;\n                  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n                  fjs.parentNode.insertBefore(js, fjs);\n                }(document, 'script', 'facebook-jssdk'));\n              </script>\n           </li>\n           <li class=\"googlePlus\"> <g:plusone size=\"medium\"></g:plusone></li>\n    <li class=\"pinIt\"><a href=\"http://pinterest.com/pin/create/button/?url=http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/&media=http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\" class=\"pin-it-button\" count-layout=\"none\">Pin It</a>\n            <script type=\"text/javascript\" src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n    </li>     \n  </ul>\n\
+      </div>\n\n\
+      <script type=\"text/javascript\">\n  (function() {\n    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n    po.src = 'https://apis.google.com/js/plusone.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n  })();\n\
+      </script>\n\n\n                    <h2 class=\"dek\" itemprop=\"summary\"></h2>\n\n                    <div class=\"rating1\" itemprop=\"review\" itemscope itemtype=\"http://data-vocabulary.org/Review-aggregate\">\n    <span itemprop=\"rating\" itemscope itemtype=\"http://data-vocabulary.org/Rating\">\n      <span itemprop=\"average\" style=\"display:none\">4.0</span>\n    </span>\n    <span itemprop=\"reviews\" style=\"display:none\">9</span>\n    \n    <div class=\"rating1star starRating\" data-score=\"4.333333333333333\"></div>\n\n    <p class=\"rating1desc\"></p>\n\n    <div class=\"rating1rev\">\n      <a href=\"#reviewForm\">Rate and Review</a> |\n     <a href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/ratings/\">Read Reviews (<span itemprop=\"count\">7</span>)</a>\n    </div>\n\n\
+      </div>\n\n                       <div class=\"recipe411\">\n        <div><strong>Yield:</strong> <span itemprop=\"yield\">Serves 4 (serving size: 1 1/2 cups)</span></div>\n\n\n             <div><strong>Total:</strong>\n              <span><time itemprop=\"total\" dateTime=\"PT0H48M\">\n                48 Minutes\n              </time></span></div>\n\n       \n   </div>\n               </div> <!-- /div.rHeroB -->\n           </div> <!-- /div.rHero clr -->\n           <div class=\"colA\">\n                 <div class=\"sponsorAd\">\n\
+      <span>Recipe from</span>\n\
+      <a href=\"http://www.cookinglight.com/\"><img alt=\"from Cooking Light\" src=\"http://img4.myrecipes.com/static/i/from_cookinglight.png\" /></a>\n </div>\n    \n\n   <div class=\"moreFromPub\">\n   <h4>More From \n      <i>Cooking Light</i>\n   </h4>\n   <ul>\n      <script type=\"text/javascript\">\n\
+      \tif (typeof adFactory != 'undefined') {\n\
+      \t\tadFactory.getCmAd(142, 70, \"article\", \"text\").write();\n\
+      \t}\n\
+      </script>\n      <li>\n         <a href=\"http://www.cookinglight.com/food/quick-healthy/healthy-soup-recipes-00412000070018/\">101 Soup Recipes</a>\n      </li>\n      <li>\n         <a href=\"http://www.cookinglight.com/entertaining/holidays-occasions/chocolate-desserts-recipes-00400000063672/\">20 Chocolate Desserts</a>\n      </li>\n      <li>\n         <a href=\"http://www.cookinglight.com/food/recipe-finder/healthy-chicken-breast-recipes-00412000070045/\">25 Healthy Chicken Breast Recipes</a>\n      </li>\n      <li>\n         <a href=\"http://www.cookinglight.com/food/recipe-finder/baked-pasta-recipes-00412000073965/\">Baked Pasta Recipes</a>\n      </li>\n      <li>\n         <a href=\"http://search.myrecipes.com/search.html?type=ct:Recipes;et:Cooking%20Light;&amp;Nty=1\">Search Cooking Light Recipes</a>\n      </li>\n   </ul>\n\
+      </div>\n   <!-- http://www.myrecipes.com/fragments/more-from-publication/cookinglight.html -->\n\n\n\n     <div class=\"recipeTime\">\n\n    <h4>Recipe Time</h4>\n\n    <p>\n          <b>Hands On:</b>\n                40 Minutes\n          <br clear=\"none\" />\n          <b>Total:</b>\n                48 Minutes\n          <br clear=\"none\" />\n    </p>\n\n\
+      </div>\n\n\n\n\n      <div class=\"nutritionalInfo\">\n    <h4>Nutritional Information</h4>\n    \n    <div class=\"inner\">\n     <strong>Amount per serving</strong>\n    <ul itemprop=\"nutrition\" itemscope itemtype=\"http://data-vocabulary.org/Nutrition\">\n      <li>\n        Calories:\n        <span itemprop=\"calories\">\n          292\n        </span>\n      </li>\n      <li>\n        Fat:\n        <span itemprop=\"fat\">\n          8g\n        </span>\n      </li>\n      <li>\n        Saturated fat:\n        <span itemprop=\"saturatedFat\">\n          1.6g\n        </span>\n      </li>\n      <li>\n        Monounsaturated fat:\n        <span itemprop=\"monounsaturatedFat\">\n          3.8g\n        </span>\n      </li>\n      <li>\n        Polyunsaturated fat:\n        <span itemprop=\"polyunsaturatedFat\">\n          1.6g\n        </span>\n      </li>\n      <li>\n        Protein:\n        <span itemprop=\"protein\">\n          24.4g\n        </span>\n      </li>\n      <li>\n        Carbohydrate:\n        <span itemprop=\"carbohydrate\">\n          31.7g\n        </span>\n      </li>\n      <li>\n        Fiber:\n        <span itemprop=\"fiber\">\n          5g\n        </span>\n      </li>\n      <li>\n        Cholesterol:\n        <span itemprop=\"cholesterol\">\n          83mg\n        </span>\n      </li>\n      <li>\n        Iron:\n        <span itemprop=\"iron\">\n          2.8mg\n        </span>\n      </li>\n      <li>\n        Sodium:\n        <span itemprop=\"sodium\">\n          474mg\n        </span>\n      </li>\n      <li>\n        Calcium:\n        <span itemprop=\"calcium\">\n          109mg\n        </span>\n      </li>\n    </ul>\n  </div>\n  <div class=\"link\"><a href=\"http://www.myrecipes.com/healthy-diet/healthy-nutrition-guidelines-00420000003306/\">Nutrition Guidelines for Healthy Living</a></div>\n  </div> <!-- end nutritional info -->\n\n  \n           </div> <!-- /div.colA -->\n           <div class=\"colB\">\n            <div class=\"recipeDetails\">\n        <div id=\"groceryInfo\" class=\"groceryInfo\"></div>\n    <br clear=\"none\" />\n    <h3>Ingredients</h3>\n    <div id=\"enterGroceryInfo\" class=\"enterGroceryInfo\"></div>\n    <div class=\"toolbar clr\">\n     <ul class=\"pt1\">\n         <li class=\"print\" onclick=\"omniCommunityTracker('print-FullPage');\"><a href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/print/\">Print</a></li>\n         <li class=\"email\"><span class=\"st_email_custom\"><a>Email</a></span></li>\n            <li class=\"send_to_mobile\" onClick=\"omniCommunityTracker('send-toPhone')\">\n              <a href=\"/r/overlays/recipe_send_to_mobile/\">Send To Mobile</a>\n            </li>\n      </ul>\n      <ul class=\"pt2\">\n         <li><a href=\"#\" class=\"save1\">Save Recipe</a></li>\n         <li><a href=\"#\" class=\"save2\">Add to Menu</a></li>\n         <li><a href=\"#\" class=\"save3\">Add to Shopping List</a></li>\n      </ul>\n\
+      </div>\n    \n    <ul>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 tablespoon</span>\n                <span itemprop=\"name\"> olive oil</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 cup</span>\n                <span itemprop=\"name\"> chopped onion</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">3 </span>\n                <span itemprop=\"name\"> (4-ounce) skinless, boneless chicken thighs, cut into bite-sized pieces</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 teaspoon</span>\n                <span itemprop=\"name\"> ground cumin</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1/4 teaspoon</span>\n                <span itemprop=\"name\"> ground cinnamon</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1/8 </span>\n                <span itemprop=\"name\"> to 1/4 teaspoon ground red pepper</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">3 cups</span>\n                <span itemprop=\"name\"> (1/2-inch) cubed peeled butternut squash</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">2 tablespoons</span>\n                <span itemprop=\"name\"> no-salt-added tomato paste</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">4 cups</span>\n                <span itemprop=\"name\"> <a href=\"http://www.myrecipes.com/recipe/chicken-stock-50400000118588/\">Chicken Stock or fat-free, lower-sodium chicken broth</a></span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1/3 cup</span>\n                <span itemprop=\"name\"> uncooked couscous</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">3/4 teaspoon</span>\n                <span itemprop=\"name\"> kosher salt</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 </span>\n                <span itemprop=\"name\"> zucchini, quartered lengthwise and sliced into 3/4-inch pieces</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1/2 cup</span>\n                <span itemprop=\"name\"> coarsely chopped fresh basil</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">2 teaspoons</span>\n                <span itemprop=\"name\"> grated orange rind</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n    </ul>\n\n    <h3>Preparation</h3>\n    <ol itemprop=\"instructions\">\n    <li>1. Heat a Dutch oven over medium heat. Add oil to pan; swirl to coat. Add onion, and cook for 4 minutes, stirring occasionally. Add chicken; cook for 4 minutes, browning on all sides. Add cumin, cinnamon, and pepper to pan; cook 1 minute, stirring constantly. Add butternut squash and tomato paste; cook 1 minute. Stir in Chicken Stock, scraping pan to loosen browned bits. Bring to a boil. Reduce heat, and simmer 8 minutes. Stir in couscous, salt, and zucchini; cook 5 minutes or until squash is tender. Remove pan from heat. Stir in chopped basil and orange rind.</li>\n    </ol>\n\n    \n\n    <div class=\"byline\">\n  <p class=\"author\">David Bonom, <a href=\"http://www.cookinglight.com/\"><i><b><span itemprop=\"author\">Cooking Light</span></b></i></a>\n    <br clear=\"none\" />\n        <span itemprop=\"published\">JANUARY 2012</span>\n  </p>\n\
+      </div>\n\n\n    \n    <script type=\"text/javascript\">\n\
+      \tif (typeof adFactory != 'undefined') {\n\
+      \t\tad = adFactory.getAd(142,70);\n\
+      \t\tad.write();\n\
+      \t}\n\
+      </script>\n\
+      </div>\n\n            <div class=\"relatedList\">\n  <h5>Related Recipes</h5>\n  <ul>\n      <li><a href=\"http://www.myrecipes.com/soup-recipes/\">Soup and Stew Recipes</a></li>\n      <li><a href=\"http://www.myrecipes.com/main-dish-and-entree-recipes/\">Main Dishes and Entr\xC3\xA9es</a></li>\n      <li><a href=\"http://www.myrecipes.com/moroccan-recipes/\">Moroccan Recipes</a></li>\n  </ul>\n\
+      </div>\n\n\n             \n\n            <div class=\"my_notes\">\n  <h5>My Notes</h5>\n  <p class=\"dek\">Only you will be able to view, print, and edit this note.</p>  \n\n    <a class=\"add_note\">Add Note</a>\n\n    <div id=\"note_display\" class=\"dek\" style=\"display:none;\"></div>\n    <div class=\"note_box\" style=\"display:none;\">\n      <form id=\"note_form\">\n        <textarea id=\"note_details\" name=\"note[details]\"></textarea>\n        <p class=\"chars_remain\"><span class=\"count\">1000</span> characters remaining</p>\n        <div class=\"errors\"></div>\n        <input class=\"btn save\" type=\"submit\" name=\"save_note\" value=\"\" />\n        <a href=\"#\" class=\"cancel\">Cancel</a>\n     </form>\n   </div>\n\
+      </div>\n\n\n            <div class=\"quigo\">\n\
+      \t<script type=\"text/javascript\">\n\
+      \t\tgoogle_ad_client = \"ca-timeinc-myrecipes-bah\";\n\
+      \t\tgoogle_ad_channel = \"other\";\n\
+      \t</script>\n\
+      \t<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></script>\n\
+      </div>\n\n               \n            <br clear=\"none\" />    \n\n           </div> <!-- /div.colB -->\n           <div class=\"ad500\">\n\
+      \t<script type=\"text/javascript\">\n\
+      \t\tif (typeof adFactory != 'undefined') {\n\
+      \t\t\tad = adFactory.getAd(500,75);\n\
+      \t\t\tad.write();\n\
+      \t\t}\n\
+      \t</script>\n\
+      </div>\n                        \n           <div class=\"menuReviews\">\n  <div class=\"header\">\n    <h3>Ratings and Reviews (<span id=\"reviewHeaderCount\"></span>)</h3>\n\n    <div id=\"ratingsHistogram\"></div>\n    <script type=\"text/html\" id=\"histogram_tmpl\">\n\
+      <div class=\"reviewChart\">\n    \t<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">5 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${fiveStarPercentage}px;\">${fiveStarPercentage}%</div></div></td>\n\
+      \t\t<td>${fiveStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">4 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${fourStarPercentage}px;\">${fourStarPercentage}%</div></div></td>\n\
+      \t\t<td>${fourStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">3 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${threeStarPercentage}px;\">${threeStarPercentage}%</div></div></td>\n\
+      \t\t<td>${threeStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">2 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${twoStarPercentage}px;\">${twoStarPercentage}%</div></div></td>\n\
+      \t\t<td>${twoStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">1 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${oneStarPercentage}px;\">${oneStarPercentage}%</div></div></td>\n\
+      \t\t<td>${oneStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t</table>\n\
+      \t\t<strong>\n           ${totalCount} {{if pluralize}}\n            Reviews\n            {{else}}\n            Review\n            {{/if}}\n        </strong>\n\
+      \t</div>\n\
+      </script>    \n\n    <div class=\"reviewInfo\">\n        <div class=\"starRating\"></div>\n        <span class=\"rating1desc\"></span>\n        <a href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/ratings/\" class=\"moreReviews\">Read More Reviews</a>\n    </div>\n    <div class=\"addReview\"><a href=\"#reviewForm\" class=\"btnRed\"><span>Add a Review</span></a></div>\n  </div>\n  <ul class=\"reviews\">\n    <li class=\"review clr\">\n  <div class=\"username\">jreckamp</div>\n  <div class=\"text\">\n    <p>Fabulous recipe. Love the merging of flavors. Give it a try with the thighs. I usually prefer chicken breast but used the thighs, and it was delicious. My children don't usually like zucchini or couscous but loved them in this recipe. My 8 year old begs to take the leftovers in her lunch. Have made for lunch for friend on two separate occasions, and everyone raved about it. A keeper!</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star5\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Outstanding\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/26/12\n    </span>    \n  </div>\n\
+      </li>\n\
+      <li class=\"review clr\">\n  <div class=\"username\">AngelaJW</div>\n  <div class=\"text\">\n    <p>So easy, and full of good flavors. I love trying new dishes, and this one is getting added into my rotation.</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star4\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Worthy of a special occasion\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/25/12\n    </span>    \n  </div>\n\
+      </li>\n\
+      <li class=\"review clr\">\n  <div class=\"username\">promogal</div>\n  <div class=\"text\">\n    <p>Tasty soup, unique for sure. I doubled it to get four servings as we had this for dinner without any side dishes nor bread. The couscous gave it a nice consistency--it wasn't a watery soup. Will make again.</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star5\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Outstanding\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/19/12\n    </span>    \n  </div>\n\
+      </li>\n\
+      <li class=\"review clr\">\n  <div class=\"username\">LDombeck</div>\n  <div class=\"text\">\n    <p>I liked this soup.  I love to find new ways to use cinnamon in savory dishes.  One change for next time, I will use chicken breast instead of thighs.  Though the thigh meat was tender and moist, I prefer white meat. It was easy to throw together, especially when I prepped all the ingredients in the morning.</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star4\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Worthy of a special occasion\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/17/12\n    </span>    \n  </div>\n\
+      </li>\n\
+      <li class=\"review clr\">\n  <div class=\"username\">kayakGirl21</div>\n  <div class=\"text\">\n    <p>This was an alright recipe and we finished it all but I don't think I'll make it again, just didn't really care for the flavors.</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star3\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Good, solid recipe\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/13/12\n    </span>    \n  </div>\n\
+      </li>\n\n  </ul>\n\
+      </div>\n\n\
+      <script type=\"text/html\" id=\"review_tmpl\">\n  {{if mine}}\n    <li class=\"review clr myReview\" id=\"myReview\">\n  {{else}}\n    <li class=\"review clr\">\n  {{/if}}\n       <div class=\"username\">${name}</div>\n       <div class=\"text\">\n       <p>${text}</p>\n\n      {{if mine}}\n        <div class=\"actions\">\n          <a href=\"#reviewForm\" class=\"edit\">Edit</a>\n          <span class=\"separator\">|</span>\n          <a href=\"#\" class=\"remove\">Remove</a>\n        </div>\n      {{/if}}\n    </div>\n    <div class=\"info\">\n        <div class=\"starRatingSmall star${score}\"></div>\n        <span class=\"ratingDescription starDesc\">${score_description}</span>\n        <span class=\"reviewLocation\">${reviewer_location}</span>\n        <span class=\"postedOn\">${postedAt}</span>\n    </div>\n\n    {{if mine}}\n      <div class=\"myReviewIcon\">My Review</div>\n    {{/if}}\n  </li>\n\
+      </script>\n\n\
+      <div class=\"menuAddReviewForm\" id=\"reviewForm\">\n  <a href=\"http://www.myrecipes.com/recipe/moroccan-chicken-butternut-squash-soup-50400000118582/ratings/\" class=\"moreReviews\">Read More Reviews</a>\n\n  <div class=\"form\">\n  <form id=\"new_review_form\" method=\"get\" action=\"#\"\n        enctype=\"application/x-www-form-urlencoded\">\n    <div class=\"header clr\">\n      <h3 class=\"form_title\">Rate and Review</h3>\n\n      <span class=\"note\">All fields required.</span>\n      <a class=\"seeTips\">See Tips</a>\n\n      <span class=\"username\"></span>\n\n      <div class=\"helpBalloon\">\n        <h3>\n          TIPS<br clear=\"none\">Consider these questions when writing \n          your review:\n        </h3>\n\n        <ul>\n          <li>How much did you like the dish and would you make it again?</li>\n          <li>Is the recipe appropriate for special occasions or everyday meals?</li>\n          <li>Did you alter ingredients and instructions? If so, how?</li>\n          <li>What did you serve with the dish?</li>\n          <li>Do you have any hints about making this recipe?</li>\n        </ul>\n\n        <div class=\"pointer\"></div>\n      </div>\n    </div>\n\n    <div class=\"inner\">\n      <div class=\"errors\"></div>\n\n      <div class=\"myRatingContainer clr\">\n        <span class=\"label\">My Rating:</span>\n        <div class=\"starRating\"></div>\n        <span class=\"instructions starDesc\">Click to apply your rating</span>\n\n        <div class=\"locationContainer\">\n          <span class=\"location\">Location: <span class=\"city\"></span> <span class=\"state\"></span></span>\n          <input id=\"showLocation\" type=\"checkbox\" name=\"review[reviewer_location]\" checked=\"checked\">\n            Display location\n        </div>\n      </div>\n\n      <div class=\"alreadyReviewed\">\n        <p>You have already rated and reviewed this recipe</p>\n        <a href=\"#myReview\">Go to your review.</a>\n      </div>\n\n      <div class=\"myReviewContainer clr\">\n        <label for=\"review_body\">My Review:</label>\n        <textarea id=\"review_body\" name=\"review[body]\" cols=\"50\" rows=\"7\"></textarea>\n        <span class=\"charCount\">\n          <span class=\"value\">1000</span> characters remaining\n        </span>\n      </div>\n\n      <a class=\"btnRed post\" href=\"#\"><span>Post</span></a>\n\n      <span class=\"shareFBcheckbox\">\n        <input type=\"checkbox\" id=\"shareFB\">\n        Share on Facebook\n      </span>\n    </div>\n  </form>\n\
+      </div>\n\n\
+      </div>\n\n\n           <div class=\"recipeGlance\">\n   <h5>Moroccan Chicken and Butternut Squash Soup Recipe at a Glance</h5>\n\n\
+      <ul>\n    <li>\n      <strong>COURSE:</strong>\n      <span itemprop=\"recipeType\">Main Dishes</span>, <span itemprop=\"recipeType\">Soups/Stews</span>\n    </li>\n    <li>\n      <strong>CONVENIENCE:</strong>\n      <span itemprop=\"recipeType\">Entertaining</span>, <span itemprop=\"recipeType\">Family</span>\n    </li>\n    <li>\n      <strong>CUISINE:</strong>\n      <span itemprop=\"recipeType\">Moroccan</span>\n    </li>\n    <li>\n      <strong>MAIN INGREDIENT:</strong>\n      <span itemprop=\"recipeType\">Poultry</span>, <span itemprop=\"recipeType\">Vegetables</span>\n    </li>\n    <li>\n      <strong>DIETARY CONSIDERATION:</strong>\n      <span itemprop=\"recipeType\">Low Saturated Fat</span>\n    </li>\n    <li><strong>PUBLICATION: </strong>Cooking Light</li> \n  </ul>\n\
+      </div>\n           \n        </div> <!-- /div.recipeCont -->\n     </div> <!-- /div.colAB -->\n\n     <div class=\"colC\">\n       \n\
+      <div class=\"triple\">\n  <h3>More Recipes for Main Dishes</h3>\n  <ul class=\"clr\">\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/peanut-squash-soup-10000001134061/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/ck/05/12/peanut-soup-ck-1134061-s.jpg\"\n                 alt=\"Peanut and Squash Soup\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/peanut-squash-soup-10000001134061/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Peanut and Squash Soup</a></h4>\n          <div class=\"attr\">\n            Cooking Light\n          </div>\n        </div>\n      </div>\n    </li>\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/giant-butternut-squash-ravioli-10000001865411/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-s.jpg\"\n                 alt=\"Giant Butternut Squash Ravioli\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/giant-butternut-squash-ravioli-10000001865411/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Giant Butternut Squash Ravioli</a></h4>\n          <div class=\"attr\">\n            Sunset\n          </div>\n        </div>\n      </div>\n    </li>\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/chicken-butternut-tagine-10000001932643/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/ck/09/11/chicken-butternut-ck-1932643-s.jpg\"\n                 alt=\"Chicken-Butternut Tagine\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/chicken-butternut-tagine-10000001932643/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Chicken-Butternut Tagine</a></h4>\n          <div class=\"attr\">\n            Cooking Light\n          </div>\n        </div>\n      </div>\n    </li>\n  </ul>\n\
+      </div>\n\n\n\n\
+      <div class=\"adRt\">\n\
+      <span class=\"adtext\"><span>advertisement</span></span>\n\
+      <script type=\"text/javascript\">\n\
+      \tvar sizes = new Array(\"300x250\", \"300x600\", \"300x1050\");\n\
+      \tvar adMulti300 = adFactory.getMultiAd(sizes);\n\
+      \tadMulti300.write();\n\
+      </script>\n\
+      </div>\n\n\
+      <!-- http://www.myrecipes.com/static/newsletters/chicken-tonight-recipe-rightrail.txt -->\n  <div class=\"newsSignupRR clr\">\r\n     <div class=\"txt\">\r\n\
+      \t<h3>You want chicken? We've got it!</h3>\r\n\
+      \t<div class=\"img\">\r\n\
+      \t\t<img src=\"http://img4.myrecipes.com/static/i/nl-chicken-small.jpg\" alt=\"Chicken Tonight\" width=\"75\" height=\"75\" />\r\n\
+      \t</div>\r\n\
+      \t<div class=\"dek\">Get endless recipe ideas for this dinnertime staple, emailed weekly.</div>\r\n\
+      \t<form enctype=\"application/x-www-form-urlencoded\" onsubmit=\"omniNewsTracker(this.sub.value);\" method=\"post\" action=\"http://ebm.cheetahmail.com/r/regf2\">\r\n\
+      \t   <div>\r\n          \t<input type=\"hidden\" name=\"aid\" value=\"1078531716\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"n\" value=\"20\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"sub\" value=\"2068231353\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"re\" value=\"http://www.myrecipes.com/static/shells/cheetahmail/newsletter-thankyou-pop.html\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"MYRECIPES_SOURCE\" value=\"recipe_rightrail\" />\r\n\
+      \t\t<input type=\"text\" id=\"email\" name=\"email\" class=\"textboxDefault\" value=\"Your E-mail Address\" />\r\n\
+      \t\t<input type=\"image\" src=\"http://img4.myrecipes.com/static/i/btn-submitSmall.png\" />\r\n\
+      \t   </div>\r\n\
+      \t</form>\r\n\
+      \t<div class=\"info\"><a href=\"http://www.myrecipes.com/newsletter/\">See More Newsletters</a> | <a href=\"http://f.chtah.com/i/1/1078531716/ChickenTonight.html\" class=\"popupNL\">View Sample</a></div>\r\n\
+      \t<div class=\"privacy\"><img src=\"http://img4.myrecipes.com/static/i/icon-privacy.png\" width=\"16\" height=\"16\" alt=\"\" /> We Respect Your Privacy. <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes?d_source=E\">Privacy Policy</a></div>\r\n     </div>\r\n  </div>\r\n  <script type=\"text/javascript\">var omni_newstout_id = 'MR Chicken';</script>\n\n\
+      \t\r\n\
+      <div class=\"adRt\">\r\n\
+      \t<script type=\"text/javascript\">\r\n\
+      \tif (typeof adFactory != 'undefined') {\t\t\t\r\n\
+      \t\tvar adCm = adFactory.getCmAd(300, 300,\"recipes\",\"ofie\");\t\t\t\r\n\
+      \t\tadCm.write();\r\n\
+      \t}\r\n\
+      \t</script>\r\n\
+      </div>  \n     </div>\n     <!-- /div.colC -->\n\n\n  <script type=\"text/javascript\" id=\"recipe_json\">\n   var this_recipe = {\"recipe\":{\"cook_times\":[[\"Hands-on\",\"0:40\"],[\"Total\",\"0:48\"]],\"created_at\":\"2011-12-20T15:22:57-05:00\",\"deleted_at\":0,\"description\":null,\"edit_created\":true,\"flag_count\":null,\"id\":188451,\"ingredients\":[{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"olive oil\",\"position\":2,\"preparation\":\"\",\"units\":\"tablespoon\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"chopped onion\",\"position\":4,\"preparation\":\"\",\"units\":\"cup\",\"validation_context\":null},{\"amount\":\"3\",\"errors\":{},\"grocery_aisle\":\"meat\",\"is_label\":false,\"name\":\"(4-ounce) skinless, boneless chicken thighs, cut into bite-sized pieces\",\"position\":6,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"ground cumin\",\"position\":8,\"preparation\":\"\",\"units\":\"teaspoon\",\"validation_context\":null},{\"amount\":\"1/4\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"ground cinnamon\",\"position\":10,\"preparation\":\"\",\"units\":\"teaspoon\",\"validation_context\":null},{\"amount\":\"1/8\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"to 1/4 teaspoon ground red pepper\",\"position\":12,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"3\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"(1/2-inch) cubed peeled butternut squash\",\"position\":14,\"preparation\":\"\",\"units\":\"cups\",\"validation_context\":null},{\"amount\":\"2\",\"errors\":{},\"grocery_aisle\":\"canned\",\"is_label\":false,\"name\":\"no-salt-added tomato paste\",\"position\":16,\"preparation\":\"\",\"units\":\"tablespoons\",\"validation_context\":null},{\"amount\":\"4\",\"errors\":{},\"grocery_aisle\":\"other\",\"is_label\":false,\"name\":\"<a href=\\\"http://www.myrecipes.com/recipe/chicken-stock-50400000118588/\\\">Chicken Stock or fat-free, lower-sodium chicken broth</a>\",\"position\":18,\"preparation\":\"\",\"units\":\"cups\",\"validation_context\":null},{\"amount\":\"1/3\",\"errors\":{},\"grocery_aisle\":\"canned\",\"is_label\":false,\"name\":\"uncooked couscous\",\"position\":20,\"preparation\":\"\",\"units\":\"cup\",\"validation_context\":null},{\"amount\":\"3/4\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"kosher salt\",\"position\":22,\"preparation\":\"\",\"units\":\"teaspoon\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"zucchini, quartered lengthwise and sliced into 3/4-inch pieces\",\"position\":24,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"1/2\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"coarsely chopped fresh basil\",\"position\":26,\"preparation\":\"\",\"units\":\"cup\",\"validation_context\":null},{\"amount\":\"2\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"grated orange rind\",\"position\":28,\"preparation\":\"\",\"units\":\"teaspoons\",\"validation_context\":null}],\"is_public\":true,\"legacy_id\":null,\"name\":\"Moroccan Chicken and Butternut Squash Soup\",\"preparation\":\"<p>1. Heat a Dutch oven over medium heat. Add oil to pan; swirl to coat. Add onion, and cook for 4 minutes, stirring occasionally. Add chicken; cook for 4 minutes, browning on all sides. Add cumin, cinnamon, and pepper to pan; cook 1 minute, stirring constantly. Add butternut squash and tomato paste; cook 1 minute. Stir in Chicken Stock, scraping pan to loosen browned bits. Bring to a boil. Reduce heat, and simmer 8 minutes. Stir in couscous, salt, and zucchini; cook 5 minutes or until squash is tender. Remove pan from heat. Stir in chopped basil and orange rind.</p>\",\"profile_id\":null,\"ratings_count\":9,\"related_recipe_collections\":[{\"image_url\":\"http://img4.myrecipes.com/i/recipes/ck/10/09/turkey-bean-chili-ck-s.jpg\",\"link_url\":\"http://www.myrecipes.com/soup-recipes/\",\"name\":\"Soup and Stew Recipes\"},{\"image_url\":\"http://img4.myrecipes.com/i/recipes/rs/2006/chicken-dumplings-rs-1141202-s.jpg\",\"link_url\":\"http://www.myrecipes.com/main-dish-and-entree-recipes/\",\"name\":\"Main Dishes and Entr\\u00e9es\"},{\"image_url\":\"http://img4.myrecipes.com/i/recipes/ct/07/10/chicken-tagine-ct-1672937-s.jpg\",\"link_url\":\"http://www.myrecipes.com/moroccan-recipes/\",\"name\":\"Moroccan Recipes\"}],\"serving_size\":null,\"servings\":null,\"sortable_name\":\"moroccan chicken and butternut squash soup\",\"text_ingredients\":null,\"total_ratings_score\":39,\"updated_at\":\"2012-01-26T11:45:38-05:00\",\"user_photo_content_type\":null,\"user_photo_created_at\":null,\"user_photo_file_name\":null,\"user_photo_file_size\":null,\"user_photo_updated_at\":null,\"ratings_summary_with_counts\":{\"4\":4,\"5\":4,\"3\":1,\"1\":0,\"2\":0},\"ratings_summary_with_percentage\":{\"4\":44.44,\"5\":44.44,\"3\":11.11,\"1\":0,\"2\":0},\"average_rating\":4.333333333333333,\"permalink\":\"moroccan-chicken-butternut-squash-soup-50400000118582\",\"courses\":[{\"tag\":{\"context_type\":\"course\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10194,\"name\":\"Main Dishes\",\"rc_tag_id\":\"10321.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}},{\"tag\":{\"context_type\":\"course\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10203,\"name\":\"Soups/Stews\",\"rc_tag_id\":\"10330.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}}],\"main_ingredients\":[{\"tag\":{\"context_type\":\"main_ingredient\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10217,\"name\":\"Poultry\",\"rc_tag_id\":\"10344.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}},{\"tag\":{\"context_type\":\"main_ingredient\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10221,\"name\":\"Vegetables\",\"rc_tag_id\":\"10348.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}}],\"cuisines\":[{\"tag\":{\"context_type\":\"cuisine\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10250,\"name\":\"Moroccan\",\"rc_tag_id\":\"10377.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}}],\"occasions\":[],\"conveniences\":[{\"tag\":{\"context_type\":\"convenience\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10314,\"name\":\"Entertaining\",\"rc_tag_id\":\"10441.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}},{\"tag\":{\"context_type\":\"convenience\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10315,\"name\":\"Family\",\"rc_tag_id\":\"10442.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}}],\"cooking_methods\":[],\"owner_name\":null,\"thumbnail_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-s.jpg\",\"user_search_url\":null,\"default_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\",\"expanded_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-x.jpg\",\"has_user_photo\":false,\"editorial_recipe_data\":{\"ad_key_value_pairs\":null,\"author\":\"David Bonom\",\"chef\":null,\"cookbook\":null,\"cookbook_credit\":null,\"cost_per_serving\":null,\"extra_large_image_caption\":null,\"extra_large_image_photo_credit\":\"Photo: Sang An; Styling: Philippa Brathwaite\",\"extra_large_image_title\":\"Moroccan Chicken and Butternut Squash Soup\",\"extra_large_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-x.jpg\",\"franchise\":null,\"id\":74116,\"kitchen_test_notes\":null,\"large_image_caption\":null,\"large_image_photo_credit\":\"Photo: Sang An; Styling: Philippa Brathwaite\",\"large_image_title\":\"Moroccan Chicken and Butternut Squash Soup\",\"large_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\",\"medium_image_caption\":null,\"medium_image_photo_credit\":\"Photo: Sang An; Styling: Philippa Brathwaite\",\"medium_image_title\":\"Moroccan Chicken and Butternut Squash Soup\",\"medium_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-m.jpg\",\"menu_image_url\":null,\"menu_tips_id\":null,\"menu_title\":null,\"nutritional_info\":[{\"type\":\"calories\",\"unit\":\"\",\"amount\":\"292\"},{\"type\":\"fat\",\"unit\":\"g\",\"amount\":\"8\"},{\"type\":\"satfat\",\"unit\":\"g\",\"amount\":\"1.6\"},{\"type\":\"monofat\",\"unit\":\"g\",\"amount\":\"3.8\"},{\"type\":\"polyfat\",\"unit\":\"g\",\"amount\":\"1.6\"},{\"type\":\"protein\",\"unit\":\"g\",\"amount\":\"24.4\"},{\"type\":\"carbohydrate\",\"unit\":\"g\",\"amount\":\"31.7\"},{\"type\":\"fiber\",\"unit\":\"g\",\"amount\":\"5\"},{\"type\":\"cholesterol\",\"unit\":\"mg\",\"amount\":\"83\"},{\"type\":\"iron\",\"unit\":\"mg\",\"amount\":\"2.8\"},{\"type\":\"sodium\",\"unit\":\"mg\",\"amount\":\"474\"},{\"type\":\"calcium\",\"unit\":\"mg\",\"amount\":\"109\"}],\"publication\":\"Cooking Light\",\"publication_date\":\"2012-01-01T00:00:00-05:00\",\"publication_is_partner\":false,\"publication_link_url\":\"http://www.cookinglight.com/\",\"publication_logo_url\":\"http://img4.myrecipes.com/static/i/from_cookinglight.png\",\"recipe_id\":188451,\"restaurant\":null,\"seo_keywords\":null,\"servings_yield\":\"Serves 4 (serving size: 1 1/2 cups)\",\"slideshow_image_url\":null,\"slideshow_title\":null,\"slideshow_url\":null,\"small_image_caption\":null,\"small_image_photo_credit\":\"Photo: Sang An; Styling: Philippa Brathwaite\",\"small_image_title\":\"Moroccan Chicken and Butternut Squash Soup\",\"small_image_url\":\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-s.jpg\",\"tips_id\":\"50400000118582\",\"tips_seo_slug\":\"moroccan-chicken-butternut-squash-soup\",\"tkg\":true,\"updated_at\":\"2011-12-20T15:22:57-05:00\",\"video_image_url\":null,\"video_link\":null,\"video_title\":null}}}.recipe;\n\
+      </script>\n\n\
+      </div>\n\
+      \t\t</div>\r\n\
+      \t</div>\r\n\
+      \t<!-- SSi Include  /static/inc/footer.html -->\n\
+      <!-- SSi Include  /static/inc/footer-no-ad.html -->\r\n\
+      <div class=\"footer\">\r\n\
+      \t<div class=\"navRepeat clr\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/\"><span>Recipes</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/\"><span>My Recipe File</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/\"><span>Quick &amp; Easy</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/menus/\"><span>Menus</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/healthy-diet/\"><span>Healthy</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/how-to/video/\"><span>How-To Video</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/kids/\"><span>Kids</span></a></li>\r\n\
+      \t\t\t<li class=\"rotating-channel\"><a href=\"http://www.myrecipes.com/super-bowl-recipes/\"><span>Super Bowl</span></a></li>\r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      \t<div class=\"wrap2\">\r\n\
+      \t\t<div class=\"ftLogo\">\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/\"><img src=\"http://img4.myrecipes.com/static/i/logo_myrecipes_header.gif\" alt=\"My Recipes\" /></a>\r\n\
+      \t\t\t<br clear=\"none\" />\r\n            A <img src=\"http://img4.myrecipes.com/static/i/healthcom.png\" width=\"73\" height=\"13\" alt=\"Health.com\" />\r\n            <br clear=\"none\" />\r\n            Integrated Solutions Site\r\n\
+      \t\t</div>\r\n\
+      \t\t<div class=\"ftConnect\">\r\n\
+      \t\t\t<h5>Stay connected with MyRecipes</h5>\r\n\
+      \t\t\t<a class=\"facebook\" href=\"http://www.facebook.com/pages/MyRecipescom/74052302134/?ref=ts\" target=\"_blank\">Join us on Facebook</a>\r\n\
+      \t\t\t<a class=\"twitter\" href=\"http://twitter.com/my_recipes/\" target=\"_blank\">Follow us on Twitter</a>\r\n\
+      \t\t\t<a class=\"mobile\" href=\"http://www.myrecipes.com/mobile/\">Mobile</a>\r\n\
+      \t\t\t<a class=\"newsletter\" href=\"http://www.myrecipes.com/newsletter/\">Sign up for Newsletters</a>\r\n\
+      \t\t\t<div class=\"addTo\">\r\n\
+      \t\t\t\t<div class=\"getRSSList\">\r\n\
+      \t\t\t\t\t<div class=\"label\">Add MyRecipes to:</div>\r\n\
+      \t\t\t\t\t<a href=\"http://add.my.yahoo.com/content?.intl=us&amp;url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Yahoo!</a>\r\n\
+      \t\t\t\t\t<a href=\"http://www.google.com/ig/add?feedurl=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Google</a>\r\n\
+      \t\t\t\t\t<a href=\"http://my.msn.com/addtomymsn.armx?m=1&amp;ru=http%3A%2F%2Frss%2Emyrecipes%2Ecom%2Fweb%2Frecipes%2Frss%2Feditors%2Dpicks%2Findex%2Exml&amp;id=rss&amp;ut=http%3A%2F%2Frss%2Emyrecipes%2Ecom%2Fweb%2Frecipes%2Frss%2Feditors%2Dpicks%2Findex%2Exml\" target=\"_blank\">My MSN</a>\r\n\
+      \t\t\t\t\t<a href=\"http://feeds.my.aol.com/add.jsp?url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My AOL</a>\r\n\
+      \t\t\t\t\t<a href=\"http://www.netvibes.com/subscribe.php?url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Netvibes</a>\r\n\
+      \t\t\t\t</div>\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\t<a class=\"subscribe\" href=\"https://subscription.timeinc.com/storefront/link/1004465.html\">Subscribe to Our Magazines</a>\r\n\
+      \t\t\t<a class=\"give\" href=\"https://subscription.cookinglight.com/storefront/subscribe-to-cooking-light/site/ck-gift0110.html?xid=myrdonor_ck&amp;link=1003789\" target=\"_blank\">Give a Gift</a>\r\n\
+      \t\t</div>\r\n\
+      \t\t<script type=\"text/javascript\">addTo();</script>\r\n\
+      \t\t<div class=\"ftLinks\">\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/about-us/\">About</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/advertising/\">Advertising</a> |\r\n\
+      \t\t\t<a href=\"http://www.timeinc.com/careers/\" target=\"_blank\">Careers</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/contact-us/\">Contact</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/frequently-asked-questions/\">FAQ</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/press/\">Press</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/rss/\">RSS</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/static/sitemap/\">Site Map</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/sweeptakes-contests/\">Sweepstakes &#38; Contests</a>\r\n\
+      \t\t</div>\r\n\
+      \t</div><!-- /div.wrap2 -->\r\n\
+      </div><!-- /div.footer -->\r\n\
+      <script type=\"text/javascript\" src=\"http://js.revsci.net/gateway/gw.js?csid=H07710\"></script>\r\n\
+      <script type=\"text/javascript\">TiiAdTrackRevSci();</script>\r\n\
+      <!-- Quantcast Tag START -->\r\n\
+      <script type='text/javascript' src='http://edge.quantserve.com/quant.js'></script>\r\n\
+      <script type='text/javascript'>\r\n\
+      \t_qacct='p-5dyPa639IrgIw';\r\n\
+      \tquantserve();\r\n\
+      </script>\r\n\
+      <noscript>\r\n\
+      \t<a href='http://www.quantcast.com/p-5dyPa639IrgIw' target='_blank'>\r\n\
+      \t\t<img src='http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif' alt='' style='display: none;' border='0' height='1' width='1' />\r\n\
+      \t</a>\r\n\
+      </noscript>\r\n\
+      <!-- Quantcast Tag END -->\r\n\
+      <div class=\"copyright\">\n   <div class=\"wrap2\">\n      \t\t\t\t\tCopyright \xC2\xA9 2012 Time Inc. Lifestyle Group. All Rights Reserved. Use of this site constitutes acceptance of our \n      <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/myrecipes\"\n         target=\"_blank\">Terms of Use</a> and \n      <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes?d_source=E\"\n         target=\"_blank\">Privacy Policy</a>. \n      <a class=\"adchoice\"\n         href=\"http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html\"\n         target=\"_blank\">Ad Choices</a>\n   </div>\n\
+      </div>\r\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/jumptime.js\"></script>\n\
+      <div class=\"wrap2\">\n\
+      \t<div class=\"adTop\">\r\n\
+      \t<script type=\"text/javascript\">\r\n\
+      \t\tif (typeof adFactory != 'undefined') {\r\n\
+      \t\t\tvar ad = adFactory.getAd(728,90);\r\n\
+      \t\t\tad.setPosition(1);\r\n\
+      \t\t\tad.write();\r\n\
+      \t\t}\r\n\
+      \t</script>\r\n\
+      </div>\n\
+      </div>\n\
+      \r\n\
+      </div>\n\n\
+      </body>\n\
+      </html>\n"
+    http_version: "1.1"
+  recorded_at: Mon, 30 Jan 2012 06:50:53 GMT
+- request: 
+    method: get
+    uri: http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/
+    body: ""
+    headers: 
+      accept: 
+      - "*/*"
+      user-agent: 
+      - Ruby
+  response: 
+    status: 
+      code: 200
+      message: OK
+    headers: 
+      server: 
+      - Apache
+      x-powered-by: 
+      - Phusion Passenger (mod_rails/mod_rack) 2.2.15
+      vary: 
+      - Accept
+      etag: 
+      - "\"1137ac1bba676538955113654aac4a10\""
+      x-ua-compatible: 
+      - IE=Edge,chrome=1
+      x-runtime: 
+      - "0.304357"
+      status: 
+      - "200"
+      content-type: 
+      - text/html; charset=utf-8
+      expires: 
+      - Mon, 30 Jan 2012 06:50:54 GMT
+      cache-control: 
+      - max-age=0, no-cache, no-store
+      pragma: 
+      - no-cache
+      date: 
+      - Mon, 30 Jan 2012 06:50:54 GMT
+      transfer-encoding: 
+      - chunked
+      connection: 
+      - keep-alive
+      - Transfer-Encoding
+    body: "\n\n\n\
+      <!DOCTYPE html\n        PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">\n\
+      <html xmlns=\"http://www.w3.org/1999/xhtml\"\n      xmlns:fb=\"https://www.facebook.com/2008/fbml\"\n      lang=\"en\" xml:lang=\"en\">\n\
+      <head>\n    <meta name=\"ka_env\" content=\"ti_savvis_ka_prod\" />\n    <meta name=\"ka_page\" content=\"recipe/show\" /><meta name=\"ka_model\" content=\"giant-butternut-squash-ravioli-10000001865411\" /><meta name=\"ka_model_type\" content=\"recipe\" />\n    <script type=\"text/javascript\">\n      window.omnitureHookFunction = function() {\n        var recipeUpdated = getCookie('KACreatingRecipe') || getCookie('KAUpdatingRecipe');\n        if (recipeUpdated) {\n          var recipeIsPublic = true;\n          if (recipeIsPublic) {\n            s_time.eVar13 = 'public';\n          } else {\n            s_time.eVar13 = 'private';\n          }\n        }\n      }\n      var omni_newstout_id = 'MR Weekly';     \n    </script>\n    <meta name=\"recipe_average_rating\" content=\"3.0\" />\n    <meta name=\"recipe_name\" content=\"Giant Butternut Squash Ravioli\" />\n    <meta name=\"edit_created\" content=\"true\" />\n    <meta property=\"og:title\" content=\"Giant Butternut Squash Ravioli\" />\n    <meta property=\"og:type\" content=\"food\"/>\n    <meta property=\"og:site_name\" content=\"MyRecipes.com\"/>\n    <meta property=\"og:image\" content=\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\"/>\n    <meta property=\"fb:app_id\" content=\"287437392227\"/>\n    \n    \n\n\n\
+      <meta http-equiv=\"Content-Type\" content=\"application/xhtml+xml; charset=UTF-8\" />\n\
+      <meta name=\"render-time\" content=\"2012-01-30 01:50:54 -0500\" />\n\
+      <meta name=\"content-id\" content=\"\" />\n\
+      <title>Giant Butternut Squash Ravioli Recipe | MyRecipes.com</title>\n\
+      <meta name=\"description\" content=\"Butternut squash has a naturally rich, creamy texture and sweet flavor. Paired with crunchy almonds and earthy sage and parmesan, it makes an unforgettable filling for oversize ravioli.\" />\n\
+      <meta name=\"keywords\" content=\"butternut squash ravioli\" />\n\
+      <meta name=\"robots\" content=\"NOODP\" />\n\
+      <meta name=\"ka_recipeName\" content=\"Giant Butternut Squash Ravioli\" />\n\
+      <meta name=\"ka_menuName\" content=\"\" />\n\
+      <meta name=\"ka_pageName\" content=\"displayRecipe:Giant Butternut Squash Ravioli\" />\n\
+      <meta name=\"ka_ad_recipeID\" content=\"10000001865411\" />\n\
+      <meta name=\"ka_ad_menuID\" content=\"\" />\n\
+      <meta name=\"ka_ad_pub\" content=\"Sunset\" />\n\
+      <meta name=\"ka_ad_cookbook\" content=\"\" />\n\
+      <meta name=\"ka_ad_course\" content=\"Main Dishes\" />\n\
+      <meta name=\"ka_ad_cuisine\" content=\"Italian\" />\n\
+      <meta name=\"ka_ad_mainIng\" content=\"Vegetables,Pasta\" />\n\
+      <meta name=\"ka_excludeIng\" content=\"Alcohol,Fish,Shellfish\" />\n\
+      <meta name=\"ka_ad_diet\" content=\"\" />\n\
+      <meta name=\"ka_ad_prep\" content=\"Bake,Food Processor\" />\n\
+      <meta name=\"ka_ad_convenience\" content=\"Make-Ahead\" />\n\
+      <meta name=\"ka_ad_season\" content=\"\" />\n\
+      <meta name=\"ka_ad_franchise\" content=\"\" />\n\
+      <meta name=\"ka_ad_cont\" content=\"\" />\n\
+      <meta name=\"ka_cooktime\" content=\"\" />\n\
+      <meta name=\"ka_costperserving\" content=\"\" />\n\
+      <meta name=\"ka_recipeRating\" content=\"3\" />\n\
+      <meta name=\"ka_ad_specialIng\" content=\"\" />\n\
+      <meta name=\"ka_ad_keyValuePairs\" content=\"\" />\n\
+      <link rel=\"canonical\" href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/\" />\n\
+      <link rel=\"shortcut icon\" href=\"http://img4.myrecipes.com/static/i/favicon.ico\" />\n\
+      <link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/global.css?buildlife=42712\" media=\"all\" />\n\
+      <link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/colorbox.css?buildlife=42712\" media=\"all\" />\n  <link href=\"http://img4.myrecipes.com/static/c/recipe.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"http://img4.myrecipes.com/static/c/menus.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" /><link href=\"http://img4.myrecipes.com/static/c/account.css\" media=\"all\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <!--[if lt IE 8]><link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/ie.css?buildlife=42712\" /><![endif]-->\n\
+      <!--[if lt IE 7]><link rel=\"stylesheet\" type=\"text/css\" href=\"http://img4.myrecipes.com/static/c/lt-ie7.css?buildlife=42712\" /><![endif]-->\n\
+      <script type=\"text/javascript\" src=\"http://js.adsonar.com/js/tw_adsonar.js\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/jquery.colorbox-min.js?buildlife=42712\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/shared/js/tii_ads.js\"></script>\n\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/global.js?buildlife=42712\"></script>\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ka.js?buildlife=42712\"></script>\n\n\n\n    <script src=\"http://myrecipes.groceryserver.com/groceryserver/api/script_v02.jsp?6bc8d72cbcc2edb79f292339dc685142\" type=\"text/javascript\"></script>\n  <script src=\"http://img4.myrecipes.com/static/j/recipe.js\" type=\"text/javascript\"></script>\n  <script src=\"http://jsrails.timeinc.net/j/com.ticommunity.comm.js\" type=\"text/javascript\"></script>\n\n\
+      </head>\n\
+      <body class=\"hasAnchorBar\">\n\
+      \t\t<div id=\"omniture\" style=\"display:none\">\r\n\
+      \t\t\t<script type=\"text/javascript\">//<![CDATA[\r\n\
+      \t\t\t\tvar s_account=\"timemyrecipesnew,timespcfood\";\r\n\
+      \t\t\t//]]></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/common_spc.js?buildlife=42712\"></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/myrecipes.js?buildlife=42712\"></script>\r\n\
+      \t\t\t<script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/ext/omniture/ka-omniture.js?buildlife=42712\"></script>\r\n\
+      \t\t</div>\n\n\
+      <!-- SSi Include  /static/inc/toplinks.html -->\n\
+      <div class=\"topLinks clr\">\n\
+      \t<a class=\"skipTo\" href=\"#mainContent\">Skip to Main Content</a>\n\
+      \t<div class=\"spcLinks\">\n\
+      \t\t<img class=\"map\" alt=\"Links to other Time Inc. websites\" src=\"http://img4.myrecipes.com/static/i/sisters.png\" width=\"994\" height=\"32\" usemap=\"#spcMap\" />\n\
+      \t\t<map id=\"spcMap\" name=\"spcMap\">\n\
+      \t\t\t<area alt=\"All You\" shape=\"rect\" coords=\"255,0,335,32\" href=\"http://www.allyou.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Coastal Living\" shape=\"rect\" coords=\"336,0,417,32\" href=\"http://www.coastalliving.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Cooking Light\" shape=\"rect\" coords=\"418,0,512,32\" href=\"http://www.cookinglight.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Food and Wine\" shape=\"rect\" coords=\"513,0,621,32\" href=\"http://www.foodandwine.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Health\" shape=\"rect\" coords=\"621,0,700,32\" href=\"http://www.health.com/health/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Southern Living\" shape=\"rect\" coords=\"795,0,895,32\" href=\"http://www.southernliving.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n\
+      \t\t\t<area alt=\"Sunset\" shape=\"rect\" coords=\"896,0,990,32\" href=\"http://www.sunset.com/?xid=logobar-mr\" rel=\"nofollow\" target=\"_blank\" />\n    \t</map>\n\
+      \t</div><!-- /div.spcLinks -->\n\
+      </div><!--  /div.topLinks -->\n\
+      <div class=\"wrap\">\n\
+      \t<!-- SSi Include  /static/inc/logo.html -->\n\
+      <div class=\"logo\">\n\
+      \t<div class=\"wrap2\">\n\
+      \t\t<a href=\"http://www.myrecipes.com/\"><img src=\"http://img4.myrecipes.com/static/i/logo_myrecipes_header.gif\" alt=\"My Recipes\" /></a>\n\
+      \t</div><!-- /div.wrap2 -->\n\
+      </div><!-- /div.logo -->\n\
+      \t<!-- SSi Include /static/inc/searchbar.html -->\n\
+      <div class=\"searchbar\">\n\
+      \t<div class=\"wrap2\">\n\
+      \t\t<form class=\"search\" method=\"get\" action=\"http://search.myrecipes.com/search.html\" onsubmit=\"omniSearch(this.Ntt.value);\" enctype=\"application/x-www-form-urlencoded\">\n\
+      \t\t\t<div>\n\
+      \t\t\t\t<label for=\"searchbox\">Search MyRecipes.com</label>\n\
+      \t\t\t\t<input type=\"text\" id=\"searchbox\" maxlength=\"100\" value=\"\" name=\"Ntt\" /><input type=\"image\" alt=\"Search\" src=\"http://img4.myrecipes.com/static/i/searchglass.gif\"  />\n\
+      \t\t\t</div>\n\
+      \t\t</form><!-- /form.search -->\n\
+      \t\t<script type=\"text/javascript\">initSearchbox();</script>\n\
+      \t\t<div class=\"sbLinks\">\n   <ul></ul>\n\
+      </div>\n\
+      \t\t<!-- /div.sbLinks -->\n\
+      \t\t<div class=\"signinbar\">\n    \t\t<a href=\"http://www.myrecipes.com/r/login/\" onclick=\"omniTigr('mr_hd_signin');\">Sign In</a> | <a href=\"http://www.myrecipes.com/r/profiles/new/\" onclick=\"omniTigr('mr_hd_join');\">Join Now</a>\n    \t</div>\n    \t<!-- /div.signinbar -->\n    \t<script type=\"text/javascript\">signinbarInit2('http://jsrails.timeinc.net/j/ka/0.0.1/ka.js', 'http://jsrails.timeinc.net/j/ka/0.0.1/ka-debug.js');</script>\t\t\t\n\
+      \t</div><!-- /div.wrap2 -->\n\
+      </div><!-- /div.searchbar -->\n\
+      \t<div class=\"nav x4-nav\">\n\n\
+      \t<div class=\"wrap2\">\n\n\
+      \t\t<ul>\n\n\
+      \t\t\t<li class=\"main\"><a href=\"http://www.myrecipes.com/\"><span><img src=\"http://img4.myrecipes.com/static/i/nav-home.png\" /></span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/sweeptakes-contests/\">Sweepstakes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/search.html?type=ct:Videos;&amp;Ntk=photo_sort&amp;Ns=p_has_photo%7C1\">Video</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/community/\">Community</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://coupons.myrecipes.com/ccr/default.aspx?go=15010bn3310\">Grocery Coupons</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\
+      \t\t\t<li class=\"recipe-finder\"><a href=\"http://www.myrecipes.com/recipe-finder/\"><span>Recipes</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/\">Browse Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/advanced-search.html\">Advanced Recipe Search</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/nutrition-search.html\">Nutrition Recipe Search</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/sponsor-recipes/\">Sponsor Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://search.myrecipes.com/search.html?type=ct:Recipes;rt:Community;\">Member Recipes</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\
+      \t\t\t<li class=\"my-recipe-file\"><a href=\"http://www.myrecipes.com/r/my_recipe_file/\"><span>My Recipe File</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/recipe/new/\">Add a Recipe</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/saved_recipes/\">Saved Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/shopping_lists/\">Shopping Lists</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/saved_menus/\">Saved Menus</a></li>\n\
+      \t\t\t\t</ul>\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"quick-and-easy\"><a href=\"http://www.myrecipes.com/quick-and-easy/\"><span>Quick &#38; Easy</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/no-cook-recipes/\">No Cook Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/chicken-recipes/\">Chicken Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/make-ahead-recipes/\">Make Ahead Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/slow-cooker-recipes/\">Slow-Cooker Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/5-ingredients-or-less/five-and-dine-00420000006245/\">5 Ingredient Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/15-minute-recipes/\">15-Minute Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/dinner-tonight/\">Dinner Tonight</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/1-list-5-meals/\">1 List, 5 Meals</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"menus\"><a href=\"http://www.myrecipes.com/menus/\"><span>Menus</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/menus/menu-finder/\">Menu Finder</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/holidays-and-occasions/\">Holidays</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/appetizer-recipes/\">Appetizers</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/drink-recipes/\">Cocktails</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/dessert-recipes/\">Desserts</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/wedding-and-shower-recipes/\">Weddings &amp; Showers</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"healthy-diet\"><a href=\"http://www.myrecipes.com/healthy-diet/\"><span>Healthy</span></a>\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/diabetic-recipes/\">Diabetic Recipes</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/gluten-free-recipes/\">Gluten Free</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/heart-healthy-recipes/\">Heart Healthy</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/vegetarian-recipes/\">Vegetarian Recipes</a></li>\n\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/healthy-diet/calorie-counts/\">Calorie Counts</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"how-to\"><a href=\"http://www.myrecipes.com/how-to/video/\"><span>How-To Video</span></a></li>\n\n\
+      \t\t\t<li class=\"kids\"><a href=\"http://www.myrecipes.com/kids/\"><span>Kids</span></a>\n\n\
+      \t\t\t\t<ul>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/snacks/\">Snacks</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/lunches-and-sandwiches/\">Lunches</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/t/kid-friendly/dinners/\">Dinners</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/kids/healthy-kids/\">Healthy Kids</a></li>\n\
+      \t\t\t\t\t<li><a href=\"http://www.myrecipes.com/kids/play-with-your-food/\">Video</a></li>\n\n\
+      \t\t\t\t</ul>\n\n\
+      \t\t\t</li>\n\n\
+      \t\t\t<li class=\"super-bowl-recipes rotating-channel\"><a href=\"http://www.myrecipes.com/super-bowl-recipes/\"><span>Super Bowl</span></a></li>\n    </ul>\n\n\
+      \t</div>\n\n\
+      </div>\n\n\
+      \t<div class=\"content\">\n\
+      \t\t<div class=\"wrap2\">\n\
+      \t\t\t<a name=\"mainContent\" id=\"mainContent\" tabindex=\"-1\"></a>\n\n\n\
+      <div itemscope itemtype=\"http://data-vocabulary.org/Recipe\">\n\n\
+      <div class=\"pageHead\">\n     <div class=\"breadcrumb\">\n  <a href=\"http://www.myrecipes.com/recipe-finder/\">Recipes</a> &gt; Giant Butternut Squash Ravioli\n\
+      </div>\n  \n     <h1 class=\"x4-headline\" itemprop=\"name\">Giant Butternut Squash Ravioli</h1>\n\
+      </div>\n     <div class=\"colAB\">\n        <div class=\"recipeCont clr\">\n           <div class=\"rHero clr\">\n                <div class=\"featPhotoA\">\n\n  <div class=\"photo\">\n        <a class=\"enlarge\" rel=\"group1\" title=\"(Photo: Lisa Romerein; Styling: William Smith)\">\n          <img alt=\"Giant Butternut Squash Ravioli Recipe\" height=\"300\" itemprop=\"photo\" src=\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\" title=\"Giant Butternut Squash Ravioli Recipe\" width=\"300\" />\n          <img alt=\"enlarge\" class=\"icon\" height=\"27\" src=\"http://img4.myrecipes.com/static/i/icon-mag.png\" width=\"30\" />\n        </a>\n  </div>     \n\n  <div class=\"inner\">\n     <div class=\"credit\">\n       <span>Photo: Lisa Romerein; Styling: William Smith</span>\n     </div>\n  </div>\n\n\
+      </div>\n\
+      <!-- /div.featPhotoA -->\n  \n                <div class=\"rHeroB\">\n\n                    <div class=\"toolbar clr\">\n  <ul class=\"rt1\">\n          <li class=\"twitter\"><a target=\"_blank\" onclick=\"omniCommunityTracker('share-Twitter');\" href=\"http://twitter.com/share?url=http%3A%2F%2Fwww.myrecipes.com%2Frecipe%2Fgiant-butternut-squash-ravioli-10000001865411&text=You%27ve%20Got%20To%20Taste%20This%20%40My_Recipes\">\n            <img alt=\"Tweet on Twitter\" class=\"share_tw\" height=\"20\" src=\"http://img4.myrecipes.com/static/i/icon-twitter.png\" width=\"21\" />\n          </a></span></li>\n          <li class=\"fbLike\">\n              <fb:like href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/\" ref=\"fb-like\" send=\"false\" layout=\"button_count\" width=\"90\" show_faces=\"false\"></fb:like>\n              <div id=\"fb-root\"></div>\n              <script>\n                window.fbAsyncInit = function() {\n                  FB.init({appId: '287437392227', status: true, cookie: true, oauth: true, xfbml: true});\n                  FB.Event.subscribe('edge.create', function(response) {\n                    //if we got here, fire off a facebook like event\n                    omniCommunityTracker('like-FB');\n                    var r = new KA.Recipe();\n                    r.add_like_fb();\n                  });\n                };\n                (function(d, s, id) {\n                  var js, fjs = d.getElementsByTagName(s)[0];\n                  if (d.getElementById(id)) {return;}\n                  js = d.createElement(s); js.id = id;\n                  js.src = \"//connect.facebook.net/en_US/all.js#xfbml=1\";\n                  fjs.parentNode.insertBefore(js, fjs);\n                }(document, 'script', 'facebook-jssdk'));\n              </script>\n           </li>\n           <li class=\"googlePlus\"> <g:plusone size=\"medium\"></g:plusone></li>\n    <li class=\"pinIt\"><a href=\"http://pinterest.com/pin/create/button/?url=http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/&media=http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\" class=\"pin-it-button\" count-layout=\"none\">Pin It</a>\n            <script type=\"text/javascript\" src=\"http://assets.pinterest.com/js/pinit.js\"></script>\n    </li>     \n  </ul>\n\
+      </div>\n\n\
+      <script type=\"text/javascript\">\n  (function() {\n    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;\n    po.src = 'https://apis.google.com/js/plusone.js';\n    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);\n  })();\n\
+      </script>\n\n\n                    <h2 class=\"dek\" itemprop=\"summary\"><p>Butternut squash has a naturally rich, creamy texture and sweet flavor. Paired with crunchy almonds and earthy sage and parmesan, it makes an unforgettable filling for oversize ravioli.</p></h2>\n\n                    <div class=\"rating1\" itemprop=\"review\" itemscope itemtype=\"http://data-vocabulary.org/Review-aggregate\">\n    <span itemprop=\"rating\" itemscope itemtype=\"http://data-vocabulary.org/Rating\">\n      <span itemprop=\"average\" style=\"display:none\">3.0</span>\n    </span>\n    <span itemprop=\"reviews\" style=\"display:none\">1</span>\n    \n    <div class=\"rating1star starRating\" data-score=\"3.0\"></div>\n\n    <p class=\"rating1desc\"></p>\n\n    <div class=\"rating1rev\">\n      <a href=\"#reviewForm\">Rate and Review</a> |\n     <a href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/ratings/\">Read Reviews (<span itemprop=\"count\">1</span>)</a>\n    </div>\n\n\
+      </div>\n\n                       <div class=\"recipe411\">\n        <div><strong>Yield:</strong> <span itemprop=\"yield\">Serves 8 (makes 24 to 30)</span></div>\n\n\n       \n   </div>\n               </div> <!-- /div.rHeroB -->\n           </div> <!-- /div.rHero clr -->\n           <div class=\"colA\">\n                 <div class=\"sponsorAd\">\n\
+      <span>Recipe from</span>\n\
+      <a href=\"http://www.sunset.com/\"><img alt=\"from Sunset\" src=\"http://img4.myrecipes.com/static/i/from_sunset.png\" /></a>\n </div>\n    \n\n   <div class=\"moreFromPub\">\n   <h4>More From \n      <i>Sunset</i>\n   </h4>\n   <ul>\n      <script type=\"text/javascript\">\n\
+      \tif (typeof adFactory != 'undefined') {\n\
+      \t\tadFactory.getCmAd(142, 70, \"article\", \"text\").write();\n\
+      \t}\n\
+      </script>\n      <li>\n         <a href=\"http://www.sunset.com/food-wine/wine-pairings/best-wine-steals-00418000073834/\">West's Best Wine: Steals</a>\n      </li>\n      <li>\n         <a href=\"http://www.sunset.com/food-wine/fast-fresh/fall-quick-dinner-recipes-00400000051453/\">Fast &amp; Fresh fall meals</a>\n      </li>\n      <li>\n         <a href=\"http://www.sunset.com/food-wine/kitchen-assistant/quick-easy-stews-00400000061466/\">16 quick weeknight stews</a>\n      </li>\n      <li>\n         <a href=\"http://www.sunset.com/food-wine/kitchen-assistant/pacific-halibut-recipes-00400000051100/\">10 ways with Pacific halibut</a>\n      </li>\n      <li>\n         <a href=\"http://www.sunset.com/food-wine/kitchen-assistant/easy-delicious-apple-recipes-00418000069192/\">25 luscious apple recipes</a>\n      </li>\n      <li>\n         <a href=\"http://search.myrecipes.com/search.html?type=ct:Recipes;et:Sunset;&amp;Nty=1\">Search Sunset Recipes</a>\n      </li>\n   </ul>\n\
+      </div>\n   <!-- http://www.myrecipes.com/fragments/more-from-publication/sunset.html -->\n\n\n\n\n\n\n      <div class=\"nutritionalInfo\">\n    <h4>Nutritional Information</h4>\n    \n    <div class=\"inner\">\n     <strong>Amount per serving</strong>\n    <ul itemprop=\"nutrition\" itemscope itemtype=\"http://data-vocabulary.org/Nutrition\">\n      <li>\n        Calories:\n        <span itemprop=\"calories\">\n          572\n        </span>\n      </li>\n      <li>\n        Calories from fat:\n        <span itemprop=\"caloriesFromFat\">\n          35%\n        </span>\n      </li>\n      <li>\n        Protein:\n        <span itemprop=\"protein\">\n          22g\n        </span>\n      </li>\n      <li>\n        Fat:\n        <span itemprop=\"fat\">\n          22g\n        </span>\n      </li>\n      <li>\n        Saturated fat:\n        <span itemprop=\"saturatedFat\">\n          6.4g\n        </span>\n      </li>\n      <li>\n        Carbohydrate:\n        <span itemprop=\"carbohydrate\">\n          75g\n        </span>\n      </li>\n      <li>\n        Fiber:\n        <span itemprop=\"fiber\">\n          7g\n        </span>\n      </li>\n      <li>\n        Sodium:\n        <span itemprop=\"sodium\">\n          877mg\n        </span>\n      </li>\n      <li>\n        Cholesterol:\n        <span itemprop=\"cholesterol\">\n          123mg\n        </span>\n      </li>\n    </ul>\n  </div>\n  <div class=\"link\"><a href=\"http://www.myrecipes.com/healthy-diet/healthy-nutrition-guidelines-00420000003306/\">Nutrition Guidelines for Healthy Living</a></div>\n  </div> <!-- end nutritional info -->\n\n  \n           </div> <!-- /div.colA -->\n           <div class=\"colB\">\n            <div class=\"recipeDetails\">\n        <div id=\"groceryInfo\" class=\"groceryInfo\"></div>\n    <br clear=\"none\" />\n    <h3>Ingredients</h3>\n    <div id=\"enterGroceryInfo\" class=\"enterGroceryInfo\"></div>\n    <div class=\"toolbar clr\">\n     <ul class=\"pt1\">\n         <li class=\"print\" onclick=\"omniCommunityTracker('print-FullPage');\"><a href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/print/\">Print</a></li>\n         <li class=\"email\"><span class=\"st_email_custom\"><a>Email</a></span></li>\n            <li class=\"send_to_mobile\" onClick=\"omniCommunityTracker('send-toPhone')\">\n              <a href=\"/r/overlays/recipe_send_to_mobile/\">Send To Mobile</a>\n            </li>\n      </ul>\n      <ul class=\"pt2\">\n         <li><a href=\"#\" class=\"save1\">Save Recipe</a></li>\n         <li><a href=\"#\" class=\"save2\">Add to Menu</a></li>\n         <li><a href=\"#\" class=\"save3\">Add to Shopping List</a></li>\n      </ul>\n\
+      </div>\n    \n    <ul>\n              <li>FILLING</li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 </span>\n                <span itemprop=\"name\"> butternut squash* (about 3 1/2 lbs.), peeled, seeded, and cut into 2-in. chunks</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 tablespoon</span>\n                <span itemprop=\"name\"> extra-virgin olive oil</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\"> </span>\n                <span itemprop=\"name\"> Salt and freshly ground black pepper</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">3/4 cup</span>\n                <span itemprop=\"name\"> ground toasted almonds</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 tablespoon</span>\n                <span itemprop=\"name\"> minced fresh sage</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">4 ounces</span>\n                <span itemprop=\"name\"> freshly grated parmesan cheese (1 3/4 cups)</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1/2 teaspoon</span>\n                <span itemprop=\"name\"> freshly grated nutmeg</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li class=\"subheading\">ASSEMBLING & SERVING</li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\"> </span>\n                <span itemprop=\"name\"> Fine semolina*</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\"> </span>\n                <span itemprop=\"name\"> <a href=\"http://www.myrecipes.com/recipe/fresh-pasta-dough-10000001865412/\">Fresh Pasta Dough, rolled into sheets as directed, or 2 lbs. purchased fresh ravioli or lasagna sheets*</a></span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 </span>\n                <span itemprop=\"name\"> qt. reduced-sodium chicken broth or homemade chicken broth*</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">2 tablespoons</span>\n                <span itemprop=\"name\"> butter</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">2 teaspoons</span>\n                <span itemprop=\"name\"> extra-virgin olive oil</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\">1 tablespoon</span>\n                <span itemprop=\"name\"> minced flat-leaf parsley</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n              <li itemprop=\"ingredient\" itemscope itemtype=\"http://data-vocabulary.org/RecipeIngredient\">\n                <span itemprop=\"amount\"> </span>\n                <span itemprop=\"name\"> Freshly grated parmesan cheese</span>\n                <span itemprop=\"preparation\"> </span>\n              </li>\n    </ul>\n\n    <h3>Preparation</h3>\n    <ol itemprop=\"instructions\">\n    <li>1. Make filling: Preheat oven to 425\xC2\xBA. Put squash chunks in a rimmed baking pan, drizzle with olive oil, and season generously with salt and pepper. Toss to coat. Bake, stirring squash every 20 minutes, until very tender, 35 to 45 minutes. Carefully spoon hot squash into a food processor and whirl until very smooth.</li>\n\
+      <li>2. Scrape squash into a large bowl and let cool. Stir in almonds, sage, parmesan, and nutmeg. Add salt and pepper to taste.</li>\n\
+      <li>3. Assemble ravioli: Line a rimmed baking pan with parchment paper and sprinkle with semolina; set aside. Lay 1 pasta sheet on a work surface. Starting 2 in. away from a short end, spoon a 2-tbsp. mound of filling onto the middle of pasta sheet; repeat at 4-in. intervals. Around mounds of filling, brush pasta with water. Place a second pasta sheet over the first, starting at a short end and easing pasta over filling, gently pressing out air and sealing pasta around each mound of filling as you go.</li>\n\
+      <li>4. Trim long sides of pasta sheet with a pastry wheel or knife so sheet is 4 in. wide. Cut ravioli between filling to make 4-in. squares. Transfer ravioli to parchment-lined pan and cover with plastic wrap; also gather and wrap pasta scraps. Continue shaping ravioli, rerolling scraps according to directions for Fresh Pasta Dough and stacking one more layer of parchment over first (add another pan if needed), until you've used all the filling; you should have 24 to 30 ravioli and may have leftover pasta dough. (If dough scraps become too dry to reroll, crumble into food processor and pulse with 1 tsp. water at a time until moistened.)</li>\n\
+      <li>5. To serve: In a saucepan, boil broth until reduced by a third. Add butter; keep warm.</li>\n\
+      <li>6. Preheat oven to 150\xC2\xB0 and set 8 wide soup plates or rimmed dinner plates in oven to warm. Bring 2 large pots (8 to 10 qt. each) of generously salted water to a rolling boil and add 1 tsp. olive oil to each. Divide ravioli between pots, reduce heat so water boils gently, and cook ravioli, occasionally pushing down into the water, just until al dente (test a corner of one to check), 5 to 7 minutes.</li>\n\
+      <li>7. Set out soup plates. Using a slotted spoon, transfer 3 ravioli from water to each plate. Ladle broth over ravioli, sprinkle with parsley, and serve with parmesan.</li>\n\
+      <li>*Shortcuts: Buy 2 3/4 lbs. peeled chunks of butternut squash instead of a whole squash. Buy semolina in the baking aisle of well-stocked markets. Instead of making pasta, buy about 2 lbs. fresh ravioli or lasagna sheets from a well-stocked grocery store or Italian deli, or from freshpasta.com ($6.79 for 16 oz.; 5-lb. minimum order). You may need to cut the ravioli in slightly different dimensions to make at least 24, and you may have leftover filling. For a recipe for chicken broth, see sunset.com/chickenbroth.</li>\n\
+      <li>Make ahead: Make filling (through step 2) and chill overnight. Fill ravioli (through step 4) and chill them as long as 1 day, or freeze on pans until firm, transfer to bags, and freeze up to 3 weeks.</li>\n\
+      <li>Note: Nutritional analysis is per serving.</li>\n    </ol>\n\n    <div>\n  Note: <p>Total time is 1 3/4 hours if following the shortcuts.</p>\n\
+      </div>\n\n\n    <div class=\"byline\">\n  <p class=\"author\">Martha Rose Shulman, <a href=\"http://www.sunset.com/\"><i><b><span itemprop=\"author\">Sunset</span></b></i></a>\n    <br clear=\"none\" />\n        <span itemprop=\"published\">JANUARY 2009</span>\n  </p>\n\
+      </div>\n\n\n    \n    <script type=\"text/javascript\">\n\
+      \tif (typeof adFactory != 'undefined') {\n\
+      \t\tad = adFactory.getAd(142,70);\n\
+      \t\tad.write();\n\
+      \t}\n\
+      </script>\n\
+      </div>\n\n            <div class=\"relatedList\">\n  <h5>Related Recipes</h5>\n  <ul>\n      <li><a href=\"http://www.myrecipes.com/main-dish-and-entree-recipes/\">Main Dishes and Entr\xC3\xA9es</a></li>\n      <li><a href=\"http://www.myrecipes.com/dinner-recipes/\">Dinner Recipes</a></li>\n      <li><a href=\"http://www.myrecipes.com/baking-recipes/\">Baking Recipes</a></li>\n  </ul>\n\
+      </div>\n\n\n             \n\n            <div class=\"my_notes\">\n  <h5>My Notes</h5>\n  <p class=\"dek\">Only you will be able to view, print, and edit this note.</p>  \n\n    <a class=\"add_note\">Add Note</a>\n\n    <div id=\"note_display\" class=\"dek\" style=\"display:none;\"></div>\n    <div class=\"note_box\" style=\"display:none;\">\n      <form id=\"note_form\">\n        <textarea id=\"note_details\" name=\"note[details]\"></textarea>\n        <p class=\"chars_remain\"><span class=\"count\">1000</span> characters remaining</p>\n        <div class=\"errors\"></div>\n        <input class=\"btn save\" type=\"submit\" name=\"save_note\" value=\"\" />\n        <a href=\"#\" class=\"cancel\">Cancel</a>\n     </form>\n   </div>\n\
+      </div>\n\n\n            <div class=\"quigo\">\n\
+      \t<script type=\"text/javascript\">\n\
+      \t\tgoogle_ad_client = \"ca-timeinc-myrecipes-bah\";\n\
+      \t\tgoogle_ad_channel = \"other\";\n\
+      \t</script>\n\
+      \t<script type=\"text/javascript\" src=\"http://pagead2.googlesyndication.com/pagead/show_ads.js\"></script>\n\
+      </div>\n\n               \n            <br clear=\"none\" />    \n\n           </div> <!-- /div.colB -->\n           <div class=\"ad500\">\n\
+      \t<script type=\"text/javascript\">\n\
+      \t\tif (typeof adFactory != 'undefined') {\n\
+      \t\t\tad = adFactory.getAd(500,75);\n\
+      \t\t\tad.write();\n\
+      \t\t}\n\
+      \t</script>\n\
+      </div>\n                        \n           <div class=\"menuReviews\">\n  <div class=\"header\">\n    <h3>Ratings and Reviews (<span id=\"reviewHeaderCount\"></span>)</h3>\n\n    <div id=\"ratingsHistogram\"></div>\n    <script type=\"text/html\" id=\"histogram_tmpl\">\n\
+      <div class=\"reviewChart\">\n    \t<table cellpadding=\"0\" cellspacing=\"0\" border=\"0\">\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">5 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${fiveStarPercentage}px;\">${fiveStarPercentage}%</div></div></td>\n\
+      \t\t<td>${fiveStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">4 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${fourStarPercentage}px;\">${fourStarPercentage}%</div></div></td>\n\
+      \t\t<td>${fourStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">3 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${threeStarPercentage}px;\">${threeStarPercentage}%</div></div></td>\n\
+      \t\t<td>${threeStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">2 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${twoStarPercentage}px;\">${twoStarPercentage}%</div></div></td>\n\
+      \t\t<td>${twoStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t<tr>\n\
+      \t\t<th scope=\"row\">1 star</th>\n\
+      \t\t<td><div class=\"bar\"><div class=\"inner\" style=\"width:${oneStarPercentage}px;\">${oneStarPercentage}%</div></div></td>\n\
+      \t\t<td>${oneStarCount}</td>\n\
+      \t\t</tr>\n\
+      \t\t</table>\n\
+      \t\t<strong>\n           ${totalCount} {{if pluralize}}\n            Reviews\n            {{else}}\n            Review\n            {{/if}}\n        </strong>\n\
+      \t</div>\n\
+      </script>    \n\n    <div class=\"reviewInfo\">\n        <div class=\"starRating\"></div>\n        <span class=\"rating1desc\"></span>\n        <a href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/ratings/\" class=\"moreReviews\">Read More Reviews</a>\n    </div>\n    <div class=\"addReview\"><a href=\"#reviewForm\" class=\"btnRed\"><span>Add a Review</span></a></div>\n  </div>\n  <ul class=\"reviews\">\n    <li class=\"review clr\">\n  <div class=\"username\">nowine</div>\n  <div class=\"text\">\n    <p>Parsley flavor was too strong uncooked, and the texture of the uncooked parsley was unpleasant.  I'd simmer it in the broth next time.  Otherwise, it was a very tasty recipe.</p>\n  </div>\n  <div class=\"info\">\n    <div class=\"starRatingSmall star3\"></div>\n    <span class=\"ratingDescription starDesc\">\n      Good, solid recipe\n    </span>\n    <span class=\"reviewLocation\">\n      \n    </span>\n    <span class=\"postedOn\">\n      01/27/10\n    </span>    \n  </div>\n\
+      </li>\n\n  </ul>\n\
+      </div>\n\n\
+      <script type=\"text/html\" id=\"review_tmpl\">\n  {{if mine}}\n    <li class=\"review clr myReview\" id=\"myReview\">\n  {{else}}\n    <li class=\"review clr\">\n  {{/if}}\n       <div class=\"username\">${name}</div>\n       <div class=\"text\">\n       <p>${text}</p>\n\n      {{if mine}}\n        <div class=\"actions\">\n          <a href=\"#reviewForm\" class=\"edit\">Edit</a>\n          <span class=\"separator\">|</span>\n          <a href=\"#\" class=\"remove\">Remove</a>\n        </div>\n      {{/if}}\n    </div>\n    <div class=\"info\">\n        <div class=\"starRatingSmall star${score}\"></div>\n        <span class=\"ratingDescription starDesc\">${score_description}</span>\n        <span class=\"reviewLocation\">${reviewer_location}</span>\n        <span class=\"postedOn\">${postedAt}</span>\n    </div>\n\n    {{if mine}}\n      <div class=\"myReviewIcon\">My Review</div>\n    {{/if}}\n  </li>\n\
+      </script>\n\n\
+      <div class=\"menuAddReviewForm\" id=\"reviewForm\">\n  <a href=\"http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/ratings/\" class=\"moreReviews\">Read More Reviews</a>\n\n  <div class=\"form\">\n  <form id=\"new_review_form\" method=\"get\" action=\"#\"\n        enctype=\"application/x-www-form-urlencoded\">\n    <div class=\"header clr\">\n      <h3 class=\"form_title\">Rate and Review</h3>\n\n      <span class=\"note\">All fields required.</span>\n      <a class=\"seeTips\">See Tips</a>\n\n      <span class=\"username\"></span>\n\n      <div class=\"helpBalloon\">\n        <h3>\n          TIPS<br clear=\"none\">Consider these questions when writing \n          your review:\n        </h3>\n\n        <ul>\n          <li>How much did you like the dish and would you make it again?</li>\n          <li>Is the recipe appropriate for special occasions or everyday meals?</li>\n          <li>Did you alter ingredients and instructions? If so, how?</li>\n          <li>What did you serve with the dish?</li>\n          <li>Do you have any hints about making this recipe?</li>\n        </ul>\n\n        <div class=\"pointer\"></div>\n      </div>\n    </div>\n\n    <div class=\"inner\">\n      <div class=\"errors\"></div>\n\n      <div class=\"myRatingContainer clr\">\n        <span class=\"label\">My Rating:</span>\n        <div class=\"starRating\"></div>\n        <span class=\"instructions starDesc\">Click to apply your rating</span>\n\n        <div class=\"locationContainer\">\n          <span class=\"location\">Location: <span class=\"city\"></span> <span class=\"state\"></span></span>\n          <input id=\"showLocation\" type=\"checkbox\" name=\"review[reviewer_location]\" checked=\"checked\">\n            Display location\n        </div>\n      </div>\n\n      <div class=\"alreadyReviewed\">\n        <p>You have already rated and reviewed this recipe</p>\n        <a href=\"#myReview\">Go to your review.</a>\n      </div>\n\n      <div class=\"myReviewContainer clr\">\n        <label for=\"review_body\">My Review:</label>\n        <textarea id=\"review_body\" name=\"review[body]\" cols=\"50\" rows=\"7\"></textarea>\n        <span class=\"charCount\">\n          <span class=\"value\">1000</span> characters remaining\n        </span>\n      </div>\n\n      <a class=\"btnRed post\" href=\"#\"><span>Post</span></a>\n\n      <span class=\"shareFBcheckbox\">\n        <input type=\"checkbox\" id=\"shareFB\">\n        Share on Facebook\n      </span>\n    </div>\n  </form>\n\
+      </div>\n\n\
+      </div>\n\n\n           <div class=\"recipeGlance\">\n   <h5>Giant Butternut Squash Ravioli Recipe at a Glance</h5>\n\n\
+      <ul>\n    <li>\n      <strong>COURSE:</strong>\n      <span itemprop=\"recipeType\">Main Dishes</span>\n    </li>\n    <li>\n      <strong>CONVENIENCE:</strong>\n      <span itemprop=\"recipeType\">Make-Ahead</span>\n    </li>\n    <li>\n      <strong>CUISINE:</strong>\n      <span itemprop=\"recipeType\">Italian</span>\n    </li>\n    <li>\n      <strong>MAIN INGREDIENT:</strong>\n      <span itemprop=\"recipeType\">Vegetables</span>, <span itemprop=\"recipeType\">Pasta</span>\n    </li>\n    <li>\n      <strong>COOKING METHOD:</strong>\n      <span itemprop=\"recipeType\">Bake</span>, <span itemprop=\"recipeType\">Food Processor</span>\n    </li>\n    <li><strong>PUBLICATION: </strong>Sunset</li> \n  </ul>\n\
+      </div>\n           \n        </div> <!-- /div.recipeCont -->\n     </div> <!-- /div.colAB -->\n\n     <div class=\"colC\">\n       \n\
+      <div class=\"triple\">\n  <h3>More Recipes for Main Dishes</h3>\n  <ul class=\"clr\">\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/butternut-squash-ravioli-with-pancetta-sage-10000001049301/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/ck/ravioli-ck-1049301-s.jpg\"\n                 alt=\"Butternut Squash Ravioli with Pancetta and Sage\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/butternut-squash-ravioli-with-pancetta-sage-10000001049301/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Butternut Squash Ravioli with Pancetta and Sage</a></h4>\n          <div class=\"attr\">\n            Cooking Light\n          </div>\n        </div>\n      </div>\n    </li>\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/cheese-ravioli-with-toasted-walnuts-10000001693764/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/rs/2007/cheese-ravioli-rs-1693764-s.jpg\"\n                 alt=\"Cheese Ravioli with Toasted Walnuts\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/cheese-ravioli-with-toasted-walnuts-10000001693764/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Cheese Ravioli with Toasted Walnuts</a></h4>\n          <div class=\"attr\">\n            Real Simple\n          </div>\n        </div>\n      </div>\n    </li>\n    <li>\n      <div class=\"tout\">\n        <div class=\"img\">\n          <a href=\"/recipe/butternut-squash-ravioli-mushrooms-50400000117967/\">\n            <img src=\"http://img4.myrecipes.com/i/recipes/sl/11/butternut-ravioli-sl-s.jpg\"\n                 alt=\"Butternut Squash Ravioli with Mushrooms\" width=\"75\" height=\"75\">\n          </a>\n        </div>\n        <div class=\"txt\">\n          <h4><a href=\"/recipe/butternut-squash-ravioli-mushrooms-50400000117967/\" class=\"x4-editorial-tout-headline-clickable-75x75\">Butternut Squash Ravioli with Mushrooms</a></h4>\n          <div class=\"attr\">\n            Southern Living\n          </div>\n        </div>\n      </div>\n    </li>\n  </ul>\n\
+      </div>\n\n\n\n\
+      <div class=\"adRt\">\n\
+      <span class=\"adtext\"><span>advertisement</span></span>\n\
+      <script type=\"text/javascript\">\n\
+      \tvar sizes = new Array(\"300x250\", \"300x600\", \"300x1050\");\n\
+      \tvar adMulti300 = adFactory.getMultiAd(sizes);\n\
+      \tadMulti300.write();\n\
+      </script>\n\
+      </div>\n\n\
+      <!-- http://www.myrecipes.com/static/newsletters/weekly-specials-recipe-rightrail.txt -->\n   <div class=\"newsSignupRR clr\">\r\n      <div class=\"txt\">\r\n \t<h3>Find out what we've got cooking...</h3>\r\n \t<div class=\"img\">\r\n \t\t<img src=\"http://img4.myrecipes.com/static/i/nl-weeklyspecials.jpg\" alt=\"Weekly Specials\" width=\"75\" height=\"75\" />\r\n \t</div>\r\n \t<div class=\"dek\">Get our Free Weekly Specials Newsletter filled with our favorite recipes, seasonal menus, and special features.</div>\r\n        <form onsubmit=\"omniNewsTracker(this.sub.value);\" action=\"http://ebm.cheetahmail.com/r/regf2\" method=\"post\" enctype=\"application/x-www-form-urlencoded\">\r\n \t   <div>\r\n          \t<input type=\"hidden\" name=\"aid\" value=\"1078531716\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"n\" value=\"20\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"sub\" value=\"1121172431\" />\r\n\
+      \t\t<input type=\"hidden\" name=\"re\" value=\"http://www.myrecipes.com/static/shells/cheetahmail/newsletter-thankyou-pop.html\" />\r\n \t\t<input type=\"hidden\" name=\"MYRECIPES_SOURCE\" value=\"recipe_rightrail\" />\r\n \t\t<input type=\"text\" id=\"email\" name=\"email\" class=\"textboxDefault\" value=\"Your E-mail Address\" />\r\n \t\t<input type=\"image\" src=\"http://img4.myrecipes.com/static/i/btn-submitSmall.png\" />\r\n \t   </div>\r\n \t</form>\r\n \t<div class=\"info\"><a href=\"http://www.myrecipes.com/newsletter/\">See More Newsletters</a> | <a href=\"http://f.chtah.com/i/1/1078531716/MRWeeklySpecials.html\" class=\"popupNL\">View Sample</a></div>\r\n \t<div class=\"privacy\"><img src=\"http://img4.myrecipes.com/static/i/icon-privacy.png\" width=\"16\" height=\"16\" alt=\"\" /> We Respect Your Privacy. <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes?d_source=E\">Privacy Policy</a></div>\r\n      </div>\r\n  </div>\r\n  <script type=\"text/javascript\">var omni_newstout_id = 'MR Weekly';</script>\n\n\
+      \t\r\n\
+      <div class=\"adRt\">\r\n\
+      \t<script type=\"text/javascript\">\r\n\
+      \tif (typeof adFactory != 'undefined') {\t\t\t\r\n\
+      \t\tvar adCm = adFactory.getCmAd(300, 300,\"recipes\",\"ofie\");\t\t\t\r\n\
+      \t\tadCm.write();\r\n\
+      \t}\r\n\
+      \t</script>\r\n\
+      </div>  \n     </div>\n     <!-- /div.colC -->\n\n\n  <script type=\"text/javascript\" id=\"recipe_json\">\n   var this_recipe = {\"recipe\":{\"cook_times\":[],\"created_at\":\"2011-04-01T20:02:20-04:00\",\"deleted_at\":0,\"description\":\"<p>Butternut squash has a naturally rich, creamy texture and sweet flavor. Paired with crunchy almonds and earthy sage and parmesan, it makes an unforgettable filling for oversize ravioli.</p>\",\"edit_created\":true,\"flag_count\":null,\"id\":48512,\"ingredients\":[{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"\",\"is_label\":true,\"name\":\"FILLING\",\"position\":1,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"butternut squash* (about 3 1/2 lbs.), peeled, seeded, and cut into 2-in. chunks\",\"position\":2,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"extra-virgin olive oil\",\"position\":3,\"preparation\":\"\",\"units\":\"tablespoon\",\"validation_context\":null},{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"Salt and freshly ground black pepper\",\"position\":4,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"3/4\",\"errors\":{},\"grocery_aisle\":\"baking\",\"is_label\":false,\"name\":\"ground toasted almonds\",\"position\":5,\"preparation\":\"\",\"units\":\"cup\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"minced fresh sage\",\"position\":6,\"preparation\":\"\",\"units\":\"tablespoon\",\"validation_context\":null},{\"amount\":\"4\",\"errors\":{},\"grocery_aisle\":\"dairy\",\"is_label\":false,\"name\":\"freshly grated parmesan cheese (1 3/4 cups)\",\"position\":7,\"preparation\":\"\",\"units\":\"ounces\",\"validation_context\":null},{\"amount\":\"1/2\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"freshly grated nutmeg\",\"position\":8,\"preparation\":\"\",\"units\":\"teaspoon\",\"validation_context\":null},{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"\",\"is_label\":true,\"name\":\"ASSEMBLING & SERVING\",\"position\":9,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"baking\",\"is_label\":false,\"name\":\"Fine semolina*\",\"position\":10,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"\",\"is_label\":false,\"name\":\"<a href=\\\"http://www.myrecipes.com/recipe/fresh-pasta-dough-10000001865412/\\\">Fresh Pasta Dough, rolled into sheets as directed, or 2 lbs. purchased fresh ravioli or lasagna sheets*</a>\",\"position\":11,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"canned\",\"is_label\":false,\"name\":\"qt. reduced-sodium chicken broth or homemade chicken broth*\",\"position\":12,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null},{\"amount\":\"2\",\"errors\":{},\"grocery_aisle\":\"dairy\",\"is_label\":false,\"name\":\"butter\",\"position\":13,\"preparation\":\"\",\"units\":\"tablespoons\",\"validation_context\":null},{\"amount\":\"2\",\"errors\":{},\"grocery_aisle\":\"spices\",\"is_label\":false,\"name\":\"extra-virgin olive oil\",\"position\":14,\"preparation\":\"\",\"units\":\"teaspoons\",\"validation_context\":null},{\"amount\":\"1\",\"errors\":{},\"grocery_aisle\":\"produce\",\"is_label\":false,\"name\":\"minced flat-leaf parsley\",\"position\":15,\"preparation\":\"\",\"units\":\"tablespoon\",\"validation_context\":null},{\"amount\":\"\",\"errors\":{},\"grocery_aisle\":\"dairy\",\"is_label\":false,\"name\":\"Freshly grated parmesan cheese\",\"position\":16,\"preparation\":\"\",\"units\":\"\",\"validation_context\":null}],\"is_public\":true,\"legacy_id\":null,\"name\":\"Giant Butternut Squash Ravioli\",\"preparation\":\"<p>1. Make filling: Preheat oven to 425&#186;. Put squash chunks in a rimmed baking pan, drizzle with olive oil, and season generously with salt and pepper. Toss to coat. Bake, stirring squash every 20 minutes, until very tender, 35 to 45 minutes. Carefully spoon hot squash into a food processor and whirl until very smooth.</p><p>2. Scrape squash into a large bowl and let cool. Stir in almonds, sage, parmesan, and nutmeg. Add salt and pepper to taste.</p><p>3. Assemble ravioli: Line a rimmed baking pan with parchment paper and sprinkle with semolina; set aside. Lay 1 pasta sheet on a work surface. Starting 2 in. away from a short end, spoon a 2-tbsp. mound of filling onto the middle of pasta sheet; repeat at 4-in. intervals. Around mounds of filling, brush pasta with water. Place a second pasta sheet over the first, starting at a short end and easing pasta over filling, gently pressing out air and sealing pasta around each mound of filling as you go.</p><p>4. Trim long sides of pasta sheet with a pastry wheel or knife so sheet is 4 in. wide. Cut ravioli between filling to make 4-in. squares. Transfer ravioli to parchment-lined pan and cover with plastic wrap; also gather and wrap pasta scraps. Continue shaping ravioli, rerolling scraps according to directions for Fresh Pasta Dough and stacking one more layer of parchment over first (add another pan if needed), until you've used all the filling; you should have 24 to 30 ravioli and may have leftover pasta dough. (If dough scraps become too dry to reroll, crumble into food processor and pulse with 1 tsp. water at a time until moistened.)</p><p>5. To serve: In a saucepan, boil broth until reduced by a third. Add butter; keep warm.</p><p>6. Preheat oven to 150&#176; and set 8 wide soup plates or rimmed dinner plates in oven to warm. Bring 2 large pots (8 to 10 qt. each) of generously salted water to a rolling boil and add 1 tsp. olive oil to each. Divide ravioli between pots, reduce heat so water boils gently, and cook ravioli, occasionally pushing down into the water, just until al dente (test a corner of one to check), 5 to 7 minutes.</p><p>7. Set out soup plates. Using a slotted spoon, transfer 3 ravioli from water to each plate. Ladle broth over ravioli, sprinkle with parsley, and serve with parmesan.</p><p>*Shortcuts: Buy 2 3/4 lbs. peeled chunks of butternut squash instead of a whole squash. Buy semolina in the baking aisle of well-stocked markets. Instead of making pasta, buy about 2 lbs. fresh ravioli or lasagna sheets from a well-stocked grocery store or Italian deli, or from freshpasta.com ($6.79 for 16 oz.; 5-lb. minimum order). You may need to cut the ravioli in slightly different dimensions to make at least 24, and you may have leftover filling. For a recipe for chicken broth, see sunset.com/chickenbroth.</p><p>Make ahead: Make filling (through step 2) and chill overnight. Fill ravioli (through step 4) and chill them as long as 1 day, or freeze on pans until firm, transfer to bags, and freeze up to 3 weeks.</p><p>Note: Nutritional analysis is per serving.</p>\",\"profile_id\":null,\"ratings_count\":1,\"related_recipe_collections\":[{\"image_url\":\"http://img4.myrecipes.com/i/recipes/rs/2006/chicken-dumplings-rs-1141202-s.jpg\",\"link_url\":\"http://www.myrecipes.com/main-dish-and-entree-recipes/\",\"name\":\"Main Dishes and Entr\\u00e9es\"},{\"image_url\":\"http://img4.myrecipes.com/i/recipes/ck/10/09/chicken-dinner-salad-ck-s.jpg\",\"link_url\":\"http://www.myrecipes.com/dinner-recipes/\",\"name\":\"Dinner Recipes\"},{\"image_url\":\"http://img4.myrecipes.com/i/recipes/oh/08/chocolate-cake-oh-1727433-s.jpg\",\"link_url\":\"http://www.myrecipes.com/baking-recipes/\",\"name\":\"Baking Recipes\"}],\"serving_size\":null,\"servings\":null,\"sortable_name\":\"giant butternut squash ravioli\",\"text_ingredients\":null,\"total_ratings_score\":3,\"updated_at\":\"2011-06-01T15:57:53-04:00\",\"user_photo_content_type\":null,\"user_photo_created_at\":null,\"user_photo_file_name\":null,\"user_photo_file_size\":null,\"user_photo_updated_at\":null,\"ratings_summary_with_counts\":{\"3\":1,\"1\":0,\"2\":0,\"4\":0,\"5\":0},\"ratings_summary_with_percentage\":{\"3\":100.0,\"1\":0,\"2\":0,\"4\":0,\"5\":0},\"average_rating\":3.0,\"permalink\":\"giant-butternut-squash-ravioli-10000001865411\",\"courses\":[{\"tag\":{\"context_type\":\"course\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10194,\"name\":\"Main Dishes\",\"rc_tag_id\":\"10321.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}}],\"main_ingredients\":[{\"tag\":{\"context_type\":\"main_ingredient\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10221,\"name\":\"Vegetables\",\"rc_tag_id\":\"10348.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}},{\"tag\":{\"context_type\":\"main_ingredient\",\"created_at\":\"2011-04-01T15:30:49-04:00\",\"id\":10215,\"name\":\"Pasta\",\"rc_tag_id\":\"10342.0\",\"updated_at\":\"2011-04-01T15:30:49-04:00\"}}],\"cuisines\":[{\"tag\":{\"context_type\":\"cuisine\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10242,\"name\":\"Italian\",\"rc_tag_id\":\"10369.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}}],\"occasions\":[],\"conveniences\":[{\"tag\":{\"context_type\":\"convenience\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10319,\"name\":\"Make-Ahead\",\"rc_tag_id\":\"10446.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}}],\"cooking_methods\":[{\"tag\":{\"context_type\":\"cooking_method\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10264,\"name\":\"Bake\",\"rc_tag_id\":\"10391.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}},{\"tag\":{\"context_type\":\"cooking_method\",\"created_at\":\"2011-04-01T15:30:50-04:00\",\"id\":10270,\"name\":\"Food Processor\",\"rc_tag_id\":\"10397.0\",\"updated_at\":\"2011-04-01T15:30:50-04:00\"}}],\"owner_name\":null,\"thumbnail_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-s.jpg\",\"user_search_url\":null,\"default_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\",\"expanded_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-x.jpg\",\"has_user_photo\":false,\"editorial_recipe_data\":{\"ad_key_value_pairs\":null,\"author\":\"Martha Rose Shulman\",\"chef\":null,\"cookbook\":null,\"cookbook_credit\":null,\"cost_per_serving\":null,\"extra_large_image_caption\":null,\"extra_large_image_photo_credit\":\"Photo: Lisa Romerein; Styling: William Smith\",\"extra_large_image_title\":\"Giant Butternut Squash Ravioli\",\"extra_large_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-x.jpg\",\"franchise\":null,\"id\":48510,\"kitchen_test_notes\":\"<p>Total time is 1 3/4 hours if following the shortcuts.</p>\",\"large_image_caption\":null,\"large_image_photo_credit\":\"Photo: Lisa Romerein; Styling: William Smith\",\"large_image_title\":\"Giant Butternut Squash Ravioli\",\"large_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\",\"medium_image_caption\":null,\"medium_image_photo_credit\":\"Photo: Lisa Romerein; Styling: William Smith\",\"medium_image_title\":\"Giant Butternut Squash Ravioli\",\"medium_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-m.jpg\",\"menu_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-s.jpg\",\"menu_tips_id\":\"10000001956488\",\"menu_title\":\"Italian Light Menu\",\"nutritional_info\":[{\"type\":\"calories\",\"unit\":\"\",\"amount\":\"572\"},{\"type\":\"caloriesfromfat\",\"unit\":\"%\",\"amount\":\"35\"},{\"type\":\"protein\",\"unit\":\"g\",\"amount\":\"22\"},{\"type\":\"fat\",\"unit\":\"g\",\"amount\":\"22\"},{\"type\":\"satfat\",\"unit\":\"g\",\"amount\":\"6.4\"},{\"type\":\"carbohydrate\",\"unit\":\"g\",\"amount\":\"75\"},{\"type\":\"fiber\",\"unit\":\"g\",\"amount\":\"7\"},{\"type\":\"sodium\",\"unit\":\"mg\",\"amount\":\"877\"},{\"type\":\"cholesterol\",\"unit\":\"mg\",\"amount\":\"123\"}],\"publication\":\"Sunset\",\"publication_date\":\"2009-01-01T00:00:00-05:00\",\"publication_is_partner\":false,\"publication_link_url\":\"http://www.sunset.com/\",\"publication_logo_url\":\"http://img4.myrecipes.com/static/i/from_sunset.png\",\"recipe_id\":48512,\"restaurant\":null,\"seo_keywords\":\"butternut squash ravioli\",\"servings_yield\":\"Serves 8 (makes 24 to 30)\",\"slideshow_image_url\":null,\"slideshow_title\":null,\"slideshow_url\":null,\"small_image_caption\":null,\"small_image_photo_credit\":\"Photo: Lisa Romerein; Styling: William Smith\",\"small_image_title\":\"Giant Butternut Squash Ravioli\",\"small_image_url\":\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-s.jpg\",\"tips_id\":\"10000001865411\",\"tips_seo_slug\":\"giant-butternut-squash-ravioli\",\"tkg\":true,\"updated_at\":\"2011-12-06T15:18:53-05:00\",\"video_image_url\":null,\"video_link\":null,\"video_title\":null}}}.recipe;\n\
+      </script>\n\n\
+      </div>\n\
+      \t\t</div>\r\n\
+      \t</div>\r\n\
+      \t<!-- SSi Include  /static/inc/footer.html -->\n\
+      <!-- SSi Include  /static/inc/footer-no-ad.html -->\r\n\
+      <div class=\"footer\">\r\n\
+      \t<div class=\"navRepeat clr\">\r\n\
+      \t\t<ul>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/recipe-finder/\"><span>Recipes</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/r/my_recipe_file/\"><span>My Recipe File</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/quick-and-easy/\"><span>Quick &amp; Easy</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/menus/\"><span>Menus</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/healthy-diet/\"><span>Healthy</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/how-to/video/\"><span>How-To Video</span></a></li>\r\n\
+      \t\t\t<li><a href=\"http://www.myrecipes.com/kids/\"><span>Kids</span></a></li>\r\n\
+      \t\t\t<li class=\"rotating-channel\"><a href=\"http://www.myrecipes.com/super-bowl-recipes/\"><span>Super Bowl</span></a></li>\r\n\
+      \t\t</ul>\r\n\
+      \t</div>\r\n\
+      \t<div class=\"wrap2\">\r\n\
+      \t\t<div class=\"ftLogo\">\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/\"><img src=\"http://img4.myrecipes.com/static/i/logo_myrecipes_header.gif\" alt=\"My Recipes\" /></a>\r\n\
+      \t\t\t<br clear=\"none\" />\r\n            A <img src=\"http://img4.myrecipes.com/static/i/healthcom.png\" width=\"73\" height=\"13\" alt=\"Health.com\" />\r\n            <br clear=\"none\" />\r\n            Integrated Solutions Site\r\n\
+      \t\t</div>\r\n\
+      \t\t<div class=\"ftConnect\">\r\n\
+      \t\t\t<h5>Stay connected with MyRecipes</h5>\r\n\
+      \t\t\t<a class=\"facebook\" href=\"http://www.facebook.com/pages/MyRecipescom/74052302134/?ref=ts\" target=\"_blank\">Join us on Facebook</a>\r\n\
+      \t\t\t<a class=\"twitter\" href=\"http://twitter.com/my_recipes/\" target=\"_blank\">Follow us on Twitter</a>\r\n\
+      \t\t\t<a class=\"mobile\" href=\"http://www.myrecipes.com/mobile/\">Mobile</a>\r\n\
+      \t\t\t<a class=\"newsletter\" href=\"http://www.myrecipes.com/newsletter/\">Sign up for Newsletters</a>\r\n\
+      \t\t\t<div class=\"addTo\">\r\n\
+      \t\t\t\t<div class=\"getRSSList\">\r\n\
+      \t\t\t\t\t<div class=\"label\">Add MyRecipes to:</div>\r\n\
+      \t\t\t\t\t<a href=\"http://add.my.yahoo.com/content?.intl=us&amp;url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Yahoo!</a>\r\n\
+      \t\t\t\t\t<a href=\"http://www.google.com/ig/add?feedurl=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Google</a>\r\n\
+      \t\t\t\t\t<a href=\"http://my.msn.com/addtomymsn.armx?m=1&amp;ru=http%3A%2F%2Frss%2Emyrecipes%2Ecom%2Fweb%2Frecipes%2Frss%2Feditors%2Dpicks%2Findex%2Exml&amp;id=rss&amp;ut=http%3A%2F%2Frss%2Emyrecipes%2Ecom%2Fweb%2Frecipes%2Frss%2Feditors%2Dpicks%2Findex%2Exml\" target=\"_blank\">My MSN</a>\r\n\
+      \t\t\t\t\t<a href=\"http://feeds.my.aol.com/add.jsp?url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My AOL</a>\r\n\
+      \t\t\t\t\t<a href=\"http://www.netvibes.com/subscribe.php?url=http://rss.myrecipes.com/web/recipes/rss/editors-picks/index.xml\" target=\"_blank\">My Netvibes</a>\r\n\
+      \t\t\t\t</div>\r\n\
+      \t\t\t</div>\r\n\
+      \t\t\t<a class=\"subscribe\" href=\"https://subscription.timeinc.com/storefront/link/1004465.html\">Subscribe to Our Magazines</a>\r\n\
+      \t\t\t<a class=\"give\" href=\"https://subscription.cookinglight.com/storefront/subscribe-to-cooking-light/site/ck-gift0110.html?xid=myrdonor_ck&amp;link=1003789\" target=\"_blank\">Give a Gift</a>\r\n\
+      \t\t</div>\r\n\
+      \t\t<script type=\"text/javascript\">addTo();</script>\r\n\
+      \t\t<div class=\"ftLinks\">\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/about-us/\">About</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/advertising/\">Advertising</a> |\r\n\
+      \t\t\t<a href=\"http://www.timeinc.com/careers/\" target=\"_blank\">Careers</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/contact-us/\">Contact</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/frequently-asked-questions/\">FAQ</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/press/\">Press</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/rss/\">RSS</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/static/sitemap/\">Site Map</a> |\r\n\
+      \t\t\t<a href=\"http://www.myrecipes.com/sweeptakes-contests/\">Sweepstakes &#38; Contests</a>\r\n\
+      \t\t</div>\r\n\
+      \t</div><!-- /div.wrap2 -->\r\n\
+      </div><!-- /div.footer -->\r\n\
+      <script type=\"text/javascript\" src=\"http://js.revsci.net/gateway/gw.js?csid=H07710\"></script>\r\n\
+      <script type=\"text/javascript\">TiiAdTrackRevSci();</script>\r\n\
+      <!-- Quantcast Tag START -->\r\n\
+      <script type='text/javascript' src='http://edge.quantserve.com/quant.js'></script>\r\n\
+      <script type='text/javascript'>\r\n\
+      \t_qacct='p-5dyPa639IrgIw';\r\n\
+      \tquantserve();\r\n\
+      </script>\r\n\
+      <noscript>\r\n\
+      \t<a href='http://www.quantcast.com/p-5dyPa639IrgIw' target='_blank'>\r\n\
+      \t\t<img src='http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif' alt='' style='display: none;' border='0' height='1' width='1' />\r\n\
+      \t</a>\r\n\
+      </noscript>\r\n\
+      <!-- Quantcast Tag END -->\r\n\
+      <div class=\"copyright\">\n   <div class=\"wrap2\">\n      \t\t\t\t\tCopyright \xC2\xA9 2012 Time Inc. Lifestyle Group. All Rights Reserved. Use of this site constitutes acceptance of our \n      <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/terms_of_service.cgi/myrecipes\"\n         target=\"_blank\">Terms of Use</a> and \n      <a href=\"http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/myrecipes?d_source=E\"\n         target=\"_blank\">Privacy Policy</a>. \n      <a class=\"adchoice\"\n         href=\"http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html\"\n         target=\"_blank\">Ad Choices</a>\n   </div>\n\
+      </div>\r\n\
+      <script type=\"text/javascript\" src=\"http://img4.myrecipes.com/static/j/jumptime.js\"></script>\n\
+      <div class=\"wrap2\">\n\
+      \t<div class=\"adTop\">\r\n\
+      \t<script type=\"text/javascript\">\r\n\
+      \t\tif (typeof adFactory != 'undefined') {\r\n\
+      \t\t\tvar ad = adFactory.getAd(728,90);\r\n\
+      \t\t\tad.setPosition(1);\r\n\
+      \t\t\tad.write();\r\n\
+      \t\t}\r\n\
+      \t</script>\r\n\
+      </div>\n\
+      </div>\n\
+      \r\n\
+      </div>\n\n\
+      </body>\n\
+      </html>\n"
+    http_version: "1.1"
+  recorded_at: Mon, 30 Jan 2012 06:50:54 GMT
+recorded_with: VCR 2.0.0.rc1
