@@ -36,6 +36,8 @@ module Reduction
 
       def yields
         recipe('.summary_data .yield').text.collapse_whitespace
+      rescue
+        ''
       end
 
       def recipe(further)

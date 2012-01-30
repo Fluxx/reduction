@@ -159,6 +159,12 @@ module Reduction
         it_should_find 'images', ['http://www.epicurious.com/images/recipesmenus/2011/2011_may/365109_116.jpg']
       end
 
+      context 'a recipe without a yields' do
+        strategy_subject_for('http://www.epicurious.com/articlesguides/bestof/toprecipes/bestchickenrecipes/recipes/food/views/Yogurt-Marinated-Chicken-Kebabs-with-Aleppo-Pepper-353832')
+
+        it_should_behave_like 'a strategy', :blessed
+      end
+
     end
 
   end
