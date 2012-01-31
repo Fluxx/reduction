@@ -101,6 +101,44 @@ BODY
 
     end
 
+    describe '.reduce' do
+
+      let(:body) { 'body' }
+      let(:url) { 'url' }
+      let(:instance) { described_class.new(body, url) }
+
+      before(:each) { described_class.reduce(:yields, &Proc.new {}) }
+
+      it 'creates an instance method with the same name' do
+        instance.should respond_to(:yields)
+      end
+
+      it 'makes the block body the method' do
+        described_class.reduce(:yields, &Proc.new { 'hello' })
+        instance.yields.should == 'hello'
+      end
+
+      it 'catches any exceptions and returns none' do
+         described_class.reduce(:yields, &Proc.new { raise 'boom!' })
+         instance.yields.should be_nil
+      end
+
+      context 'when passed a default option' do
+
+        before(:each) do
+          described_class.reduce(:yields, :default => 'default val') do
+            raise 'boom!'
+          end
+        end
+
+        it 'catches the exception and returns the default instead' do
+          instance.yields.should == 'default val'
+        end
+
+      end
+
+    end
+
   end
 
 end

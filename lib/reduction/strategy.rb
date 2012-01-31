@@ -30,7 +30,17 @@ module Reduction
     def self.priority
       1
     end
-    
+
+    def self.reduce(name, options={}, &block)
+      define_method(name) do
+        begin
+          self.instance_eval(&block)
+        rescue
+          options[:default] or nil
+        end
+      end
+    end
+
     INTERFACE_METHODS.each do |method|
       define_method method do
         raise RuntimeError, "#{method} not implemented"
