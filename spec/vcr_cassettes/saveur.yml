@@ -19,7 +19,7 @@ http_interactions:
       content-language: 
       - en,en-us
       x-server-name: 
-      - web1b D=856303
+      - web1b D=1236160
       vary: 
       - User-Agent,Accept-Encoding
       content-type: 
@@ -27,11 +27,11 @@ http_interactions:
       cache-control: 
       - max-age = 300
       content-length: 
-      - "102023"
+      - "101884"
       date: 
-      - Mon, 30 Jan 2012 06:50:56 GMT
+      - Tue, 31 Jan 2012 07:03:24 GMT
       x-varnish: 
-      - "961536256"
+      - "835082981"
       via: 
       - 1.1 varnish
       connection: 
@@ -39,7 +39,7 @@ http_interactions:
       age: 
       - "0"
       x-cache: 
-      - "webcache11: MISS"
+      - "webcache12: MISS"
     body: |+
       <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
       <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
@@ -250,16 +250,16 @@ http_interactions:
               
               
                 
-                
                   
                   
                     <div class="circ-links">
                       <a class="test" href="https://saveur.bonniersubscriptions.com/HAD0-001/"  title="Subscribe now">
-                        <img src="http://www2.worldpub.net/images/saveurmag/633-subscribe-testB.png" border="0" alt="Subscribe now"/>
+                        <img src="http://www2.worldpub.net/images/saveurmag/633-subscribe-testA.png" border="0" alt="Subscribe now"/>
                       </a>
                     </div>
                     
                   
+                
                 
               
             
@@ -2987,13 +2987,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485758&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-090.jpg" title="Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker" alt="Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485747&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Miyabi Fusion Hollow-Edge Santoku">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-071.jpg" title="Miyabi Fusion Hollow-Edge Santoku" alt="Miyabi Fusion Hollow-Edge Santoku" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485758&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker">Cuisinart Classic Frozen Yogurt, Ice Cream and Sorbet Maker</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485747&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Miyabi Fusion Hollow-Edge Santoku">Miyabi Fusion Hollow-Edge Santoku</a>
             </div>
             
             
@@ -3026,13 +3026,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=PRO-9003&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-9003%2F&usg=AFHzDLvmqMyZLDVCHaqSE-5C4-V-HLBmLw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="All-Clad Stainless Steel Skillet, 8"">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-050.jpg" title="All-Clad Stainless Steel Skillet, 8"" alt="All-Clad Stainless Steel Skillet, 8"" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=558643&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-558643%2F&usg=AFHzDLvb1t1YkYmAPq3sXko4_QSeaZj9AQ&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="John Boos & Co. Sage-Green Calais Island">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-113.jpg" title="John Boos & Co. Sage-Green Calais Island" alt="John Boos & Co. Sage-Green Calais Island" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=PRO-9003&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-9003%2F&usg=AFHzDLvmqMyZLDVCHaqSE-5C4-V-HLBmLw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="All-Clad Stainless Steel Skillet, 8"">All-Clad Stainless Steel Skillet, 8"</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=558643&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-558643%2F&usg=AFHzDLvb1t1YkYmAPq3sXko4_QSeaZj9AQ&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="John Boos & Co. Sage-Green Calais Island">John Boos & Co. Sage-Green Calais Island</a>
             </div>
             
             
@@ -3065,13 +3065,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485787&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Vinturi Wine Aerator">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-126.jpg" title="Vinturi Wine Aerator" alt="Vinturi Wine Aerator" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485794&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Miyabi Hinoki Wood Cutting Board">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-133.jpg" title="Miyabi Hinoki Wood Cutting Board" alt="Miyabi Hinoki Wood Cutting Board" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485787&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Vinturi Wine Aerator">Vinturi Wine Aerator</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485794&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Miyabi Hinoki Wood Cutting Board">Miyabi Hinoki Wood Cutting Board</a>
             </div>
             
             
@@ -3104,13 +3104,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-119.jpg" title="Kinetic Go Green Food Storage" alt="Kinetic Go Green Food Storage" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-041.jpg" title="Sur La Table Hard Anodized Nonstick Griddle" alt="Sur La Table Hard Anodized Nonstick Griddle" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485782&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Kinetic Go Green Food Storage">Kinetic Go Green Food Storage</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485733&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Sur La Table Hard Anodized Nonstick Griddle">Sur La Table Hard Anodized Nonstick Griddle</a>
             </div>
             
             
@@ -3145,13 +3145,13 @@ http_interactions:
               
                 
                 
-                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=579664&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-579664%2F&usg=AFHzDLt5s89FcBwqkUU1uTGG4GmREaKezw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Victorinox Swiss Army Carving Fork">
-                  <img src="http://www2.worldpub.net/images/saveurmag/633-060.jpg" title="Victorinox Swiss Army Carving Fork" alt="Victorinox Swiss Army Carving Fork" height="100"/>
+                  <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485751&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart SmartStick Immersion Blender">
+                  <img src="http://www2.worldpub.net/images/saveurmag/633-080.jpg" title="Cuisinart SmartStick Immersion Blender" alt="Cuisinart SmartStick Immersion Blender" height="100"/>
                   </a><br clear="all"/>
                 
                 
               
-              <a href="http://gan.doubleclick.net/gan_click?lid=41000000000369183&pid=579664&adurl=http%3A%2F%2Fwww.surlatable.com%2Fproduct%2FPRO-579664%2F&usg=AFHzDLt5s89FcBwqkUU1uTGG4GmREaKezw&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Victorinox Swiss Army Carving Fork">Victorinox Swiss Army Carving Fork</a>
+              <a href="http://gan.doubleclick.net/gan_click?lid=41000000034485751&pubid=21000000000312922&amp;cmpid=selects" target="_blank" title="Cuisinart SmartStick Immersion Blender">Cuisinart SmartStick Immersion Blender</a>
             </div>
             
             
@@ -3635,7 +3635,7 @@ http_interactions:
       			<div id="post-comment">
       				<h4 class="title">Your Rating &amp; Review</h4>
       				
-      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=15910D56D2D94D0870CE130A6331E8B2.pa1_saveur" id="enewsletterform">
+      				<form name="registerUserLoginForm" method="post" action="/registerUserLogin.do;jsessionid=A694162C52BA6F19D8F1384B8680E56A.pa6_saveur" id="enewsletterform">
       					<input type="hidden" name="destinationPage" value="/article/Recipes/Rainbow-Cookies#comments">
       					
       					<fieldset>
@@ -4789,22 +4789,6 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Spice-Braised-Tuna-Ikan-Bumbu-Rujak" title="Spice-Braised Tuna (Ikan Bumbu Rujak)">
-      								Spice-Braised Tuna (Ikan...
-      								</a></li>
-      	
-      	
-      
-      	
-      	
-      								<li><a href="http://www.saveur.com/article/Menu/Roast-Chicken-Dinner" title="A Simple Roast Chicken Dinner">
-      								A Simple Roast Chicken...
-      								</a></li>
-      	
-      	
-      
-      	
-      	
       								<li><a href="http://www.saveur.com/article/Recipes/The-Best-Damn-Meyer-Lemon-Cake" title="The Best Damn Meyer Lemon Cake">
       								The Best Damn Meyer Lemon...
       								</a></li>
@@ -4813,16 +4797,8 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Fish-Curry-with-Potatoes" title="Fish Curry with Potatoes">
-      								Fish Curry with Potatoes
-      								</a></li>
-      	
-      	
-      
-      	
-      	
-      								<li><a href="http://www.saveur.com/article/Kitchen/SAVEUR-Easy-Italian-Eggplant-Caponata" title="<em>SAVEUR: Easy Italian:</em> Eggplant Caponata">
-      								SAVEUR: Easy Italian:...
+      								<li><a href="http://www.saveur.com/article/Recipes/Spice-Braised-Tuna-Ikan-Bumbu-Rujak" title="Spice-Braised Tuna (Ikan Bumbu Rujak)">
+      								Spice-Braised Tuna (Ikan...
       								</a></li>
       	
       	
@@ -4837,6 +4813,30 @@ http_interactions:
       
       	
       	
+      								<li><a href="http://www.saveur.com/article/Recipes/Fish-Curry-with-Potatoes" title="Fish Curry with Potatoes">
+      								Fish Curry with Potatoes
+      								</a></li>
+      	
+      	
+      
+      	
+      	
+      								<li><a href="http://www.saveur.com/article/Recipes/Sopa-de-Habas-Fava-Bean-Soup" title="Sopa de Habas (Fava Bean Soup)">
+      								Sopa de Habas (Fava Bean...
+      								</a></li>
+      	
+      	
+      
+      	
+      	
+      								<li><a href="http://www.saveur.com/article/Menu/Roast-Chicken-Dinner" title="A Simple Roast Chicken Dinner">
+      								A Simple Roast Chicken...
+      								</a></li>
+      	
+      	
+      
+      	
+      	
       								<li><a href="http://www.saveur.com/article/Recipes/Bourbon-Chai" title="Bourbon Chai">
       								Bourbon Chai
       								</a></li>
@@ -4845,8 +4845,8 @@ http_interactions:
       
       	
       	
-      								<li><a href="http://www.saveur.com/article/Recipes/Lady-Shirley" title="Lady Shirley">
-      								Lady Shirley
+      								<li><a href="http://www.saveur.com/article/Kitchen/SAVEUR-Easy-Italian-Eggplant-Caponata" title="<em>SAVEUR: Easy Italian:</em> Eggplant Caponata">
+      								SAVEUR: Easy Italian:...
       								</a></li>
       	
       	
@@ -5146,5 +5146,5 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:57 GMT
+  recorded_at: Tue, 31 Jan 2012 07:03:25 GMT
 recorded_with: VCR 2.0.0.rc1

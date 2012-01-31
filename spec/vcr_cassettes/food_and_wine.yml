@@ -14,8 +14,6 @@ http_interactions:
       code: 200
       message: OK
     headers: 
-      date: 
-      - Mon, 30 Jan 2012 06:50:28 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -23,21 +21,27 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.640281"
+      - "0.659692"
       cache-control: 
       - max-age=300, public
-      set-cookie: 
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMU9TU3hZSG4yOTZQam5sbXpCNnZOSDlaVXRKajFWNFlTU3hxWHBTajdJLzQ9Ig9zZXNzaW9uX2lkIiU1Nzg0YTIzOGJmOGU3YjQ5ZjhiMjJhMDUzNTJlOTdiYw%3D%3D--71d8b77cbd64f8dbf50017e852b05b4fb2b70032; path=/; HttpOnly
-      last-modified: 
-      - Wed, 30 Nov 2011 18:58:32 GMT
       status: 
       - "200"
       vary: 
       - Accept-Encoding
       content-type: 
       - text/html; charset=utf-8
+      age: 
+      - "7"
+      date: 
+      - Tue, 31 Jan 2012 07:01:30 GMT
+      last-modified: 
+      - Mon, 30 Jan 2012 19:38:39 GMT
+      expires: 
+      - Tue, 31 Jan 2012 07:06:23 GMT
+      content-length: 
+      - "45579"
       connection: 
-      - close
+      - keep-alive
     body: |+
       <!DOCTYPE html>
       <html keynote='CuisineEtVin' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml'>
@@ -618,7 +622,9 @@ http_interactions:
       <li id='time-staff'>STAFF-FAVORITE</li>
       <li id='time-veg'>VEGETARIAN</li>
       
+      <meta content='Breakfast &amp; Brunch' itemprop='recipeCategory'>
       
+      <meta content='Main Courses' itemprop='recipeCategory'>
       
       
       
@@ -876,7 +882,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="OSSxYHn296PjnlmzB6vNH9ZUtJj1V4YSSxqXpSj7I/4=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vXs3cqqipVmMn+a+NO168fgVHqSKOsgiIbpXeFRUJ9s=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -1267,7 +1273,7 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:29 GMT
+  recorded_at: Tue, 31 Jan 2012 07:01:30 GMT
 - request: 
     method: get
     uri: http://www.foodandwine.com/recipes/classic-carrot-cake-with-fluffy-cream-cheese-frosting?xid=DAILY012812ClassicCarrotCake
@@ -1282,8 +1288,6 @@ http_interactions:
       code: 200
       message: OK
     headers: 
-      date: 
-      - Mon, 30 Jan 2012 06:50:30 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -1291,21 +1295,27 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.879672"
+      - "0.898853"
       cache-control: 
       - max-age=300, public
-      set-cookie: 
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMUdPU3ZTRkFhNVZXQW1IeUhnTklwUmdYd2F0Zldvc0o5blNLYXZpQmNkc2c9Ig9zZXNzaW9uX2lkIiVjOWU0MTZiZjFjMTQxNWU5YTU1YTIxNzcwYzc5NzdhNQ%3D%3D--2e7107fa672c43c29a09b1d772ed921c56ae14fd; path=/; HttpOnly
-      last-modified: 
-      - Wed, 30 Nov 2011 18:54:29 GMT
       status: 
       - "200"
       vary: 
       - Accept-Encoding
       content-type: 
       - text/html; charset=utf-8
+      age: 
+      - "1"
+      date: 
+      - Tue, 31 Jan 2012 07:01:32 GMT
+      last-modified: 
+      - Mon, 30 Jan 2012 19:34:37 GMT
+      expires: 
+      - Tue, 31 Jan 2012 07:06:31 GMT
+      content-length: 
+      - "46034"
       connection: 
-      - close
+      - keep-alive
     body: |+
       <!DOCTYPE html>
       <html keynote='CuisineEtVin' xmlns:fb='http://www.facebook.com/2008/fbml' xmlns:og='http://ogp.me/ns#' xmlns='http://www.w3.org/1999/xhtml'>
@@ -1875,7 +1885,9 @@ http_interactions:
       <li id='time-veg'>VEGETARIAN</li>
       
       
+      <meta content='Cakes &amp; Cupcakes' itemprop='recipeCategory'>
       
+      <meta content='Desserts' itemprop='recipeCategory'>
       
       
       
@@ -2171,7 +2183,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="GOSvSFAa5VWAmHyHgNIpRgXwatfWosJ9nSKaviBcdsg=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Uzn+2CJslEZozoXlfldKVu7kCnnPC/zZLlMIwGoYomg=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -2562,7 +2574,7 @@ http_interactions:
       </html>
       
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:31 GMT
+  recorded_at: Tue, 31 Jan 2012 07:01:32 GMT
 - request: 
     method: get
     uri: http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries
@@ -2578,7 +2590,7 @@ http_interactions:
       message: OK
     headers: 
       date: 
-      - Mon, 30 Jan 2012 06:50:31 GMT
+      - Tue, 31 Jan 2012 07:01:32 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -2586,13 +2598,13 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.811946"
+      - "0.490118"
       cache-control: 
       - max-age=300, public
       set-cookie: 
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMVUwNldKL1lyZHJ2U3VTYjZSWGQxc0ZWSmZBZkgyUWRFNGdYb0gzTFdxdW89Ig9zZXNzaW9uX2lkIiVjZThlZjYxZjBkYmM4ZTY1ODNlYmRkNTIzNGUzOTEwZA%3D%3D--946ec64ce7940ebaebcdac3217b0fece9d187c92; path=/; HttpOnly
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMTNDeVp4U0MxTGJqclFOYk5WR1Q5SnZtNThVd1dJUmFjaWtPVkNnem1YRXM9Ig9zZXNzaW9uX2lkIiU3NDVmYWUzODg3MGFlZTAyNDBlZGU3ZmZlZDVkN2M1YQ%3D%3D--866c6d93f24a63c7a48a30927a8a288449fb7650; path=/; HttpOnly
       last-modified: 
-      - Mon, 09 Jan 2012 15:47:00 GMT
+      - Mon, 30 Jan 2012 19:55:46 GMT
       status: 
       - "200"
       vary: 
@@ -3210,7 +3222,7 @@ http_interactions:
       <div class='emailcontainer'>\n\
       <div class='containertext'>\n\
       <div id='flash-error'></div>\n\
-      <form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\" data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"U06WJ/YrdrvSuSb6RXd1sFVJfAfH2QdE4gXoH3LWquo=\" /></div>\n\
+      <form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\" data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"3CyZxSC1LbjrQNbNVGT9Jvm58UwWIRacikOVCgzmXEs=\" /></div>\n\
       <div class='content'>\n\
       <div class='rowtext'>\n\
       <div class='checkbox'>\n\
@@ -3587,5 +3599,5 @@ http_interactions:
       </body>\n\
       </html>\n\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:32 GMT
+  recorded_at: Tue, 31 Jan 2012 07:01:33 GMT
 recorded_with: VCR 2.0.0.rc1

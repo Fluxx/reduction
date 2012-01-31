@@ -21,23 +21,23 @@ http_interactions:
       vary: 
       - Accept
       etag: 
-      - "\"3296137250ee55008333a69d33a7b022\""
+      - "\"219aa2161420992e7673bb93ee8b2725\""
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.288497"
+      - "0.025809"
       status: 
       - "200"
       content-type: 
       - text/html; charset=utf-8
       expires: 
-      - Mon, 30 Jan 2012 06:50:53 GMT
+      - Tue, 31 Jan 2012 07:03:21 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Mon, 30 Jan 2012 06:50:53 GMT
+      - Tue, 31 Jan 2012 07:03:21 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -48,7 +48,7 @@ http_interactions:
       <html xmlns=\"http://www.w3.org/1999/xhtml\"\n      xmlns:fb=\"https://www.facebook.com/2008/fbml\"\n      lang=\"en\" xml:lang=\"en\">\n\
       <head>\n    <meta name=\"ka_env\" content=\"ti_savvis_ka_prod\" />\n    <meta name=\"ka_page\" content=\"recipe/show\" /><meta name=\"ka_model\" content=\"moroccan-chicken-butternut-squash-soup-50400000118582\" /><meta name=\"ka_model_type\" content=\"recipe\" />\n    <script type=\"text/javascript\">\n      window.omnitureHookFunction = function() {\n        var recipeUpdated = getCookie('KACreatingRecipe') || getCookie('KAUpdatingRecipe');\n        if (recipeUpdated) {\n          var recipeIsPublic = true;\n          if (recipeIsPublic) {\n            s_time.eVar13 = 'public';\n          } else {\n            s_time.eVar13 = 'private';\n          }\n        }\n      }\n      var omni_newstout_id = 'MR Chicken';     \n    </script>\n    <meta name=\"recipe_average_rating\" content=\"4.333333333333333\" />\n    <meta name=\"recipe_name\" content=\"Moroccan Chicken and Butternut Squash Soup\" />\n    <meta name=\"edit_created\" content=\"true\" />\n    <meta property=\"og:title\" content=\"Moroccan Chicken and Butternut Squash Soup\" />\n    <meta property=\"og:type\" content=\"food\"/>\n    <meta property=\"og:site_name\" content=\"MyRecipes.com\"/>\n    <meta property=\"og:image\" content=\"http://img4.myrecipes.com/i/recipes/ck/12/01/moroccan-chicken-butternut-soup-ck-l.jpg\"/>\n    <meta property=\"fb:app_id\" content=\"287437392227\"/>\n    \n    \n\n\n\
       <meta http-equiv=\"Content-Type\" content=\"application/xhtml+xml; charset=UTF-8\" />\n\
-      <meta name=\"render-time\" content=\"2012-01-30 01:50:53 -0500\" />\n\
+      <meta name=\"render-time\" content=\"2012-01-31 02:03:13 -0500\" />\n\
       <meta name=\"content-id\" content=\"\" />\n\
       <title>Moroccan Chicken and Butternut Squash Soup Recipe | MyRecipes.com</title>\n\
       <meta name=\"description\" content=\"MyRecipes recommends that you make this Moroccan Chicken and Butternut Squash Soup recipe from Cooking Light\" />\n\
@@ -426,7 +426,7 @@ http_interactions:
       </body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:53 GMT
+  recorded_at: Tue, 31 Jan 2012 07:03:21 GMT
 - request: 
     method: get
     uri: http://www.myrecipes.com/recipe/giant-butternut-squash-ravioli-10000001865411/
@@ -448,23 +448,23 @@ http_interactions:
       vary: 
       - Accept
       etag: 
-      - "\"1137ac1bba676538955113654aac4a10\""
+      - "\"77414de0f154870dacc1d01d707e5a26\""
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.304357"
+      - "0.222570"
       status: 
       - "200"
       content-type: 
       - text/html; charset=utf-8
       expires: 
-      - Mon, 30 Jan 2012 06:50:54 GMT
+      - Tue, 31 Jan 2012 07:03:22 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Mon, 30 Jan 2012 06:50:54 GMT
+      - Tue, 31 Jan 2012 07:03:22 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -475,7 +475,7 @@ http_interactions:
       <html xmlns=\"http://www.w3.org/1999/xhtml\"\n      xmlns:fb=\"https://www.facebook.com/2008/fbml\"\n      lang=\"en\" xml:lang=\"en\">\n\
       <head>\n    <meta name=\"ka_env\" content=\"ti_savvis_ka_prod\" />\n    <meta name=\"ka_page\" content=\"recipe/show\" /><meta name=\"ka_model\" content=\"giant-butternut-squash-ravioli-10000001865411\" /><meta name=\"ka_model_type\" content=\"recipe\" />\n    <script type=\"text/javascript\">\n      window.omnitureHookFunction = function() {\n        var recipeUpdated = getCookie('KACreatingRecipe') || getCookie('KAUpdatingRecipe');\n        if (recipeUpdated) {\n          var recipeIsPublic = true;\n          if (recipeIsPublic) {\n            s_time.eVar13 = 'public';\n          } else {\n            s_time.eVar13 = 'private';\n          }\n        }\n      }\n      var omni_newstout_id = 'MR Weekly';     \n    </script>\n    <meta name=\"recipe_average_rating\" content=\"3.0\" />\n    <meta name=\"recipe_name\" content=\"Giant Butternut Squash Ravioli\" />\n    <meta name=\"edit_created\" content=\"true\" />\n    <meta property=\"og:title\" content=\"Giant Butternut Squash Ravioli\" />\n    <meta property=\"og:type\" content=\"food\"/>\n    <meta property=\"og:site_name\" content=\"MyRecipes.com\"/>\n    <meta property=\"og:image\" content=\"http://img4.myrecipes.com/i/recipes/su/09/01/squash-ravioli-su-1865411-l.jpg\"/>\n    <meta property=\"fb:app_id\" content=\"287437392227\"/>\n    \n    \n\n\n\
       <meta http-equiv=\"Content-Type\" content=\"application/xhtml+xml; charset=UTF-8\" />\n\
-      <meta name=\"render-time\" content=\"2012-01-30 01:50:54 -0500\" />\n\
+      <meta name=\"render-time\" content=\"2012-01-31 02:03:21 -0500\" />\n\
       <meta name=\"content-id\" content=\"\" />\n\
       <title>Giant Butternut Squash Ravioli Recipe | MyRecipes.com</title>\n\
       <meta name=\"description\" content=\"Butternut squash has a naturally rich, creamy texture and sweet flavor. Paired with crunchy almonds and earthy sage and parmesan, it makes an unforgettable filling for oversize ravioli.\" />\n\
@@ -840,5 +840,5 @@ http_interactions:
       </body>\n\
       </html>\n"
     http_version: "1.1"
-  recorded_at: Mon, 30 Jan 2012 06:50:54 GMT
+  recorded_at: Tue, 31 Jan 2012 07:03:22 GMT
 recorded_with: VCR 2.0.0.rc1
