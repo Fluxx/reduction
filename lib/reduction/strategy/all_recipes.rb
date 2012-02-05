@@ -11,11 +11,11 @@ module Reduction
         url =~ /allrecipes\.com/
       end
 
-      def title
+      reduce :title do
         text_at('title').split('-').first.collapse_whitespace
       end
 
-      def ingredients
+      reduce :ingredients do
         ingredient_lists.map do |array|
           NamedList.new(array).tap do |nl|
             nl.name = nl.shift.chomp(':') if nl.first =~ /:$/
@@ -23,30 +23,30 @@ module Reduction
         end
       end
 
-      def steps
+      reduce :steps do
         [ NamedList.new(recipe('.directions ol').text.stripped_lines) ]
       end
 
-      def yields
+      reduce :yields do
         recipe('.yield').text
       end
 
-      def prep_time
+      reduce :prep_time do
         recipe('h5[1] span[3]').text
       end
 
-      def cook_time
+      reduce :cook_time do
         recipe('h5[2] span[3]').text
       end
 
-      def total_time
+      reduce :total_time do
         recipe('h5[3] span[3]').text.collapse_whitespace
       end
 
-      def notes
+      reduce :notes do
       end
 
-      def images
+      reduce :images do
         absolute_img_srcs_from(doc.search('#recipemasthead img.rec-image.photo'))
       end
 
