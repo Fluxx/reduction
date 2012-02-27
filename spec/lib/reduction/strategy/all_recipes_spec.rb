@@ -55,7 +55,7 @@ module Reduction
       it_should_find 'total_time', '3 Hrs'
 
       it_should_find 'images', [
-        'http://images.media-allrecipes.com/site/allrecipes/area/community/userphoto/small/194206.jpg'
+        'http://images.media-allrecipes.com/userphotos/140x140/00/19/42/194206.jpg'
       ]
 
       describe '#title' do

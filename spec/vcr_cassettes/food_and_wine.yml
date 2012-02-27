@@ -21,7 +21,7 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.659692"
+      - "0.808661"
       cache-control: 
       - max-age=300, public
       status: 
@@ -31,15 +31,15 @@ http_interactions:
       content-type: 
       - text/html; charset=utf-8
       age: 
-      - "4"
+      - "5"
       date: 
-      - Sun, 05 Feb 2012 02:10:19 GMT
+      - Mon, 27 Feb 2012 02:24:57 GMT
       last-modified: 
       - Mon, 30 Jan 2012 19:38:39 GMT
       expires: 
-      - Sun, 05 Feb 2012 02:15:15 GMT
+      - Mon, 27 Feb 2012 02:29:52 GMT
       content-length: 
-      - "45579"
+      - "43779"
       connection: 
       - keep-alive
     body: |+
@@ -69,26 +69,26 @@ http_interactions:
        | Food &amp; Wine
       </title>
       <link href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet' type='text/css'>
-      <link href="/stylesheets/main.css?1327594648" media="screen" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/recipe.css?1327594648" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/main.css?1329150434" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/recipe.css?1329150434" media="screen" rel="stylesheet" type="text/css" />
       
-      <link href="/stylesheets/printer.css?1327594648" media="print" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/community.css?1327594648" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/community_new.css?1327594648" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_newsletter.css?1327594648" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_recipes.css?1327594648" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/printer.css?1329150434" media="print" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/community.css?1329150434" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/community_new.css?1329150434" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_newsletter.css?1329150434" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_recipes.css?1329150434" media="screen" rel="stylesheet" type="text/css" />
       
       <!--[if IE 7]>
       <link href='/css/ie7.css' rel='stylesheet' type='text/css'>
       <link href='/css/redesign.foodandwine/_printer-ie7.css' media='print' rel='stylesheet' type='text/css'>
       <![endif]-->
-      <script src="/javascripts/jquery.min.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/jquery_ujs.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/swfobject.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/foodandwine_new.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/privacy_popup.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/jquery.clearinput.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/community_login_check.js?1327594648" type="text/javascript"></script>
+      <script src="/javascripts/jquery.min.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/jquery_ujs.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/swfobject.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/foodandwine_new.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/privacy_popup.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/jquery.clearinput.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/community_login_check.js?1329150434" type="text/javascript"></script>
       <script src="http://img.timeinc.net/shared/static/js/tii_ads.js" type="text/javascript"></script>
       <script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t' type='text/javascript'></script>
       <script language='javascript' type='text/javascript'>
@@ -125,15 +125,15 @@ http_interactions:
       <!-- /FB.init("93ac89296316efd5d316caaa90bfbde4"); -->
       </script>
       
-      <script src="/javascripts/tabcontent.js?1327594648" type="text/javascript"></script>
+      <script src="/javascripts/tabcontent.js?1329150434" type="text/javascript"></script>
       
       <script type='text/javascript'>
       jQuery.noConflict();
       </script>
       </head>
       <body>
-      <script src="/javascripts/googleAnalytics.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/ga_social_tracking.js?1327594648" type="text/javascript"></script>
+      <script src="/javascripts/googleAnalytics.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/ga_social_tracking.js?1329150434" type="text/javascript"></script>
       <!--
       OMNITURE: DISPLAY BEGIN
       -->
@@ -158,8 +158,8 @@ http_interactions:
       }
       </script>
       </div>
-      <script src="/javascripts/_fw_track.js?1327594648" type="text/javascript"></script>
-      <script src="/javascripts/omniture_vars.js?1327594648" type="text/javascript"></script>
+      <script src="/javascripts/_fw_track.js?1329150434" type="text/javascript"></script>
+      <script src="/javascripts/omniture_vars.js?1329150434" type="text/javascript"></script>
       
       <!--
       Begin comScore Tag
@@ -181,8 +181,6 @@ http_interactions:
       <noscript>
       &lt;img src=&quot;http://b.scorecardresearch.com/p?c1=2&amp;c2=6034960&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1&quot; /&gt;
       </noscript>
-      
-      <!--ROIA page #79--> <script type="text/javascript">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){ l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;} catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/im/p/79/js?s='+ Math.floor(Math.random()*1308319535)+';t='+escape(T.getTime())+';z='+ escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f); if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;} if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2); if(/^\s*roia_p79$/.test(p0)){u+=';_='+p1;break;}}} document.write('<'+'script type="text/javascript" src="'+u+'">'); })(document,screen,new Date());/*]]>*/</script><noscript> <iframe src="http://roia.biz/im/p/79/iframe?js=0" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute;top:-3000px;left:-3000px;"></iframe></noscript> <!--/ROIA page #79-->
       
       <div id='container'>
       <!-- MYRECIPES nav -->
@@ -290,7 +288,7 @@ http_interactions:
       <div id="branding">
         <p title = "Food & Wine">
           <a href = "/" title = "Food & Wine - home" >
-            <img src = "foodandwine.com/images/logo.gif" alt = "Food & Wine" style = "vertical-align: bottom;" /></a></p>
+            <img src = "/images/logo.gif" alt = "Food & Wine" style = "vertical-align: bottom;" /></a></p>
       
           <div id="mange-tout" style= "float:left; margin:13px 0 0px 28px;">
           <div id="subscToutContainer">          
@@ -319,7 +317,7 @@ http_interactions:
       <div id='search'>
         <form action='/search' id='search-form' method='get'>
           <input class='subinput2 clear-input' id='search-text' name='query' type='text' value='Search Recipes &amp; Articles'>
-          <input class='field prompt' name='search_cat' type='hidden' value='recipes'>
+          <input class='field prompt' name='search_cat' type='hidden' value='all'>
           <input alt='Search' id='search-submit' name='search-submit' src='/images/fw_search_btn.gif' title='Search' type='image'>
         </form>
       </div>
@@ -576,12 +574,6 @@ http_interactions:
       Find 30 more recipes in our <a href="/slideshows/fall-flavors-mushrooms-apples-butternut-squash/1" title="Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash">Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash</a> Recipes slideshow.
       </li>
       <li>
-      Find 10 more recipes in our <a href="/slideshows/new-zealand-pinot-noir/1" title="New Zealand Pinot Noir">New Zealand Pinot Noir</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/organic-wine-pairings/1" title="Organic Wine Pairings">Organic Wine Pairings</a> Recipes slideshow.
-      </li>
-      <li>
       Find 20 more recipes in our <a href="/slideshows/pinot-noir-pairings/1" title="Pinot Noir Pairings">Pinot Noir Pairings</a> Recipes slideshow.
       </li>
       </ul>
@@ -773,12 +765,6 @@ http_interactions:
       Find 30 more recipes in our <a href="/slideshows/fall-flavors-mushrooms-apples-butternut-squash/1" title="Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash">Iconic Fall Flavors: Mushrooms, Apples, Butternut Squash</a> Recipes slideshow.
       </li>
       <li>
-      Find 10 more recipes in our <a href="/slideshows/new-zealand-pinot-noir/1" title="New Zealand Pinot Noir">New Zealand Pinot Noir</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/organic-wine-pairings/1" title="Organic Wine Pairings">Organic Wine Pairings</a> Recipes slideshow.
-      </li>
-      <li>
       Find 20 more recipes in our <a href="/slideshows/pinot-noir-pairings/1" title="Pinot Noir Pairings">Pinot Noir Pairings</a> Recipes slideshow.
       </li>
       </ul>
@@ -859,20 +845,20 @@ http_interactions:
         //<![CDATA[
           jQuery.noConflict();
       
-          $('#newsletter_form').submit(function(){
-            cm_tout = 'CM Tout'
-            news_array = new Array()
+          jQuery('#newsletter_form').submit(function(){
+            cm_tout = 'CM Tout';
+            news_array = new Array();
             if ($("#dish_newsletter").is (':checked')){
-              cm_tout = 'CM Tout- '
-              news_array.push('Dish')
+              cm_tout = 'CM Tout- ';
+              news_array.push('Dish');
             };
             if ($("#wine_newsletter").is (':checked')){
-              cm_tout = 'CM Tout- '
-              news_array.push('Wine')
+              cm_tout = 'CM Tout- ';
+              news_array.push('Wine');
             };
             if ($("#daily_newsletter").is (':checked')){
-              cm_tout = 'CM Tout- '
-              news_array.push('Daily')
+              cm_tout = 'CM Tout- ';
+              news_array.push('Daily');
             };
             newsletters = cm_tout + news_array.join(", ");
             $('#newsletter_source').val(newsletters);
@@ -882,7 +868,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vXs3cqqipVmMn+a+NO168fgVHqSKOsgiIbpXeFRUJ9s=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ox5/wZ53ThgFSbm6AtokWSZWRmaiHQSsIFp1Gj48uvY=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -940,7 +926,7 @@ http_interactions:
       <div>
       <input class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text' value='Enter your email address'>
       <a href='http://www.foodandwine.com/newsletters' target='_blank'></a>
-      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1327594648" type="image" value="Sign Up" />
+      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1329150434" type="image" value="Sign Up" />
       <input id="newsletter_source" name="newsletter[source]" type="hidden" value="CM TOUT" />
       </div>
       <div class='clear'></div>
@@ -1136,6 +1122,12 @@ http_interactions:
       <img border='0' class='space' height='10px' src='/images/mobile_apps_small.gif' width='10px'>
       Get F&amp;W Mobile Apps
       </a>
+      <span class='horzSpace'>
+      |
+      </span>
+      <a href='http://www.foodandwine.com/ipad/'>
+      Download F&amp;W for iPad
+      </a>
       </p>
       <div style='padding: 3px 0;'></div>
       <p class='menusection'>
@@ -1165,11 +1157,11 @@ http_interactions:
       <span class='horzSpace'>
       |
       </span>
-      <a href='http://www.skyguideonline.com/' target='_blank'>Skyguide</a>
+      <a href='http://www.eskyguide.com/' target='_blank'>Skyguide</a>
       <span class='horzSpace'>
       |
       </span>
-      <a href='http://www.executivetravelmagazine.com/'>Executive Travel</a>
+      <a href='http://www.executivetravelmagazine.com/' target='_blank'>Executive Travel</a>
       </p>
       <div>
       <p id='flinksMenuText'>
@@ -1185,29 +1177,13 @@ http_interactions:
       Corporation Website Terms and Conditions.
       <br>
       <br>
-      <span class='cwcolor'>Copyright &copy; 1997 - 2011 American Express Publishing Corporation. All Rights Reserved.</span>
+      <span class='cwcolor'>Copyright &copy; 1997 - 2012 American Express Publishing Corporation. All Rights Reserved.</span>
       <br>
-      3.36-ci
+      3.48-ci
       </p>
       </div>
       </div>
       <!-- FOOTER SITEMAP -->
-      <!-- .emailcontainer-bttm -->
-      <!-- = render 'shared/newsletter_signup' -->
-      </div>
-      <div id='ad-btm'>
-      <div id='ad-btm-inner'>
-      <script language='javascript' type='text/javascript'>
-      //<![CDATA[
-      var ad = adFactory.getAd(728, 90);
-      ad.setPosition('2');
-      ad.setParam("!c", "expandables");
-      ad.zone = adFactory.zone + '/footer';
-      ad.write();
-      //]]>
-      </script>
-      
-      </div>
       </div>
       
       <div id='fb-root'></div>
@@ -1267,13 +1243,13 @@ http_interactions:
       </div>
       </div>
       
-      <script src="/javascripts/universal_share_bar.js?1327594648" type="text/javascript"></script>
+      <script src="/javascripts/universal_share_bar.js?1329150434" type="text/javascript"></script>
       </div>
       </body>
       </html>
       
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:10:19 GMT
+  recorded_at: Mon, 27 Feb 2012 02:24:57 GMT
 - request: 
     method: get
     uri: http://www.foodandwine.com/recipes/classic-carrot-cake-with-fluffy-cream-cheese-frosting?xid=DAILY012812ClassicCarrotCake
@@ -1295,7 +1271,7 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "1.102238"
+      - "0.684022"
       cache-control: 
       - max-age=300, public
       status: 
@@ -1304,16 +1280,14 @@ http_interactions:
       - Accept-Encoding
       content-type: 
       - text/html; charset=utf-8
-      age: 
-      - "1"
       date: 
-      - Sun, 05 Feb 2012 02:10:21 GMT
+      - Mon, 27 Feb 2012 02:24:58 GMT
       last-modified: 
       - Mon, 30 Jan 2012 19:34:37 GMT
       expires: 
-      - Sun, 05 Feb 2012 02:15:20 GMT
+      - Mon, 27 Feb 2012 02:29:58 GMT
       content-length: 
-      - "46099"
+      - "43606"
       connection: 
       - keep-alive
     body: |+
@@ -1343,26 +1317,26 @@ http_interactions:
        | Food &amp; Wine
       </title>
       <link href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet' type='text/css'>
-      <link href="/stylesheets/main.css?1328223822" media="screen" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/recipe.css?1328223822" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/main.css?1329924736" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/recipe.css?1329924736" media="screen" rel="stylesheet" type="text/css" />
       
-      <link href="/stylesheets/printer.css?1328223822" media="print" rel="stylesheet" type="text/css" />
-      <link href="/stylesheets/community.css?1328223822" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/community_new.css?1328223822" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_newsletter.css?1328223822" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
-      <link href="/stylesheets/screen_recipes.css?1328223822" media="screen" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/printer.css?1329924736" media="print" rel="stylesheet" type="text/css" />
+      <link href="/stylesheets/community.css?1329924736" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/community_new.css?1329924736" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_newsletter.css?1329924736" media="screen" rel="stylesheet" title="normal stage" type="text/css" />
+      <link href="/stylesheets/screen_recipes.css?1329924736" media="screen" rel="stylesheet" type="text/css" />
       
       <!--[if IE 7]>
       <link href='/css/ie7.css' rel='stylesheet' type='text/css'>
       <link href='/css/redesign.foodandwine/_printer-ie7.css' media='print' rel='stylesheet' type='text/css'>
       <![endif]-->
-      <script src="/javascripts/jquery.min.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/jquery_ujs.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/swfobject.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/foodandwine_new.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/privacy_popup.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/jquery.clearinput.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/community_login_check.js?1328223822" type="text/javascript"></script>
+      <script src="/javascripts/jquery.min.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/jquery_ujs.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/swfobject.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/foodandwine_new.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/privacy_popup.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/jquery.clearinput.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/community_login_check.js?1329924736" type="text/javascript"></script>
       <script src="http://img.timeinc.net/shared/static/js/tii_ads.js" type="text/javascript"></script>
       <script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t' type='text/javascript'></script>
       <script language='javascript' type='text/javascript'>
@@ -1399,15 +1373,15 @@ http_interactions:
       <!-- /FB.init("93ac89296316efd5d316caaa90bfbde4"); -->
       </script>
       
-      <script src="/javascripts/tabcontent.js?1328223822" type="text/javascript"></script>
+      <script src="/javascripts/tabcontent.js?1329924736" type="text/javascript"></script>
       
       <script type='text/javascript'>
       jQuery.noConflict();
       </script>
       </head>
       <body>
-      <script src="/javascripts/googleAnalytics.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/ga_social_tracking.js?1328223822" type="text/javascript"></script>
+      <script src="/javascripts/googleAnalytics.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/ga_social_tracking.js?1329924736" type="text/javascript"></script>
       <!--
       OMNITURE: DISPLAY BEGIN
       -->
@@ -1432,8 +1406,8 @@ http_interactions:
       }
       </script>
       </div>
-      <script src="/javascripts/_fw_track.js?1328223822" type="text/javascript"></script>
-      <script src="/javascripts/omniture_vars.js?1328223822" type="text/javascript"></script>
+      <script src="/javascripts/_fw_track.js?1329924736" type="text/javascript"></script>
+      <script src="/javascripts/omniture_vars.js?1329924736" type="text/javascript"></script>
       
       <!--
       Begin comScore Tag
@@ -1455,8 +1429,6 @@ http_interactions:
       <noscript>
       &lt;img src=&quot;http://b.scorecardresearch.com/p?c1=2&amp;c2=6034960&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1&quot; /&gt;
       </noscript>
-      
-      <!--ROIA page #79--> <script type="text/javascript">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){ if(!(jQuery.browser.msie && jQuery.browser.version <=7.0)){l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;} catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/im/p/79/js?s='+ Math.floor(Math.random()*1308319535)+';t='+escape(T.getTime())+';z='+ escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f); if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;} if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2); if(/^\s*roia_p79$/.test(p0)){u+=';_='+p1;break;}}} document.write('<'+'script type="text/javascript" src="'+u+'">'); }})(document,screen,new Date());/*]]>*/</script><noscript> <iframe src="http://roia.biz/im/p/79/iframe?js=0" width="1" height="1" frameborder="0" scrolling="no" style="position:absolute;top:-3000px;left:-3000px;"></iframe></noscript> <!--/ROIA page #79-->
       
       <div id='container'>
       <!-- MYRECIPES nav -->
@@ -1531,7 +1503,7 @@ http_interactions:
       <div id="navMenu">
         <ul>
           <li id="starchefs">
-            <a href="http://www.foodandwine.com/starchefskidscook" class="hide"><img src="images/top_nav-starchefskidscook.gif"alt="Star Chefs Kids Cook"></a>
+            <a href="http://www.foodandwine.com/starchefskidscook" class="hide"><img src="/images/top_nav-starchefskidscook.gif"alt="Star Chefs Kids Cook"></a>
           </li>  
           <li id="tsubsc">
                 <a href="https://subscription.timeinc.com/storefront/link/1002184.html" class="hide"><span>SUBSCRIBE</span></a>
@@ -1547,7 +1519,7 @@ http_interactions:
               </li>
               <li id="tevents"><a href="http://www.foodandwine.com/promo/events" class="hide"><span>EVENTS</span></a>
                 <ul>
-                  <li class="events"><a href="http://www.foodandwine.com/promo/events">2011 CALENDAR</a></li>
+                  <li class="events"><a href="http://www.foodandwine.com/promo/events">2012 CALENDAR</a></li>
                   <li class="events"><a href="http://www.foodandwine.com/promo/">PROMOTIONS</a></li>
                   <li class="events"><a href="http://www.foodandwine.com/promo/">SWEEPSTAKES</a></li>
                   <li class="events"><a href="http://www.foodandwine.com/videos">F&amp;W VIDEOS</a></li>
@@ -1829,26 +1801,6 @@ http_interactions:
       <div id='slideshow-link'>
       <div id='other-content'>
       <div id='recipe_otherlinks'>
-      <div class='other-item'>
-      <h2>
-      Related Slideshows
-      </h2>
-      <ul>
-      <li>
-      Find 5 more recipes in our <a href="/slideshows/carrot-cake-recipes/1" title="Carrot Cake Recipes">Carrot Cake Recipes</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/frosting/1" title="Frosting">Frosting</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 20 more recipes in our <a href="/slideshows/layer-cakes/1" title="Layer Cakes">Layer Cakes</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/most-popular-desserts/1" title="Most Popular Desserts">Most Popular Desserts</a> Recipes slideshow.
-      </li>
-      </ul>
-      
-      </div>
       </div>
       </div>
       </div>
@@ -2065,26 +2017,6 @@ http_interactions:
       <div id='slideshow-link'>
       <div id='other-content'>
       <div id='recipe_otherlinks'>
-      <div class='other-item'>
-      <h2>
-      Related Slideshows
-      </h2>
-      <ul>
-      <li>
-      Find 5 more recipes in our <a href="/slideshows/carrot-cake-recipes/1" title="Carrot Cake Recipes">Carrot Cake Recipes</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/frosting/1" title="Frosting">Frosting</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 20 more recipes in our <a href="/slideshows/layer-cakes/1" title="Layer Cakes">Layer Cakes</a> Recipes slideshow.
-      </li>
-      <li>
-      Find 10 more recipes in our <a href="/slideshows/most-popular-desserts/1" title="Most Popular Desserts">Most Popular Desserts</a> Recipes slideshow.
-      </li>
-      </ul>
-      
-      </div>
       </div>
       </div>
       </div>
@@ -2183,7 +2115,7 @@ http_interactions:
       <div class='emailcontainer'>
       <div class='containertext'>
       <div id='flash-error'></div>
-      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1xysNa3YZ6cpFPuTsYKudgXdcGk+UYltuO/kxzsg/mc=" /></div>
+      <form accept-charset="UTF-8" action="/newsletters/create.js" data-remote="true" id="newsletter_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Ak7nPhDSIStI9oqUTebQul81vAcj7XPhgtmkNyww6KM=" /></div>
       <div class='content'>
       <div class='rowtext'>
       <div class='checkbox'>
@@ -2241,7 +2173,7 @@ http_interactions:
       <div>
       <input class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text' value='Enter your email address'>
       <a href='http://www.foodandwine.com/newsletters' target='_blank'></a>
-      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1328223822" type="image" value="Sign Up" />
+      <input alt="Go" class="signupbtn" name="submit" src="/images/submitForm.gif?1329924736" type="image" value="Sign Up" />
       <input id="newsletter_source" name="newsletter[source]" type="hidden" value="CM TOUT" />
       </div>
       <div class='clear'></div>
@@ -2437,6 +2369,12 @@ http_interactions:
       <img border='0' class='space' height='10px' src='/images/mobile_apps_small.gif' width='10px'>
       Get F&amp;W Mobile Apps
       </a>
+      <span class='horzSpace'>
+      |
+      </span>
+      <a href='http://www.foodandwine.com/ipad/'>
+      Download F&amp;W for iPad
+      </a>
       </p>
       <div style='padding: 3px 0;'></div>
       <p class='menusection'>
@@ -2488,27 +2426,11 @@ http_interactions:
       <br>
       <span class='cwcolor'>Copyright &copy; 1997 - 2012 American Express Publishing Corporation. All Rights Reserved.</span>
       <br>
-      3.39-ci
+      4.0.1-ci
       </p>
       </div>
       </div>
       <!-- FOOTER SITEMAP -->
-      <!-- .emailcontainer-bttm -->
-      <!-- = render 'shared/newsletter_signup' -->
-      </div>
-      <div id='ad-btm'>
-      <div id='ad-btm-inner'>
-      <script language='javascript' type='text/javascript'>
-      //<![CDATA[
-      var ad = adFactory.getAd(728, 90);
-      ad.setPosition('2');
-      ad.setParam("!c", "expandables");
-      ad.zone = adFactory.zone + '/footer';
-      ad.write();
-      //]]>
-      </script>
-      
-      </div>
       </div>
       
       <div id='fb-root'></div>
@@ -2568,13 +2490,13 @@ http_interactions:
       </div>
       </div>
       
-      <script src="/javascripts/universal_share_bar.js?1328223822" type="text/javascript"></script>
+      <script src="/javascripts/universal_share_bar.js?1329924736" type="text/javascript"></script>
       </div>
       </body>
       </html>
       
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:10:21 GMT
+  recorded_at: Mon, 27 Feb 2012 02:24:59 GMT
 - request: 
     method: get
     uri: http://www.foodandwine.com/recipes/cocoa-nib-pavlova-with-raspberries
@@ -2590,7 +2512,7 @@ http_interactions:
       message: OK
     headers: 
       date: 
-      - Sun, 05 Feb 2012 02:10:21 GMT
+      - Mon, 27 Feb 2012 02:24:59 GMT
       server: 
       - Apache/2.2.3 (Red Hat)
       x-powered-by: 
@@ -2598,11 +2520,11 @@ http_interactions:
       x-ua-compatible: 
       - IE=Edge,chrome=1
       x-runtime: 
-      - "0.487243"
+      - "0.645522"
       cache-control: 
       - max-age=300, public
       set-cookie: 
-      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMVNHU2VTU2o2aTlPNXp4Z3FaTmxLTkxRMG02QnRlek41VXJ1bkk5TlRCWTg9Ig9zZXNzaW9uX2lkIiU0MTIyMzQ3NTQ4YTZhNjAyMGFhMmFhYmE5NDI1ZGUwZg%3D%3D--82e36c6266e12d84186619736abd6155871b8e7c; path=/; HttpOnly
+      - _fwr-frontend_session=BAh7ByIQX2NzcmZfdG9rZW4iMXlDa2NEazVKUFlTZFQzejRzT3Z1ejNHbzVTdSt6Qk1XM0VnQnozZy9uTGs9Ig9zZXNzaW9uX2lkIiUzZWQzZTAzZjZmYmZhM2JhOWYxZWY4MzlkYTQ2NTFhMw%3D%3D--2d1b2bb6494246f875d2c359986a05fcc127b79f; path=/; HttpOnly
       last-modified: 
       - Mon, 30 Jan 2012 19:55:46 GMT
       status: 
@@ -2635,24 +2557,24 @@ http_interactions:
       Joy Wilson\n | Food &amp; Wine\n\
       </title>\n\
       <link href='http://clientapps.kickapps.com/amex2/comments/css/style.css' rel='stylesheet' type='text/css'>\n\
-      <link href=\"/stylesheets/main.css?1328223822\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\
-      <link href=\"/stylesheets/recipe.css?1328223822\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
-      <link href=\"/stylesheets/printer.css?1328223822\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\
-      <link href=\"/stylesheets/community.css?1328223822\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
-      <link href=\"/stylesheets/community_new.css?1328223822\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
-      <link href=\"/stylesheets/screen_newsletter.css?1328223822\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
-      <link href=\"/stylesheets/screen_recipes.css?1328223822\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <link href=\"/stylesheets/main.css?1329924736\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/recipe.css?1329924736\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
+      <link href=\"/stylesheets/printer.css?1329924736\" media=\"print\" rel=\"stylesheet\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/community.css?1329924736\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/community_new.css?1329924736\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/screen_newsletter.css?1329924736\" media=\"screen\" rel=\"stylesheet\" title=\"normal stage\" type=\"text/css\" />\n\
+      <link href=\"/stylesheets/screen_recipes.css?1329924736\" media=\"screen\" rel=\"stylesheet\" type=\"text/css\" />\n\n\
       <!--[if IE 7]>\n\
       <link href='/css/ie7.css' rel='stylesheet' type='text/css'>\n\
       <link href='/css/redesign.foodandwine/_printer-ie7.css' media='print' rel='stylesheet' type='text/css'>\n\
       <![endif]-->\n\
-      <script src=\"/javascripts/jquery.min.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/jquery_ujs.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/swfobject.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/foodandwine_new.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/privacy_popup.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/jquery.clearinput.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/community_login_check.js?1328223822\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/jquery.min.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/jquery_ujs.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/swfobject.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/foodandwine_new.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/privacy_popup.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/jquery.clearinput.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/community_login_check.js?1329924736\" type=\"text/javascript\"></script>\n\
       <script src=\"http://img.timeinc.net/shared/static/js/tii_ads.js\" type=\"text/javascript\"></script>\n\
       <script src='http://js.revsci.net/gateway/gw.js?csid=E11180&auto=t' type='text/javascript'></script>\n\
       <script language='javascript' type='text/javascript'>\n\
@@ -2685,14 +2607,14 @@ http_interactions:
       RPXNOW.language_preference = 'en';\n\
       <!-- /FB.init(\"93ac89296316efd5d316caaa90bfbde4\"); -->\n\
       </script>\n\n\
-      <script src=\"/javascripts/tabcontent.js?1328223822\" type=\"text/javascript\"></script>\n\n\
+      <script src=\"/javascripts/tabcontent.js?1329924736\" type=\"text/javascript\"></script>\n\n\
       <script type='text/javascript'>\n\
       jQuery.noConflict();\n\
       </script>\n\
       </head>\n\
       <body>\n\
-      <script src=\"/javascripts/googleAnalytics.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/ga_social_tracking.js?1328223822\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/googleAnalytics.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/ga_social_tracking.js?1329924736\" type=\"text/javascript\"></script>\n\
       <!--\n\
       OMNITURE: DISPLAY BEGIN\n\
       -->\n\
@@ -2717,8 +2639,8 @@ http_interactions:
       }\n\
       </script>\n\
       </div>\n\
-      <script src=\"/javascripts/_fw_track.js?1328223822\" type=\"text/javascript\"></script>\n\
-      <script src=\"/javascripts/omniture_vars.js?1328223822\" type=\"text/javascript\"></script>\n\n\
+      <script src=\"/javascripts/_fw_track.js?1329924736\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/omniture_vars.js?1329924736\" type=\"text/javascript\"></script>\n\n\
       <!--\n\
       Begin comScore Tag\n\
       -->\n\
@@ -2739,7 +2661,6 @@ http_interactions:
       <noscript>\n\
       &lt;img src=&quot;http://b.scorecardresearch.com/p?c1=2&amp;c2=6034960&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1&quot; /&gt;\n\
       </noscript>\n\n\
-      <!--ROIA page #79--> <script type=\"text/javascript\">/*<![CDATA[*/(function(D,S,T,u,i,p,q,l,f){ if(!(jQuery.browser.msie && jQuery.browser.version <=7.0)){l=D.URL;f=D.referrer;if(self!=top){try{p=top.document;l=p.URL;f=p.referrer;} catch(e){}}u='http'+(/^https:/.test(D.URL)?'s':'')+'://roia.biz/im/p/79/js?s='+ Math.floor(Math.random()*1308319535)+';t='+escape(T.getTime())+';z='+ escape(T.getTimezoneOffset())+';u='+escape(l)+';r='+escape(f); if(S&&typeof(S)==='object'){u+=';w='+S.width+'x'+S.height+'x'+S.colorDepth;} if(D.cookie){q=D.cookie.split(';');for(i=0;i<q.length;++i){p=q[i].split('=',2); if(/^\\s*roia_p79$/.test(p0)){u+=';_='+p1;break;}}} document.write('<'+'script type=\"text/javascript\" src=\"'+u+'\">'); }})(document,screen,new Date());/*]]>*/</script><noscript> <iframe src=\"http://roia.biz/im/p/79/iframe?js=0\" width=\"1\" height=\"1\" frameborder=\"0\" scrolling=\"no\" style=\"position:absolute;top:-3000px;left:-3000px;\"></iframe></noscript> <!--/ROIA page #79-->\n\n\
       <div id='container'>\n\
       <!-- MYRECIPES nav -->\n\
       <div class='clearfix' id='myrecipes_logobar'>\n\
@@ -2790,7 +2711,7 @@ http_interactions:
       <div id=\"socialtext\">\n    <div id=\"social-links\">\n  <p></p>\n  <ul>\n      <li><a href=\"http://community.foodandwine.com/service/displayMyPlace.kickAction?as=117547\">My Profile </a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/view/displayManageFavorites.kickAction?as=117547\">Favorites</a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=photo&sortType=recent\">Photos</a></li>\n      <li> | </li>\n      <li><a href=\"http://community.foodandwine.com/service/searchEverything.kickAction?as=117547&mediaType=blog&sortType=recent&includeBlog=on&d-7095067-p=1\">Posts</a></li>\n      <li> | </li>\n      <li>\n        <div id=\"login-spinner\">\n  <img alt=\"\" src=\"/images/spinner.gif\" width=\"16\" id=\"status-spinner\" />\n    </div>   \n    </li>\n  </ul>\n    </div>  \n\
       </div>\n\n\
       <div id=\"topLinkWrapper\" style=\"width:360px;\">\n\
-      <div id=\"navMenu\">\n  <ul>\n    <li id=\"starchefs\">\n      <a href=\"http://www.foodandwine.com/starchefskidscook\" class=\"hide\"><img src=\"images/top_nav-starchefskidscook.gif\"alt=\"Star Chefs Kids Cook\"></a>\n    </li>  \n    <li id=\"tsubsc\">\n          <a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\" class=\"hide\"><span>SUBSCRIBE</span></a>\n            <ul>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\">MAGAZINE</a></li>\n         <li class=\"sub\"><a href=\"http://www.foodandwine.com/newsletters\">NEWSLETTERS</a></li>     \n        <li class=\"sub\"><a href=\"http://www.foodandwine.com/books\">BOOKS</a></li>\n        <li class=\"sub\"><a href=\"http://www.fwwineclub.com/\">WINE CLUB</a></li>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1001015.html \">CONNOISSEUR CLUB</a></li>\n        <li class=\"last\"><a href=\"http://www.foodandwine.com/mobile-apps\">IPAD EDITION</a></li>\n        <li class=\"curve\"></li>\n          </ul>\n        </li>\n        <li id=\"tevents\"><a href=\"http://www.foodandwine.com/promo/events\" class=\"hide\"><span>EVENTS</span></a>\n          <ul>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/events\">2011 CALENDAR</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">PROMOTIONS</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">SWEEPSTAKES</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/videos\">F&amp;W VIDEOS</a></li>\n             <li class=\"last\"><a href=\"http://www.foodandwine.com/classic\">F&amp;W CLASSIC</a></li>\n             <li class=\"curve\"></li>     \n           </ul>\n         </li>\n     </ul>\n\
+      <div id=\"navMenu\">\n  <ul>\n    <li id=\"starchefs\">\n      <a href=\"http://www.foodandwine.com/starchefskidscook\" class=\"hide\"><img src=\"/images/top_nav-starchefskidscook.gif\"alt=\"Star Chefs Kids Cook\"></a>\n    </li>  \n    <li id=\"tsubsc\">\n          <a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\" class=\"hide\"><span>SUBSCRIBE</span></a>\n            <ul>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1002184.html\">MAGAZINE</a></li>\n         <li class=\"sub\"><a href=\"http://www.foodandwine.com/newsletters\">NEWSLETTERS</a></li>     \n        <li class=\"sub\"><a href=\"http://www.foodandwine.com/books\">BOOKS</a></li>\n        <li class=\"sub\"><a href=\"http://www.fwwineclub.com/\">WINE CLUB</a></li>\n        <li class=\"sub\"><a href=\"https://subscription.timeinc.com/storefront/link/1001015.html \">CONNOISSEUR CLUB</a></li>\n        <li class=\"last\"><a href=\"http://www.foodandwine.com/mobile-apps\">IPAD EDITION</a></li>\n        <li class=\"curve\"></li>\n          </ul>\n        </li>\n        <li id=\"tevents\"><a href=\"http://www.foodandwine.com/promo/events\" class=\"hide\"><span>EVENTS</span></a>\n          <ul>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/events\">2012 CALENDAR</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">PROMOTIONS</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/promo/\">SWEEPSTAKES</a></li>\n            <li class=\"events\"><a href=\"http://www.foodandwine.com/videos\">F&amp;W VIDEOS</a></li>\n             <li class=\"last\"><a href=\"http://www.foodandwine.com/classic\">F&amp;W CLASSIC</a></li>\n             <li class=\"curve\"></li>     \n           </ul>\n         </li>\n     </ul>\n\
       </div>    \n\
       </div>\n\
       </div>\n\n\
@@ -3222,7 +3143,7 @@ http_interactions:
       <div class='emailcontainer'>\n\
       <div class='containertext'>\n\
       <div id='flash-error'></div>\n\
-      <form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\" data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"SGSeSSj6i9O5zxgqZNlKNLQ0m6BtezN5UrunI9NTBY8=\" /></div>\n\
+      <form accept-charset=\"UTF-8\" action=\"/newsletters/create.js\" data-remote=\"true\" id=\"newsletter_form\" method=\"post\"><div style=\"margin:0;padding:0;display:inline\"><input name=\"utf8\" type=\"hidden\" value=\"&#x2713;\" /><input name=\"authenticity_token\" type=\"hidden\" value=\"yCkcDk5JPYSdT3z4sOvuz3Go5Su+zBMW3EgBz3g/nLk=\" /></div>\n\
       <div class='content'>\n\
       <div class='rowtext'>\n\
       <div class='checkbox'>\n\
@@ -3280,7 +3201,7 @@ http_interactions:
       <div>\n\
       <input class='textfieldsize clear-input' id='e_mail' name='newsletter[email]' type='text' value='Enter your email address'>\n\
       <a href='http://www.foodandwine.com/newsletters' target='_blank'></a>\n\
-      <input alt=\"Go\" class=\"signupbtn\" name=\"submit\" src=\"/images/submitForm.gif?1328223822\" type=\"image\" value=\"Sign Up\" />\n\
+      <input alt=\"Go\" class=\"signupbtn\" name=\"submit\" src=\"/images/submitForm.gif?1329924736\" type=\"image\" value=\"Sign Up\" />\n\
       <input id=\"newsletter_source\" name=\"newsletter[source]\" type=\"hidden\" value=\"CM TOUT\" />\n\
       </div>\n\
       <div class='clear'></div>\n\
@@ -3466,6 +3387,12 @@ http_interactions:
       <img border='0' class='space' height='10px' src='/images/mobile_apps_small.gif' width='10px'>\n\
       Get F&amp;W Mobile Apps\n\
       </a>\n\
+      <span class='horzSpace'>\n\
+      |\n\
+      </span>\n\
+      <a href='http://www.foodandwine.com/ipad/'>\n\
+      Download F&amp;W for iPad\n\
+      </a>\n\
       </p>\n\
       <div style='padding: 3px 0;'></div>\n\
       <p class='menusection'>\n\
@@ -3517,26 +3444,11 @@ http_interactions:
       <br>\n\
       <span class='cwcolor'>Copyright &copy; 1997 - 2012 American Express Publishing Corporation. All Rights Reserved.</span>\n\
       <br>\n\
-      3.39-ci\n\
+      4.0.1-ci\n\
       </p>\n\
       </div>\n\
       </div>\n\
       <!-- FOOTER SITEMAP -->\n\
-      <!-- .emailcontainer-bttm -->\n\
-      <!-- = render 'shared/newsletter_signup' -->\n\
-      </div>\n\
-      <div id='ad-btm'>\n\
-      <div id='ad-btm-inner'>\n\
-      <script language='javascript' type='text/javascript'>\n\
-      //<![CDATA[\n\
-      var ad = adFactory.getAd(728, 90);\n\
-      ad.setPosition('2');\n\
-      ad.setParam(\"!c\", \"expandables\");\n\
-      ad.zone = adFactory.zone + '/footer';\n\
-      ad.write();\n\
-      //]]>\n\
-      </script>\n\n\
-      </div>\n\
       </div>\n\n\
       <div id='fb-root'></div>\n\
       <div id='share-bar' style='display:none;'>\n\
@@ -3594,10 +3506,10 @@ http_interactions:
       </a>\n\
       </div>\n\
       </div>\n\n\
-      <script src=\"/javascripts/universal_share_bar.js?1328223822\" type=\"text/javascript\"></script>\n\
+      <script src=\"/javascripts/universal_share_bar.js?1329924736\" type=\"text/javascript\"></script>\n\
       </div>\n\
       </body>\n\
       </html>\n\n"
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:10:22 GMT
+  recorded_at: Mon, 27 Feb 2012 02:25:00 GMT
 recorded_with: VCR 2.0.0.rc1

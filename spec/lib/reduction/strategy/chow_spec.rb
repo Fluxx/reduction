@@ -65,7 +65,7 @@ module Reduction
         it_should_find 'total_time', '45 mins, plus at least 7 hrs freezing time'
 
         it_should_find 'images', [
-          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_620.jpg",
+          "http://search.chow.com/thumbnail/480/0/www.chow.com/assets/2011/04/29576_chocolate_dipped_vanilla_ice_cream_bars_620.jpg",
           "http://www.chow.com/images/green_checkmark.png",
           "http://www.chow.com/assets/2011/04/vanilla_bar_1.jpg",
           "http://www.chow.com/assets/2011/04/vanilla_bar_2.jpg",
@@ -116,7 +116,7 @@ module Reduction
         end
 
         it_should_find 'images', [
-          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2011/04/29539_pavlova_lemon_curd_620.jpg",
+          "http://search.chow.com/thumbnail/480/0/www.chow.com/assets/2011/04/29539_pavlova_lemon_curd_620.jpg",
           "http://www.chow.com/images/green_checkmark.png",
           "http://www.chow.com/assets/2011/04/lemoncurd_1.jpg",
           "http://www.chow.com/assets/2011/04/lemoncurd_2.jpg",
@@ -165,7 +165,7 @@ module Reduction
         end
 
         it_should_find 'images', [
-          "http://search.chow.com/thumbnail/480/0/www.chow.com//assets/2010/10/28966_apple_honey_cakes_3_620.jpg",
+          "http://search.chow.com/thumbnail/480/0/www.chow.com/assets/2010/10/28966_apple_honey_cakes_3_620.jpg",
           "http://www.chow.com/images/green_checkmark.png"
         ]
 

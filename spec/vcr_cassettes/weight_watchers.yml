@@ -25,7 +25,7 @@ http_interactions:
       cp: 
       - CAO DSP CURa ADMa DEVa TAIa PSAa IVAa CONi OTPa OUR SAMa STP PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE
       date: 
-      - Sun, 05 Feb 2012 02:14:29 GMT
+      - Mon, 27 Feb 2012 02:28:07 GMT
       transfer-encoding: 
       - chunked
       connection: 
@@ -127,7 +127,7 @@ http_interactions:
       <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_on\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_on\" value=\"#FFFEE9\" /> <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_off\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_off\" value=\"#73AEDA\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_jnl_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_jnl_lang\" value=\"Journal\" /> <input name=\"ucTopnav:uctr_tn_tabs:hdn_fav_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_fav_lang\" value=\"My Favorites\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_mplan_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_mplan_lang\" value=\"Meal Plans\" />\r\n\
-      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=139331;food|recipescooking;;2/4/2012 9:14:31 PM\" />\r\n\
+      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=139331;food|recipescooking;;2/26/2012 9:28:33 PM\" />\r\n\
       \r\n\
       <!-- END FAST TOPNAV REMOVAL -->\r\n\
       <script type='text/javascript'>\r\n    var isTopNavLogin = 'true';\r\n    SetFacebookAppId(\"208045679207522\");\r\n    SetFacebookLikeEnabled(true);\r\n    LoadFBJSSdk();\r\n\
@@ -260,7 +260,18 @@ http_interactions:
       var clickPath = \"/recipe\";\r\n\
       var strDcopt = \"ist\";\r\n\
       var abr = \"!webtv\";\r\n\
-      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"/util/mtf/index.aspx\"><img border=\"0\" hspace=\"0\" height=\"170\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/BUG_107799_us_callout_wwm_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"https://Signup.weightwatchers.com/signup/promo.aspx?channelid=4&amp;sponsorid=16&amp;promotionid=4536&amp;uniqueid=18668\"><img border=\"0\" hspace=\"0\" height=\"150\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/us_callout_wwo_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"article-community\"><div class=\"rr-more-section\"><h2>Community</h2><span class=\"rr-more-section-span\"><div><a href=\"http://community.weightwatchers.com/Challenges/SearchChallenges.aspx?s=&amp;t=4&amp;f=18&amp;v=Cooking\">Cooking Challenges</a></div><div><a href=\"http://community.weightwatchers.com/Groups/SearchGroups.aspx?s=&amp;t=2&amp;f=18&amp;v=Food\">Food Groups</a></div><div><a href=\"http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=&amp;t=16&amp;f=17&amp;v=Eating+out\">Eating Out Blogs</a></div></span></div></div>\r\n                    </div>\r\n                    <!-- end article_rightcolrail -->\r\n                </div>\r\n            </div>\r\n            <!-- End gateway_content_bg_middle -->\r\n            <div class=\"gateway_content_bg_bottom\">\r\n            </div>\r\n        </div>\r\n        <!-- End grid_gateway_content -->\r\n        \r\n\
+      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"/util/mtf/index.aspx\"><img border=\"0\" hspace=\"0\" height=\"170\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/BUG_107799_us_callout_wwm_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"https://Signup.weightwatchers.com/signup/promo.aspx?channelid=4&amp;sponsorid=16&amp;promotionid=4536&amp;uniqueid=18668\"><img border=\"0\" hspace=\"0\" height=\"150\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/us_callout_wwo_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><div class=\"co-txt\"><script>\r\n\
+      var adSize = \"300x600\";\r\n\
+      var linkTarget = \"_top\";\r\n\
+      var imgWidth = \"300\";\r\n\
+      var imgHeight = \"600\";\r\n\
+      var ordVal = Math.random()*10000000000000000;\r\n\
+      var strDomain = \"weightwatchers.com\";\r\n\
+      var contentPath = \"/recipe\";\r\n\
+      var clickPath = \"/recipe\";\r\n\
+      var strDcopt = \"ist\";\r\n\
+      var abr = \"!webtv\";\r\n\
+      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"article-community\"><div class=\"rr-more-section\"><h2>Community</h2><span class=\"rr-more-section-span\"><div><a href=\"http://community.weightwatchers.com/Challenges/SearchChallenges.aspx?s=&amp;t=4&amp;f=18&amp;v=Cooking\">Cooking Challenges</a></div><div><a href=\"http://community.weightwatchers.com/Groups/SearchGroups.aspx?s=&amp;t=2&amp;f=18&amp;v=Food\">Food Groups</a></div><div><a href=\"http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=&amp;t=16&amp;f=17&amp;v=Eating+out\">Eating Out Blogs</a></div></span></div></div>\r\n                    </div>\r\n                    <!-- end article_rightcolrail -->\r\n                </div>\r\n            </div>\r\n            <!-- End gateway_content_bg_middle -->\r\n            <div class=\"gateway_content_bg_bottom\">\r\n            </div>\r\n        </div>\r\n        <!-- End grid_gateway_content -->\r\n        \r\n\
       <!--  BEGIN FAST REMOVAL  -->\r\n\
       <!--  DO NOT REMOVE THESE FAST SEARCH RELATED COMMENTS  -->\r\n\
       &nbsp;\r\n\
@@ -343,7 +354,7 @@ http_interactions:
       </body>\r\n\
       </html>\r\n"
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:14:29 GMT
+  recorded_at: Mon, 27 Feb 2012 02:28:07 GMT
 - request: 
     method: get
     uri: http://www.weightwatchers.com/food/rcp/RecipePage.aspx?recipeId=218411
@@ -364,12 +375,14 @@ http_interactions:
       - Microsoft-IIS/7.5
       x-aspnet-version: 
       - 4.0.30319
+      x-powered-by: 
+      - ASP.NET
       cp: 
       - CAO DSP CURa ADMa DEVa TAIa PSAa IVAa CONi OTPa OUR SAMa STP PHY ONL UNI PUR FIN COM NAV INT DEM CNT PRE
       content-length: 
-      - "62454"
+      - "62952"
       date: 
-      - Sun, 05 Feb 2012 02:14:29 GMT
+      - Mon, 27 Feb 2012 02:28:07 GMT
       connection: 
       - keep-alive
       cache-control: 
@@ -468,7 +481,7 @@ http_interactions:
       <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_on\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_on\" value=\"#FFFEE9\" /> <input name=\"ucTopnav:uctr_tn_tabs:tab_bgcolor_off\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_tab_bgcolor_off\" value=\"#73AEDA\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_jnl_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_jnl_lang\" value=\"Journal\" /> <input name=\"ucTopnav:uctr_tn_tabs:hdn_fav_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_fav_lang\" value=\"My Favorites\" />\r\n\
       <input name=\"ucTopnav:uctr_tn_tabs:hdn_mplan_lang\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdn_mplan_lang\" value=\"Meal Plans\" />\r\n\
-      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=218411;food|recipescooking;;2/4/2012 9:14:18 PM\" />\r\n\
+      <input name=\"ucTopnav:uctr_tn_tabs:hdnParamVals\" type=\"hidden\" id=\"ucTopnav_uctr_tn_tabs_hdnParamVals\" value=\"/food/rcp/recipepage.aspx?recipeid=218411;food|recipescooking;;2/26/2012 9:28:07 PM\" />\r\n\
       \r\n\
       <!-- END FAST TOPNAV REMOVAL -->\r\n\
       <script type='text/javascript'>\r\n    var isTopNavLogin = 'true';\r\n    SetFacebookAppId(\"208045679207522\");\r\n    SetFacebookLikeEnabled(true);\r\n    LoadFBJSSdk();\r\n\
@@ -497,8 +510,8 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n                        <!-- Recipe Info -->\r\n                        <div>\r\n                            \r\n    <script type=\"text/javascript\">\r\n        $(document).ready(function () {\r\n            $(\"a#LargerImage\").fancybox({\r\n                'titlePosition': 'inside',\r\n                'overlayColor': '#000',\r\n                'overlayOpacity': 0.5,\r\n                'onStart': function () { $('embed, object, select, iframe').css('visibility', 'hidden'); },\r\n                'onCleanup': function () { $('embed, object, select, iframe').css({ 'visibility': 'visible' }); }\r\n            });\r\n        }); \r\n    </script>\r\n    <!-- Recipe Introdution -->\r\n    <div class=\"article-intro\">\r\n        <h1>\r\n            Vegan Lemon-Poppy Pound Cake</h1>\r\n    </div>\r\n    <!--Recipe Details-->\r\n    <div class=\"recipe-main clearfix\">\r\n        <div class=\"article-img-wrap\">\r\n            <div class=\"article-img\">\r\n                <img id=\"ucRecipeInfo_imgRecipe\" title=\"Image of  Vegan Lemon-Poppy Pound Cake\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/foodandrecipes/2010/04/VeganLemonPoppyPoundcake_n_lg.jpg\" alt=\"Image of  Vegan Lemon-Poppy Pound Cake\" border=\"0\" height=\"216\" width=\"216\" />\r\n            </div>\r\n            <div class=\"recipe-image-links clearfix\">\r\n                <span>\r\n                    <span class=\"rec-image\"><a href=\"/images/1033/dynamic/foodandrecipes/2011/11/VeganLemonPoppyPoundcake_074_600.jpg\" id=\"LargerImage\">\r\n                        Larger Image</a></span>\r\n                    <!-- start article-video -->\r\n                    \r\n                    <!-- end article-video -->\r\n                </span>\r\n                \r\n            </div>\r\n            \r\n        </div>\r\n        <div class=\"recipe-tr\">\r\n            <div class=\"recipe-type\">\r\n                Weight Watchers Recipe\r\n            </div>\r\n            <div class=\"recipe-comm-byline\">\r\n                \r\n            </div>\r\n            <div id=\"ucRecipeInfo_pnlRecipeSummary\" class=\"recipe-summary clearfix\">\r\n\
-      \t\r\n                <div class=\"rec-sum1 clearfix\">\r\n                    <div class=\"rec-sum1-1\">\r\n                        <div class=\"rec-ratings\">\r\n                            <img id=\"ucRecipeInfo_uctrRatingStars_imgRatingStars\" title=\"19 people rated this recipe\" src=\"http://aka.weightwatchers.com/images/1033/Rating/Recipe_Rating_Stars_3.5.gif\" alt=\"19 people rated this recipe\" border=\"0\" />\r\n\
-      \r\n                        </div>\r\n                        <div class=\"rec-reviews\">\r\n                            Ratings\r\n                            (19)\r\n                            </div>\r\n                    </div>\r\n                    <div id=\"ucRecipeInfo_divRecSum1_2\" class=\"rec-sum1-2\" style=\"border-right:none;\">\r\n                        <span id=\"ucRecipeInfo_lblPointsPlusValue\" class=\"rec-points\">4</span><span class=\"rec-pointst\">PointsPlus <span class=\"pntVal\">Value</span></span></div>\r\n                    \r\n                </div>\r\n                <div class=\"rec-sum2 clearfix\">\r\n                    <div class=\"rec-sum2-1 clearfix\">\r\n                        <div class=\"prep-time\">\r\n                            <span class=\"rec-label\">Prep time:</span> &nbsp;10 min</div>\r\n                        <div class=\"cook-time\">\r\n                            <span class=\"rec-label\">Cook time:</span> &nbsp;40 min</div>\r\n                    </div>\r\n                    <div class=\"rec-sum2-2\">\r\n                        <span class=\"rec-label\">Serves</span>: 12</div>\r\n                </div>\r\n            \r\n\
+      \t\r\n                <div class=\"rec-sum1 clearfix\">\r\n                    <div class=\"rec-sum1-1\">\r\n                        <div class=\"rec-ratings\">\r\n                            <img id=\"ucRecipeInfo_uctrRatingStars_imgRatingStars\" title=\"20 people rated this recipe\" src=\"http://aka.weightwatchers.com/images/1033/Rating/Recipe_Rating_Stars_3.5.gif\" alt=\"20 people rated this recipe\" border=\"0\" />\r\n\
+      \r\n                        </div>\r\n                        <div class=\"rec-reviews\">\r\n                            Ratings\r\n                            (20)\r\n                            </div>\r\n                    </div>\r\n                    <div id=\"ucRecipeInfo_divRecSum1_2\" class=\"rec-sum1-2\" style=\"border-right:none;\">\r\n                        <span id=\"ucRecipeInfo_lblPointsPlusValue\" class=\"rec-points\">4</span><span class=\"rec-pointst\">PointsPlus <span class=\"pntVal\">Value</span></span></div>\r\n                    \r\n                </div>\r\n                <div class=\"rec-sum2 clearfix\">\r\n                    <div class=\"rec-sum2-1 clearfix\">\r\n                        <div class=\"prep-time\">\r\n                            <span class=\"rec-label\">Prep time:</span> &nbsp;10 min</div>\r\n                        <div class=\"cook-time\">\r\n                            <span class=\"rec-label\">Cook time:</span> &nbsp;40 min</div>\r\n                    </div>\r\n                    <div class=\"rec-sum2-2\">\r\n                        <span class=\"rec-label\">Serves</span>: 12</div>\r\n                </div>\r\n            \r\n\
       </div>\r\n            <div class=\"recipe-desc\">\r\n                Lovely and lemony. Just the right balance of sweet and tart.\r\n            </div>\r\n        </div>\r\n    </div>\r\n    <div style=\"display: none\">\r\n        <!-- Begin Publish Dialog -->\r\n        <div id=\"dialog\" title=\"Publish Recipe\" class=\"ww-dialog\">\r\n            <a class=\"close-button\" onclick=\"CloseDialog();\" title=\"close\">Close </a>\r\n            <div class=\"dialog-lnk\" style=\"margin-top: 10px;\">\r\n                <div id=\"divPublishRecipe\">\r\n                    <div>\r\n                        Select \"Post\" to show off your original recipe and let others in the Community Recipe Swap try it for themselves. If you want to make this recipe available to only your Community friends, select \"Save to my Profile.\"</div>\r\n                    <div style=\"margin-top: 10px\" id=\"divPostButton\">\r\n                        <div style=\"float: left; width: 80px;\">\r\n                            <input type=\"submit\" name=\"ucRecipeInfo:btnPostToCommunityRecipeSwap\" value=\"Post\" id=\"ucRecipeInfo_btnPostToCommunityRecipeSwap\" /></div>\r\n                        <div style=\"float: left; line-height: 25px;\">\r\n                            <a id=\"ucRecipeInfo_btnSaveToCommunity\" class=\"btnSaveToCommunity\" href=\"javascript:void(0);\">Save to my Profile</a></div>\r\n                    </div>\r\n                    <div id=\"divWait\" style=\"margin-top: 10px;\">\r\n                        <i>Please Wait...</i></div>\r\n                    <div class=\"clear\">\r\n                    </div>\r\n                    <div id=\"divDialogFooter\" style=\"margin-top: 10px; border-top: 1px solid #CCC; padding-top: 2px;\">\r\n                        <span class=\"small\">\r\n                            IMPORTANT: You should only swap recipes that are your own and not someone else\xE2\x80\x99s. For more information, please review our <a href=\"http://www.weightwatchers.com/legal/terms.aspx\">Terms and Conditions</a> and <a href=\"http://www.weightwatchers.com/util/art/index_art.aspx?tabnum=6&art_id=5351&sc=68\">Community Recipe Swap Official Rules</a>.</span>\r\n                    </div>\r\n                </div>\r\n                <div id=\"divPublishRecipeError\" style=\"color: red; font-weight: bold; display: none;\">\r\n                    This recipe cannot be posted due to an inappropriate word. Please <a style=\"color: red;\" href=\"javascript:openPlanManager('deepLinkToRecipeBuilder','commandType=editRecipe&value=218411');CloseDialog();\">edit</a> your recipe and post again.\r\n                </div>\r\n                <div id=\"divPublishRecipeFailed\" style=\"padding-top: 5px; display: none;\">\r\n                    Your recipe cannot be posted at this time. Please try again in a few minutes.\r\n                </div>\r\n                <div id=\"divPublishRecipeSocNetDown\" style=\"display: none;\">\r\n                    <div>\r\n                        Oops! The Community is currently unavailable. Please check back later to post your recipe. We\xE2\x80\x99re sorry for the inconvenience.</div>\r\n                </div>\r\n                <div id=\"divBtnOk\" style=\"display: none; margin-top: 20px;\">\r\n                    <input type=\"submit\" name=\"ucRecipeInfo:btnOk\" value=\"OK\" onclick=\"CloseDialog();return false;\" language=\"javascript\" id=\"ucRecipeInfo_btnOk\" /></div>\r\n            </div>\r\n        </div>\r\n        <!-- End Publish Dialog -->\r\n    </div>\r\n\
       \r\n\
       \r\n\
@@ -606,7 +619,18 @@ http_interactions:
       var clickPath = \"/recipe\";\r\n\
       var strDcopt = \"ist\";\r\n\
       var abr = \"!webtv\";\r\n\
-      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"/util/mtf/index.aspx\"><img border=\"0\" hspace=\"0\" height=\"170\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/BUG_107799_us_callout_wwm_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"https://Signup.weightwatchers.com/signup/promo.aspx?channelid=4&amp;sponsorid=16&amp;promotionid=4536&amp;uniqueid=18668\"><img border=\"0\" hspace=\"0\" height=\"150\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/us_callout_wwo_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"article-community\"><div class=\"rr-more-section\"><h2>Community</h2><span class=\"rr-more-section-span\"><div><a href=\"http://community.weightwatchers.com/Challenges/SearchChallenges.aspx?s=&amp;t=4&amp;f=18&amp;v=Cooking\">Cooking Challenges</a></div><div><a href=\"http://community.weightwatchers.com/Groups/SearchGroups.aspx?s=&amp;t=2&amp;f=18&amp;v=Food\">Food Groups</a></div><div><a href=\"http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=&amp;t=16&amp;f=17&amp;v=Eating+out\">Eating Out Blogs</a></div></span></div></div>\r\n                    </div>\r\n                    <!-- end article_rightcolrail -->\r\n                </div>\r\n            </div>\r\n            <!-- End gateway_content_bg_middle -->\r\n            <div class=\"gateway_content_bg_bottom\">\r\n            </div>\r\n        </div>\r\n        <!-- End grid_gateway_content -->\r\n        \r\n\
+      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"/util/mtf/index.aspx\"><img border=\"0\" hspace=\"0\" height=\"170\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/BUG_107799_us_callout_wwm_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><a href=\"https://Signup.weightwatchers.com/signup/promo.aspx?channelid=4&amp;sponsorid=16&amp;promotionid=4536&amp;uniqueid=18668\"><img border=\"0\" hspace=\"0\" height=\"150\" width=\"125\" src=\"http://aka.weightwatchers.com/images/1033/dynamic/GCMSImages/us_callout_wwo_wds_2012_125.jpg\" alt=\"\"></img></a><div class=\"clr\"></div></div></div><div class=\"callout\" xmlns:fo=\"http://www.w3.org/1999/XSL/Format\"><div class=\"co-ad\"><div class=\"co-txt\"><script>\r\n\
+      var adSize = \"300x600\";\r\n\
+      var linkTarget = \"_top\";\r\n\
+      var imgWidth = \"300\";\r\n\
+      var imgHeight = \"600\";\r\n\
+      var ordVal = Math.random()*10000000000000000;\r\n\
+      var strDomain = \"weightwatchers.com\";\r\n\
+      var contentPath = \"/recipe\";\r\n\
+      var clickPath = \"/recipe\";\r\n\
+      var strDcopt = \"ist\";\r\n\
+      var abr = \"!webtv\";\r\n\
+      </script><script src=\"/include/trafficAds.js\"></script></div><div class=\"clr\"></div></div></div><div class=\"article-community\"><div class=\"rr-more-section\"><h2>Community</h2><span class=\"rr-more-section-span\"><div><a href=\"http://community.weightwatchers.com/Challenges/SearchChallenges.aspx?s=&amp;t=4&amp;f=18&amp;v=Cooking\">Cooking Challenges</a></div><div><a href=\"http://community.weightwatchers.com/Groups/SearchGroups.aspx?s=&amp;t=2&amp;f=18&amp;v=Food\">Food Groups</a></div><div><a href=\"http://community.weightwatchers.com/Blogs/SearchBlogs.aspx?s=&amp;t=16&amp;f=17&amp;v=Eating+out\">Eating Out Blogs</a></div></span></div></div>\r\n                    </div>\r\n                    <!-- end article_rightcolrail -->\r\n                </div>\r\n            </div>\r\n            <!-- End gateway_content_bg_middle -->\r\n            <div class=\"gateway_content_bg_bottom\">\r\n            </div>\r\n        </div>\r\n        <!-- End grid_gateway_content -->\r\n        \r\n\
       <!--  BEGIN FAST REMOVAL  -->\r\n\
       <!--  DO NOT REMOVE THESE FAST SEARCH RELATED COMMENTS  -->\r\n\
       &nbsp;\r\n\
@@ -643,7 +667,7 @@ http_interactions:
       s.eVar17=\"visitor\";\r\n\
       s.account=\"wwatchcomusa\";\r\n\
       s.prop11=\"visitor\";\r\n\
-      s.server=\"NYAPUSWEB09\";\r\n\
+      s.server=\"NYAPUSWEB38\";\r\n\
       s.prop25=\"\";\r\n\
       s.cookieDomainPeriods=\"2\";\r\n\
       \r\n\
@@ -678,7 +702,7 @@ http_interactions:
       \r\n\
       \r\n\
       \r\n\
-      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"nyapusweb09\" />\r\n\
+      <input name=\"ucFooter:hdnWWSERVERNAME\" type=\"hidden\" id=\"ucFooter_hdnWWSERVERNAME\" value=\"NYAPUSWEB38\" />\r\n\
       <!--  END FAST REMOVAL  -->\r\n    </div>\r\n    <div class=\"grid_ww_wrapper_btm\">\r\n    </div>\r\n    <input name=\"GcmsTraceInfo\" type=\"hidden\" id=\"GcmsTraceInfo\" value=\"PageID:1002171 | PreviewDate: | PreviewEnabled:False | FromCache:True | ~\" />\r\n    \r\n\
       \r\n\
       <script type=\"text/javascript\">\r\n\
@@ -689,5 +713,5 @@ http_interactions:
       </body>\r\n\
       </html>\r\n"
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:14:29 GMT
+  recorded_at: Mon, 27 Feb 2012 02:28:07 GMT
 recorded_with: VCR 2.0.0.rc1

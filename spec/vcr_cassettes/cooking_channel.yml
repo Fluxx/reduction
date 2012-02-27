@@ -17,19 +17,19 @@ http_interactions:
       server: 
       - Apache/2.0.63 (Unix) DAV/2
       content-length: 
-      - "75925"
+      - "76494"
       content-type: 
       - text/html
       set-cookie: 
-      - SMIDENTITY=maX4IfmuV8esDWiYwxO83ikofAE3+kEsaL9WjmQ9OF3rNBfgPEd/QFCmv0p1HNwz2HTifQ55VegOqrksyuEsd3AJdOBEjCxLdL0wUA3zKuvqVMnDTeHmwkyCsOMXjqgWc7vhssGHeZFKFtNO4MK3p5UdHVuQ8/CqzbBV6QB420qWwl8mq4QFRJW/tuLLbBWg5PO2BECrxaD3kKTRY8tUFlmHg5QmstXIUbh0e3urDm1k92h2whIvjARQz9ey6YN0L9JWfy1uIWfvE39eH76oj3B0wkpsrSnkd15tLZdpOBIo48osamWD3gPP89+mzhewOpMEX2VHm9oXdyHWE5CgNzHJ0mxUntyLyP+FN8G46jcVs+XAWlB/IGw3YPVmwJBpP+O3/OXisEZr16g7Si2O0K5Ikxd1o0s18TVyxCv2ipwqbDVmH1FacBxUPYjF/fd2H217yYlASb5//cKFHy3ZHE9evt6TXEi3; path=/; domain=.cookingchanneltv.com
+      - SMIDENTITY=3Ei3thHOZ81u2cmIe/Gill321vWWiImnIvC6ckWc6rAJ+3vOpyT4sEHkeXB4dIjCQEZoy2XJU4zO9SwM4fWhmjK785+/bwxF0dY8we7Wph+FbDtDZjHa2BaahHF1AMJpok+R7QlQS8Z40lIXAIs1Y6fCirO0VGdNxJbj0l1lum5uSnQqGFyV0MrSX43G5K5J8HSlp3WyliV1mytV4DE+OyuoixXOaDqP408rEROixG5ln8UNK6oWd5HDfcbNbTAVasA2DW4Nzot5T/rIB9YF/es3kILkGqqy066eV28aPgODsdg87flWmB7MVpiyYliLNhHZuvW+rYI3U/8Jkrall1pvqtt3c1gB6p1FO/IIFTCTWmPjzpiWOt369jl/5zluw6l2OMn1sxe45+Pp5mVBu3xTdx9pwP+CTiWfuIfsoqMctFjdb1sFF/aISb2WRy+nAPikISDAl/ztmnTkQOv+I0MyCWNX9K6O; path=/; domain=.cookingchanneltv.com
       expires: 
-      - Sun, 05 Feb 2012 02:15:25 GMT
+      - Mon, 27 Feb 2012 02:23:48 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Sun, 05 Feb 2012 02:15:25 GMT
+      - Mon, 27 Feb 2012 02:23:48 GMT
       connection: 
       - keep-alive
     body: " \n\
@@ -164,7 +164,7 @@ http_interactions:
       </li>\r\n\
       <li><a href=\"http://www.cookingchanneltv.com/unique-eats/index.html\" rel=\"gh-c1-16\">Unique Eats</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">United Sweets</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">Unique Sweets</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -271,45 +271,43 @@ http_interactions:
       <h3>MEALS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
       \r\n\
-      <h3>PARTY FOOD RECIPES</h3>\r\n\
-      \r\n\
+      <h3>COMFORT FOODS</h3>\r\n\
       <ul class=\"list\">\r\n\
-      \r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\" rel=\"gh-c3-11\">Recipes for Super Bowl</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cheese-lovers-comfort-foods/pictures/index.html\" rel=\"gh-c4-11\">Cheese-Lover's Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\" rel=\"gh-c3-12\">Appetizers and Snacks</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/our-best-one-pot-meals/pictures/index.html\" rel=\"gh-c4-12\">Best One-Pot Meals</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\" rel=\"gh-c3-13\">Dip Recipes</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/decadent-dessert-recipes/pictures/index.html\" rel=\"gh-c4-13\">Decadent Dessert Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/world-of-wings/pictures/index.html\" rel=\"gh-c3-14\">Hot Wing Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/low-calorie-appetizers-and-party-foods/pictures/index.html\" rel=\"gh-c3-15\">Healthy Party Foods</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-sandwich-recipes/pictures/index.html\" rel=\"gh-c3-16\">Top 10 Sandwiches</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chili-recipes/pictures/index.html\" rel=\"gh-c3-17\">Chili Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\" rel=\"gh-c3-18\">Top Desserts</a>\r\n\
       </ul>\r\n\
-      </div>\r\n\
       \r\n\
-      <div class=\"columns\">\r\n\
       <h3>MORE</h3>\r\n\
       \r\n\
-      <ul class=\"menu\">\r\n <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-21\">Browse All Recipes</a>\r\n\
+      <ul class=\"list\">\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cajun-recipes-for-mardi-gras/pictures/index.html\" rel=\"gh-c3-14\">Cajun Recipes for Mardi Gras</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-breakfast-recipes/pictures/index.html\" rel=\"gh-c3-15\">Healthy Breakfast Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/italian-style-pasta-recipes/pictures/index.html\" rel=\"gh-c3-16\">Pasta Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/spicy-recipes-the-heat-is-on/pictures/index.html\" rel=\"gh-c3-17\">Hot & Spicy Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/amazing-vegetarian-recipes/pictures/index.html\" rel=\"gh-c3-18\">Vegetarian Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-19\">Browse All Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -326,37 +324,30 @@ http_interactions:
       <span class=\"button close\">x</span>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
-      <h3>PARTY APPETIZERS</h3>\r\n\
-      \r\n\
-      <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=85083\" rel=\"gh-c4-1\">Beer-Braised Chicken Wings</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60623&video=85087\" rel=\"gh-c4-2\">Shrimp Tacos</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=89223\" rel=\"gh-c4-3\">Chuck's Stuffed Potato Skins</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html\" rel=\"gh-c4-4\">More Appetizer Videos</a>\r\n\
-      </li>\r\n\
-      </ul>\r\n\
-      \r\n\
       <h3>DESSERT RECIPES</h3>\r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54249\" rel=\"gh-c4-5\">Snickers Brownies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/double-ovens-show-page-hub/video/index.html?videoId=85076\" rel=\"gh-c4-1\">Chocolate Bonbons</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54541\" rel=\"gh-c4-6\">White Chocolate Blondies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/shortcake-trifles/video/index.html\" rel=\"gh-c4-2\">Shortcake Trifles</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=63004\" rel=\"gh-c4-7\">Chocolate Stout Cake</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/dark-chocolate-espresso-kissed-brownies-with-chocolate-mascarpone-frosting/video/index.html\" rel=\"gh-c4-3\">Chocolate Espresso Brownies</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/nadias-key-lime-habanero-cheesecake/video/index.html\" rel=\"gh-c4-4\">Key Lime Cheesecake</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-drinks-with-alie-and-georgia/videos/index.html?channel=61742&video=89006\" rel=\"gh-c4-5\">Red Velvet Cupcake Cocktails</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
       <h3>KITCHEN BASICS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-8\">Braising 101</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-6\">Braising 101</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-9\">Easy Chicken Dinners</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-7\">Easy Chicken Dinners</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-10\">Stir Fry Basics</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-8\">Stir Fry Basics</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=70463\" rel=\"gh-c4-9\">How to Bake a Cake</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -403,13 +394,13 @@ http_interactions:
       <li id=\"gh-blog\" class=\"nav-item\"><a class=\"nav-item-title\" href=\"http://blog.cookingchanneltv.com\" rel=\"gh-c5\">blog</a></li>\r\n\
       </ul>\r\n\
       <ul class=\"menu sni-sub-nav\" id=\"nav-e\"> \r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\"><em>Game-Day Party:</em></a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/best-international-recipes-global-food-and-cooking/package/index.html\"><em>Skip the Takeout:</em></a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/best-italian-recipes-and-menus/package/index.html\">Italian Recipes</a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\">Chips and Dips</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/best-mexican-recipes-and-menus/package/index.html\">Mexican Recipes </a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\">Dessert Recipes</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/easy-chinese-recipes-and-menus/package/index.html\">Chinese Recipes </a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
@@ -682,11 +673,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -727,16 +723,19 @@ http_interactions:
       <h3>Similar Recipes</h3>\n\
       <ul class=\"list\">\n\
       <li>\n\
-      <a href=\"/recipes/emeril-lagasse/foie-gras-and-mushroom-stew-with-mascarpone-dumplings-recipe/index.html\">Foie Gras and Mushroom Stew with Mascarpone Dumplings</a>\n\
+      <a href=\"/recipes/michael-chiarello/moules-mariniere-with-garlic-herb-butter-recipe/index.html\">Moules Mariniere with Garlic Herb Butter</a>\n\
+      </li>\n\
+      <li>\n\
+      <a href=\"/recipes/mario-batali/seafood-appetizer-in-the-style-of-venezia-misto-di-mare-alla-veneziana-recipe/index.html\">Seafood Appetizer in the Style of Venezia: Misto di Mare alla Veneziana</a>\n\
       </li>\n\
       <li>\n\
       <a href=\"/recipes/emeril-lagasse/celery-root-fries-with-a-crab-ravigote-recipe/index.html\">Celery Root Fries with a Crab Ravigote</a>\n\
       </li>\n\
       <li>\n\
-      <a href=\"/recipes/michael-chiarello/moules-mariniere-with-garlic-herb-butter-recipe/index.html\">Moules Mariniere with Garlic Herb Butter</a>\n\
+      <a href=\"/recipes/emeril-lagasse/garlicky-clams-recipe/index.html\">Garlicky Clams</a>\n\
       </li>\n\
       <li>\n\
-      <a href=\"/recipes/mario-batali/seafood-appetizer-in-the-style-of-venezia-misto-di-mare-alla-veneziana-recipe/index.html\">Seafood Appetizer in the Style of Venezia: Misto di Mare alla Veneziana</a>\n\
+      <a href=\"/recipes/emeril-lagasse/foie-gras-and-mushroom-stew-with-mascarpone-dumplings-recipe/index.html\">Foie Gras and Mushroom Stew with Mascarpone Dumplings</a>\n\
       </li>\n\
       </ul>\n\
       </div>\n\
@@ -955,11 +954,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -987,7 +991,7 @@ http_interactions:
       <script language=\"javascript\">\n\
       document.getElementById(\"com-signin\").style.display=\"none\";\n\
       </script>\n\n\
-      <div id=\"commentsshell\">\n\
+      <div id=\"commentsshell\" class=\"clrfix\">\n\
       \t<div id=\"rz-w\">\n\
       \t\t\n\n\n\n\n\
       \t\n\n\n\n\n\
@@ -1068,7 +1072,7 @@ http_interactions:
       \t\t\t\t\t\t<span>*ALL TIMES EASTERN</span>\n\
       \t\t\t\t\t\t<ul>\n\
       \t\t\t\t\t\t\t<li>\n\
-      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-04-2012_EST,00.html\">Full Schedule</a>\n\n\
+      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-26-2012_EST,00.html\">Full Schedule</a>\n\n\
       \t\t\t\t\t\t\t</li>\n\
       \t\t\t\t\t\t\t<li class=\"last\">\n\
       \t\t\t\t\t\t\t<a rel=\"otv-2\" href=\"/shows/index.html#tva-z\">Shows A-Z</a>\n\
@@ -1083,10 +1087,10 @@ http_interactions:
       \t\t\t\t</div>\n\
       \t\t\t</div> <!-- end schedule module --><div id=\"most-popular\" class=\"pod popular clrfix\">\n\
       \t\t\t\t\t\t\t<h3>Most Popular Recipes</h3>\n\
-      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"Twice-Fried Chicken with Sriracha Honey\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\">\n\
-      \t\t\t\t\t\t\t\t\t\t<img alt=\"Twice-Fried Chicken with Sriracha Honey\" src=\"http://img.foodnetwork.com/FOOD/2011/12/21/CCCLC105_Twice-Fried-Chicken-with-Sriracha-Honey-Recipe_s4x3_sm.jpg\">\n\
+      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"I Want to Marry You Cookies\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\">\n\
+      \t\t\t\t\t\t\t\t\t\t<img alt=\"I Want to Marry You Cookies\" src=\"http://img.foodnetwork.com/FOOD/2011/06/27/CCPRF110_Chocolate-Chip-Cookies-2_s4x3_sm.jpg\">\n\
       \t\t\t\t\t\t\t\t\t\t</a>\n\
-      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\" title=\"Twice-Fried Chicken with Sriracha Honey\">Twice-Fried Chicken with Sriracha Honey</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/bobby-deen/simply-smashed-potato-cakes-recipe/index.html\" title=\"Simply Smashed Potato Cakes\">Simply Smashed Potato Cakes</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/bobby-deen/game-time-chili-dogs-recipe/index.html\" title=\"Game Time Chili Dogs\">Game Time Chili Dogs</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/turkey-roast-dip-with-melted-gruyere-recipe/index.html\" title=\"Turkey Roast Dip with Melted Gruyere\">Turkey Roast Dip with Melted Gruyere</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/rachael-ray/sloppy-joe-and-macaroni-casserole-recipe/index.html\" title=\"Sloppy Joe and Macaroni Casserole\">Sloppy Joe and Macaroni Casserole</a></li></ol></div>\n\
+      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\" title=\"I Want to Marry You Cookies\">I Want to Marry You Cookies</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/drunken-spaghetti-recipe/index.html\" title=\"Drunken Spaghetti\">Drunken Spaghetti</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/chicken-in-white-wine-recipe/index.html\" title=\"Chicken in White Wine\">Chicken in White Wine</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/chicken-cacciatore-recipe/index.html\" title=\"Chicken Cacciatore\">Chicken Cacciatore</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/michael-symon/broiled-porterhouse-with-roasted-garlic-and-lemon-recipe/index.html\" title=\"Broiled Porterhouse with Roasted Garlic and Lemon\">Broiled Porterhouse with Roasted Garlic and Lemon</a></li></ol></div>\n\
       \t\t\t<script type=\"text/javascript\">\n    \t\tSNI.CC.Omniture.MultiVar(\"#most-popular\", \"Most Popular\");\n\
       \t\t\t</script>\n\
       \t\t\t<!-- end popular module -->\n\
@@ -1111,13 +1115,13 @@ http_interactions:
       \t\t\t\t\n\
       \t\t\t<div class=\"ft-wrap-top\">\r\n    <style type=\"text/css\">#sponsor-links em { font-style: italic; }</style><div id=\"sponsor-links\"><div class=\"wrap\"><div class=\"bd clrfix\">\n\
       <h4>Ideas from CookingChannelTV.com</h4><ul class=\"list\">\n\
-      <li><a rel=\"sl-1\" title=\"Drop 5 Pounds\" href=\"/fresh-start-healthy-eating/package/index.html\">Drop 5 Pounds</a></li><li><a rel=\"sl-2\" title=\"Healthy Breakfast Recipes\" href=\"/recipes/healthy-breakfast-recipes/pictures/index.html\">Healthy Breakfast Recipes</a></li><li><a rel=\"sl-3\" title=\"Lightened-Up Comfort Food\" href=\"/healthy-foods-diet/package/index.html\">Lightened-Up Comfort Food</a></li>\n\
+      <li><a rel=\"sl-1\" title=\"Decadent Chocolate Desserts\" href=\"/recipes/chocolate-desserts/pictures/index.html\">Decadent Chocolate Desserts</a></li><li><a rel=\"sl-2\" title=\"Chinese Cooking Techniques\" href=\"http://www.cookingchanneltv.com/topics/chinese/index.html\">Chinese Cooking Techniques</a></li><li><a rel=\"sl-3\" title=\"Paula's Recipes Lightened Up\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Lightened Up</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-4\" title=\"Paula's Recipes Get Healthy\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Get Healthy</a></li><li><a rel=\"sl-5\" title=\"Healthy Italian Recipes\" href=\"/recipes/healthy-italian-recipes/pictures/index.html\">Healthy Italian Recipes</a></li><li><a rel=\"sl-6\" title=\"Low-Calorie Dessert Recipes\" href=\"/recipes/low-calorie-dessert-recipes/pictures/index.html\">Low-Calorie Dessert Recipes</a></li>\n\
+      <li><a rel=\"sl-4\" title=\"Girls'-Night-In Party\" href=\"/nadia-gs-bitchin-kitchen/girls-night-in/index.html\">Girls&rsquo;-Night-In Party</a></li><li><a rel=\"sl-5\" title=\"Red Velvet Cupcakes\" href=\"/recipes/chuck-hughes/red-velvet-cupcakes-recipe/index.html\">Red Velvet Cupcakes</a></li><li><a rel=\"sl-6\" title=\"More Italian Favorites\" href=\"/best-italian-recipes-and-menus/package/index.html\">More Italian Favorites</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-7\" title=\"Eat More Superfoods\" href=\"/recipes/superfoods-nutrient-rich-foods-to-eat-every-day/pictures/index.html\">Eat More Superfoods</a></li><li><a rel=\"sl-8\" title=\"Recipes for the Super Bowl\" href=\"/game-day-food-ideas/package/index.html\">Recipes for the Super Bowl</a></li><li><a rel=\"sl-9\" title=\"Top 10 Sandwich Recipes\" href=\"/recipes/best-sandwich-recipes/pictures/index.html\">Top 10 Sandwich Recipes</a></li>\n\
+      <li><a rel=\"sl-7\" title=\"Best Breakfast Recipes\" href=\"/recipes/better-breakfasts-sweet-savory-and-scrumptious/pictures/index.html\">Best Breakfast Recipes</a></li><li><a rel=\"sl-8\" title=\"Cheese-Lovers' Favorites\" href=\"/recipes/cheese-lovers-comfort-foods/pictures/index.html\">Cheese-Lovers&rsquo; Favorites</a></li><li><a rel=\"sl-9\" title=\"20 Make-Ahead Meals\" href=\"/recipes/a-month-of-weekday-meals-from-rachael-ray/pictures/index.html\">20 Make-Ahead Meals</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-10\" title=\"Best Chili Recipes\" href=\"/recipes/best-chili-recipes/pictures/index.html\">Best Chili Recipes</a></li><li><a rel=\"sl-11\" title=\"Top Hot Wing Recipes\" href=\"/recipes/world-of-wings/pictures/index.html\">Top Hot Wing Recipes</a></li><li><a rel=\"sl-12\" title=\"Best Appetizers and Snacks\" href=\"/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers and Snacks</a></li>\n\
+      <li><a rel=\"sl-10\" title=\"Comfort Food Recipes\" href=\"/comfort-food-recipes/package/index.html\">Comfort Food Recipes</a></li><li><a rel=\"sl-11\" title=\"One-Pot Meals\" href=\"/recipes/our-best-one-pot-meals/pictures/index.html\">One-Pot Meals</a></li><li><a rel=\"sl-12\" title=\"Mexican Cooking\" href=\"/best-mexican-recipes-and-menus/package/index.html\">Mexican Cooking</a></li>\n\
       </ul>\n\
       </div></div></div><script type=\"text/javascript\">\n\
       \t    SNI.CC.Omniture.MultiVar(\"#sponsor-links\", \"Sponsors Links\");\n          </script>\r\n    <div id=\"sister-site-wrap\" class=\"sis-wrapper clrfix\">\r\n    \t<div id=\"more-from-sni\">\n\
@@ -1129,39 +1133,39 @@ http_interactions:
       <div class=\"hd clrfix\"><h3>COOKING CHANNEL FAMILY</h3></div><div class=\"crsl-wrap\"><ul>\n\
       <li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p1-t\" target=\"_blank\" title=\"Food.com\" href=\"http://www.food.com/?xp=cook_footer\">Food.com</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Game Day Grub\" href=\"http://www.food.com/game-day-grub/home/package?xp=cc_footer\">Game Day Grub</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Buffalo Chicken Dip\" href=\"http://www.food.com/recipe/buffalo-chicken-dip-79116?xp=cc_footer\">Buffalo Chicken Dip</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"10 Champion Chilis\" href=\"http://www.food.com/slideshow/10-winning-chili-recipes-54?xp=cc_footer\">10 Champion Chilis</a></li>\n\
+      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Community Recipe Contest!\" href=\"http://www.food.com/contests/simply-potatoes\">Community Recipe Contest!</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Comfort Food Faves\" href=\"http://www.food.com/comfort-food/home/package?xp=cc_footer\">Comfort Food Faves</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"Entertain on the Fly\" href=\"http://www.food.com/easy-entertaining/home/package?xp=cc_footer\">Entertain on the Fly</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c2-1\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\" title=\"Bizarre Foods America\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2011/12/22/BFA_banner_s92x69.jpg\" class=\"thumb\" alt=\"Bizarre Foods America\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Bizarre Foods America\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\">Bizarre Foods America</a></p>\n\
+      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=cook_footer\">Food Network</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c2-1\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2008/12/23/FNmag_Movie-Theater-Style_s4x3_sm.jpg\" class=\"thumb\" alt=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\">Celebrate Awards Season With Party Ideas</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=food_footer.\">Food Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"Best Game-Day Snacks\" href=\"http://www.foodnetwork.com/big-game-appetizers/package/index.html?xp=biggame\">Best Game-Day Snacks</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Top Chili Recipes\" href=\"http://www.foodnetwork.com/holidays-and-parties/top-chili-recipes/pictures/index.html?xp=cc_footer\">Top Chili Recipes</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"New Show: Fat Chef\" href=\"http://www.foodnetwork.com/fat-chef/index.html?xp=cc_footer\">New Show: Fat Chef</a></li>\n\
+      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"What's Hot in Cruising\" href=\"http://www.travelchannel.com/interests/cruises/photos/new-cruises-and-ports-for-2012?xp=cc_footer\">What's Hot in Cruising</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Get Lost in New York City\" href=\"http://www.travelchannel.com/video/lost-girls-get-lost-in-nyc?xp=cc_footer\">Get Lost in New York City</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"Best Beaches in 2012\" href=\"http://www.travelchannel.com/travelchannel/interests/beaches/photos/2012-best-beach-winners?xp=cc_footer\">Best Beaches in 2012</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p4-t\" target=\"_blank\" title=\"FrontDoor\" href=\"http://www.frontdoor.com/?xp=cook_footer\">FrontDoor</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"Dream Home Second Entry\" href=\"http://www.frontdoor.com/buy/dream-home-2012-sweeps-main/56090?xp=dh_sweeps\">Dream Home Second Entry</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Life in Park City\" href=\"http://www.frontdoor.com/city-guide/park-city-ut-usa/what-its-like-to-live-in-park-city-utah/56304?xp=dh_utah\">Life in Park City</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"Take the Dream Home Tour\" href=\"http://www.frontdoor.com/buy/hgtv-dream-home-2012-videos/56296?xp=cc_footer\">Take the Dream Home Tour</a></li>\n\
+      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"10 Dreamy Bathrooms\" href=\"http://www.frontdoor.com/buy/if-money-were-no-object-10-dream-bathrooms/pictures/pg258\">10 Dreamy Bathrooms</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Celebrity Kitchen Showdown\" href=\"http://www.frontdoor.com/buy/celebrity-room-showdown-kitchens/pictures/pg263\">Celebrity Kitchen Showdown</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"8 Spa-Style Spaces\" href=\"http://www.frontdoor.com/buy/8-soothing-spa-style-bathrooms/pictures/pg259\">8 Spa-Style Spaces</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=food_footer\">HGTV</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" title=\"Enter the HGTV Dream Home Giveaway!\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2011/11/15/09-DH2012_Front-GMC-Driveway2_s4x3_sm.jpg\" class=\"thumb\" alt=\"Enter the HGTV Dream Home Giveaway!\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Enter the HGTV Dream Home Giveaway!\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\">Enter the HGTV Dream Home Giveaway!</a></p>\n\
+      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=cook_footer\">HGTV</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\" title=\"Kitchen Design Themes\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2007/11/19/bethhaley_kitchen1_sm.jpg\" class=\"thumb\" alt=\"Kitchen Design Themes\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Kitchen Design Themes\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\">Kitchen Design Themes</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=food_footer\">DIY Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: Vote Now!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: Vote Now!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"Latest Wall Covering Trends\" href=\"http://www.diynetwork.com/windows-walls-and-doors/the-latest-in-wall-covering-trends/pictures/index.html?xp=cc_footer\">Latest Wall Covering Trends</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Remodel with Salvaged Items\" href=\"http://www.diynetwork.com/kitchen/remodeling-your-kitchen-with-salvaged-items/index.html?xp=cc_footer\">Remodel with Salvaged Items</a></li>\n\
+      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=cook_footer\">DIY Network</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: New Vote!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: New Vote!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"DIY's 10 Best Bath Projects\" href=\"http://www.diynetwork.com/bathroom/the-10-best-diy-bathroom-projects/pictures/index.html?xp=cc_footer\">DIY's 10 Best Bath Projects</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Run My Reno: You Could Win\" href=\"http://www.diynetwork.com/run-my-renovation/show/index.html?xp=cc_footer\">Run My Reno: You Could Win</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p7-t\" target=\"_blank\" title=\"GAC\" href=\"http://www.gactv.com/?xp=cook_footer\">GAC</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Tim &amp; Faith Down Under\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,gac_26058_104607,00.html?xp=cc_footer\">Tim &amp; Faith Down Under</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Vote ACM New Artist\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_84999,0.html?xp=acm\">Vote ACM New Artist</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Watch The Judds\" href=\"http://www.gactv.com/gac/shows_gcown?xp=cc_footer\">Watch The Judds</a></li>\n\
+      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Grammy Photos\" href=\"http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6048903_01,00.html?xp=cc_footer\">Grammy Photos</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Tim McGraw Sweeps\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_96728,00.html?xp=cc_footer\">Tim McGraw Sweeps</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Photos of the Week\" href=\"http://my.gactv.com/photos-of-the-week/multigallery.esi?xp=cc_footer\">Photos of the Week</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cc_footer\">Food2</a></h4><div class=\"related-links\">\n\
+      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cook_footer\">Food2</a></h4><div class=\"related-links\">\n\
       <a rel=\"cpc-c8-1\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\" title=\"Food2 Is Now On Cooking Channel\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2010/02/22/CC_Logo_s92x69.jpg\" class=\"thumb\" alt=\"Food2 Is Now On Cooking Channel\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c8-1\" target=\"_blank\" title=\"Food2 Is Now On Cooking Channel\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\">Food2 Is Now On Cooking Channel</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=food_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"Modern Kitchen Remodel Pics\" href=\"http://my.hgtvremodels.com/rate-my-remodel/Kitchens/Is-this-the-same-kitchen/detail.esi?oid=6735189&amp;xp=cc_footer\">Modern Kitchen Remodel Pics</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"Dream Home's Floor Plans\" href=\"http://www.hgtvremodels.com/dream-home/hgtv-dream-home-2012-floor-plan/pictures/index.html?xp=cc_footer\">Dream Home's Floor Plans</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"How to Choose Kitchen Floors\" href=\"http://www.hgtvremodels.com/kitchen-flooring-buying-guide/package/index.html?xp=cc_footer\">How to Choose Kitchen Floors</a></li>\n\
+      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=cook_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"9 Beautiful Designer Kitchens\" href=\"http://www.hgtvremodels.com/kitchens/kitchen-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Beautiful Designer Kitchens</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"37 Kitchens of All Styles\" href=\"http://www.hgtvremodels.com/pro-galleries/kitchens/spacious-kitchen/4772/index.html\">37 Kitchens of All Styles</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"9 Gorgeous Designer Baths\" href=\"http://www.hgtvremodels.com/bathrooms/bathroom-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Gorgeous Designer Baths</a></li>\n\
       </ul>\n\
       </div></li>\n\
       </ul></div>\n\
@@ -1184,6 +1188,18 @@ http_interactions:
       </script>\r\n\
       <script type=\"text/javascript\">\r\n\
       \tSNI.Nielsen.trackPageView();\r\n\
+      </script>\r\n \r\n\
+      \r\n <!-- Crowd Science Pixel -->\r\n\
+      <script type=\"text/javascript\" charset=\"utf-8\">\r\n\
+      \tvar CS_segments = ''; \t \r\n\
+      \tfunction CS_data_callback(cs_data) {\r\n\
+      \r\n\
+      \t\tif (cs_data) { \t \r\n\
+      \t\t\tCS_segments = cs_data.segments.join('|'); \t \r\n\
+      \t\t\tdocument.cookie = 'cs_segs=' + CS_segments + ';expires=' + new Date(new Date().getTime()+ 2419200000).toGMTString(); \t \r\n\
+      \t\t} \t \r\n\
+      \t}\r\n\
+      \tSNI.CS();\r\n\
       </script>\t\t\n\
       \t\t\t\t<!-- ----------------------END SITE FOOTER REGION ----------------------- -->\n\
       \t\t\t\t</div>\n\n\n\n\n\
@@ -1206,7 +1222,7 @@ http_interactions:
       </body>\n\
       </html>\n "
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:15:25 GMT
+  recorded_at: Mon, 27 Feb 2012 02:23:48 GMT
 - request: 
     method: get
     uri: http://www.cookingchanneltv.com/recipes/debi-mazar-and-gabriele-corcos/limoncello-spritzer-recipe/index.html
@@ -1224,19 +1240,19 @@ http_interactions:
       server: 
       - Apache/2.0.63 (Unix) DAV/2
       content-length: 
-      - "79240"
+      - "75482"
       content-type: 
       - text/html
       set-cookie: 
-      - SMIDENTITY=kZcWzn9e88djNmdUJFJblBuq1JxCb4fqBcRVkkmGFwWrRFMM628pHjCciQ7Hry7t+tzraY08r/QK6vvMihjSyaMiqAgZjx/TnBGJpngdD6jGvN34L8RosthHtPlhNA2sFVEeC7so6m0BZ8RYPAfxntQus5cR//r2XpdFXihu9mAnyZuGXXvA/ev8KMZdzlbdmagF9v8FxcCzlaoH6bpHyirddD/dLZqyrb10r709PDK72+pUaHEtOIcFowaIOiFjHUgm3jVTiX+7DRdipb/oqpvBB2CYcy6z2tnKi8V5TmhmuU2G9Neb9B6EMKU7cBHx29uNzS4R9Qy70OZ4cTLUQqUzIxYK3gtNoZQffTBVY2ChBz5S+qAt1IXSeQUXPnc3IMDUIxtxM3s7LIjvRNiLeL7rvr80moUhULFw6O69TD/p071pmn97mkSA7GPzVkVMinQKgYGbvTvMLXUC7RHH4sQiW+bEIYs/; path=/; domain=.cookingchanneltv.com
+      - SMIDENTITY=qFDB0zZfAfXHG59mo5wHuc0hK/9asJl8hjkCRdSXobGbMMXtwIRr4mk7WaS7eVhnFVS8xT2fBzr8ngwiVte+Mls3CrsHWiRAUGZqkO/Xcn/4/SFHfk+bX39t4ZCt02bXYViTEj0ZqriMfu/qheEe90ZFxA/mE0MJTaqJV+fWtK69eiX2SjvtiNun14f8p9oo7nJeg6N+284GWtKUI81GaKxFZlUplpepA+pmmiNmwlzAWRjaCrNnQC/FQC4sll3g0jWC48rJmrY75b/ZkY/QQB2UVq/CGCGZ2oBzRr33byWl4Tu+x3jeRGVbfurp3YxO2q0TI5PqkAYJ+IoY8D8mPceZGxhmaew52edcy88scAxpDkoSC6pPCSJJTZAA7Axn8mra2Oqhs2S8IEmG/obCSPwQMAvv7W3uX4QjwsfgX50Lpm64wBdeiu9qdgVg5fFFtS+Qxwo4VyYtQvynqSg9KR39VtkSJua2; path=/; domain=.cookingchanneltv.com
       expires: 
-      - Sun, 05 Feb 2012 02:41:17 GMT
+      - Mon, 27 Feb 2012 02:23:50 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Sun, 05 Feb 2012 02:41:17 GMT
+      - Mon, 27 Feb 2012 02:23:50 GMT
       connection: 
       - keep-alive
     body: " \n\
@@ -1368,7 +1384,7 @@ http_interactions:
       </li>\r\n\
       <li><a href=\"http://www.cookingchanneltv.com/unique-eats/index.html\" rel=\"gh-c1-16\">Unique Eats</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">United Sweets</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">Unique Sweets</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -1475,45 +1491,43 @@ http_interactions:
       <h3>MEALS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
       \r\n\
-      <h3>PARTY FOOD RECIPES</h3>\r\n\
-      \r\n\
+      <h3>COMFORT FOODS</h3>\r\n\
       <ul class=\"list\">\r\n\
-      \r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\" rel=\"gh-c3-11\">Recipes for Super Bowl</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cheese-lovers-comfort-foods/pictures/index.html\" rel=\"gh-c4-11\">Cheese-Lover's Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\" rel=\"gh-c3-12\">Appetizers and Snacks</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/our-best-one-pot-meals/pictures/index.html\" rel=\"gh-c4-12\">Best One-Pot Meals</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\" rel=\"gh-c3-13\">Dip Recipes</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/decadent-dessert-recipes/pictures/index.html\" rel=\"gh-c4-13\">Decadent Dessert Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/world-of-wings/pictures/index.html\" rel=\"gh-c3-14\">Hot Wing Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/low-calorie-appetizers-and-party-foods/pictures/index.html\" rel=\"gh-c3-15\">Healthy Party Foods</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-sandwich-recipes/pictures/index.html\" rel=\"gh-c3-16\">Top 10 Sandwiches</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chili-recipes/pictures/index.html\" rel=\"gh-c3-17\">Chili Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\" rel=\"gh-c3-18\">Top Desserts</a>\r\n\
       </ul>\r\n\
-      </div>\r\n\
       \r\n\
-      <div class=\"columns\">\r\n\
       <h3>MORE</h3>\r\n\
       \r\n\
-      <ul class=\"menu\">\r\n <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-21\">Browse All Recipes</a>\r\n\
+      <ul class=\"list\">\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cajun-recipes-for-mardi-gras/pictures/index.html\" rel=\"gh-c3-14\">Cajun Recipes for Mardi Gras</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-breakfast-recipes/pictures/index.html\" rel=\"gh-c3-15\">Healthy Breakfast Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/italian-style-pasta-recipes/pictures/index.html\" rel=\"gh-c3-16\">Pasta Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/spicy-recipes-the-heat-is-on/pictures/index.html\" rel=\"gh-c3-17\">Hot & Spicy Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/amazing-vegetarian-recipes/pictures/index.html\" rel=\"gh-c3-18\">Vegetarian Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-19\">Browse All Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -1530,37 +1544,30 @@ http_interactions:
       <span class=\"button close\">x</span>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
-      <h3>PARTY APPETIZERS</h3>\r\n\
-      \r\n\
-      <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=85083\" rel=\"gh-c4-1\">Beer-Braised Chicken Wings</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60623&video=85087\" rel=\"gh-c4-2\">Shrimp Tacos</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=89223\" rel=\"gh-c4-3\">Chuck's Stuffed Potato Skins</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html\" rel=\"gh-c4-4\">More Appetizer Videos</a>\r\n\
-      </li>\r\n\
-      </ul>\r\n\
-      \r\n\
       <h3>DESSERT RECIPES</h3>\r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54249\" rel=\"gh-c4-5\">Snickers Brownies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/double-ovens-show-page-hub/video/index.html?videoId=85076\" rel=\"gh-c4-1\">Chocolate Bonbons</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54541\" rel=\"gh-c4-6\">White Chocolate Blondies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/shortcake-trifles/video/index.html\" rel=\"gh-c4-2\">Shortcake Trifles</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=63004\" rel=\"gh-c4-7\">Chocolate Stout Cake</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/dark-chocolate-espresso-kissed-brownies-with-chocolate-mascarpone-frosting/video/index.html\" rel=\"gh-c4-3\">Chocolate Espresso Brownies</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/nadias-key-lime-habanero-cheesecake/video/index.html\" rel=\"gh-c4-4\">Key Lime Cheesecake</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-drinks-with-alie-and-georgia/videos/index.html?channel=61742&video=89006\" rel=\"gh-c4-5\">Red Velvet Cupcake Cocktails</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
       <h3>KITCHEN BASICS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-8\">Braising 101</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-6\">Braising 101</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-9\">Easy Chicken Dinners</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-7\">Easy Chicken Dinners</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-10\">Stir Fry Basics</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-8\">Stir Fry Basics</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=70463\" rel=\"gh-c4-9\">How to Bake a Cake</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -1607,13 +1614,13 @@ http_interactions:
       <li id=\"gh-blog\" class=\"nav-item\"><a class=\"nav-item-title\" href=\"http://blog.cookingchanneltv.com\" rel=\"gh-c5\">blog</a></li>\r\n\
       </ul>\r\n\
       <ul class=\"menu sni-sub-nav\" id=\"nav-e\"> \r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\"><em>Game-Day Party:</em></a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/best-international-recipes-global-food-and-cooking/package/index.html\"><em>Skip the Takeout:</em></a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/best-italian-recipes-and-menus/package/index.html\">Italian Recipes</a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\">Chips and Dips</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/best-mexican-recipes-and-menus/package/index.html\">Mexican Recipes </a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\">Dessert Recipes</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/easy-chinese-recipes-and-menus/package/index.html\">Chinese Recipes </a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
@@ -1626,78 +1633,7 @@ http_interactions:
       \t\n\
       \t\t\t\t<!-- /cook/cda/content RECIPE-DETAIL_COOK_41503__581932_RECIPE-DETAIL_no_ -->\n\
       \t\t\t \t\n\
-      \t<!-- BEGIN ENDECA RESULT MODULE- packageSimilarRecipes --><!--Endeca request http://www.cookingchanneltv.com/cook/service/packageSimilarRecipes/PackageSimilarRecipes.xsl/RECIPE-581932-10,0.xml --> <div class=\"banner-large content-reel clrfix default-nav\" id=\"recipe-reel\">\n\
-      <div class=\"promo\">\n\
-      <a href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2012/01/05/CC-packageReel_Game-Day-Recipes_s214x69.jpg\" alt=\"More From\"></a>\n\
-      </div>\n\
-      <div class=\"controls\" style=\"display: none;\"></div>\n\
-      <div class=\"crsl-wrap\">\n\
-      <ul class=\"clrfix\">\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/world-of-wings/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/12/09/CC-kelsey-nixon_buffalo-wings-recipe-02_s4x3_sm.jpg\" alt=\"World of Wings\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/world-of-wings/pictures/index.html\">World of Wings</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/best-chili-recipes/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/11/04/CCPRF105_Beef-Chili_s4x3_sm.jpg\" alt=\"Game-Time Chili Recipes\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/best-chili-recipes/pictures/index.html\">Game-Time Chili Recipes</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/12/09/CC-kelsey-nixon_caramelized-onion-spinach-dip-recipe-02_s4x3_sm.jpg\" alt=\"Best Chips and Dips\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\">Best Chips and Dips</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\"><img src=\"http://img.foodnetwork.com/FOOD/2006/07/11/da0305_cupcakes_sm.jpg\" alt=\"Hand-Held Desserts\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\">Hand-Held Desserts</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/11/04/CCECC108_Sweet-and-Sour-Pork-Sliders-02_s3x4_sm.jpg\" alt=\"Game Day Apps and Snacks\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\">Game Day Apps and Snacks</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/best-sandwich-recipes/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/11/04/CCGDD310_Philly-Cheesesteaks-with-Melted-Fontina-and-Sauteed-Red-Onion_s4x3_sm.jpg\" alt=\"Winning Sandwich Recipes\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/best-sandwich-recipes/pictures/index.html\">Winning Sandwich Recipes</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li>\n\
-      <a class=\"thumb\" href=\"http://www.cookingchanneltv.com/recipes/game-day-main-dish-recipes/pictures/index.html\"><img src=\"http://cooktv.sndimg.com/COOK/2011/11/04/CCUTG103_White-Pizza_s4x3_sm.jpg\" alt=\"More Game Day Main Dishes\"></a>\n\
-      <h4>\n\
-      <a href=\"http://www.cookingchanneltv.com/recipes/game-day-main-dish-recipes/pictures/index.html\">More Game Day Main Dishes</a>\n\
-      </h4>\n\
-      </li>\n\
-      <li class=\"endcap\">\n\
-      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; \t\t<span class=\"reel-end\">&nbsp;</span>\n\
-      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;\t\t\t<span class=\"window\"><a href=\"#\">&nbsp;</a></span>\n\
-      &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; \t\t</li>\n\
-      </ul>\n\
-      <div class=\"post-endcap\">\n\
-      <p>See More</p>\n\
-      <p>\n\
-      <a class=\"target\" href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\">Super Bowl</a>\n\
-      </p>\n\
-      </div>\n\
-      </div>\n\
-      <div class=\"prev-btn\">Previous</div>\n\
-      <div class=\"next-btn\">Next</div>\n\
-      </div><script type=\"text/javascript\">\n\
-      \t\tSNI.Common.Carousel('#recipe-reel',{visible: 2.68, scroll: 1, speed: 250});\n\
-      \t\t$('#recipe-reel .endcap .window').hover(function() {\n\
-      \t\t    $('#recipe-reel .post-endcap').addClass('ui-state-hover');\n\
-      \t\t}, function() {\n\
-      \t\t    $('#recipe-reel .post-endcap').removeClass('ui-state-hover');\n\
-      \t\t});\n\
-      \t\t$('#recipe-reel .endcap .window a').attr('href', $('#recipe-reel .post-endcap a.target').attr('href'));\n\
-      \t    </script>\n\
+      \t<!-- BEGIN ENDECA RESULT MODULE- packageSimilarRecipes --><!--Endeca request http://www.cookingchanneltv.com/cook/service/packageSimilarRecipes/PackageSimilarRecipes.xsl/RECIPE-581932-10,0.xml --> \n\
       <!-- END ENDECA RESULT --><div class=\"breadcrumb clrfix\">\n\
       \t\t\t\t\t\t\t<ul>\n\
       \t\t\t\t\t\t\t\t<li><a href=\"/\">Home</a></li>\n\
@@ -1954,11 +1890,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -1988,8 +1929,7 @@ http_interactions:
       \t<div class=\"instructions\">Add the raspberries to a food processor and puree until smooth. Strain the raspberries through a fine mesh sieve into a pitcher. Stir in the limoncello and prosecco. Garnish with more berries. Serve in ice filled glasses if desired.<BR><BR>Cook's Note: Add the prosecco right before serving.</div>\n\
       </div> <!-- end steps module --><div id=\"recipe-footer\" class=\"rec-footer clrfix\"><a id=\"print-recipe\" class=\"sharing rfooterPrint clrfix\" rel=\"nofollow\" href=\"/cook/cda/recipe_print/0,1946,COOK_41503_581932_RECIPE-PRINT-FULL-PAGE-FORMATTER,00.html\" target=\"_blank\">Print this recipe</a><script type=\"text/javascript\">SNI.CC.Omniture.MultiVar(\"#print-recipe\", \"Recipes: Print This Recipe: Limoncello Spritzer\");</script></div>\n\
       <div class=\"next clrfix\"><!-- BEGIN ENDECA RESULT MODULE- nextRecipe --><!--Endeca request http://www.cookingchanneltv.com/cook/service/similarRecipes/NextRecipe.xsl/RECIPE-581932-1,0.xml --> <h3>NEXT RECIPE</h3><div class=\"rlink\">\n\
-      <a href=\"/recipes/giada-de-laurentiis/mixed-berries-with-limoncello-recipe/index.html\"><img src=\"http://img.foodnetwork.com/FOOD/2007/07/06/E11007_Limoncello_Mixed_Berries_sm.jpg\" alt=\"Mixed Berries with Limoncello image\">Mixed Berries with Limoncello</a>\n\
-      </div><div class=\"byline\">Courtesy of <a href=\"/giada-de-laurentiis/index.html\">Giada De Laurentiis</a>\n\
+      <a href=\"/recipes/david-rocco/torta-di-panettone-christmas-cake-recipe/index.html\"><img src=\"http://img.foodnetwork.com/FOOD/2010/10/05/CCDRD227_torta-di-panettone_s4x3_sm.jpg\" alt=\"Torta di Panettone: Christmas Cake image\">Torta di Panettone: Christmas Cake</a>\n\
       </div>\n\
       <!-- END ENDECA RESULT -->\n\
       </div></div><!-- end sni-ww -->\n\
@@ -1998,19 +1938,19 @@ http_interactions:
       <h3>Similar Recipes</h3>\n\
       <ul class=\"list\">\n\
       <li>\n\
+      <a href=\"/recipes/lace-cookies-with-orange-mascarpone-filling-and-raspberries-recipe/index.html\">Lace Cookies with Orange-Mascarpone Filling and Raspberries</a>\n\
+      </li>\n\
+      <li>\n\
+      <a href=\"/recipes/giada-de-laurentiis/amaretto-and-raspberry-smoothie-recipe/index.html\">Amaretto and Raspberry Smoothie</a>\n\
+      </li>\n\
+      <li>\n\
+      <a href=\"/recipes/giada-de-laurentiis/grapefruit-zabaglione-over-mixed-berries-recipe/index.html\">Grapefruit Zabaglione over Mixed Berries</a>\n\
+      </li>\n\
+      <li>\n\
       <a href=\"/recipes/giada-de-laurentiis/raspberry-pound-cake-with-vin-santo-cream-recipe/index.html\">Raspberry Pound Cake with Vin Santo Cream</a>\n\
       </li>\n\
       <li>\n\
-      <a href=\"/recipes/giada-de-laurentiis/ricotta-with-honey-and-raspberries-recipe/index.html\">Ricotta with Honey and Raspberries</a>\n\
-      </li>\n\
-      <li>\n\
-      <a href=\"/recipes/giada-de-laurentiis/lemon-scented-mascarpone-trifle-recipe/index.html\">Lemon-scented Mascarpone Trifle</a>\n\
-      </li>\n\
-      <li>\n\
-      <a href=\"/recipes/four-seasons-tart-from-lake-como-crostata-di-quattro-stagioni-recipe/index.html\">Four Seasons Tart from Lake Como: Crostata di Quattro Stagioni</a>\n\
-      </li>\n\
-      <li>\n\
-      <a href=\"/recipes/lace-cookies-with-orange-mascarpone-filling-and-raspberries-recipe/index.html\">Lace Cookies with Orange-Mascarpone Filling and Raspberries</a>\n\
+      <a href=\"/recipes/giada-de-laurentiis/breakfast-pizza-recipe/index.html\">Breakfast Pizza</a>\n\
       </li>\n\
       </ul>\n\
       </div>\n\
@@ -2220,11 +2160,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -2252,7 +2197,7 @@ http_interactions:
       <script language=\"javascript\">\n\
       document.getElementById(\"com-signin\").style.display=\"none\";\n\
       </script>\n\n\
-      <div id=\"commentsshell\">\n\
+      <div id=\"commentsshell\" class=\"clrfix\">\n\
       \t<div id=\"rz-w\">\n\
       \t\t\n\n\n\n\n\
       \t\n\n\n\n\n\
@@ -2333,7 +2278,7 @@ http_interactions:
       \t\t\t\t\t\t<span>*ALL TIMES EASTERN</span>\n\
       \t\t\t\t\t\t<ul>\n\
       \t\t\t\t\t\t\t<li>\n\
-      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-04-2012_EST,00.html\">Full Schedule</a>\n\n\
+      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-26-2012_EST,00.html\">Full Schedule</a>\n\n\
       \t\t\t\t\t\t\t</li>\n\
       \t\t\t\t\t\t\t<li class=\"last\">\n\
       \t\t\t\t\t\t\t<a rel=\"otv-2\" href=\"/shows/index.html#tva-z\">Shows A-Z</a>\n\
@@ -2348,10 +2293,10 @@ http_interactions:
       \t\t\t\t</div>\n\
       \t\t\t</div> <!-- end schedule module --><div id=\"most-popular\" class=\"pod popular clrfix\">\n\
       \t\t\t\t\t\t\t<h3>Most Popular Recipes</h3>\n\
-      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"Twice-Fried Chicken with Sriracha Honey\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\">\n\
-      \t\t\t\t\t\t\t\t\t\t<img alt=\"Twice-Fried Chicken with Sriracha Honey\" src=\"http://img.foodnetwork.com/FOOD/2011/12/21/CCCLC105_Twice-Fried-Chicken-with-Sriracha-Honey-Recipe_s4x3_sm.jpg\">\n\
+      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"I Want to Marry You Cookies\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\">\n\
+      \t\t\t\t\t\t\t\t\t\t<img alt=\"I Want to Marry You Cookies\" src=\"http://img.foodnetwork.com/FOOD/2011/06/27/CCPRF110_Chocolate-Chip-Cookies-2_s4x3_sm.jpg\">\n\
       \t\t\t\t\t\t\t\t\t\t</a>\n\
-      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\" title=\"Twice-Fried Chicken with Sriracha Honey\">Twice-Fried Chicken with Sriracha Honey</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/bobby-deen/simply-smashed-potato-cakes-recipe/index.html\" title=\"Simply Smashed Potato Cakes\">Simply Smashed Potato Cakes</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/bobby-deen/game-time-chili-dogs-recipe/index.html\" title=\"Game Time Chili Dogs\">Game Time Chili Dogs</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/turkey-roast-dip-with-melted-gruyere-recipe/index.html\" title=\"Turkey Roast Dip with Melted Gruyere\">Turkey Roast Dip with Melted Gruyere</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/rachael-ray/sloppy-joe-and-macaroni-casserole-recipe/index.html\" title=\"Sloppy Joe and Macaroni Casserole\">Sloppy Joe and Macaroni Casserole</a></li></ol></div>\n\
+      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\" title=\"I Want to Marry You Cookies\">I Want to Marry You Cookies</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/drunken-spaghetti-recipe/index.html\" title=\"Drunken Spaghetti\">Drunken Spaghetti</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/chicken-in-white-wine-recipe/index.html\" title=\"Chicken in White Wine\">Chicken in White Wine</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/chicken-cacciatore-recipe/index.html\" title=\"Chicken Cacciatore\">Chicken Cacciatore</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/michael-symon/broiled-porterhouse-with-roasted-garlic-and-lemon-recipe/index.html\" title=\"Broiled Porterhouse with Roasted Garlic and Lemon\">Broiled Porterhouse with Roasted Garlic and Lemon</a></li></ol></div>\n\
       \t\t\t<script type=\"text/javascript\">\n    \t\tSNI.CC.Omniture.MultiVar(\"#most-popular\", \"Most Popular\");\n\
       \t\t\t</script>\n\
       \t\t\t<!-- end popular module -->\n\
@@ -2376,13 +2321,13 @@ http_interactions:
       \t\t\t\t\n\
       \t\t\t<div class=\"ft-wrap-top\">\r\n    <style type=\"text/css\">#sponsor-links em { font-style: italic; }</style><div id=\"sponsor-links\"><div class=\"wrap\"><div class=\"bd clrfix\">\n\
       <h4>Ideas from CookingChannelTV.com</h4><ul class=\"list\">\n\
-      <li><a rel=\"sl-1\" title=\"Drop 5 Pounds\" href=\"/fresh-start-healthy-eating/package/index.html\">Drop 5 Pounds</a></li><li><a rel=\"sl-2\" title=\"Healthy Breakfast Recipes\" href=\"/recipes/healthy-breakfast-recipes/pictures/index.html\">Healthy Breakfast Recipes</a></li><li><a rel=\"sl-3\" title=\"Lightened-Up Comfort Food\" href=\"/healthy-foods-diet/package/index.html\">Lightened-Up Comfort Food</a></li>\n\
+      <li><a rel=\"sl-1\" title=\"Decadent Chocolate Desserts\" href=\"/recipes/chocolate-desserts/pictures/index.html\">Decadent Chocolate Desserts</a></li><li><a rel=\"sl-2\" title=\"Chinese Cooking Techniques\" href=\"http://www.cookingchanneltv.com/topics/chinese/index.html\">Chinese Cooking Techniques</a></li><li><a rel=\"sl-3\" title=\"Paula's Recipes Lightened Up\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Lightened Up</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-4\" title=\"Paula's Recipes Get Healthy\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Get Healthy</a></li><li><a rel=\"sl-5\" title=\"Healthy Italian Recipes\" href=\"/recipes/healthy-italian-recipes/pictures/index.html\">Healthy Italian Recipes</a></li><li><a rel=\"sl-6\" title=\"Low-Calorie Dessert Recipes\" href=\"/recipes/low-calorie-dessert-recipes/pictures/index.html\">Low-Calorie Dessert Recipes</a></li>\n\
+      <li><a rel=\"sl-4\" title=\"Girls'-Night-In Party\" href=\"/nadia-gs-bitchin-kitchen/girls-night-in/index.html\">Girls&rsquo;-Night-In Party</a></li><li><a rel=\"sl-5\" title=\"Red Velvet Cupcakes\" href=\"/recipes/chuck-hughes/red-velvet-cupcakes-recipe/index.html\">Red Velvet Cupcakes</a></li><li><a rel=\"sl-6\" title=\"More Italian Favorites\" href=\"/best-italian-recipes-and-menus/package/index.html\">More Italian Favorites</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-7\" title=\"Eat More Superfoods\" href=\"/recipes/superfoods-nutrient-rich-foods-to-eat-every-day/pictures/index.html\">Eat More Superfoods</a></li><li><a rel=\"sl-8\" title=\"Recipes for the Super Bowl\" href=\"/game-day-food-ideas/package/index.html\">Recipes for the Super Bowl</a></li><li><a rel=\"sl-9\" title=\"Top 10 Sandwich Recipes\" href=\"/recipes/best-sandwich-recipes/pictures/index.html\">Top 10 Sandwich Recipes</a></li>\n\
+      <li><a rel=\"sl-7\" title=\"Best Breakfast Recipes\" href=\"/recipes/better-breakfasts-sweet-savory-and-scrumptious/pictures/index.html\">Best Breakfast Recipes</a></li><li><a rel=\"sl-8\" title=\"Cheese-Lovers' Favorites\" href=\"/recipes/cheese-lovers-comfort-foods/pictures/index.html\">Cheese-Lovers&rsquo; Favorites</a></li><li><a rel=\"sl-9\" title=\"20 Make-Ahead Meals\" href=\"/recipes/a-month-of-weekday-meals-from-rachael-ray/pictures/index.html\">20 Make-Ahead Meals</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-10\" title=\"Best Chili Recipes\" href=\"/recipes/best-chili-recipes/pictures/index.html\">Best Chili Recipes</a></li><li><a rel=\"sl-11\" title=\"Top Hot Wing Recipes\" href=\"/recipes/world-of-wings/pictures/index.html\">Top Hot Wing Recipes</a></li><li><a rel=\"sl-12\" title=\"Best Appetizers and Snacks\" href=\"/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers and Snacks</a></li>\n\
+      <li><a rel=\"sl-10\" title=\"Comfort Food Recipes\" href=\"/comfort-food-recipes/package/index.html\">Comfort Food Recipes</a></li><li><a rel=\"sl-11\" title=\"One-Pot Meals\" href=\"/recipes/our-best-one-pot-meals/pictures/index.html\">One-Pot Meals</a></li><li><a rel=\"sl-12\" title=\"Mexican Cooking\" href=\"/best-mexican-recipes-and-menus/package/index.html\">Mexican Cooking</a></li>\n\
       </ul>\n\
       </div></div></div><script type=\"text/javascript\">\n\
       \t    SNI.CC.Omniture.MultiVar(\"#sponsor-links\", \"Sponsors Links\");\n          </script>\r\n    <div id=\"sister-site-wrap\" class=\"sis-wrapper clrfix\">\r\n    \t<div id=\"more-from-sni\">\n\
@@ -2394,39 +2339,39 @@ http_interactions:
       <div class=\"hd clrfix\"><h3>COOKING CHANNEL FAMILY</h3></div><div class=\"crsl-wrap\"><ul>\n\
       <li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p1-t\" target=\"_blank\" title=\"Food.com\" href=\"http://www.food.com/?xp=cook_footer\">Food.com</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Game Day Grub\" href=\"http://www.food.com/game-day-grub/home/package?xp=cc_footer\">Game Day Grub</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Buffalo Chicken Dip\" href=\"http://www.food.com/recipe/buffalo-chicken-dip-79116?xp=cc_footer\">Buffalo Chicken Dip</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"10 Champion Chilis\" href=\"http://www.food.com/slideshow/10-winning-chili-recipes-54?xp=cc_footer\">10 Champion Chilis</a></li>\n\
+      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Community Recipe Contest!\" href=\"http://www.food.com/contests/simply-potatoes\">Community Recipe Contest!</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Comfort Food Faves\" href=\"http://www.food.com/comfort-food/home/package?xp=cc_footer\">Comfort Food Faves</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"Entertain on the Fly\" href=\"http://www.food.com/easy-entertaining/home/package?xp=cc_footer\">Entertain on the Fly</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c2-1\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\" title=\"Bizarre Foods America\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2011/12/22/BFA_banner_s92x69.jpg\" class=\"thumb\" alt=\"Bizarre Foods America\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Bizarre Foods America\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\">Bizarre Foods America</a></p>\n\
+      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=cook_footer\">Food Network</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c2-1\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2008/12/23/FNmag_Movie-Theater-Style_s4x3_sm.jpg\" class=\"thumb\" alt=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\">Celebrate Awards Season With Party Ideas</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=food_footer.\">Food Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"Best Game-Day Snacks\" href=\"http://www.foodnetwork.com/big-game-appetizers/package/index.html?xp=biggame\">Best Game-Day Snacks</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Top Chili Recipes\" href=\"http://www.foodnetwork.com/holidays-and-parties/top-chili-recipes/pictures/index.html?xp=cc_footer\">Top Chili Recipes</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"New Show: Fat Chef\" href=\"http://www.foodnetwork.com/fat-chef/index.html?xp=cc_footer\">New Show: Fat Chef</a></li>\n\
+      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"What's Hot in Cruising\" href=\"http://www.travelchannel.com/interests/cruises/photos/new-cruises-and-ports-for-2012?xp=cc_footer\">What's Hot in Cruising</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Get Lost in New York City\" href=\"http://www.travelchannel.com/video/lost-girls-get-lost-in-nyc?xp=cc_footer\">Get Lost in New York City</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"Best Beaches in 2012\" href=\"http://www.travelchannel.com/travelchannel/interests/beaches/photos/2012-best-beach-winners?xp=cc_footer\">Best Beaches in 2012</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p4-t\" target=\"_blank\" title=\"FrontDoor\" href=\"http://www.frontdoor.com/?xp=cook_footer\">FrontDoor</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"Dream Home Second Entry\" href=\"http://www.frontdoor.com/buy/dream-home-2012-sweeps-main/56090?xp=dh_sweeps\">Dream Home Second Entry</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Life in Park City\" href=\"http://www.frontdoor.com/city-guide/park-city-ut-usa/what-its-like-to-live-in-park-city-utah/56304?xp=dh_utah\">Life in Park City</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"Take the Dream Home Tour\" href=\"http://www.frontdoor.com/buy/hgtv-dream-home-2012-videos/56296?xp=cc_footer\">Take the Dream Home Tour</a></li>\n\
+      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"10 Dreamy Bathrooms\" href=\"http://www.frontdoor.com/buy/if-money-were-no-object-10-dream-bathrooms/pictures/pg258\">10 Dreamy Bathrooms</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Celebrity Kitchen Showdown\" href=\"http://www.frontdoor.com/buy/celebrity-room-showdown-kitchens/pictures/pg263\">Celebrity Kitchen Showdown</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"8 Spa-Style Spaces\" href=\"http://www.frontdoor.com/buy/8-soothing-spa-style-bathrooms/pictures/pg259\">8 Spa-Style Spaces</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=food_footer\">HGTV</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" title=\"Enter the HGTV Dream Home Giveaway!\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2011/11/15/09-DH2012_Front-GMC-Driveway2_s4x3_sm.jpg\" class=\"thumb\" alt=\"Enter the HGTV Dream Home Giveaway!\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Enter the HGTV Dream Home Giveaway!\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\">Enter the HGTV Dream Home Giveaway!</a></p>\n\
+      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=cook_footer\">HGTV</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\" title=\"Kitchen Design Themes\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2007/11/19/bethhaley_kitchen1_sm.jpg\" class=\"thumb\" alt=\"Kitchen Design Themes\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Kitchen Design Themes\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\">Kitchen Design Themes</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=food_footer\">DIY Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: Vote Now!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: Vote Now!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"Latest Wall Covering Trends\" href=\"http://www.diynetwork.com/windows-walls-and-doors/the-latest-in-wall-covering-trends/pictures/index.html?xp=cc_footer\">Latest Wall Covering Trends</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Remodel with Salvaged Items\" href=\"http://www.diynetwork.com/kitchen/remodeling-your-kitchen-with-salvaged-items/index.html?xp=cc_footer\">Remodel with Salvaged Items</a></li>\n\
+      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=cook_footer\">DIY Network</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: New Vote!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: New Vote!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"DIY's 10 Best Bath Projects\" href=\"http://www.diynetwork.com/bathroom/the-10-best-diy-bathroom-projects/pictures/index.html?xp=cc_footer\">DIY's 10 Best Bath Projects</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Run My Reno: You Could Win\" href=\"http://www.diynetwork.com/run-my-renovation/show/index.html?xp=cc_footer\">Run My Reno: You Could Win</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p7-t\" target=\"_blank\" title=\"GAC\" href=\"http://www.gactv.com/?xp=cook_footer\">GAC</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Tim &amp; Faith Down Under\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,gac_26058_104607,00.html?xp=cc_footer\">Tim &amp; Faith Down Under</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Vote ACM New Artist\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_84999,0.html?xp=acm\">Vote ACM New Artist</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Watch The Judds\" href=\"http://www.gactv.com/gac/shows_gcown?xp=cc_footer\">Watch The Judds</a></li>\n\
+      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Grammy Photos\" href=\"http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6048903_01,00.html?xp=cc_footer\">Grammy Photos</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Tim McGraw Sweeps\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_96728,00.html?xp=cc_footer\">Tim McGraw Sweeps</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Photos of the Week\" href=\"http://my.gactv.com/photos-of-the-week/multigallery.esi?xp=cc_footer\">Photos of the Week</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cc_footer\">Food2</a></h4><div class=\"related-links\">\n\
+      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cook_footer\">Food2</a></h4><div class=\"related-links\">\n\
       <a rel=\"cpc-c8-1\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\" title=\"Food2 Is Now On Cooking Channel\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2010/02/22/CC_Logo_s92x69.jpg\" class=\"thumb\" alt=\"Food2 Is Now On Cooking Channel\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c8-1\" target=\"_blank\" title=\"Food2 Is Now On Cooking Channel\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\">Food2 Is Now On Cooking Channel</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=food_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"Modern Kitchen Remodel Pics\" href=\"http://my.hgtvremodels.com/rate-my-remodel/Kitchens/Is-this-the-same-kitchen/detail.esi?oid=6735189&amp;xp=cc_footer\">Modern Kitchen Remodel Pics</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"Dream Home's Floor Plans\" href=\"http://www.hgtvremodels.com/dream-home/hgtv-dream-home-2012-floor-plan/pictures/index.html?xp=cc_footer\">Dream Home's Floor Plans</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"How to Choose Kitchen Floors\" href=\"http://www.hgtvremodels.com/kitchen-flooring-buying-guide/package/index.html?xp=cc_footer\">How to Choose Kitchen Floors</a></li>\n\
+      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=cook_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"9 Beautiful Designer Kitchens\" href=\"http://www.hgtvremodels.com/kitchens/kitchen-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Beautiful Designer Kitchens</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"37 Kitchens of All Styles\" href=\"http://www.hgtvremodels.com/pro-galleries/kitchens/spacious-kitchen/4772/index.html\">37 Kitchens of All Styles</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"9 Gorgeous Designer Baths\" href=\"http://www.hgtvremodels.com/bathrooms/bathroom-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Gorgeous Designer Baths</a></li>\n\
       </ul>\n\
       </div></li>\n\
       </ul></div>\n\
@@ -2449,6 +2394,18 @@ http_interactions:
       </script>\r\n\
       <script type=\"text/javascript\">\r\n\
       \tSNI.Nielsen.trackPageView();\r\n\
+      </script>\r\n \r\n\
+      \r\n <!-- Crowd Science Pixel -->\r\n\
+      <script type=\"text/javascript\" charset=\"utf-8\">\r\n\
+      \tvar CS_segments = ''; \t \r\n\
+      \tfunction CS_data_callback(cs_data) {\r\n\
+      \r\n\
+      \t\tif (cs_data) { \t \r\n\
+      \t\t\tCS_segments = cs_data.segments.join('|'); \t \r\n\
+      \t\t\tdocument.cookie = 'cs_segs=' + CS_segments + ';expires=' + new Date(new Date().getTime()+ 2419200000).toGMTString(); \t \r\n\
+      \t\t} \t \r\n\
+      \t}\r\n\
+      \tSNI.CS();\r\n\
       </script>\t\t\n\
       \t\t\t\t<!-- ----------------------END SITE FOOTER REGION ----------------------- -->\n\
       \t\t\t\t</div>\n\n\n\n\n\
@@ -2471,7 +2428,7 @@ http_interactions:
       </body>\n\
       </html>\n "
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:41:17 GMT
+  recorded_at: Mon, 27 Feb 2012 02:23:50 GMT
 - request: 
     method: get
     uri: http://www.cookingchanneltv.com/recipes/healthy-french-toast-recipe/index.html
@@ -2489,20 +2446,19 @@ http_interactions:
       server: 
       - Apache/2.0.63 (Unix) DAV/2
       content-length: 
-      - "79065"
+      - "86199"
       content-type: 
       - text/html
       set-cookie: 
-      - SMIDENTITY=H7FqWVd1LqWWjP7cQkZAnl7Fw3hIX0QVisyYoWjPhsMABIjbaTXgs4TYdFIdMzLCc3tTvzB0mbPjZokzLGi/JMTIUQ+fl59+XUDQboHPuJh+DcqJkfG4AcqMjrTkiZKE9w/0Hp4hoZppaC1DRZjr7oqC3oeWpKKZzGRuz2I9Fjw4hHORUg8+5cW8t8Flz6yH1E3FAiTfo37GD1FGJTgo1h+6Ocm07CMuu68Q+l7bwTJvcAh0bzq1Q+5C7GL1mqwveOlc4zjLndgbOMV6DkPS0LRwPhTNOU6N7C21lKvf8+RfemqjmO49QXrSUjR4npYDnB6DrZJvG+4H3fWUMOMZmWrs85nQH2yOknrsOKvB/D2PblaF3LHJpfVG+QtcrYaw+bUOlChfd8IY5zAwvs0fwLyAC5QFuGxRu9IgDRUBpwAkpXMblNzd9T7ybOMMDLCbugd0dthzb+rjUuV70k8A/Xz0Vf6ZNmh8; path=/; domain=.cookingchanneltv.com
-      - SMIDENTITY=0RhrgFT8CNTBjA5MYPpccCftvwdgzBUXdkWFJtDjS9qRJ3r5NOIyz3jz2hIZeOC1SSYy8zAAlYstMJKOessiE/fANsx95fcLcKM1bp1Qd3Bn3ZOJRr6Thvg0FRujNV27ce5i/uePAXEycx/9gPwQEk+azZPz4sbjll8cbiQt2VkfrhfQuAuAKqOHwJ8rAOihPevjiHnTTEuaYKNoqKR2YjcRBXW7/4EHClrPLKzyorMMiywrDyLPH9W5bem24NcjUOW2dPfRS9O8aXmBSgE0/7TOQ/r1u4lfQqRuzSY9bU2oKV6EhtOqPJPH9KxO0vQqoEZ1bBiFmvoaVjTjQF4U40NXpsdngTZ8xApc0HeAp0nx2oVns48H1qJancz6IlIaHnkYHfVazHOCJgDUGU1EB01+RBdMTnmyQR9/nBquQjBSwXX2gAJCOJJEb3eNUO6QlJVl+vDOhy0O7/5ibFtW8gtMRpaLKyRP; path=/; domain=.cookingchanneltv.com
+      - SMIDENTITY=ViUmxCpVccBeVQ6OgetE6qvutSiq6BA6vHVYma44AMUxBOiiWETkb9IhDkvcuj+cX00KHmO2r9HEzGIzZh9ktMqzn/yRRw+d+zFT+QUrxMsSrR/pMydhCuYAcZgLVvuOuOWF7vOjfKiahiv5xXYbvrQnwhzxmb+YeaCzf4IAgsYyXoUbY2xUb8kBQ0xGbrro0IbvdIOdBnHC33JVBJ8TeUMlhUgupHDM7nRL4V0oeX/MAdRpZPxEan3W6YuyoJSWq8+kBa4wIENNkTr/TcfNoplrX+CH5oNgTXju28L9HggsvGzGATonktrUmIZQNiWS4KpKA9S8B2YnDdLKmTkZk/GZAu3S1VxIwf8nOTXtSyPRim9uYpLFrS/x1SlxheBFr4UX2MGG0JNXSdwxZ2YeQNRkse7NhgV9SN8PLZSNm47ct7jbtt2MZ31Ia7M23d/tsdgj4fr+DDK0qVewi2fPyMdggR6e6zN5; path=/; domain=.cookingchanneltv.com
       expires: 
-      - Sun, 05 Feb 2012 02:47:00 GMT
+      - Mon, 27 Feb 2012 02:23:51 GMT
       cache-control: 
       - max-age=0, no-cache, no-store
       pragma: 
       - no-cache
       date: 
-      - Sun, 05 Feb 2012 02:47:00 GMT
+      - Mon, 27 Feb 2012 02:23:51 GMT
       connection: 
       - keep-alive
     body: " \n\
@@ -2635,7 +2591,7 @@ http_interactions:
       </li>\r\n\
       <li><a href=\"http://www.cookingchanneltv.com/unique-eats/index.html\" rel=\"gh-c1-16\">Unique Eats</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">United Sweets</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/unique-sweets/index.html\" rel=\"gh-c1-17\">Unique Sweets</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -2742,45 +2698,43 @@ http_interactions:
       <h3>MEALS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/breakfast-brunch-recipes-ideas/package/index.html\" rel=\"gh-c3-7\">Breakfast Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/lunch/index.html\" rel=\"gh-c3-8\">Lunch Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dinner/index.html\" rel=\"gh-c3-9\">Dinner Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/topics/dessert/index.html\" rel=\"gh-c3-10\">Dessert Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
       \r\n\
-      <h3>PARTY FOOD RECIPES</h3>\r\n\
-      \r\n\
+      <h3>COMFORT FOODS</h3>\r\n\
       <ul class=\"list\">\r\n\
-      \r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\" rel=\"gh-c3-11\">Recipes for Super Bowl</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cheese-lovers-comfort-foods/pictures/index.html\" rel=\"gh-c4-11\">Cheese-Lover's Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\" rel=\"gh-c3-12\">Appetizers and Snacks</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/our-best-one-pot-meals/pictures/index.html\" rel=\"gh-c4-12\">Best One-Pot Meals</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\" rel=\"gh-c3-13\">Dip Recipes</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/decadent-dessert-recipes/pictures/index.html\" rel=\"gh-c4-13\">Decadent Dessert Recipes</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/world-of-wings/pictures/index.html\" rel=\"gh-c3-14\">Hot Wing Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/low-calorie-appetizers-and-party-foods/pictures/index.html\" rel=\"gh-c3-15\">Healthy Party Foods</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-sandwich-recipes/pictures/index.html\" rel=\"gh-c3-16\">Top 10 Sandwiches</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/best-chili-recipes/pictures/index.html\" rel=\"gh-c3-17\">Chili Recipes</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\" rel=\"gh-c3-18\">Top Desserts</a>\r\n\
       </ul>\r\n\
-      </div>\r\n\
       \r\n\
-      <div class=\"columns\">\r\n\
       <h3>MORE</h3>\r\n\
       \r\n\
-      <ul class=\"menu\">\r\n <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-21\">Browse All Recipes</a>\r\n\
+      <ul class=\"list\">\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/cajun-recipes-for-mardi-gras/pictures/index.html\" rel=\"gh-c3-14\">Cajun Recipes for Mardi Gras</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/healthy-breakfast-recipes/pictures/index.html\" rel=\"gh-c3-15\">Healthy Breakfast Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/italian-style-pasta-recipes/pictures/index.html\" rel=\"gh-c3-16\">Pasta Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/spicy-recipes-the-heat-is-on/pictures/index.html\" rel=\"gh-c3-17\">Hot & Spicy Dishes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/amazing-vegetarian-recipes/pictures/index.html\" rel=\"gh-c3-18\">Vegetarian Recipes</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/recipes/index.html\" rel=\"gh-c3-19\">Browse All Recipes</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -2797,37 +2751,30 @@ http_interactions:
       <span class=\"button close\">x</span>\r\n\
       \r\n\
       <div class=\"columns\">\r\n\
-      <h3>PARTY APPETIZERS</h3>\r\n\
-      \r\n\
-      <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=85083\" rel=\"gh-c4-1\">Beer-Braised Chicken Wings</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60623&video=85087\" rel=\"gh-c4-2\">Shrimp Tacos</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60622&video=89223\" rel=\"gh-c4-3\">Chuck's Stuffed Potato Skins</a>\r\n\
-      </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html\" rel=\"gh-c4-4\">More Appetizer Videos</a>\r\n\
-      </li>\r\n\
-      </ul>\r\n\
-      \r\n\
       <h3>DESSERT RECIPES</h3>\r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54249\" rel=\"gh-c4-5\">Snickers Brownies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/double-ovens-show-page-hub/video/index.html?videoId=85076\" rel=\"gh-c4-1\">Chocolate Bonbons</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=54541\" rel=\"gh-c4-6\">White Chocolate Blondies</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/shortcake-trifles/video/index.html\" rel=\"gh-c4-2\">Shortcake Trifles</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-big-game-bash/videos/index.html?channel=60624&video=63004\" rel=\"gh-c4-7\">Chocolate Stout Cake</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/dark-chocolate-espresso-kissed-brownies-with-chocolate-mascarpone-frosting/video/index.html\" rel=\"gh-c4-3\">Chocolate Espresso Brownies</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/nadias-key-lime-habanero-cheesecake/video/index.html\" rel=\"gh-c4-4\">Key Lime Cheesecake</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-drinks-with-alie-and-georgia/videos/index.html?channel=61742&video=89006\" rel=\"gh-c4-5\">Red Velvet Cupcake Cocktails</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
       <h3>KITCHEN BASICS</h3>\r\n\
       \r\n\
       <ul class=\"list\">\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-8\">Braising 101</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77393\" rel=\"gh-c4-6\">Braising 101</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-9\">Easy Chicken Dinners</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cook/video/player/0,1001203,COOK_42654_7921_41605-54402,00.html?channel=41605\" rel=\"gh-c4-7\">Easy Chicken Dinners</a>\r\n\
       </li>\r\n\
-      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-10\">Stir Fry Basics</a>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=77394\" rel=\"gh-c4-8\">Stir Fry Basics</a>\r\n\
+      </li>\r\n\
+      <li><a href=\"http://www.cookingchanneltv.com/cooking-channel-video-collection/videos/index.html?channel=49221&video=70463\" rel=\"gh-c4-9\">How to Bake a Cake</a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       </div>\r\n\
@@ -2874,13 +2821,13 @@ http_interactions:
       <li id=\"gh-blog\" class=\"nav-item\"><a class=\"nav-item-title\" href=\"http://blog.cookingchanneltv.com\" rel=\"gh-c5\">blog</a></li>\r\n\
       </ul>\r\n\
       <ul class=\"menu sni-sub-nav\" id=\"nav-e\"> \r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/game-day-food-ideas/package/index.html\"><em>Game-Day Party:</em></a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c1\" href=\"http://www.cookingchanneltv.com/best-international-recipes-global-food-and-cooking/package/index.html\"><em>Skip the Takeout:</em></a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c2\" href=\"http://www.cookingchanneltv.com/best-italian-recipes-and-menus/package/index.html\">Italian Recipes</a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/recipes/best-chips-and-dips/pictures/index.html\">Chips and Dips</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c3\" href=\"http://www.cookingchanneltv.com/best-mexican-recipes-and-menus/package/index.html\">Mexican Recipes </a>\r\n\
       </li>\r\n\
-      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/recipes/game-day-desserts/pictures/index.html\">Dessert Recipes</a>\r\n\
+      <li class=\"nav-item\"><a class=\"nav-item-title\" rel=\"gh-c4\" href=\"http://www.cookingchanneltv.com/easy-chinese-recipes-and-menus/package/index.html\">Chinese Recipes </a>\r\n\
       </li>\r\n\
       </ul>\r\n\
       \r\n\
@@ -3230,11 +3177,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -3264,13 +3216,20 @@ http_interactions:
       \t<div class=\"instructions\">Preheat the oven to 200 degrees F.<BR><BR>In a pie plate, beat the egg whites, egg, milk, salt and vanilla with a whisk until blended. In a 12-inch nonstick skillet, melt 1 teaspoon butter or trans-fat-free margarine on medium heat.<BR><BR>Dip the bread slices, one at a time, in the egg mixture, pressing the bread lightly to coat both sides well. Place 3 or 4 slices in the skillet, and cook until lightly browned, 3 to 4 minutes. Flip and cook until lightly browned on the second side, 3 to 4 minutes.<BR><BR>Transfer the French toast to a cookie sheet; keep warm in the oven. Repeat with remaining butter or margarine, bread slices and egg mixture.<BR><BR>Nutritional information for Healthy French Toast per 2-slice serving: About 300 calories, 12 g protein, 46 g carbohydrate, 9 g total fat (2 g saturated), 56 mg cholesterol, 755 mg sodium, 6 g fiber<BR><BR>Nutritional information for Classic French Toast per single serving: 570 calories<BR><BR>You save: 270 calories<BR><BR><b>Make it a Drop 5 Meal by adding:</b><BR>1/2 cup berries and 1 tablespoon maple syrup. 384 complete meal calories.</div>\n\
       </div> <!-- end steps module --><div id=\"recipe-footer\" class=\"rec-footer clrfix\"><a id=\"print-recipe\" class=\"sharing rfooterPrint clrfix\" rel=\"nofollow\" href=\"/cook/cda/recipe_print/0,1946,COOK_41503_600549_RECIPE-PRINT-FULL-PAGE-FORMATTER,00.html\" target=\"_blank\">Print this recipe</a><script type=\"text/javascript\">SNI.CC.Omniture.MultiVar(\"#print-recipe\", \"Recipes: Print This Recipe: Healthy French Toast\");</script></div>\n\
       <div class=\"next clrfix\"><!-- BEGIN ENDECA RESULT MODULE- nextRecipe --><!--Endeca request http://www.cookingchanneltv.com/cook/service/similarRecipes/NextRecipe.xsl/RECIPE-600549-1,0.xml --> <h3>NEXT RECIPE</h3><div class=\"rlink\">\n\
-      <a href=\"/recipes/bobby-flay/white-peach-bourbon-french-toast-with-white-peach-pecan-maple-syrup-recipe/index.html\"><img src=\"http://img.foodnetwork.com/FOOD/2006/08/17/bt0106_white_peach_ft1_sm.jpg\" alt=\"White Peach-Bourbon French Toast with White Peach-Pecan Maple Syrup image\">White Peach-Bourbon French Toast with White Peach-Pecan Maple Syrup</a>\n\
-      </div><div class=\"byline\">Courtesy of <a href=\"/bobby-flay/index.html\">Bobby Flay</a>\n\
+      <a href=\"/recipes/alton-brown/french-toast-recipe/index.html\"><img src=\"http://img.foodnetwork.com/FOOD/2010/04/13/GC_alton-brown-french-toast_s4x3_sm.jpg\" alt=\"French Toast image\">French Toast</a>\n\
+      </div><div class=\"byline\">Courtesy of <a href=\"/alton-brown/index.html\">Alton Brown</a>\n\
       </div>\n\
       <!-- END ENDECA RESULT -->\n\
       </div></div><!-- end sni-ww -->\n\
       <div id=\"sni-we\" class=\"sni-we clrfix\">\n\
-      <!-- BEGIN ENDECA RESULT MODULE- similarRecipes --><!--Endeca request http://www.cookingchanneltv.com/cook/service/similarRecipes/SimilarRecipes.xsl/RECIPE-600549-5,1.xml --> \n\
+      <!-- BEGIN ENDECA RESULT MODULE- similarRecipes --><!--Endeca request http://www.cookingchanneltv.com/cook/service/similarRecipes/SimilarRecipes.xsl/RECIPE-600549-5,1.xml --> <div class=\"pod similar clrfix\">\n\
+      <h3>Similar Recipes</h3>\n\
+      <ul class=\"list\">\n\
+      <li>\n\
+      <a href=\"/recipes/bobby-flay/white-peach-bourbon-french-toast-with-white-peach-pecan-maple-syrup-recipe/index.html\">White Peach-Bourbon French Toast with White Peach-Pecan Maple Syrup</a>\n\
+      </li>\n\
+      </ul>\n\
+      </div>\n\
       <!-- END ENDECA RESULT --><!-- BEGIN ENDECA RESULT MODULE- exploreMoreOn --><!--Endeca request http://www.cookingchanneltv.com/cook/service/exploreMoreOn/ExploreMoreOn.xsl/RECIPE-600549-5,0.xml --> <div id=\"explore-more\" class=\"pod explore clrfix\">\n\
       <h3>Explore More On</h3>\n\
       <ul class=\"list\">\n\
@@ -3483,11 +3442,16 @@ http_interactions:
       \t\t\t\t\t\t\t\t\t<h2 style=\"position: relative;\">Not a member?</h2>\n\
       \t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<p style=\"position: relative;\">Sign up for My Cooking Channel to share photos, show off your style, and connect to an enthusiastic and helpful community.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\n\
       \t\t\t\t\t\t\t\t\t\n\
-      \t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\t<p>It's free and easy.</p>\n\
+      \t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t<div id=\"com-joinin-button-container\">\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"com-signin-button\">\n\
-      \t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<ul id=\"widget-nav\"><li id=\"widget-nav-item-off\" /><a href=\"javascript:registration();\"><em>Register Now</em></a></li></ul>\n\
+      \t\t\t\t\t\t\t\t\t\t\t\n\
       \t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
       \t\t\t\t\t\t\t\t\t\t</div>\n\
       \t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\n\
@@ -3515,7 +3479,7 @@ http_interactions:
       <script language=\"javascript\">\n\
       document.getElementById(\"com-signin\").style.display=\"none\";\n\
       </script>\n\n\
-      <div id=\"commentsshell\">\n\
+      <div id=\"commentsshell\" class=\"clrfix\">\n\
       \t<div id=\"rz-w\">\n\
       \t\t\n\n\n\n\n\
       \t\n\n\n\n\n\
@@ -3572,8 +3536,162 @@ http_interactions:
       \t<div class=\"rz-ft\"></div>\n\n\
       \t \n\
       \t\t\n\
+      \t\t\n\
+      \t<div class=\"reviewlisttitle clrfix\">\n\
+      \t\t<h2>Newest Ratings and Reviews</h2>\n\
+      \t\t<p><a href=\"/recipes/healthy-french-toast-recipe/reviews/index.html\">Read all 0 reviews</a></p>\n\
+      \t</div>\t\n\
+      \t<div class=\"pod ratings-reviews-list\" id=\"ratings-reviews-list\">\n\
+      \t\t<div id=\"ratings-reviews-list-inner\">\n\
+      \t\t\t<!--  JEE REMOVING LINE ITEM CONTENT FROM HERE -->\n\
+      \t\t\t\r\n\
+      \r\n\
+      \r\n\
+      \r\n\
+      \r\n\
+      \r\n\
+      \t\r\n\
+      \r\n\
+      <ul id=\"rating_review_list_ul\">\t\r\n\
+      \t\t\t\r\n\
+      \t\t\t\t<!--  BEGIN INDIVIDUAL COMMENT -->\r\n\
+      \t\t\t\t<li class=\"clrfix rating_review\">\r\n\
+      \t\t\t\t\t<div class=\"rz-w\">\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\t<a href=\"http://my.cookingchanneltv.com/community/LightSalt/style.esi?userid=43356174\" ><img height=\"48\" width=\"48\" alt=\"\" src=\"http://my.cookingchanneltv.com/skins/main/images/profilephotolookup/62_square.gif\"></a>\r\n\
+      \t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\t<div class=\"about-recipe-info\">\r\n\
+      \t\t\t\t\t\t\t<div class=\"user-info clrfix\">\r\n\
+      \t\t\t\t\t\t\t\t \r\n\
+      \t\t\t\t\t\t\t\t\t<p>By <a href=\"http://my.cookingchanneltv.com/community/LightSalt/style.esi?userid=43356174\" >LightSalt</a></p>\r\n\
+      \t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t<div id=\"cl-l-address\" ><p></p></div>\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t</div>\t\r\n\
+      \t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t<p>on February 11, 2012</p>\r\n\
+      \t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t<!--  note...something about this class=\"rz-e\" causes this div not to appear sometimes in IE7 -->\r\n\
+      \t\t\t\t\t<div class=\"rz-e\"  >\r\n\
+      \t\t\t\t\t\t<div class=\"rz-hd\"></div>\r\n\
+      \t\t\t\t\t\t<div class=\"rz-bd\">\t\t\r\n\
+      \t\t\t\t\t\t\t<div class=\"arrow\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t<div class=\"upper-quote clrfix\">\r\n\
+      \t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t<div class=\"upper-quote-hd\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t<div class=\"upper-quote-bd clrfix reviewminilist\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t<p class=\"comment-rating\"><span class=\"rating-sm-5\"></span>\t</p>\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t<p id=\"objCommentFlag0\" class=\"flag\"><a id=\"commens_link_23907385\" href=\"javascript:void(0);\" onclick=\"SNI.Community.Toolbox.doCommentsFlag('23907385',this);\">Flag</a></p>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-01-container\" style=\"z-index: 15000;\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-a\" style=\"z-index: 15001;\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-23907385\" style=\"display: none;\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-d2c-flyout-top\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"ieDiv3-d2c\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-d2c-flyout-middle\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-content\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-t\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-title\"><h3>Flag This Review?</h3></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-close\" onclick=\"SNI.Community.Widgets.displayOff('cgp-flyout-23907385');\" ><a href=\"javascript:SNI.Community.Widgets.displayOff('cgp-flyout-23907385');\"><img src=\"http://my.cookingchanneltv.com/skins/main/images/account/dot.gif\" border=\"0\"></a></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"errorTextAltered_23907385\" style=\"display: none;\">You must provide a reason for flagging this review.</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-list\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<!--  <p>Are you sure you want to flag this comment?</p> -->\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t \t<p>Please provide the reason why you think this review is <b>inappropriate</b>.</p>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<p id=\"comment_flag_reason_error_23907385\" class=\"flp\" style=\"display:none;\"></p>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"emf-textarea-field\" style=\"width: 210px;\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"emf-inner-textarea-field\" style=\"width: 210px;\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<textarea id=\"comment_flag_reason_23907385\" style=\"width: 200px;\"></textarea>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"up-clear\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-flyout-02-button\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-nav\" style=\"float: left;\"><ul id=\"widget-nav\"><li id=\"widget-nav-item\"><a href=\"javascript:void(0);\" onclick=\"SNI.Community.Widgets.flagAsInappropriate('23907385','reviews','commens_link_23907385','comments_text23907385','43356174');\"><em>Flag This Review?</em></a></li></ul></div><div id=\"cgp-flyout-01-button02\"><p>or <a href=\"javascript:SNI.Community.Widgets.displayOff('cgp-flyout-23907385');\">Cancel</a></p></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<div style=\"clear: both;\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t\t<div id=\"cgp-d2c-flyout-bottom\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t</div>\t\r\n\
+      \t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t<div class=\"upper-quote-ft\"></div>\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t</div>\t\r\n\
+      \t\t\t\t\t\t\t\t\t<p id=\"comments_text23907385\" class=\"quote\">I downsized the recipe to 1 egg and used all of these ingredients. Light on the milk. Does not have to be exact measurements came out scruptious! I loaded with toppings of fresh cut strawberries & blueberries & some natural honey, a sprinkle of imperial sugar. DELICIOUS! </p>\t\r\n\
+      \t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t<div class=\"end-quote\"></div>\r\n\
+      \t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t<div class=\"feeback-wrapper clrfix\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t<small class=\"number-helpful\"><label id=\"vote_use_23907385\">1</label> people found this review Helpful.</small>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t<div id=\"comment_23907385\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t<small class=\"helpful-vote\" id=\"was_this_928418\">Was this review helpful to you? \r\n\
+      \t\t\t\t\t\t\t\t\t\t <a href=\"javascript:void(0);\" id=\"yes_23907385\" onclick=\"javascript:SNI.Community.Toolbox.secureReview('add','23907385','-1','26608883');\"><strong>Yes</strong></a> |\r\n\
+      \t\t\t\t\t\t\t\t\t\t <a href=\"javascript:void(0);\" id=\"no_23907385\" onclick=\"javascript:SNI.Community.Toolbox.secureReview('remove','23907385','-1','26608883');\"><strong>No</strong></a></small>\r\n\
+      \t\t\t\t\t\t\t\t\t\t </div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t <script type=\"text/javascript\">\r\n\
+      \t\t\t\t\t\t\t\t\t\t if(SNI.Community.Widgets.isAlreadyReviewed(\"Yes\",'-1','23907385') || SNI.Community.Widgets.isAlreadyReviewed(\"No\",'-1','23907385')){\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t if((document.getElementById(\"comment_\"+23907385) != null))\r\n\
+      \t\t\t\t\t\t\t\t\t\t\t\t\tdocument.getElementById(\"comment_\"+23907385).style.display = \"none\";\r\n\
+      \t\t\t\t\t\t\t\t\t\t }\r\n\
+      \t\t\t\t\t\t\t\t\t\t </script>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t\t\t\t\t\r\n\
+      \t\t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\t<div class=\"rz-ft\"></div>\r\n\
+      \t\t\t\t\t</div>\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t\t\r\n\
+      \t\t\t\t</li>\r\n\
+      \t\t\t\t\r\n\
+      \t\t\t\t<!--  END INDIVIDUAL COMMENT -->\r\n\
+      \t\t\t\t\t\t\r\n\
+      \t\t\r\n\
+      \r\n\
+      \t</ul>\r\n\
+      \t\r\n\
+      \t\t\t\n\
+      \t\t</div><!--end ratings-reviews-list-inner-->\n\
+      \t\t</div>\n\
       \t\t\n  \n\
       \t</div>\t\n\
+      \t\t\n\
+      \t\t<div id=\"no-rev-msg\" class=\"ft-rev\">\n\
+      \t\t\t<div class=\"clrfix\">\n\
+      \t\t\t\t<p><a href=\"/recipes/healthy-french-toast-recipe/reviews/index.html\">Read all 0 reviews</a></p> \n\
+      \t\t\t</div>\n\
+      \t\t</div>\t\t\n\
       \t\t\n\
       \t\t\n\
       \t</div> <!-- #ratings-reviews -->\n\
@@ -3596,7 +3714,7 @@ http_interactions:
       \t\t\t\t\t\t<span>*ALL TIMES EASTERN</span>\n\
       \t\t\t\t\t\t<ul>\n\
       \t\t\t\t\t\t\t<li>\n\
-      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-04-2012_EST,00.html\">Full Schedule</a>\n\n\
+      \t\t\t\t\t\t\t<a rel=\"otv-1\" href=\"/cook/programdaily/0,1001125,COOK_42042_02-26-2012_EST,00.html\">Full Schedule</a>\n\n\
       \t\t\t\t\t\t\t</li>\n\
       \t\t\t\t\t\t\t<li class=\"last\">\n\
       \t\t\t\t\t\t\t<a rel=\"otv-2\" href=\"/shows/index.html#tva-z\">Shows A-Z</a>\n\
@@ -3611,10 +3729,10 @@ http_interactions:
       \t\t\t\t</div>\n\
       \t\t\t</div> <!-- end schedule module --><div id=\"most-popular\" class=\"pod popular clrfix\">\n\
       \t\t\t\t\t\t\t<h3>Most Popular Recipes</h3>\n\
-      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"Twice-Fried Chicken with Sriracha Honey\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\">\n\
-      \t\t\t\t\t\t\t\t\t\t<img alt=\"Twice-Fried Chicken with Sriracha Honey\" src=\"http://img.foodnetwork.com/FOOD/2011/12/21/CCCLC105_Twice-Fried-Chicken-with-Sriracha-Honey-Recipe_s4x3_sm.jpg\">\n\
+      \t\t\t\t\t\t\t<ol><li><span class=\"popularNum\">1</span><a class=\"thumb\" rel=\"mpri-1\" title=\"I Want to Marry You Cookies\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\">\n\
+      \t\t\t\t\t\t\t\t\t\t<img alt=\"I Want to Marry You Cookies\" src=\"http://img.foodnetwork.com/FOOD/2011/06/27/CCPRF110_Chocolate-Chip-Cookies-2_s4x3_sm.jpg\">\n\
       \t\t\t\t\t\t\t\t\t\t</a>\n\
-      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/michael-symon/twice-fried-chicken-with-sriracha-honey-recipe/index.html\" title=\"Twice-Fried Chicken with Sriracha Honey\">Twice-Fried Chicken with Sriracha Honey</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/bobby-deen/simply-smashed-potato-cakes-recipe/index.html\" title=\"Simply Smashed Potato Cakes\">Simply Smashed Potato Cakes</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/bobby-deen/game-time-chili-dogs-recipe/index.html\" title=\"Game Time Chili Dogs\">Game Time Chili Dogs</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/turkey-roast-dip-with-melted-gruyere-recipe/index.html\" title=\"Turkey Roast Dip with Melted Gruyere\">Turkey Roast Dip with Melted Gruyere</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/rachael-ray/sloppy-joe-and-macaroni-casserole-recipe/index.html\" title=\"Sloppy Joe and Macaroni Casserole\">Sloppy Joe and Macaroni Casserole</a></li></ol></div>\n\
+      \t\t\t\t\t\t\t\t\t\t<a class=\"description\" rel=\"mpr-1\" href=\"/recipes/i-want-to-marry-you-cookies-recipe/index.html\" title=\"I Want to Marry You Cookies\">I Want to Marry You Cookies</a></li><li><span class=\"popularNum\">2</span><a class=\"description\" rel=\"mpr-2\" href=\"/recipes/drunken-spaghetti-recipe/index.html\" title=\"Drunken Spaghetti\">Drunken Spaghetti</a></li><li><span class=\"popularNum\">3</span><a class=\"description\" rel=\"mpr-3\" href=\"/recipes/chicken-in-white-wine-recipe/index.html\" title=\"Chicken in White Wine\">Chicken in White Wine</a></li><li><span class=\"popularNum\">4</span><a class=\"description\" rel=\"mpr-4\" href=\"/recipes/kelsey-nixon/chicken-cacciatore-recipe/index.html\" title=\"Chicken Cacciatore\">Chicken Cacciatore</a></li><li><span class=\"popularNum\">5</span><a class=\"description\" rel=\"mpr-5\" href=\"/recipes/michael-symon/broiled-porterhouse-with-roasted-garlic-and-lemon-recipe/index.html\" title=\"Broiled Porterhouse with Roasted Garlic and Lemon\">Broiled Porterhouse with Roasted Garlic and Lemon</a></li></ol></div>\n\
       \t\t\t<script type=\"text/javascript\">\n    \t\tSNI.CC.Omniture.MultiVar(\"#most-popular\", \"Most Popular\");\n\
       \t\t\t</script>\n\
       \t\t\t<!-- end popular module -->\n\
@@ -3639,13 +3757,13 @@ http_interactions:
       \t\t\t\t\n\
       \t\t\t<div class=\"ft-wrap-top\">\r\n    <style type=\"text/css\">#sponsor-links em { font-style: italic; }</style><div id=\"sponsor-links\"><div class=\"wrap\"><div class=\"bd clrfix\">\n\
       <h4>Ideas from CookingChannelTV.com</h4><ul class=\"list\">\n\
-      <li><a rel=\"sl-1\" title=\"Drop 5 Pounds\" href=\"/fresh-start-healthy-eating/package/index.html\">Drop 5 Pounds</a></li><li><a rel=\"sl-2\" title=\"Healthy Breakfast Recipes\" href=\"/recipes/healthy-breakfast-recipes/pictures/index.html\">Healthy Breakfast Recipes</a></li><li><a rel=\"sl-3\" title=\"Lightened-Up Comfort Food\" href=\"/healthy-foods-diet/package/index.html\">Lightened-Up Comfort Food</a></li>\n\
+      <li><a rel=\"sl-1\" title=\"Decadent Chocolate Desserts\" href=\"/recipes/chocolate-desserts/pictures/index.html\">Decadent Chocolate Desserts</a></li><li><a rel=\"sl-2\" title=\"Chinese Cooking Techniques\" href=\"http://www.cookingchanneltv.com/topics/chinese/index.html\">Chinese Cooking Techniques</a></li><li><a rel=\"sl-3\" title=\"Paula's Recipes Lightened Up\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Lightened Up</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-4\" title=\"Paula's Recipes Get Healthy\" href=\"/not-my-mamas-meals/index.html\">Paula&rsquo;s Recipes Get Healthy</a></li><li><a rel=\"sl-5\" title=\"Healthy Italian Recipes\" href=\"/recipes/healthy-italian-recipes/pictures/index.html\">Healthy Italian Recipes</a></li><li><a rel=\"sl-6\" title=\"Low-Calorie Dessert Recipes\" href=\"/recipes/low-calorie-dessert-recipes/pictures/index.html\">Low-Calorie Dessert Recipes</a></li>\n\
+      <li><a rel=\"sl-4\" title=\"Girls'-Night-In Party\" href=\"/nadia-gs-bitchin-kitchen/girls-night-in/index.html\">Girls&rsquo;-Night-In Party</a></li><li><a rel=\"sl-5\" title=\"Red Velvet Cupcakes\" href=\"/recipes/chuck-hughes/red-velvet-cupcakes-recipe/index.html\">Red Velvet Cupcakes</a></li><li><a rel=\"sl-6\" title=\"More Italian Favorites\" href=\"/best-italian-recipes-and-menus/package/index.html\">More Italian Favorites</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-7\" title=\"Eat More Superfoods\" href=\"/recipes/superfoods-nutrient-rich-foods-to-eat-every-day/pictures/index.html\">Eat More Superfoods</a></li><li><a rel=\"sl-8\" title=\"Recipes for the Super Bowl\" href=\"/game-day-food-ideas/package/index.html\">Recipes for the Super Bowl</a></li><li><a rel=\"sl-9\" title=\"Top 10 Sandwich Recipes\" href=\"/recipes/best-sandwich-recipes/pictures/index.html\">Top 10 Sandwich Recipes</a></li>\n\
+      <li><a rel=\"sl-7\" title=\"Best Breakfast Recipes\" href=\"/recipes/better-breakfasts-sweet-savory-and-scrumptious/pictures/index.html\">Best Breakfast Recipes</a></li><li><a rel=\"sl-8\" title=\"Cheese-Lovers' Favorites\" href=\"/recipes/cheese-lovers-comfort-foods/pictures/index.html\">Cheese-Lovers&rsquo; Favorites</a></li><li><a rel=\"sl-9\" title=\"20 Make-Ahead Meals\" href=\"/recipes/a-month-of-weekday-meals-from-rachael-ray/pictures/index.html\">20 Make-Ahead Meals</a></li>\n\
       </ul><ul class=\"list\">\n\
-      <li><a rel=\"sl-10\" title=\"Best Chili Recipes\" href=\"/recipes/best-chili-recipes/pictures/index.html\">Best Chili Recipes</a></li><li><a rel=\"sl-11\" title=\"Top Hot Wing Recipes\" href=\"/recipes/world-of-wings/pictures/index.html\">Top Hot Wing Recipes</a></li><li><a rel=\"sl-12\" title=\"Best Appetizers and Snacks\" href=\"/recipes/game-day-apps-and-snacks/pictures/index.html\">Best Appetizers and Snacks</a></li>\n\
+      <li><a rel=\"sl-10\" title=\"Comfort Food Recipes\" href=\"/comfort-food-recipes/package/index.html\">Comfort Food Recipes</a></li><li><a rel=\"sl-11\" title=\"One-Pot Meals\" href=\"/recipes/our-best-one-pot-meals/pictures/index.html\">One-Pot Meals</a></li><li><a rel=\"sl-12\" title=\"Mexican Cooking\" href=\"/best-mexican-recipes-and-menus/package/index.html\">Mexican Cooking</a></li>\n\
       </ul>\n\
       </div></div></div><script type=\"text/javascript\">\n\
       \t    SNI.CC.Omniture.MultiVar(\"#sponsor-links\", \"Sponsors Links\");\n          </script>\r\n    <div id=\"sister-site-wrap\" class=\"sis-wrapper clrfix\">\r\n    \t<div id=\"more-from-sni\">\n\
@@ -3657,39 +3775,39 @@ http_interactions:
       <div class=\"hd clrfix\"><h3>COOKING CHANNEL FAMILY</h3></div><div class=\"crsl-wrap\"><ul>\n\
       <li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p1-t\" target=\"_blank\" title=\"Food.com\" href=\"http://www.food.com/?xp=cook_footer\">Food.com</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Game Day Grub\" href=\"http://www.food.com/game-day-grub/home/package?xp=cc_footer\">Game Day Grub</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Buffalo Chicken Dip\" href=\"http://www.food.com/recipe/buffalo-chicken-dip-79116?xp=cc_footer\">Buffalo Chicken Dip</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"10 Champion Chilis\" href=\"http://www.food.com/slideshow/10-winning-chili-recipes-54?xp=cc_footer\">10 Champion Chilis</a></li>\n\
+      <li><a rel=\"cpc-c1-1\" target=\"_blank\" title=\"Community Recipe Contest!\" href=\"http://www.food.com/contests/simply-potatoes\">Community Recipe Contest!</a></li><li><a rel=\"cpc-c1-2\" target=\"_blank\" title=\"Comfort Food Faves\" href=\"http://www.food.com/comfort-food/home/package?xp=cc_footer\">Comfort Food Faves</a></li><li><a rel=\"cpc-c1-3\" target=\"_blank\" title=\"Entertain on the Fly\" href=\"http://www.food.com/easy-entertaining/home/package?xp=cc_footer\">Entertain on the Fly</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c2-1\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\" title=\"Bizarre Foods America\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2011/12/22/BFA_banner_s92x69.jpg\" class=\"thumb\" alt=\"Bizarre Foods America\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Bizarre Foods America\" href=\"http://www.travelchannel.com/tv-shows/bizarre-foods?xp=bizfoods\">Bizarre Foods America</a></p>\n\
+      <h4><a rel=\"cpc-c2-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=cook_footer\">Food Network</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c2-1\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2008/12/23/FNmag_Movie-Theater-Style_s4x3_sm.jpg\" class=\"thumb\" alt=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c2-1\" target=\"_blank\" title=\"Celebrate Awards Season With All-Star Snacks, Oscar Party Ideas and More\" href=\"http://www.foodnetwork.com/dinner-and-a-movie/package/index.html?xp=cc_footer\">Celebrate Awards Season With Party Ideas</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Food Network\" href=\"http://www.foodnetwork.com/?xp=food_footer.\">Food Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"Best Game-Day Snacks\" href=\"http://www.foodnetwork.com/big-game-appetizers/package/index.html?xp=biggame\">Best Game-Day Snacks</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Top Chili Recipes\" href=\"http://www.foodnetwork.com/holidays-and-parties/top-chili-recipes/pictures/index.html?xp=cc_footer\">Top Chili Recipes</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"New Show: Fat Chef\" href=\"http://www.foodnetwork.com/fat-chef/index.html?xp=cc_footer\">New Show: Fat Chef</a></li>\n\
+      <h4><a rel=\"ss-p3-t\" target=\"_blank\" title=\"Travel Channel\" href=\"http://www.travelchannel.com/?xp=cook_footer\">Travel Channel</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c3-1\" target=\"_blank\" title=\"What's Hot in Cruising\" href=\"http://www.travelchannel.com/interests/cruises/photos/new-cruises-and-ports-for-2012?xp=cc_footer\">What's Hot in Cruising</a></li><li><a rel=\"cpc-c3-2\" target=\"_blank\" title=\"Get Lost in New York City\" href=\"http://www.travelchannel.com/video/lost-girls-get-lost-in-nyc?xp=cc_footer\">Get Lost in New York City</a></li><li><a rel=\"cpc-c3-3\" target=\"_blank\" title=\"Best Beaches in 2012\" href=\"http://www.travelchannel.com/travelchannel/interests/beaches/photos/2012-best-beach-winners?xp=cc_footer\">Best Beaches in 2012</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p4-t\" target=\"_blank\" title=\"FrontDoor\" href=\"http://www.frontdoor.com/?xp=cook_footer\">FrontDoor</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"Dream Home Second Entry\" href=\"http://www.frontdoor.com/buy/dream-home-2012-sweeps-main/56090?xp=dh_sweeps\">Dream Home Second Entry</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Life in Park City\" href=\"http://www.frontdoor.com/city-guide/park-city-ut-usa/what-its-like-to-live-in-park-city-utah/56304?xp=dh_utah\">Life in Park City</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"Take the Dream Home Tour\" href=\"http://www.frontdoor.com/buy/hgtv-dream-home-2012-videos/56296?xp=cc_footer\">Take the Dream Home Tour</a></li>\n\
+      <li><a rel=\"cpc-c4-1\" target=\"_blank\" title=\"10 Dreamy Bathrooms\" href=\"http://www.frontdoor.com/buy/if-money-were-no-object-10-dream-bathrooms/pictures/pg258\">10 Dreamy Bathrooms</a></li><li><a rel=\"cpc-c4-2\" target=\"_blank\" title=\"Celebrity Kitchen Showdown\" href=\"http://www.frontdoor.com/buy/celebrity-room-showdown-kitchens/pictures/pg263\">Celebrity Kitchen Showdown</a></li><li><a rel=\"cpc-c4-3\" target=\"_blank\" title=\"8 Spa-Style Spaces\" href=\"http://www.frontdoor.com/buy/8-soothing-spa-style-bathrooms/pictures/pg259\">8 Spa-Style Spaces</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=food_footer\">HGTV</a></h4><div class=\"related-links\">\n\
-      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\" title=\"Enter the HGTV Dream Home Giveaway!\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2011/11/15/09-DH2012_Front-GMC-Driveway2_s4x3_sm.jpg\" class=\"thumb\" alt=\"Enter the HGTV Dream Home Giveaway!\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Enter the HGTV Dream Home Giveaway!\" href=\"http://www.hgtv.com/hgtv-dream-home-2012-giveaway/package/index.html?xp=dh_sweeps\">Enter the HGTV Dream Home Giveaway!</a></p>\n\
+      <h4><a rel=\"cpc-c5-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.hgtv.com/?xp=cook_footer\">HGTV</a></h4><div class=\"related-links\">\n\
+      <a rel=\"cpc-c5-1\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\" title=\"Kitchen Design Themes\" target=\"_blank\"><img src=\"http://hgtv.sndimg.com/HGTV/2007/11/19/bethhaley_kitchen1_sm.jpg\" class=\"thumb\" alt=\"Kitchen Design Themes\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c5-1\" target=\"_blank\" title=\"Kitchen Design Themes\" href=\"http://www.hgtv.com/before-and-after-kitchens-kitchen-makeovers/package/index.html?xp=cc_footer\">Kitchen Design Themes</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=food_footer\">DIY Network</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: Vote Now!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: Vote Now!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"Latest Wall Covering Trends\" href=\"http://www.diynetwork.com/windows-walls-and-doors/the-latest-in-wall-covering-trends/pictures/index.html?xp=cc_footer\">Latest Wall Covering Trends</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Remodel with Salvaged Items\" href=\"http://www.diynetwork.com/kitchen/remodeling-your-kitchen-with-salvaged-items/index.html?xp=cc_footer\">Remodel with Salvaged Items</a></li>\n\
+      <h4><a rel=\"ss-p6-t\" target=\"_blank\" title=\"DIY Network\" href=\"http://www.diynetwork.com/?xp=cook_footer\">DIY Network</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c6-1\" target=\"_blank\" title=\"Blog Cabin 2012: New Vote!\" href=\"http://www.diynetwork.com/blog-cabin/index.html?xp=blog\">Blog Cabin 2012: New Vote!</a></li><li><a rel=\"cpc-c6-2\" target=\"_blank\" title=\"DIY's 10 Best Bath Projects\" href=\"http://www.diynetwork.com/bathroom/the-10-best-diy-bathroom-projects/pictures/index.html?xp=cc_footer\">DIY's 10 Best Bath Projects</a></li><li><a rel=\"cpc-c6-3\" target=\"_blank\" title=\"Run My Reno: You Could Win\" href=\"http://www.diynetwork.com/run-my-renovation/show/index.html?xp=cc_footer\">Run My Reno: You Could Win</a></li>\n\
       </ul>\n\
       </div></li><li><div class=\"item-wrap\">\n\
       <h4><a rel=\"ss-p7-t\" target=\"_blank\" title=\"GAC\" href=\"http://www.gactv.com/?xp=cook_footer\">GAC</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Tim &amp; Faith Down Under\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,gac_26058_104607,00.html?xp=cc_footer\">Tim &amp; Faith Down Under</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Vote ACM New Artist\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_84999,0.html?xp=acm\">Vote ACM New Artist</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Watch The Judds\" href=\"http://www.gactv.com/gac/shows_gcown?xp=cc_footer\">Watch The Judds</a></li>\n\
+      <li><a rel=\"cpc-c7-1\" target=\"_blank\" title=\"Grammy Photos\" href=\"http://www.gactv.com/gac/ar_artists_a-z/article/0,3028,GAC_26071_6048903_01,00.html?xp=cc_footer\">Grammy Photos</a></li><li><a rel=\"cpc-c7-2\" target=\"_blank\" title=\"Tim McGraw Sweeps\" href=\"http://www.gactv.com/gac/pac_ctnt/text/0,,GAC_26058_96728,00.html?xp=cc_footer\">Tim McGraw Sweeps</a></li><li><a rel=\"cpc-c7-3\" target=\"_blank\" title=\"Photos of the Week\" href=\"http://my.gactv.com/photos-of-the-week/multigallery.esi?xp=cc_footer\">Photos of the Week</a></li>\n\
       </ul>\n\
       </div></li><li class=\"mid\"><div class=\"item-wrap\">\n\
-      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cc_footer\">Food2</a></h4><div class=\"related-links\">\n\
+      <h4><a rel=\"cpc-c8-t\" target=\"_blank\" title=\"Food2\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=cook_footer\">Food2</a></h4><div class=\"related-links\">\n\
       <a rel=\"cpc-c8-1\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\" title=\"Food2 Is Now On Cooking Channel\" target=\"_blank\"><img src=\"http://img.foodnetwork.com/FOOD/2010/02/22/CC_Logo_s92x69.jpg\" class=\"thumb\" alt=\"Food2 Is Now On Cooking Channel\" height=\"69\" width=\"92\"></a><p style=\"margin-right: 10px;\"><a rel=\"cpc-c8-1\" target=\"_blank\" title=\"Food2 Is Now On Cooking Channel\" href=\"http://www.cookingchanneltv.com/home/welcome-to-cooking-channel-food2-fans/index.html?xp=diy_footer\">Food2 Is Now On Cooking Channel</a></p>\n\
       </div>\n\
       </div></li><li><div class=\"item-wrap last\">\n\
-      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=food_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
-      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"Modern Kitchen Remodel Pics\" href=\"http://my.hgtvremodels.com/rate-my-remodel/Kitchens/Is-this-the-same-kitchen/detail.esi?oid=6735189&amp;xp=cc_footer\">Modern Kitchen Remodel Pics</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"Dream Home's Floor Plans\" href=\"http://www.hgtvremodels.com/dream-home/hgtv-dream-home-2012-floor-plan/pictures/index.html?xp=cc_footer\">Dream Home's Floor Plans</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"How to Choose Kitchen Floors\" href=\"http://www.hgtvremodels.com/kitchen-flooring-buying-guide/package/index.html?xp=cc_footer\">How to Choose Kitchen Floors</a></li>\n\
+      <h4><a rel=\"ss-p9-t\" target=\"_blank\" title=\"HGTVRemodels\" href=\"http://www.hgtvremodels.com/?xp=cook_footer\">HGTVRemodels</a></h4><ul class=\"list\">\n\
+      <li><a rel=\"cpc-c9-1\" target=\"_blank\" title=\"9 Beautiful Designer Kitchens\" href=\"http://www.hgtvremodels.com/kitchens/kitchen-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Beautiful Designer Kitchens</a></li><li><a rel=\"cpc-c9-2\" target=\"_blank\" title=\"37 Kitchens of All Styles\" href=\"http://www.hgtvremodels.com/pro-galleries/kitchens/spacious-kitchen/4772/index.html\">37 Kitchens of All Styles</a></li><li><a rel=\"cpc-c9-3\" target=\"_blank\" title=\"9 Gorgeous Designer Baths\" href=\"http://www.hgtvremodels.com/bathrooms/bathroom-designs-from-nkba-2012-finalists/pictures/index.html?xp=hgrm_footer\">9 Gorgeous Designer Baths</a></li>\n\
       </ul>\n\
       </div></li>\n\
       </ul></div>\n\
@@ -3712,6 +3830,18 @@ http_interactions:
       </script>\r\n\
       <script type=\"text/javascript\">\r\n\
       \tSNI.Nielsen.trackPageView();\r\n\
+      </script>\r\n \r\n\
+      \r\n <!-- Crowd Science Pixel -->\r\n\
+      <script type=\"text/javascript\" charset=\"utf-8\">\r\n\
+      \tvar CS_segments = ''; \t \r\n\
+      \tfunction CS_data_callback(cs_data) {\r\n\
+      \r\n\
+      \t\tif (cs_data) { \t \r\n\
+      \t\t\tCS_segments = cs_data.segments.join('|'); \t \r\n\
+      \t\t\tdocument.cookie = 'cs_segs=' + CS_segments + ';expires=' + new Date(new Date().getTime()+ 2419200000).toGMTString(); \t \r\n\
+      \t\t} \t \r\n\
+      \t}\r\n\
+      \tSNI.CS();\r\n\
       </script>\t\t\n\
       \t\t\t\t<!-- ----------------------END SITE FOOTER REGION ----------------------- -->\n\
       \t\t\t\t</div>\n\n\n\n\n\
@@ -3734,5 +3864,5 @@ http_interactions:
       </body>\n\
       </html>\n "
     http_version: "1.1"
-  recorded_at: Sun, 05 Feb 2012 02:47:00 GMT
+  recorded_at: Mon, 27 Feb 2012 02:23:51 GMT
 recorded_with: VCR 2.0.0.rc1
